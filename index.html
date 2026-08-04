@@ -1,0 +1,439 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Website Belajar Interaktif</title>
+    <style>
+        /* Reset dasar */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+
+        .container {
+            background: white;
+            border-radius: 20px;
+            padding: 40px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.15);
+            max-width: 700px;
+            width: 100%;
+            transition: transform 0.3s ease;
+        }
+
+        .container:hover {
+            transform: translateY(-5px);
+        }
+
+        h1 {
+            color: #2c3e50;
+            font-size: 2.2em;
+            margin-bottom: 5px;
+            font-weight: 700;
+            letter-spacing: -0.5px;
+        }
+
+        .subtitle {
+            color: #7f8c8d;
+            font-size: 1.1em;
+            margin-bottom: 30px;
+            font-weight: 300;
+            border-bottom: 2px solid #ecf0f1;
+            padding-bottom: 15px;
+        }
+
+        /* Container Carousel */
+        #carousel-container {
+            background: linear-gradient(145deg, #ffffff, #f8f9fa);
+            border-radius: 16px;
+            padding: 30px 20px 25px;
+            position: relative;
+            min-height: 300px;
+            box-shadow: inset 0 2px 10px rgba(0, 0, 0, 0.05), 0 8px 25px rgba(0, 0, 0, 0.08);
+            border: none;
+            width: 100%;
+            margin: 0;
+        }
+
+        /* Slide */
+        .slide {
+            text-align: center;
+            padding: 15px 10px;
+            animation: fadeIn 0.5s ease;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: scale(0.95);
+            }
+            to {
+                opacity: 1;
+                transform: scale(1);
+            }
+        }
+
+        .slide-image {
+            font-size: 80px;
+            margin-bottom: 10px;
+            display: block;
+            line-height: 1.2;
+        }
+
+        .slide-title {
+            font-size: 1.8em;
+            font-weight: 600;
+            color: #2c3e50;
+            margin: 10px 0 5px;
+        }
+
+        .slide-desc {
+            font-size: 1.1em;
+            color: #7f8c8d;
+            margin-bottom: 15px;
+        }
+
+        .slide-link {
+            display: inline-block;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 12px 35px;
+            border-radius: 50px;
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 1em;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);
+        }
+
+        .slide-link:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 6px 25px rgba(102, 126, 234, 0.6);
+        }
+
+        /* Tombol Navigasi */
+        .nav-btn {
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            background: rgba(44, 62, 80, 0.85);
+            color: white;
+            border: none;
+            width: 45px;
+            height: 45px;
+            border-radius: 50%;
+            font-size: 20px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            backdrop-filter: blur(5px);
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+        }
+
+        .nav-btn:hover {
+            background: #2c3e50;
+            transform: translateY(-50%) scale(1.1);
+            box-shadow: 0 6px 25px rgba(0, 0, 0, 0.3);
+        }
+
+        .nav-btn:active {
+            transform: translateY(-50%) scale(0.95);
+        }
+
+        .nav-btn-left {
+            left: 10px;
+        }
+
+        .nav-btn-right {
+            right: 10px;
+        }
+
+        /* Indikator */
+        .indicators {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            margin-top: 20px;
+        }
+
+        .indicator {
+            width: 14px;
+            height: 14px;
+            border-radius: 50%;
+            background: #d5dbe3;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            border: 2px solid transparent;
+        }
+
+        .indicator:hover {
+            transform: scale(1.2);
+        }
+
+        .indicator.active {
+            background: #667eea;
+            border-color: #764ba2;
+            transform: scale(1.1);
+            box-shadow: 0 0 15px rgba(102, 126, 234, 0.4);
+        }
+
+        /* Slide counter */
+        .slide-counter {
+            text-align: center;
+            margin-top: 12px;
+            font-size: 0.9em;
+            color: #95a5a6;
+            font-weight: 500;
+            letter-spacing: 0.5px;
+        }
+
+        .slide-counter span {
+            font-weight: 700;
+            color: #2c3e50;
+        }
+
+        /* Responsif */
+        @media (max-width: 600px) {
+            .container {
+                padding: 20px;
+            }
+
+            h1 {
+                font-size: 1.6em;
+            }
+
+            #carousel-container {
+                padding: 20px 12px 18px;
+                min-height: 260px;
+            }
+
+            .slide-image {
+                font-size: 60px;
+            }
+
+            .slide-title {
+                font-size: 1.4em;
+            }
+
+            .slide-desc {
+                font-size: 0.95em;
+            }
+
+            .slide-link {
+                padding: 10px 25px;
+                font-size: 0.9em;
+            }
+
+            .nav-btn {
+                width: 38px;
+                height: 38px;
+                font-size: 16px;
+            }
+
+            .nav-btn-left {
+                left: 5px;
+            }
+
+            .nav-btn-right {
+                right: 5px;
+            }
+        }
+
+        @media (max-width: 400px) {
+            #carousel-container {
+                min-height: 230px;
+                padding: 15px 8px 15px;
+            }
+
+            .slide-image {
+                font-size: 45px;
+            }
+
+            .slide-title {
+                font-size: 1.2em;
+            }
+
+            .slide-desc {
+                font-size: 0.85em;
+            }
+
+            .slide-link {
+                padding: 8px 20px;
+                font-size: 0.8em;
+            }
+
+            .nav-btn {
+                width: 32px;
+                height: 32px;
+                font-size: 13px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>📚 Selamat Datang</h1>
+        <p class="subtitle">Mau belajar apa hari ini? 🚀</p>
+
+        <!-- Container Carousel -->
+        <div id="carousel-container">
+
+            <!-- Slide 1: Medis -->
+            <div class="slide">
+                <span class="slide-image">🏥</span>
+                <div class="slide-title">Medis</div>
+                <div class="slide-desc">Pelajari dunia kesehatan & kedokteran</div>
+                <a href="medis.html" class="slide-link">Mulai Belajar →</a>
+            </div>
+
+            <!-- Slide 2: Bahasa -->
+            <div class="slide" style="display:none;">
+                <span class="slide-image">🗣️</span>
+                <div class="slide-title">Bahasa Asing</div>
+                <div class="slide-desc">Kuasaikan bahasa baru dengan mudah</div>
+                <a href="bahasa.html" class="slide-link">Mulai Belajar →</a>
+            </div>
+
+            <!-- Slide 3: Koding -->
+            <div class="slide" style="display:none;">
+                <span class="slide-image">💻</span>
+                <div class="slide-title">Pemrograman</div>
+                <div class="slide-desc">Jadi developer handal dari nol</div>
+                <a href="koding.html" class="slide-link">Mulai Belajar →</a>
+            </div>
+
+            <!-- Slide 4: Bermain Game -->
+            <div class="slide" style="display:none;">
+                <span class="slide-image">🎮</span>
+                <div class="slide-title">Bermain Game</div>
+                <div class="slide-desc">Seru-seruan sambil belajar strategi</div>
+                <a href="game.html" class="slide-link">Mulai Bermain →</a>
+            </div>
+
+            <!-- Tombol Panah Kiri -->
+            <button class="nav-btn nav-btn-left" onclick="prevSlide()" aria-label="Slide sebelumnya">◀</button>
+
+            <!-- Tombol Panah Kanan -->
+            <button class="nav-btn nav-btn-right" onclick="nextSlide()" aria-label="Slide berikutnya">▶</button>
+
+            <!-- Indikator Slide -->
+            <div class="indicators">
+                <span class="indicator active" id="indicator1" onclick="goToSlide(0)"></span>
+                <span class="indicator" id="indicator2" onclick="goToSlide(1)"></span>
+                <span class="indicator" id="indicator3" onclick="goToSlide(2)"></span>
+                <span class="indicator" id="indicator4" onclick="goToSlide(3)"></span>
+            </div>
+
+            
+        </div>
+    </div>
+
+    <script>
+        // Variabel untuk mengontrol slide
+        let currentSlide = 0;
+        const slides = document.querySelectorAll('.slide');
+        const totalSlides = slides.length;
+        let autoSlideInterval;
+
+        // Set total slides di counter
+        document.getElementById('total-slides').textContent = totalSlides;
+
+        // Fungsi untuk menampilkan slide tertentu
+        function showSlide(index) {
+            // Validasi index
+            if (index < 0) index = totalSlides - 1;
+            if (index >= totalSlides) index = 0;
+            currentSlide = index;
+
+            // Sembunyikan semua slide
+            slides.forEach((slide, i) => {
+                slide.style.display = i === index ? 'block' : 'none';
+            });
+
+            // Update indikator
+            document.querySelectorAll('.indicator').forEach((ind, i) => {
+                ind.classList.toggle('active', i === index);
+            });
+
+            // Update nomor slide
+            document.getElementById('slide-number').textContent = index + 1;
+        }
+
+        // Fungsi untuk slide berikutnya
+        function nextSlide() {
+            showSlide(currentSlide + 1);
+            resetAutoSlide();
+        }
+
+        // Fungsi untuk slide sebelumnya
+        function prevSlide() {
+            showSlide(currentSlide - 1);
+            resetAutoSlide();
+        }
+
+        // Fungsi untuk langsung ke slide tertentu
+        function goToSlide(index) {
+            showSlide(index);
+            resetAutoSlide();
+        }
+
+        // Fungsi untuk mereset timer otomatis
+        function resetAutoSlide() {
+            clearInterval(autoSlideInterval);
+            autoSlideInterval = setInterval(() => {
+                nextSlide();
+            }, 5000);
+        }
+
+        // Mulai slide otomatis
+        showSlide(0);
+        autoSlideInterval = setInterval(() => {
+            nextSlide();
+        }, 5000);
+
+        // Keyboard navigation
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'ArrowLeft') {
+                prevSlide();
+                e.preventDefault();
+            } else if (e.key === 'ArrowRight') {
+                nextSlide();
+                e.preventDefault();
+            }
+        });
+
+        // Touch support untuk mobile
+        let touchStartX = 0;
+        let touchEndX = 0;
+
+        document.getElementById('carousel-container').addEventListener('touchstart', (e) => {
+            touchStartX = e.changedTouches[0].screenX;
+        }, { passive: true });
+
+        document.getElementById('carousel-container').addEventListener('touchend', (e) => {
+            touchEndX = e.changedTouches[0].screenX;
+            const diff = touchStartX - touchEndX;
+            if (Math.abs(diff) > 50) {
+                if (diff > 0) {
+                    nextSlide();
+                } else {
+                    prevSlide();
+                }
+            }
+        }, { passive: true });
+    </script>
+</body>
+</html>
