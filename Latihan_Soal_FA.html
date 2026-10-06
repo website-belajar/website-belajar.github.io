@@ -1,0 +1,1310 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Latihan Soal & Belajar Asuransi Kesehatan (FA)</title>
+<style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        background: #f0f4f8;
+        color: #2d3748;
+        padding: 15px;
+        line-height: 1.6;
+        min-height: 100vh;
+    }
+    .container {
+        max-width: 900px;
+        margin: 0 auto;
+        background: #fff;
+        border-radius: 12px;
+        box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+        padding: 25px 30px;
+        position: relative;
+    }
+    h1 {
+        text-align: center;
+        color: #2b6cb0;
+        border-bottom: 3px solid #bee3f8;
+        padding-bottom: 15px;
+        margin-bottom: 20px;
+        font-size: 1.5em;
+    }
+
+    /* ============ LOADING ============ */
+    .loading-screen {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding: 60px 20px;
+        min-height: 300px;
+    }
+    .spinner {
+        width: 60px;
+        height: 60px;
+        border: 6px solid #bee3f8;
+        border-top: 6px solid #2b6cb0;
+        border-radius: 50%;
+        animation: spin 1s linear infinite;
+        margin-bottom: 20px;
+    }
+    @keyframes spin {
+        0% { transform: rotate(0deg); }
+        100% { transform: rotate(360deg); }
+    }
+    .loading-text {
+        font-size: 1.1em;
+        font-weight: 600;
+        color: #2c5282;
+    }
+
+    /* ============ LANDING ============ */
+    .landing-controls {
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+        padding: 20px;
+        background: #ebf8ff;
+        border-radius: 8px;
+    }
+    .landing-controls label {
+        font-weight: 600;
+        color: #2c5282;
+        font-size: 1em;
+    }
+    .landing-controls select {
+        padding: 12px;
+        border-radius: 6px;
+        border: 1px solid #a0aec0;
+        font-size: 1em;
+        width: 100%;
+    }
+    .landing-btn {
+        padding: 14px;
+        border: none;
+        border-radius: 8px;
+        color: white;
+        font-size: 1.1em;
+        font-weight: 700;
+        cursor: pointer;
+        transition: background 0.2s;
+    }
+    .landing-btn:disabled { background: #a0aec0; cursor: not-allowed; }
+    .btn-ujian { background: #2b6cb0; }
+    .btn-ujian:hover:not(:disabled) { background: #2c5282; }
+    .btn-belajar { background: #38a169; }
+    .btn-belajar:hover:not(:disabled) { background: #2f855a; }
+    .btn-note {
+        text-align: center;
+        font-size: 0.85em;
+        color: #718096;
+        margin-top: 5px;
+    }
+
+    /* ============ EXAM ============ */
+    .exam-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 10px;
+        margin-bottom: 15px;
+        flex-wrap: wrap;
+    }
+    .panel-toggle-btn {
+        padding: 8px 16px;
+        border: none;
+        border-radius: 6px;
+        background: #4a5568;
+        color: white;
+        font-weight: 600;
+        cursor: pointer;
+        font-size: 0.9em;
+    }
+    .panel-toggle-btn:hover { background: #2d3748; }
+    .timer-box {
+        padding: 8px 16px;
+        border-radius: 6px;
+        background: #2d3748;
+        color: white;
+        font-weight: 700;
+        font-size: 1em;
+        font-variant-numeric: tabular-nums;
+        letter-spacing: 1px;
+    }
+    .timer-box.warning { background: #dd6b20; }
+    .timer-box.danger { background: #c53030; animation: pulse 1s infinite; }
+    @keyframes pulse {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0.6; }
+    }
+    .question-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 8px;
+        margin-bottom: 10px;
+    }
+    .question-number {
+        font-weight: 700;
+        color: #3182ce;
+        font-size: 1.1em;
+    }
+    .kategori-badge {
+        display: inline-block;
+        font-size: 0.75em;
+        font-weight: 700;
+        padding: 3px 10px;
+        border-radius: 12px;
+        letter-spacing: 0.5px;
+    }
+    .kategori-badge.tunggal { background: #c6f6d5; color: #22543d; }
+    .kategori-badge.kombinasi { background: #feebc8; color: #7b341e; }
+    .question-text {
+        font-weight: 600;
+        margin-bottom: 18px;
+        white-space: pre-line;
+        font-size: 1em;
+    }
+    .options label {
+        display: block;
+        padding: 12px 15px;
+        margin-bottom: 8px;
+        background: #fff;
+        border: 1px solid #cbd5e0;
+        border-radius: 6px;
+        cursor: pointer;
+        transition: all 0.2s;
+        font-size: 0.95em;
+    }
+    .options label:hover {
+        background: #e2e8f0;
+        border-color: #a0aec0;
+    }
+    .options input[type="radio"] { margin-right: 10px; }
+    .options input[type="radio"]:checked + span {
+        font-weight: 600;
+        color: #2b6cb0;
+    }
+    .ragu-box {
+        margin-top: 15px;
+        padding: 12px 15px;
+        background: #fffbeb;
+        border: 1px solid #fbd38d;
+        border-radius: 6px;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        cursor: pointer;
+        user-select: none;
+    }
+    .ragu-box input[type="checkbox"] {
+        width: 18px;
+        height: 18px;
+        cursor: pointer;
+    }
+    .ragu-box span {
+        font-weight: 600;
+        color: #744210;
+        font-size: 0.95em;
+    }
+    .btn {
+        display: block;
+        width: 100%;
+        padding: 15px;
+        border: none;
+        border-radius: 8px;
+        font-size: 1.05em;
+        font-weight: 700;
+        cursor: pointer;
+        transition: background 0.2s;
+        margin-top: 12px;
+    }
+    .btn-save { background: #2b6cb0; color: white; }
+    .btn-save:hover { background: #2c5282; }
+    .btn-save:disabled { background: #a0aec0; cursor: not-allowed; }
+    .btn-finish { background: #38a169; color: white; }
+    .btn-finish:hover { background: #2f855a; }
+    .btn-finish:disabled { background: #a0aec0; cursor: not-allowed; }
+    .btn-restart { background: #ed8936; color: white; }
+    .btn-restart:hover { background: #dd6b20; }
+
+    /* ============ PANEL OVERLAY ============ */
+    .panel-overlay {
+        display: none;
+        position: fixed;
+        top: 0; left: 0; right: 0; bottom: 0;
+        background: rgba(0, 0, 0, 0.5);
+        z-index: 1000;
+        justify-content: center;
+        align-items: flex-start;
+        padding: 20px;
+        overflow-y: auto;
+    }
+    .panel-overlay.active { display: flex; }
+    .panel-content {
+        background: #fff;
+        border-radius: 12px;
+        padding: 20px;
+        max-width: 500px;
+        width: 100%;
+        margin: auto;
+        max-height: 90vh;
+        overflow-y: auto;
+    }
+    .panel-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 15px;
+        padding-bottom: 10px;
+        border-bottom: 2px solid #e2e8f0;
+    }
+    .panel-header h3 { color: #2d3748; font-size: 1.1em; }
+    .panel-close {
+        background: none;
+        border: none;
+        font-size: 1.5em;
+        cursor: pointer;
+        color: #718096;
+        padding: 0 8px;
+        line-height: 1;
+    }
+    .panel-close:hover { color: #2d3748; }
+    .panel-legend {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 12px;
+        margin-bottom: 15px;
+        font-size: 0.8em;
+    }
+    .legend-item { display: flex; align-items: center; gap: 5px; }
+    .legend-color {
+        width: 16px;
+        height: 16px;
+        border-radius: 4px;
+        border: 1px solid #cbd5e0;
+    }
+    .legend-color.abbu { background: #e2e8f0; }
+    .legend-color.hijau { background: #48bb78; }
+    .legend-color.kuning { background: #ecc94b; }
+    .panel-grid {
+        display: grid;
+        grid-template-columns: repeat(5, 1fr);
+        gap: 8px;
+    }
+    .panel-num {
+        aspect-ratio: 1;
+        border: 2px solid #cbd5e0;
+        border-radius: 6px;
+        background: #e2e8f0;
+        color: #2d3748;
+        font-weight: 700;
+        font-size: 0.9em;
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        transition: transform 0.1s;
+    }
+    .panel-num:hover { transform: scale(1.05); }
+    .panel-num.sudah { background: #48bb78; color: white; border-color: #38a169; }
+    .panel-num.ragu { background: #ecc94b; color: #744210; border-color: #d69e2e; }
+    .panel-num.aktif {
+        border-color: #2b6cb0;
+        border-width: 3px;
+        box-shadow: 0 0 0 2px rgba(43, 108, 176, 0.3);
+    }
+
+    /* ============ RESULT ============ */
+    .result-panel {
+        margin-top: 20px;
+        padding: 25px;
+        background: #f0fff4;
+        border: 2px solid #9ae6b4;
+        border-radius: 10px;
+    }
+    .result-panel h2 { color: #276749; margin-bottom: 15px; text-align: center; }
+    .score-big {
+        text-align: center;
+        font-size: 3.5em;
+        font-weight: 800;
+        color: #2b6cb0;
+        line-height: 1;
+        margin-bottom: 5px;
+    }
+    .score-label {
+        text-align: center;
+        color: #4a5568;
+        margin-bottom: 20px;
+        font-size: 0.9em;
+    }
+    .status {
+        text-align: center;
+        font-size: 1.3em;
+        font-weight: 700;
+        padding: 12px;
+        border-radius: 8px;
+        margin-bottom: 20px;
+    }
+    .status.lulus-memuaskan { background: #c6f6d5; color: #22543d; }
+    .status.lulus { background: #bee3f8; color: #2c5282; }
+    .status.tidak-lulus { background: #fed7d7; color: #822727; }
+    .status.latihan { background: #e2e8f0; color: #4a5568; }
+    .detail-grid {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 8px;
+        background: #fff;
+        padding: 15px 20px;
+        border-radius: 8px;
+        border: 1px solid #e2e8f0;
+    }
+    .detail-item {
+        display: flex;
+        justify-content: space-between;
+        padding: 6px 0;
+        border-bottom: 1px dashed #e2e8f0;
+        font-size: 0.9em;
+    }
+    .detail-item:last-child { border-bottom: none; }
+    .detail-item .label { color: #4a5568; }
+    .detail-item .value { font-weight: 700; color: #2d3748; }
+
+    /* ============ REVIEW ============ */
+    .review-section { margin-top: 30px; }
+    .review-section h2 {
+        text-align: center;
+        color: #2d3748;
+        border-bottom: 2px solid #e2e8f0;
+        padding-bottom: 10px;
+        margin-bottom: 20px;
+        font-size: 1.2em;
+    }
+    .review-item {
+        background: #fff;
+        border-left: 6px solid #cbd5e0;
+        padding: 15px 20px;
+        margin-bottom: 15px;
+        border-radius: 6px;
+    }
+    .review-item.correct { border-left-color: #48bb78; background: #f0fff4; }
+    .review-item.incorrect { border-left-color: #f56565; background: #fff5f5; }
+    .review-item .rev-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+        margin-bottom: 8px;
+        flex-wrap: wrap;
+        gap: 5px;
+    }
+    .review-item .rev-question {
+        font-weight: 600;
+        white-space: pre-line;
+        flex: 1;
+        font-size: 0.9em;
+    }
+    .review-item .rev-answer { margin: 4px 0; font-size: 0.85em; }
+    .review-item .rev-answer.user-correct { color: #276749; }
+    .review-item .rev-answer.user-wrong { color: #c53030; }
+    .review-item .rev-answer.correct-answer { color: #2b6cb0; font-weight: 600; }
+
+    /* ============ BELAJAR ============ */
+    .belajar-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 20px;
+        gap: 10px;
+    }
+    .belajar-btn {
+        padding: 8px 16px;
+        border: none;
+        border-radius: 6px;
+        background: #4a5568;
+        color: white;
+        font-weight: 600;
+        cursor: pointer;
+        font-size: 0.9em;
+        transition: background 0.2s;
+    }
+    .belajar-btn:hover { background: #2d3748; }
+    .belajar-btn.back { background: #718096; }
+    .belajar-btn.back:hover { background: #4a5568; }
+    .belajar-card {
+        background: #f7fafc;
+        border: 1px solid #e2e8f0;
+        border-radius: 10px;
+        padding: 25px;
+        margin-bottom: 20px;
+        min-height: 250px;
+    }
+    .belajar-nomor {
+        display: inline-block;
+        font-size: 0.85em;
+        font-weight: 700;
+        padding: 4px 12px;
+        border-radius: 12px;
+        background: #bee3f8;
+        color: #2c5282;
+        margin-bottom: 12px;
+    }
+    .belajar-istilah {
+        font-size: 1.5em;
+        font-weight: 800;
+        color: #2b6cb0;
+        margin-bottom: 15px;
+        line-height: 1.3;
+    }
+    .belajar-penjelasan {
+        font-size: 1em;
+        color: #2d3748;
+        margin-bottom: 20px;
+        line-height: 1.7;
+        white-space: pre-line;
+    }
+    .belajar-contoh-title {
+        font-weight: 700;
+        color: #744210;
+        font-size: 0.95em;
+        margin-bottom: 8px;
+    }
+    .belajar-contoh-list {
+        list-style: none;
+        padding: 0;
+    }
+    .belajar-contoh-list li {
+        background: #fffbeb;
+        border-left: 4px solid #f6ad55;
+        padding: 10px 15px;
+        margin-bottom: 8px;
+        border-radius: 4px;
+        font-size: 0.9em;
+        color: #744210;
+    }
+    .belajar-nav {
+        display: flex;
+        gap: 10px;
+        margin-top: 10px;
+    }
+    .belajar-nav button {
+        flex: 1;
+        padding: 14px;
+        border: none;
+        border-radius: 8px;
+        background: #2b6cb0;
+        color: white;
+        font-weight: 700;
+        font-size: 1em;
+        cursor: pointer;
+        transition: background 0.2s;
+    }
+    .belajar-nav button:hover { background: #2c5282; }
+
+    /* ============ SEARCH OVERLAY ============ */
+    .search-overlay {
+        display: none;
+        position: fixed;
+        top: 0; left: 0; right: 0; bottom: 0;
+        background: rgba(0, 0, 0, 0.5);
+        z-index: 1100;
+        justify-content: center;
+        align-items: flex-start;
+        padding: 20px;
+        overflow-y: auto;
+    }
+    .search-overlay.active { display: flex; }
+    .search-content {
+        background: #fff;
+        border-radius: 12px;
+        padding: 20px;
+        max-width: 500px;
+        width: 100%;
+        margin-top: 40px;
+        max-height: 80vh;
+        display: flex;
+        flex-direction: column;
+    }
+    .search-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 12px;
+        padding-bottom: 10px;
+        border-bottom: 2px solid #e2e8f0;
+    }
+    .search-header h3 { font-size: 1.1em; color: #2d3748; }
+    .search-input {
+        width: 100%;
+        padding: 12px 15px;
+        font-size: 1em;
+        border: 2px solid #a0aec0;
+        border-radius: 8px;
+        margin-bottom: 12px;
+        outline: none;
+    }
+    .search-input:focus { border-color: #2b6cb0; }
+    .search-results {
+        overflow-y: auto;
+        flex: 1;
+        max-height: 50vh;
+    }
+    .search-result-item {
+        padding: 12px 15px;
+        background: #f7fafc;
+        border: 1px solid #e2e8f0;
+        border-radius: 6px;
+        margin-bottom: 6px;
+        cursor: pointer;
+        font-size: 0.95em;
+        font-weight: 600;
+        color: #2d3748;
+        transition: background 0.2s;
+    }
+    .search-result-item:hover {
+        background: #bee3f8;
+        border-color: #63b3ed;
+    }
+    .search-empty {
+        text-align: center;
+        padding: 20px;
+        color: #718096;
+        font-style: italic;
+    }
+
+    /* ============ MISC ============ */
+    .hidden { display: none !important; }
+    .error {
+        text-align: center;
+        padding: 25px;
+        color: #c53030;
+        background: #fff5f5;
+        border-radius: 8px;
+        border-left: 5px solid #f56565;
+        white-space: pre-line;
+        font-size: 0.9em;
+        margin-bottom: 15px;
+    }
+
+    @media (max-width: 600px) {
+        .container { padding: 18px; }
+        h1 { font-size: 1.2em; }
+        .exam-header { justify-content: space-between; }
+        .panel-toggle-btn { font-size: 0.85em; padding: 7px 12px; }
+        .timer-box { font-size: 0.9em; padding: 7px 12px; }
+        .score-big { font-size: 2.8em; }
+        .belajar-istilah { font-size: 1.3em; }
+        .belajar-card { padding: 18px; }
+    }
+</style>
+</head>
+<body>
+<div class="container">
+
+    <!-- ================= LOADING ================= -->
+    <div id="loading-view" class="loading-screen">
+        <div class="spinner"></div>
+        <div class="loading-text">Memuat data...</div>
+    </div>
+
+    <!-- ================= LANDING ================= -->
+    <div id="landing-view" class="hidden">
+        <h1>Latihan Soal & Belajar Asuransi Kesehatan (FA)</h1>
+
+        <div id="landing-error" class="error hidden"></div>
+
+        <div class="landing-controls">
+            <label for="mode-soal">Pilih Mode Ujian:</label>
+            <select id="mode-soal">
+                <option value="bebas-5">Latihan Bebas — 5 Soal Campuran (5 menit)</option>
+                <option value="bebas-10">Latihan Bebas — 10 Soal Campuran (10 menit)</option>
+                <option value="bebas-25" selected>Latihan Bebas — 25 Soal Campuran (25 menit)</option>
+                <option value="ujian-1">Ujian Bagian 1 — 50 Soal Pilihan Tunggal (50 menit)</option>
+                <option value="ujian-2">Ujian Bagian 2 — 25 Soal Kombinasi (25 menit)</option>
+                <option value="ujian-penuh">Ujian Penuh — 75 Soal (75 menit)</option>
+            </select>
+            <button type="button" id="mulai-ujian-btn" class="landing-btn btn-ujian" disabled>Mulai Ujian</button>
+            <button type="button" id="belajar-btn" class="landing-btn btn-belajar" disabled>📖 Belajar Dulu</button>
+            <div id="landing-note" class="btn-note"></div>
+        </div>
+    </div>
+
+    <!-- ================= EXAM ================= -->
+    <div id="exam-view" class="hidden">
+        <div class="exam-header">
+            <button type="button" class="panel-toggle-btn" id="panel-toggle-btn">☰ Daftar Soal</button>
+            <div class="timer-box" id="timer-box">--:--</div>
+        </div>
+
+        <div id="question-container"></div>
+
+        <button type="button" class="btn btn-finish hidden" id="finish-btn" disabled>Selesaikan Ujian</button>
+    </div>
+
+    <!-- ================= RESULT ================= -->
+    <div id="result-view" class="hidden">
+        <div class="result-panel">
+            <h2>Hasil Ujian</h2>
+            <div class="score-big" id="score-big">0</div>
+            <div class="score-label">Nilai Akhir (skala 0–100)</div>
+            <div class="status" id="status-text"></div>
+            <div class="detail-grid">
+                <div class="detail-item"><span class="label">Jumlah Soal Tunggal</span><span class="value" id="d-tunggal-total">0</span></div>
+                <div class="detail-item"><span class="label">Jumlah Soal Kombinasi</span><span class="value" id="d-kombinasi-total">0</span></div>
+                <div class="detail-item"><span class="label">Benar Tunggal</span><span class="value" id="d-tunggal-benar">0</span></div>
+                <div class="detail-item"><span class="label">Benar Kombinasi</span><span class="value" id="d-kombinasi-benar">0</span></div>
+                <div class="detail-item"><span class="label">Skor Mentah</span><span class="value" id="d-skor">0</span></div>
+                <div class="detail-item"><span class="label">Nilai Maksimum</span><span class="value" id="d-max">0</span></div>
+            </div>
+            <button type="button" class="btn btn-restart" id="restart-btn">Ulangi dengan Mode Baru</button>
+        </div>
+        <div class="review-section">
+            <h2>Review Jawaban</h2>
+            <div id="review-container"></div>
+        </div>
+    </div>
+
+    <!-- ================= BELAJAR ================= -->
+    <div id="belajar-view" class="hidden">
+        <div class="belajar-header">
+            <button type="button" class="belajar-btn" id="search-open-btn">🔍 Cari Istilah</button>
+            <button type="button" class="belajar-btn back" id="belajar-back-btn">← Kembali</button>
+        </div>
+
+        <div class="belajar-card" id="belajar-card"></div>
+
+        <div class="belajar-nav">
+            <button type="button" id="belajar-prev-btn">← Sebelumnya</button>
+            <button type="button" id="belajar-next-btn">Berikutnya →</button>
+        </div>
+    </div>
+</div>
+
+<!-- ================= PANEL OVERLAY ================= -->
+<div class="panel-overlay" id="panel-overlay">
+    <div class="panel-content">
+        <div class="panel-header">
+            <h3>Daftar Soal</h3>
+            <button type="button" class="panel-close" id="panel-close">✕</button>
+        </div>
+        <div class="panel-legend">
+            <div class="legend-item"><div class="legend-color abbu"></div><span>Belum dijawab</span></div>
+            <div class="legend-item"><div class="legend-color hijau"></div><span>Sudah dijawab</span></div>
+            <div class="legend-item"><div class="legend-color kuning"></div><span>Ragu-ragu</span></div>
+        </div>
+        <div class="panel-grid" id="panel-grid"></div>
+    </div>
+</div>
+
+<!-- ================= SEARCH OVERLAY ================= -->
+<div class="search-overlay" id="search-overlay">
+    <div class="search-content">
+        <div class="search-header">
+            <h3>Cari Istilah</h3>
+            <button type="button" class="panel-close" id="search-close">✕</button>
+        </div>
+        <input type="text" class="search-input" id="search-input" placeholder="Ketik istilah yang dicari..." autocomplete="off">
+        <div class="search-results" id="search-results"></div>
+    </div>
+</div>
+
+<!-- ================= CONFIRM OVERLAY ================= -->
+<div class="panel-overlay" id="confirm-overlay">
+    <div class="panel-content" style="max-width:400px; text-align:center;">
+        <h3 style="color:#2d3748; margin-bottom:12px; font-size:1.2em;">Yakin Selesaikan Ujian?</h3>
+        <p style="color:#4a5568; margin-bottom:20px; font-size:0.95em;">Setelah diselesaikan, jawaban tidak dapat diubah lagi.</p>
+        <div style="display:flex; gap:10px;">
+            <button type="button" id="confirm-no" style="flex:1; padding:12px; border:none; border-radius:8px; background:#e2e8f0; color:#2d3748; font-weight:700; cursor:pointer; font-size:1em;">Tidak</button>
+            <button type="button" id="confirm-yes" style="flex:1; padding:12px; border:none; border-radius:8px; background:#38a169; color:white; font-weight:700; cursor:pointer; font-size:1em;">Ya, Selesaikan</button>
+        </div>
+    </div>
+</div>
+
+<script>
+    // ================= STATE =================
+    let bankSoal = [];
+    let pelajaran = [];
+    let bankSoalLoaded = false;
+    let pelajaranLoaded = false;
+
+    // Ujian
+    let currentQuestions = [];
+    let jawabanUser = {};
+    let currentIndex = 0;
+    let timerInterval = null;
+    let waktuTersisa = 0;
+    let totalWaktu = 0;
+    let modeAktif = '';
+    let ujianSelesai = false;
+
+    // Belajar
+    let urutanBelajar = [];
+    let posisiBelajar = 0;
+
+    // ================= ELEMENTS =================
+    const loadingView = document.getElementById('loading-view');
+    const landingView = document.getElementById('landing-view');
+    const examView = document.getElementById('exam-view');
+    const resultView = document.getElementById('result-view');
+    const belajarView = document.getElementById('belajar-view');
+
+    const landingError = document.getElementById('landing-error');
+    const landingNote = document.getElementById('landing-note');
+    const modeSelect = document.getElementById('mode-soal');
+    const mulaiUjianBtn = document.getElementById('mulai-ujian-btn');
+    const belajarBtn = document.getElementById('belajar-btn');
+
+    const panelToggleBtn = document.getElementById('panel-toggle-btn');
+    const timerBox = document.getElementById('timer-box');
+    const questionContainer = document.getElementById('question-container');
+    const finishBtn = document.getElementById('finish-btn');
+
+    const panelOverlay = document.getElementById('panel-overlay');
+    const panelClose = document.getElementById('panel-close');
+    const panelGrid = document.getElementById('panel-grid');
+
+    const confirmOverlay = document.getElementById('confirm-overlay');
+    const confirmYes = document.getElementById('confirm-yes');
+    const confirmNo = document.getElementById('confirm-no');
+
+    const scoreBig = document.getElementById('score-big');
+    const statusText = document.getElementById('status-text');
+    const dTunggalTotal = document.getElementById('d-tunggal-total');
+    const dKombinasiTotal = document.getElementById('d-kombinasi-total');
+    const dTunggalBenar = document.getElementById('d-tunggal-benar');
+    const dKombinasiBenar = document.getElementById('d-kombinasi-benar');
+    const dSkor = document.getElementById('d-skor');
+    const dMax = document.getElementById('d-max');
+    const reviewContainer = document.getElementById('review-container');
+    const restartBtn = document.getElementById('restart-btn');
+
+    const belajarCard = document.getElementById('belajar-card');
+    const belajarPrevBtn = document.getElementById('belajar-prev-btn');
+    const belajarNextBtn = document.getElementById('belajar-next-btn');
+    const belajarBackBtn = document.getElementById('belajar-back-btn');
+    const searchOpenBtn = document.getElementById('search-open-btn');
+
+    const searchOverlay = document.getElementById('search-overlay');
+    const searchClose = document.getElementById('search-close');
+    const searchInput = document.getElementById('search-input');
+    const searchResults = document.getElementById('search-results');
+
+    // ================= LOAD JSON =================
+    async function loadAllData() {
+        const errors = [];
+
+        try {
+            const r = await fetch('bank_soal_FA.json');
+            if (!r.ok) throw new Error('bank_soal_FA.json tidak ditemukan (HTTP ' + r.status + ')');
+            const d = await r.json();
+            bankSoal = d.bank_soal || [];
+            if (!Array.isArray(bankSoal) || bankSoal.length === 0) throw new Error('bank_soal_FA.json kosong');
+            bankSoalLoaded = true;
+        } catch (e) {
+            errors.push('• ' + e.message);
+        }
+
+        try {
+            const r = await fetch('pelajaran_FA.json');
+            if (!r.ok) throw new Error('pelajaran_FA.json tidak ditemukan (HTTP ' + r.status + ')');
+            const d = await r.json();
+            pelajaran = d.pelajaran || [];
+            if (!Array.isArray(pelajaran) || pelajaran.length === 0) throw new Error('pelajaran_FA.json kosong');
+            pelajaranLoaded = true;
+        } catch (e) {
+            errors.push('• ' + e.message);
+        }
+
+        loadingView.classList.add('hidden');
+        landingView.classList.remove('hidden');
+
+        if (errors.length > 0) {
+            landingError.classList.remove('hidden');
+            landingError.innerHTML = '<strong>Sebagian data gagal dimuat:</strong>\n' + errors.join('\n') +
+                '\n\nPastikan kedua file JSON berada di folder yang sama dan diakses melalui server lokal (bukan file://).';
+        }
+
+        if (bankSoalLoaded) {
+            mulaiUjianBtn.disabled = false;
+        } else {
+            mulaiUjianBtn.textContent = 'Bank Soal Tidak Tersedia';
+        }
+        if (pelajaranLoaded) {
+            belajarBtn.disabled = false;
+        } else {
+            belajarBtn.textContent = '📖 Pelajaran Tidak Tersedia';
+        }
+
+        const loadedInfo = [];
+        if (bankSoalLoaded) loadedInfo.push('Bank soal: ' + bankSoal.length + ' soal');
+        if (pelajaranLoaded) loadedInfo.push('Pelajaran: ' + pelajaran.length + ' istilah');
+        landingNote.textContent = loadedInfo.join(' • ');
+    }
+
+    // ================= UTILITAS =================
+    function shuffleArray(arr) {
+        const a = [...arr];
+        for (let i = a.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [a[i], a[j]] = [a[j], a[i]];
+        }
+        return a;
+    }
+
+    function escapeHtml(str) {
+        if (str === null || str === undefined) return '';
+        return String(str)
+            .replace(/&/g, '&amp;')
+            .replace(/</g, '&lt;')
+            .replace(/>/g, '&gt;')
+            .replace(/"/g, '&quot;')
+            .replace(/'/g, '&#39;');
+    }
+
+    // ================= MODE UJIAN =================
+    function ambilSoal(kategori, jumlah) {
+        const pool = bankSoal.filter(q => q.kategori === kategori);
+        return shuffleArray(pool).slice(0, jumlah);
+    }
+    function ambilCampuran(jumlah) {
+        return shuffleArray(bankSoal).slice(0, jumlah);
+    }
+    function pilihSoalSesuaiMode(mode) {
+        switch (mode) {
+            case 'bebas-5':    return ambilCampuran(5);
+            case 'bebas-10':   return ambilCampuran(10);
+            case 'bebas-25':   return ambilCampuran(25);
+            case 'ujian-1':    return ambilSoal('tunggal', 50);
+            case 'ujian-2':    return ambilSoal('kombinasi', 25);
+            case 'ujian-penuh': {
+                const t = ambilSoal('tunggal', 50);
+                const k = ambilSoal('kombinasi', 25);
+                return shuffleArray([...t, ...k]);
+            }
+            default: return ambilCampuran(25);
+        }
+    }
+
+    // ================= TIMER =================
+    function formatWaktu(detik) {
+        const m = Math.floor(detik / 60).toString().padStart(2, '0');
+        const s = (detik % 60).toString().padStart(2, '0');
+        return m + ':' + s;
+    }
+    function mulaiTimer() {
+        timerBox.classList.remove('warning', 'danger');
+        timerBox.textContent = formatWaktu(waktuTersisa);
+        timerInterval = setInterval(function () {
+            waktuTersisa--;
+            if (waktuTersisa <= 0) {
+                waktuTersisa = 0;
+                timerBox.textContent = '00:00';
+                clearInterval(timerInterval);
+                timerInterval = null;
+                alert('Waktu habis! Ujian akan diselesaikan otomatis.');
+                selesaikanUjian(true);
+                return;
+            }
+            timerBox.textContent = formatWaktu(waktuTersisa);
+            if (waktuTersisa <= 60) {
+                timerBox.classList.add('danger');
+                timerBox.classList.remove('warning');
+            } else if (waktuTersisa <= 300) {
+                timerBox.classList.add('warning');
+            }
+        }, 1000);
+    }
+    function stopTimer() {
+        if (timerInterval) {
+            clearInterval(timerInterval);
+            timerInterval = null;
+        }
+    }
+
+    // ================= RENDER SOAL =================
+    function renderSoal() {
+        const q = currentQuestions[currentIndex];
+        const total = currentQuestions.length;
+        const tersimpan = jawabanUser[currentIndex] || {};
+        const jawabanTerpilih = tersimpan.jawaban || '';
+        const ragu = tersimpan.ragu || false;
+
+        let html = '';
+        html += '<div class="question-header">';
+        html += '<div class="question-number">Soal ' + (currentIndex + 1) + ' dari ' + total + '</div>';
+        html += '<span class="kategori-badge ' + (q.kategori === 'kombinasi' ? 'kombinasi' : 'tunggal') + '">' +
+                (q.kategori === 'kombinasi' ? 'Kombinasi — 2 poin' : 'Tunggal — 1 poin') + '</span>';
+        html += '</div>';
+
+        html += '<div class="question-text">' + escapeHtml(q.soal) + '</div>';
+
+        const allOptions = shuffleArray([q.jawaban, ...q.pengecoh]);
+        html += '<div class="options">';
+        allOptions.forEach(function (opt) {
+            const checked = (opt === jawabanTerpilih) ? 'checked' : '';
+            html += '<label>';
+            html += '<input type="radio" name="jawaban" value="' + escapeHtml(opt) + '" ' + checked + '>';
+            html += '<span>' + escapeHtml(opt) + '</span>';
+            html += '</label>';
+        });
+        html += '</div>';
+
+        html += '<label class="ragu-box">';
+        html += '<input type="checkbox" id="ragu-check" ' + (ragu ? 'checked' : '') + '>';
+        html += '<span>⚠ Tandai sebagai ragu-ragu</span>';
+        html += '</label>';
+
+        html += '<button type="button" class="btn btn-save" id="save-btn">' +
+                (currentIndex === total - 1 ? 'Simpan Jawaban' : 'Simpan & Lanjut ke Soal Berikutnya') +
+                '</button>';
+
+        questionContainer.innerHTML = html;
+        document.getElementById('save-btn').addEventListener('click', simpanDanLanjut);
+    }
+
+    function simpanDanLanjut() {
+        const radioTerpilih = document.querySelector('input[name="jawaban"]:checked');
+        if (!radioTerpilih) {
+            alert('Silakan pilih salah satu jawaban terlebih dahulu.');
+            return;
+        }
+        const ragu = document.getElementById('ragu-check').checked;
+        jawabanUser[currentIndex] = {
+            jawaban: radioTerpilih.value,
+            ragu: ragu
+        };
+        renderPanelGrid();
+
+        if (currentIndex < currentQuestions.length - 1) {
+            currentIndex++;
+            renderSoal();
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        } else {
+            alert('Semua soal sudah dijawab. Silakan klik "Selesaikan Ujian" untuk melihat hasil.');
+            renderSoal();
+        }
+        updateFinishButton();
+    }
+
+    function renderPanelGrid() {
+        panelGrid.innerHTML = '';
+        currentQuestions.forEach(function (q, idx) {
+            const btn = document.createElement('button');
+            btn.type = 'button';
+            btn.className = 'panel-num';
+            btn.textContent = idx + 1;
+
+            const data = jawabanUser[idx];
+            if (data) {
+                if (data.ragu) btn.classList.add('ragu');
+                else btn.classList.add('sudah');
+            }
+            if (idx === currentIndex) btn.classList.add('aktif');
+
+            btn.addEventListener('click', function () { pindahKeSoal(idx); });
+            panelGrid.appendChild(btn);
+        });
+    }
+
+    function pindahKeSoal(idx) {
+        currentIndex = idx;
+        closePanel();
+        renderSoal();
+        renderPanelGrid();
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+
+    function openPanel() {
+        renderPanelGrid();
+        panelOverlay.classList.add('active');
+    }
+    function closePanel() { panelOverlay.classList.remove('active'); }
+
+    function updateFinishButton() {
+        const semuaDijawab = Object.keys(jawabanUser).length === currentQuestions.length;
+        finishBtn.disabled = !semuaDijawab;
+        if (semuaDijawab) finishBtn.classList.remove('hidden');
+        else finishBtn.classList.add('hidden');
+    }
+
+    function mintaKonfirmasi() { confirmOverlay.classList.add('active'); }
+
+    function selesaikanUjian(force) {
+        if (ujianSelesai) return;
+        ujianSelesai = true;
+        stopTimer();
+        closePanel();
+        confirmOverlay.classList.remove('active');
+        hitungDanTampilkanHasil();
+    }
+
+    function hitungDanTampilkanHasil() {
+        let benarTunggal = 0, benarKombinasi = 0;
+        let totalTunggal = 0, totalKombinasi = 0;
+
+        currentQuestions.forEach(function (q, idx) {
+            const isKombinasi = q.kategori === 'kombinasi';
+            if (isKombinasi) totalKombinasi++; else totalTunggal++;
+            const data = jawabanUser[idx];
+            if (data && data.jawaban === q.jawaban) {
+                if (isKombinasi) benarKombinasi++; else benarTunggal++;
+            }
+        });
+
+        const skorMentah = (benarTunggal * 1) + (benarKombinasi * 2);
+        const maxMentah = (totalTunggal * 1) + (totalKombinasi * 2);
+        const nilaiAkhir = maxMentah > 0 ? Math.round((skorMentah / maxMentah) * 100) : 0;
+
+        scoreBig.textContent = nilaiAkhir;
+
+        const isLatihan = modeAktif.indexOf('bebas') === 0;
+        let statusLabel, statusCls;
+        if (isLatihan) {
+            if (nilaiAkhir >= 90) { statusLabel = 'Latihan — Sangat Baik'; statusCls = 'lulus-memuaskan'; }
+            else if (nilaiAkhir >= 70) { statusLabel = 'Latihan — Baik'; statusCls = 'lulus'; }
+            else { statusLabel = 'Latihan — Perlu Belajar Lagi'; statusCls = 'latihan'; }
+        } else {
+            if (nilaiAkhir >= 90) { statusLabel = 'LULUS MEMUASKAN'; statusCls = 'lulus-memuaskan'; }
+            else if (nilaiAkhir >= 70) { statusLabel = 'LULUS'; statusCls = 'lulus'; }
+            else { statusLabel = 'TIDAK LULUS'; statusCls = 'tidak-lulus'; }
+        }
+        statusText.textContent = statusLabel;
+        statusText.className = 'status ' + statusCls;
+
+        dTunggalTotal.textContent = totalTunggal + ' soal';
+        dKombinasiTotal.textContent = totalKombinasi + ' soal';
+        dTunggalBenar.textContent = benarTunggal + ' benar';
+        dKombinasiBenar.textContent = benarKombinasi + ' benar';
+        dSkor.textContent = skorMentah + ' poin';
+        dMax.textContent = maxMentah + ' poin';
+
+        reviewContainer.innerHTML = '';
+        currentQuestions.forEach(function (q, i) {
+            const data = jawabanUser[i];
+            const userAnswer = data ? data.jawaban : null;
+            const isCorrect = userAnswer === q.jawaban;
+            const isKombinasi = q.kategori === 'kombinasi';
+
+            const item = document.createElement('div');
+            item.className = 'review-item ' + (isCorrect ? 'correct' : 'incorrect');
+
+            const header = document.createElement('div');
+            header.className = 'rev-header';
+
+            const qText = document.createElement('div');
+            qText.className = 'rev-question';
+            qText.textContent = 'Soal ' + (i + 1) + ': ' + q.soal;
+
+            const badge = document.createElement('span');
+            badge.className = 'kategori-badge ' + (isKombinasi ? 'kombinasi' : 'tunggal');
+            badge.textContent = isKombinasi ? 'Kombinasi (2 poin)' : 'Tunggal (1 poin)';
+
+            header.appendChild(qText);
+            header.appendChild(badge);
+            item.appendChild(header);
+
+            const userAns = document.createElement('div');
+            userAns.className = 'rev-answer ' + (isCorrect ? 'user-correct' : 'user-wrong');
+            userAns.textContent = 'Jawaban Anda: ' + (userAnswer || '(tidak dijawab)');
+            item.appendChild(userAns);
+
+            if (!isCorrect) {
+                const correctAns = document.createElement('div');
+                correctAns.className = 'rev-answer correct-answer';
+                correctAns.textContent = 'Jawaban Benar: ' + q.jawaban;
+                item.appendChild(correctAns);
+            }
+            reviewContainer.appendChild(item);
+        });
+
+        examView.classList.add('hidden');
+        resultView.classList.remove('hidden');
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+
+    function mulaiUjian() {
+        modeAktif = modeSelect.value;
+        currentQuestions = pilihSoalSesuaiMode(modeAktif);
+        if (currentQuestions.length === 0) {
+            alert('Tidak ada soal yang tersedia untuk mode ini.');
+            return;
+        }
+        jawabanUser = {};
+        currentIndex = 0;
+        ujianSelesai = false;
+        totalWaktu = currentQuestions.length * 60;
+        waktuTersisa = totalWaktu;
+
+        landingView.classList.add('hidden');
+        resultView.classList.add('hidden');
+        belajarView.classList.add('hidden');
+        examView.classList.remove('hidden');
+
+        renderSoal();
+        renderPanelGrid();
+        updateFinishButton();
+        mulaiTimer();
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+
+    function resetKeLanding() {
+        stopTimer();
+        ujianSelesai = false;
+        jawabanUser = {};
+        currentIndex = 0;
+        currentQuestions = [];
+        resultView.classList.add('hidden');
+        examView.classList.add('hidden');
+        belajarView.classList.add('hidden');
+        landingView.classList.remove('hidden');
+        closePanel();
+        confirmOverlay.classList.remove('active');
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+
+    // ================= MODE BELAJAR =================
+    function mulaiBelajar() {
+        urutanBelajar = shuffleArray([...pelajaran]);
+        posisiBelajar = 0;
+        landingView.classList.add('hidden');
+        examView.classList.add('hidden');
+        resultView.classList.add('hidden');
+        belajarView.classList.remove('hidden');
+        tampilkanPelajaran();
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+
+    function tampilkanPelajaran() {
+        if (urutanBelajar.length === 0) {
+            belajarCard.innerHTML = '<div style="text-align:center;padding:20px;color:#718096;">Tidak ada pelajaran tersedia.</div>';
+            return;
+        }
+        const p = urutanBelajar[posisiBelajar];
+        let html = '';
+        html += '<span class="belajar-nomor">Nomor ' + escapeHtml(p.nomor) + '</span>';
+        html += '<div class="belajar-istilah">' + escapeHtml(p.istilah) + '</div>';
+        html += '<div class="belajar-penjelasan">' + escapeHtml(p.penjelasan) + '</div>';
+        if (Array.isArray(p.contoh) && p.contoh.length > 0) {
+            html += '<div class="belajar-contoh-title">📌 Contoh:</div>';
+            html += '<ul class="belajar-contoh-list">';
+            p.contoh.forEach(function (c) {
+                html += '<li>' + escapeHtml(c) + '</li>';
+            });
+            html += '</ul>';
+        }
+        belajarCard.innerHTML = html;
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+
+    function pelajaranSebelumnya() {
+        if (urutanBelajar.length === 0) return;
+        posisiBelajar--;
+        if (posisiBelajar < 0) posisiBelajar = urutanBelajar.length - 1;
+        tampilkanPelajaran();
+    }
+    function pelajaranBerikutnya() {
+        if (urutanBelajar.length === 0) return;
+        posisiBelajar++;
+        if (posisiBelajar >= urutanBelajar.length) posisiBelajar = 0;
+        tampilkanPelajaran();
+    }
+
+    function openSearch() {
+        searchOverlay.classList.add('active');
+        searchInput.value = '';
+        searchResults.innerHTML = '';
+        setTimeout(function () { searchInput.focus(); }, 100);
+    }
+    function closeSearch() { searchOverlay.classList.remove('active'); }
+
+    function lakukanPencarian(keyword) {
+        const kw = keyword.trim().toLowerCase();
+        if (kw === '') {
+            searchResults.innerHTML = '';
+            return;
+        }
+        const hasilIstilah = [];
+        const hasilPenjelasan = [];
+        pelajaran.forEach(function (p, idx) {
+            const istilah = (p.istilah || '').toLowerCase();
+            const penjelasan = (p.penjelasan || '').toLowerCase();
+            if (istilah.indexOf(kw) !== -1) {
+                hasilIstilah.push(p);
+            } else if (penjelasan.indexOf(kw) !== -1) {
+                hasilPenjelasan.push(p);
+            }
+        });
+        const gabungan = [...hasilIstilah, ...hasilPenjelasan];
+
+        if (gabungan.length === 0) {
+            searchResults.innerHTML = '<div class="search-empty">Istilah tidak ditemukan</div>';
+            return;
+        }
+
+        searchResults.innerHTML = '';
+        gabungan.forEach(function (p) {
+            const item = document.createElement('div');
+            item.className = 'search-result-item';
+            item.textContent = p.istilah;
+            item.addEventListener('click', function () {
+                pindahKePelajaran(p);
+                closeSearch();
+            });
+            searchResults.appendChild(item);
+        });
+    }
+
+    function pindahKePelajaran(p) {
+        const idx = urutanBelajar.findIndex(function (x) { return x.nomor === p.nomor; });
+        if (idx !== -1) {
+            posisiBelajar = idx;
+        } else {
+            urutanBelajar = [p, ...urutanBelajar];
+            posisiBelajar = 0;
+        }
+        tampilkanPelajaran();
+    }
+
+    // ================= EVENT LISTENERS =================
+    // Ujian
+    panelToggleBtn.addEventListener('click', openPanel);
+    panelClose.addEventListener('click', closePanel);
+    panelOverlay.addEventListener('click', function (e) {
+        if (e.target === panelOverlay) closePanel();
+    });
+    finishBtn.addEventListener('click', function () {
+        if (finishBtn.disabled) return;
+        mintaKonfirmasi();
+    });
+    confirmYes.addEventListener('click', function () { selesaikanUjian(false); });
+    confirmNo.addEventListener('click', function () { confirmOverlay.classList.remove('active'); });
+    restartBtn.addEventListener('click', resetKeLanding);
+    mulaiUjianBtn.addEventListener('click', function () {
+        if (!bankSoalLoaded) { alert('Bank soal belum berhasil dimuat.'); return; }
+        mulaiUjian();
+    });
+
+    // Belajar
+    belajarBtn.addEventListener('click', function () {
+        if (!pelajaranLoaded) { alert('Data pelajaran belum berhasil dimuat.'); return; }
+        mulaiBelajar();
+    });
+    belajarPrevBtn.addEventListener('click', pelajaranSebelumnya);
+    belajarNextBtn.addEventListener('click', pelajaranBerikutnya);
+    belajarBackBtn.addEventListener('click', resetKeLanding);
+    searchOpenBtn.addEventListener('click', openSearch);
+    searchClose.addEventListener('click', closeSearch);
+    searchOverlay.addEventListener('click', function (e) {
+        if (e.target === searchOverlay) closeSearch();
+    });
+    searchInput.addEventListener('input', function (e) {
+        lakukanPencarian(e.target.value);
+    });
+
+    // ================= INISIALISASI =================
+    loadAllData();
+</script>
+</body>
+</html>

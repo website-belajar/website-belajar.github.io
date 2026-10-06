@@ -1,0 +1,1850 @@
+{
+  "pelajaran": [
+    {
+      "nomor": 1,
+      "istilah": "Accident Insurance",
+      "penjelasan": "Asuransi kecelakaan. Bentuk asuransi kesehatan yang memberikan manfaat pembayaran akibat cedera tubuh yang disebabkan oleh kecelakaan. Mulai dikenal di Amerika Serikat sejak 1850 oleh Franklin Health Assurance Company di Massachusetts, yang menawarkan cakupan untuk cedera akibat kecelakaan kereta api dan kapal uap.",
+      "contoh": [
+        "Seseorang yang mengalami cedera akibat kecelakaan lalu lintas dan dirawat di rumah sakit dapat mengajukan klaim ke perusahaan asuransi kecelakaannya untuk penggantian biaya perawatan.",
+        "Travelers Insurance Company of Hartford mulai menjual asuransi kecelakaan perjalanan pada 1864, dengan polis pertama diberikan kepada pegawai kantor pos Hartford yang bepergian dari rumah ke kantor."
+      ]
+    },
+    {
+      "nomor": 2,
+      "istilah": "Accidental Death and Dismemberment (AD&D)",
+      "penjelasan": "Asuransi kematian dan kehilangan anggota badan akibat kecelakaan. Memberikan manfaat ketika tertanggung meninggal atau kehilangan penglihatan satu atau kedua mata, atau kehilangan satu tangan atau kaki secara langsung akibat cedera tubuh karena kecelakaan. Cakupan dapat dibuat sebagai asuransi 24 jam atau sebagai asuransi bukan dalam hubungan kerja (non-occupational).",
+      "contoh": [
+        "Jika akibat kecelakaan tertanggung kehilangan satu tangan, perusahaan asuransi membayar separuh uang pertanggungan. Jika kehilangan dua tangan sekaligus karena kecelakaan yang sama, hanya uang pertanggungan penuh yang dibayar (manfaat ganda tidak melebihi uang pertanggungan).",
+        "Polis AD&D sebagai pelengkap asuransi kumpulan mulai ditawarkan pada tahun 1917, setelah disadari bahwa kerugian kecelakaan di luar hubungan kerja tidak termasuk dalam undang-undang kompensasi pekerja."
+      ]
+    },
+    {
+      "nomor": 3,
+      "istilah": "Administrative Services Only (ASO)",
+      "penjelasan": "Layanan administrasi saja. Jasa yang ditawarkan perusahaan asuransi atau pihak ketiga kepada pemberi kerja yang mengelola sendiri program jaminan kesehatan karyawannya (self-insured atau partially self-funded). Perusahaan asuransi hanya menangani administrasi, bukan menanggung risiko.",
+      "contoh": [
+        "Sebuah perusahaan besar memutuskan untuk mendanai sendiri klaim kesehatan karyawannya untuk memperbaiki arus kas dan mengurangi kewajiban pajak, lalu menyewa perusahaan asuransi untuk mengurus administrasi klaim, pendaftaran peserta, dan pelaporan."
+      ]
+    },
+    {
+      "nomor": 4,
+      "istilah": "Adverse Selection",
+      "penjelasan": "Seleksi yang merugikan. Kecenderungan orang yang memiliki risiko lebih tinggi (misalnya kondisi kesehatan buruk) untuk lebih tertarik membeli asuransi dibanding orang yang berisiko rendah. Fenomena ini menjadi alasan utama perlunya underwriting, agar premi yang ditetapkan sebanding dengan risiko yang ditanggung.",
+      "contoh": [
+        "Seseorang yang sudah mengetahui memiliki penyakit kronis cenderung membeli paket asuransi kesehatan komprehensif, sedangkan orang sehat menolak karena premi terasa mahal.",
+        "Milky Way Enterprise, perusahaan konstruksi dengan 5.000 karyawan tersebar, memilih membeli asuransi kesehatan untuk mengantisipasi adverse selection jika karyawan mengurus sendiri perlindungannya."
+      ]
+    },
+    {
+      "nomor": 5,
+      "istilah": "Age",
+      "penjelasan": "Usia. Faktor penting dalam underwriting dan penentuan tarif premi. Masalah kesehatan cenderung meningkat sesuai usia, sehingga premis asuransi kesehatan dan disabilitas pendapatan untuk peserta berusia tua biasanya lebih tinggi, dan sering disertai pemeriksaan kesehatan yang lebih ketat.",
+      "contoh": [
+        "Penanggung disabilitas pendapatan sering mengurangi batas ganti rugi maksimum untuk pemohon di atas usia 50 tahun karena pengalaman buruk pada usia tersebut.",
+        "Angka kesakitan (morbiditas) pada kelompok usia balita dan usia lanjut jauh di atas rata-rata populasi, sedangkan yang terendah ada pada kelompok usia produktif."
+      ]
+    },
+    {
+      "nomor": 6,
+      "istilah": "Amstrong Investigation",
+      "penjelasan": "Penyelidikan Armstrong tahun 1905. Penyelidikan resmi di Amerika Serikat yang awalnya diarahkan pada praktik asuransi jiwa, tetapi berdampak besar pada industri asuransi kesehatan. Hasilnya: pengawasan peraturan yang jauh lebih besar, lebih banyak undang-undang tentang ketentuan polis dan operasi perusahaan, serta persaingan yang lebih ketat.",
+      "contoh": [
+        "Setelah Investigasi Armstrong, model undang-undang Standard Provisions Law dikembangkan oleh National Convention of Insurance Commissioners (NAIC) pada 1912 dan diadopsi oleh 27 negara bagian AS untuk menyeragamkan ketentuan operasi kontrak asuransi kesehatan."
+      ]
+    },
+    {
+      "nomor": 7,
+      "istilah": "Application",
+      "penjelasan": "Aplikasi permohonan asuransi. Formulir yang diisi calon tertanggung untuk mengajukan asuransi, memuat informasi identitas, manfaat yang diinginkan, dan riwayat kesehatan. Aplikasi merupakan bagian integral dari kontrak asuransi dan menjadi dasar keputusan underwriter.",
+      "contoh": [
+        "Aplikasi asuransi biaya medis perorangan terdiri dari tiga bagian: identitas pemohon, informasi manfaat yang diharapkan, serta riwayat kesehatan masa lalu yang menjadi dasar underwriting."
+      ]
+    },
+    {
+      "nomor": 8,
+      "istilah": "Attending Physician Statement (APS)",
+      "penjelasan": "Pernyataan dokter yang bertugas. Laporan dari dokter atau rumah sakit yang merawat calon tertanggung, diminta underwriter jika aplikasi atau laporan pemeriksaan kesehatan mengungkapkan riwayat medis yang serius atau dipertanyakan. APS adalah sumber informasi paling akurat untuk menggambarkan riwayat kesehatan calon tertanggung.",
+      "contoh": [
+        "Jika pemohon asuransi melaporkan pernah dirawat karena darah tinggi, underwriter meminta APS untuk mengetahui tekanan darah, obat yang diberikan, dan tingkat kontrol yang dicapai."
+      ]
+    },
+    {
+      "nomor": 9,
+      "istilah": "Automatic Reinsurance",
+      "penjelasan": "Reasuransi otomatis. Bentuk reasuransi di mana perusahaan asuransi mentransfer risikonya dan perusahaan reasuransi menerima semua risiko dalam batasan tertentu yang disepakati dan tertuang dalam kontrak.",
+      "contoh": [
+        "Jika kesepakatan reasuransi menyatakan bahwa reinsurer bertanggung jawab atas klaim di atas Rp 10 miliar, maka semua kasus di atas batas itu otomatis menjadi tanggung jawab reinsurer tanpa perlu dinegosiasikan ulang per kasus."
+      ]
+    },
+    {
+      "nomor": 10,
+      "istilah": "Baylor Plan",
+      "penjelasan": "Paket Baylor. Program prabayar rumah sakit yang dianggap sebagai pendahulu dari apa yang kemudian dikenal sebagai paket Blue Cross. Berasal dari Baylor University Hospital di Dallas, Texas, pada 1929. Sekitar 1.500 guru sekolah yang menjadi anggota komunitas sosial menanggung 21 hari setahun untuk biaya inap dan makan di kamar semi privat dan layanan rumah sakit.",
+      "contoh": [
+        "Baylor Plan muncul pada awal Depresi ketika rumah sakit menghadapi penurunan pendapatan dan menyambut konsep kelompok untuk menjamin pembayaran."
+      ]
+    },
+    {
+      "nomor": 11,
+      "istilah": "Beneficiary",
+      "penjelasan": "Penerima manfaat. Orang atau pihak yang ditunjuk menerima santunan asuransi apabila tertanggung meninggal dunia atau mengalami kejadian yang dipertanggungkan.",
+      "contoh": [
+        "Dalam asuransi jiwa, santunan diberikan kepada ahli waris atau penerima manfaat (beneficiary) apabila tertanggung meninggal dunia."
+      ]
+    },
+    {
+      "nomor": 12,
+      "istilah": "Blue Cross",
+      "penjelasan": "Program layanan rumah sakit prabayar nirlaba di Amerika Serikat yang didirikan mulai tahun 1930an, disponsori oleh kelompok rumah sakit setempat. Merupakan pendahulu dari asuransi kesehatan kumpulan modern. Blue Cross menikmati status pajak preferensial dan perjanjian penggantian biaya yang menguntungkan dengan rumah sakit.",
+      "contoh": [
+        "Pada 1986, Kongres AS menarik pembebasan pajak penghasilan federal Blue Cross karena karakteristik operasionalnya makin mirip perusahaan asuransi komersial."
+      ]
+    },
+    {
+      "nomor": 13,
+      "istilah": "Blue Shield",
+      "penjelasan": "Program prabayar layanan dokter nirlaba di Amerika Serikat, disponsori oleh kelompok dokter setempat. Didirikan terpisah dari Blue Cross, dan dalam beberapa kasus menjadi pesaing langsung. Paket Pengobatan-Bedah Blue Shield pertama (California Physicians' Service) dikembangkan pada 1939.",
+      "contoh": [
+        "Blue Cross dan Blue Shield bergabung pada tahun 1982 menjadi Blue Cross and Blue Shield Association."
+      ]
+    },
+    {
+      "nomor": 14,
+      "istilah": "Cash Value",
+      "penjelasan": "Nilai tunai. Nilai akumulasi uang pada asuransi jiwa permanen (whole life) yang dapat dipergunakan pemegang polis. Asuransi jiwa permanen memberikan bunga dengan meningkatkan nilai tunai uang dan sering digunakan sebagai cara menabung.",
+      "contoh": [
+        "Seorang pemegang polis whole life insurance dapat meminjam sebagian dari nilai tunai polisnya atau menebus polis untuk mendapatkan nilai tunainya."
+      ]
+    },
+    {
+      "nomor": 15,
+      "istilah": "Casualty Insurance",
+      "penjelasan": "Asuransi kecelakaan atau asuransi kerugian. Mencakup kerugian yang terjadi akibat kejadian tertentu seperti kecelakaan, atau kejadian di mana terjadi pembunuhan terhadap seseorang, cedera, atau menjadi sakit. Terutama menanggung kerugian yang timbul akibat klaim cedera atau kerusakan yang diajukan oleh orang lain.",
+      "contoh": [
+        "Jenis casualty insurance termasuk asuransi yang menanggung kerugian akibat tindakan kriminal (pencurian dan perampokan), kerugian akibat penipuan (fidelity bonds), keamanan usaha (surety bonds), mesin industri, dan penerbangan."
+      ]
+    },
+    {
+      "nomor": 16,
+      "istilah": "Ceding Company",
+      "penjelasan": "Perusahaan asuransi yang mereasuransikan. Perusahaan asuransi yang membeli asuransi dari perusahaan asuransi lain (reinsurer) untuk mengalihkan sebagian atau seluruh risiko polis yang diterbitkannya.",
+      "contoh": [
+        "Sebuah perusahaan asuransi kesehatan dengan retensi sendiri Rp 5 miliar per kasus mereasuransikan risiko di atas batas itu ke reinsurer agar tidak bangkrut jika terjadi klaim katastrofik."
+      ]
+    },
+    {
+      "nomor": 17,
+      "istilah": "Claim",
+      "penjelasan": "Klaim. Permintaan pembayaran manfaat oleh tertanggung atau pemegang polis kepada perusahaan asuransi atas kerugian yang dialami sesuai ketentuan polis.",
+      "contoh": [
+        "Ny Sari mengajukan klaim ke perusahaan asuransi setelah dirawat inap tujuh hari karena sakit demam berdarah."
+      ]
+    },
+    {
+      "nomor": 18,
+      "istilah": "Contract of Indemnity",
+      "penjelasan": "Kontrak indemnitas. Kontrak yang memberikan penggantian atas kerugian yang benar-benar dialami tertanggung, bukan pembayaran sejumlah uang tertentu terlepas dari kerugian. Asuransi kesehatan umumnya berbentuk kontrak indemnitas.",
+      "contoh": [
+        "Polis asuransi kesehatan adalah contract of indemnity yang memberikan pertanggungan untuk mengganti biaya perawatan medis yang telah dibayar atau mengganti hilangnya penghasilan akibat disabilitas."
+      ]
+    },
+    {
+      "nomor": 19,
+      "istilah": "Credit Life Insurance",
+      "penjelasan": "Asuransi jiwa kredit. Bentuk asuransi jiwa di mana pesertanya dapat menggunakan jumlah preminya sebagai pembayar hutang pinjaman apabila yang bersangkutan meninggal dunia.",
+      "contoh": [
+        "Seorang nasabah bank yang mengambil kredit rumah dengan credit life insurance tidak perlu khawatir keluarganya kesulitan melunasi sisa kredit jika ia meninggal dunia."
+      ]
+    },
+    {
+      "nomor": 20,
+      "istilah": "Dental Expense Insurance",
+      "penjelasan": "Asuransi biaya perawatan gigi. Memberikan penggantian biaya perawatan gigi dan biaya persediaan, termasuk perawatan pencegahan. Klasifikasi layanan meliputi diagnostik, preventif, restoratif, prostodontik, bedah mulut, periodontik, dan orthodontik.",
+      "contoh": [
+        "Pada Agustus 1959, paket asuransi biaya kesehatan kumpulan komprehensif pertama yang mencakup semua jenis layanan gigi dibuat oleh Continental Casualty Company."
+      ]
+    },
+    {
+      "nomor": 21,
+      "istilah": "Disability Income Insurance",
+      "penjelasan": "Asuransi disabilitas pendapatan. Bentuk asuransi kesehatan yang memberikan pembayaran berkala jika tertanggung tidak dapat bekerja karena sakit atau cedera. Manfaat dasar mengganti sebagian dari pendapatan yang hilang akibat kecacatan atau disabilitas.",
+      "contoh": [
+        "Seseorang berusia 50 tahun yang cedera dan tidak dapat bekerja lagi dengan penghasilan USD 3.000 per bulan akan kehilangan USD 36.000 per tahun, yang jika berlanjut sampai usia pensiun 65 tahun mencapai USD 1.260.000 — jumlah yang layak diasuransikan."
+      ]
+    },
+    {
+      "nomor": 22,
+      "istilah": "Flexible Benefit Plan",
+      "penjelasan": "Paket manfaat fleksibel, juga disebut paket kafetaria. Program manfaat yang memungkinkan peserta memilih beberapa atau semua manfaat yang ditawarkan pemberi kerja, sesuai kebutuhan mereka. Tiga tujuan utamanya: kepuasan karyawan, pengendalian biaya, dan efektivitas pajak.",
+      "contoh": [
+        "Karyawan memilih kombinasi asuransi jiwa 3x gaji, asuransi kesehatan dengan deductible Rp 5 juta, asuransi gigi maksimum Rp 10 juta, dan tidak ikut asuransi penglihatan, sesuai kebutuhannya."
+      ]
+    },
+    {
+      "nomor": 23,
+      "istilah": "Group Hospital Expense Benefits",
+      "penjelasan": "Manfaat biaya rumah sakit kumpulan. Manfaat biaya perawatan rumah sakit yang diberikan melalui asuransi kumpulan. Pada tahun 1934, General Tire & Rubber Company meminta Equitable Life Assurance Society menambahkan biaya perawatan rumah sakit ke program asuransi kumpulan yang ada.",
+      "contoh": [
+        "Pada periode awal 1930an, cakupan biaya rumah sakit kumpulan dikembangkan untuk membantu karyawan memenuhi biaya perawatan medis yang tidak terduga."
+      ]
+    },
+    {
+      "nomor": 24,
+      "istilah": "Guaranteed Renewable Policy",
+      "penjelasan": "Polis dijamin terbarukan. Polis asuransi kesehatan perorangan yang menjamin hak peserta untuk terus memperbarui polis dengan membayar premi tepat waktu, tetapi penanggung dapat menaikkan premi berdasarkan klasifikasi kelompok (misalnya umur atau pekerjaan), bukan secara perorangan.",
+      "contoh": [
+        "Berbeda dengan polis noncancellable yang premi tidak dapat dinaikkan, guaranteed renewable memberi keleluasaan terbatas kepada penanggung untuk menyesuaikan premi sesuai klasifikasi peserta."
+      ]
+    },
+    {
+      "nomor": 25,
+      "istilah": "Health Maintenance Organization (HMO)",
+      "penjelasan": "Organisasi pemeliharaan kesehatan. Salah satu bentuk pengaturan managed care yang mengintegrasikan pembiayaan dan penyediaan layanan kesehatan, biasanya dengan sistem kapitasi dan jaringan penyedia yang terbatas.",
+      "contoh": [
+        "Dalam HMO, peserta umumnya hanya bisa memperoleh layanan dari jaringan penyedia yang dikontrak, kecuali dalam keadaan darurat, untuk mengendalikan biaya."
+      ]
+    },
+    {
+      "nomor": 26,
+      "istilah": "Health Insurance Portability and Accountability Act (HIPAA)",
+      "penjelasan": "Undang-undang federal AS tahun 1996, efektif 1 Januari 1997, yang mengatur portabilitas asuransi kesehatan dan akuntabilitas. Di antara isinya: pengurangan pajak atas premi asuransi dan layanan perawatan jangka panjang sebagai biaya medis; pembatasan kondisi yang telah ada sebelumnya; serta kewajiban penanggung untuk menerima pemohon tertentu.",
+      "contoh": [
+        "Di bawah HIPAA 1996, penanggung yang melayani pasar perorangan harus menerima (tanpa pembatasan pre-existing) setiap pemohon yang kehilangan cakupan kelompok dan memiliki 18 bulan cakupan sebelumnya."
+      ]
+    },
+    {
+      "nomor": 27,
+      "istilah": "Health Savings Account (HSA)",
+      "penjelasan": "Rekening tabungan kesehatan. Rekening dengan keuntungan pajak di AS yang dapat digunakan bersama paket asuransi kesehatan dengan deductible tinggi (high-deductible health plan) untuk membayar biaya kesehatan yang tidak ditanggung asuransi.",
+      "contoh": [
+        "Seorang peserta dengan HSA dapat menyisihkan dana sebelum pajak ke rekening tersebut, dan dana itu digunakan untuk membayar deductible serta biaya kesehatan lain yang tidak ditanggung asuransi."
+      ]
+    },
+    {
+      "nomor": 28,
+      "istilah": "Hospital-Surgical Plan",
+      "penjelasan": "Paket bedah rumah sakit. Cakupan asuransi yang meliputi biaya kamar dan makan harian, biaya rumah sakit lainnya, biaya rawat jalan, biaya bedah, biaya bersalin, serta biaya dokter rumah sakit.",
+      "contoh": [
+        "Polis bedah rumah sakit lengkap menjamin biaya kamar dan makan, biaya rumah sakit lain, biaya rawat jalan dan diagnostik, biaya bedah, biaya bersalin, serta biaya dokter rumah sakit."
+      ]
+    },
+    {
+      "nomor": 29,
+      "istilah": "Individual Health Insurance",
+      "penjelasan": "Asuransi kesehatan perorangan. Asuransi kesehatan yang dijual kepada individu, berbeda dengan asuransi kesehatan kumpulan yang dijual kepada pemberi kerja atau asosiasi. Underwriter harus menilai riwayat kesehatan setiap pemohon secara individual.",
+      "contoh": [
+        "Pasar asuransi kesehatan perorangan di AS mencakup pasar primer permanen (orang yang membeli asuransi untuk jangka panjang), pasar primer sementara (misalnya yang baru lulus kuliah atau baru berhenti dari dinas militer), dan pasar tambahan (mereka yang telah punya asuransi primer namun ingin menambah manfaat)."
+      ]
+    },
+    {
+      "nomor": 30,
+      "istilah": "Insurable Interest",
+      "penjelasan": "Kepentingan yang dapat diasuransikan. Hubungan hukum antara pemegang polis dan objek yang diasuransikan di mana pemegang polis akan mengalami kerugian nyata jika keadaan yang diasuransikan terjadi. Persyaratan insurable interest wajib dipenuhi agar polis tidak dianggap sebagai perjanjian taruhan yang ilegal.",
+      "contoh": [
+        "Dalam asuransi jiwa, insurable interest ada apabila pemegang polis mempunyai kemungkinan mendapatkan keuntungan jika tertanggung tetap hidup dan mengalami kerugian jika tertanggung meninggal.",
+        "Untuk asuransi kesehatan, calon tertanggung umumnya dianggap memiliki insurable interest pada kesehatannya sendiri; pemberi kerja memiliki insurable interest pada kesehatan karyawannya untuk tujuan disability income insurance."
+      ]
+    },
+    {
+      "nomor": 31,
+      "istilah": "Kecelakaan Kerja (JKK)",
+      "penjelasan": "Jaminan Kecelakaan Kerja. Program jaminan sosial tenaga kerja di Indonesia yang menanggung kecelakaan yang terjadi dalam hubungan kerja, termasuk perjalanan dari rumah ke tempat kerja dan sebaliknya. Dikelola oleh BPJS Ketenagakerjaan.",
+      "contoh": [
+        "Seorang pekerja pabrik yang mengalami cedera saat mengoperasikan mesin dapat mengajukan klaim JKK untuk mendapatkan penggantian biaya pengobatan dan santunan."
+      ]
+    },
+    {
+      "nomor": 32,
+      "istilah": "Liability Insurance",
+      "penjelasan": "Asuransi tanggung gugat. Asuransi yang memberikan manfaat yang dibayarkan atas nama pihak yang diasuransikan yang secara hukum bertanggung jawab atas kejadian yang tidak disengaja yang dialami oleh pihak lain atau harta benda mereka.",
+      "contoh": [
+        "Seorang pemilik rumah yang tamunya terpeleset dan cedera karena lantai yang licin dapat mengajukan klaim ke asuransi liability-nya untuk menanggung biaya ganti rugi kepada tamu tersebut."
+      ]
+    },
+    {
+      "nomor": 33,
+      "istilah": "Life Insurance",
+      "penjelasan": "Asuransi jiwa. Asuransi yang memberikan santunan kepada ahli waris atau penerima manfaat apabila tertanggung meninggal dunia. Bentuk utamanya: asuransi jiwa permanen (whole life), asuransi jiwa berjangka (term life), dan asuransi jiwa kredit (credit life).",
+      "contoh": [
+        "Tuan Budi memiliki polis asuransi jiwa dwiguna masa asuransi 10 tahun dengan rider dread disease benefit, di mana jika ia mengalami stroke, kanker, gagal ginjal, serangan jantung, bedah aorta, atau penyakit hati kronis, ia menerima 50% dari uang pertanggungan."
+      ]
+    },
+    {
+      "nomor": 34,
+      "istilah": "Long-Term Care Insurance",
+      "penjelasan": "Asuransi perawatan jangka panjang (LTC). Memberikan manfaat uang tunai tertentu atau persentase dari biaya yang dibebankan untuk perawatan di panti perawatan (nursing home), perawatan kesehatan di rumah (home health care), dan perawatan orang dewasa (adult day care) jika tertanggung menderita gangguan kapasitas fungsional atau kognitif.",
+      "contoh": [
+        "Seseorang berusia 65 tahun menghadapi 43% kemungkinan memasuki panti perawatan atau panti wreda selama sisa hidupnya, dengan biaya perawatan terampil bisa mencapai atau melebihi USD 40.000 per tahun."
+      ]
+    },
+    {
+      "nomor": 35,
+      "istilah": "Major Medical Expense Insurance",
+      "penjelasan": "Asuransi biaya medis utama. Menyediakan perlindungan luas dan substansial dari biaya perawatan medis yang besar dan tidak terduga. Mencakup sebagian besar biaya medis hingga manfaat maksimal tinggi, umumnya dikenakan deductible dan coinsurance. Ada dua mekanisme: tambahan (supplemental) dan komprehensif.",
+      "contoh": [
+        "Contoh program medis utama komprehensif adalah memberikan penggantian 80% dari semua biaya gabungan yang ditanggung dalam satu tahun kalender, setelah deductible Rp 5 juta atau Rp 10 juta, hingga batas maksimum manfaat Rp 10 miliar."
+      ]
+    },
+    {
+      "nomor": 36,
+      "istilah": "Managed Health Care",
+      "penjelasan": "Perawatan kesehatan terkelola. Sistem yang mengintegrasikan pembiayaan dan penyediaan layanan kesehatan yang sesuai, dengan lebih banyak panduan tentang pemantauan pemanfaatan dan biaya dibanding pengaturan biaya-untuk-layanan tradisional. Bentuknya antara lain HMO dan PPO.",
+      "contoh": [
+        "Model managed care menggunakan teknik seperti utilization review, case management, dan jaringan penyedia yang dikontrak untuk mengendalikan biaya kesehatan."
+      ]
+    },
+    {
+      "nomor": 37,
+      "istilah": "Medicaid",
+      "penjelasan": "Program asuransi kesehatan pemerintah federal AS untuk penduduk miskin, diundangkan pada 1965 bersamaan dengan Medicare.",
+      "contoh": [
+        "Medicaid dan Medicare sama-sama diundangkan melalui amandemen Social Security Act 1965, namun menyasar kelompok berbeda: Medicare untuk usia lanjut, Medicaid untuk penduduk miskin."
+      ]
+    },
+    {
+      "nomor": 38,
+      "istilah": "Medicare",
+      "penjelasan": "Program asuransi kesehatan sosial pemerintah federal AS untuk penduduk usia 65 tahun ke atas. Terdiri dari Part A (asuransi rumah sakit) dan Part B (asuransi medis tambahan sukarela). Dana dipupuk sejak peserta masih usia produktif melalui pajak jaminan sosial.",
+      "contoh": [
+        "Part A menyediakan manfaat rawat inap, fasilitas perawatan terampil, layanan kesehatan rumah, dan hospice care. Part B memberikan manfaat perawatan dokter, prosedur bedah, layanan rawat jalan rumah sakit, dan persediaan medis."
+      ]
+    },
+    {
+      "nomor": 39,
+      "istilah": "Morbidity",
+      "penjelasan": "Morbiditas. Angka kesakitan. Jumlah terjadinya penyakit atau kecelakaan berdasarkan usia dalam suatu kelompok orang. Underwriter asuransi kesehatan lebih memperhatikan morbiditas (frekuensi, durasi, dan tingkat keparahan sakit) daripada mortalitas.",
+      "contoh": [
+        "Angka kesakitan pada usia balita dan usia tua biasanya jauh di atas rata-rata populasi, sedangkan yang terendah ada pada kelompok usia produktif."
+      ]
+    },
+    {
+      "nomor": 40,
+      "istilah": "Mortality",
+      "penjelasan": "Mortalitas. Angka kematian. Jumlah kematian berdasarkan usia dalam suatu kelompok orang. Menjadi perhatian utama underwriting asuransi jiwa, sedangkan underwriting asuransi kesehatan lebih fokus pada morbiditas.",
+      "contoh": [
+        "Perusahaan asuransi membuat tabel mortalitas (mortality tables) yang dengan akurat menyajikan jumlah orang dalam kumpulan besar yang mungkin akan meninggal pada usia tertentu."
+      ]
+    },
+    {
+      "nomor": 41,
+      "istilah": "Mutual Company",
+      "penjelasan": "Perusahaan asuransi mutual (usaha bersama). Perusahaan asuransi yang tidak memiliki pemegang saham. Kepemilikan dan pengendalian diberikan kepada pemegang polisnya. Setiap pemilik polis berhak memilih dewan direktur dan menerima satu suara per orang.",
+      "contoh": [
+        "Di Indonesia, perusahaan asuransi yang berbentuk mutual adalah Asuransi Jiwa Bersama (AJB) Bumiputera 1912, yang didirikan pada 12 Februari 1912 di Magelang oleh Persatoean Goeroe-Goeroe Hindia Belanda."
+      ]
+    },
+    {
+      "nomor": 42,
+      "istilah": "National Association of Insurance Commissioners (NAIC)",
+      "penjelasan": "Asosiasi pengawas asuransi tingkat negara bagian di AS. Mengembangkan model undang-undang yang menjadi pedoman bagi setiap negara bagian, antara lain Standard Provisions Law (1912), Uniform Policy Provisions Law (1950), dan standar keterbacaan polis.",
+      "contoh": [
+        "NAIC mengembangkan model Uniform Policy Provisions Law (UPPL) pada 1950 untuk menyeragamkan ketentuan mandatory dan opsional pada formulir asuransi kesehatan."
+      ]
+    },
+    {
+      "nomor": 43,
+      "istilah": "Noncancellable Policy",
+      "penjelasan": "Polis yang tidak dapat dibatalkan. Memberikan hak kepada peserta untuk melanjutkan asuransi dengan pembayaran premi yang tepat waktu sampai minimal berumur 50 tahun, atau pada kasus yang diterbitkan setelah berumur 44 tahun, sedikitnya 5 tahun dari tanggal penerbitan polis. Penanggung tidak dapat membuat perubahan sepihak pada provisi polis ketika polis in-force.",
+      "contoh": [
+        "Dengan polis noncancellable, penanggung tidak dapat membatalkan, menolak memperbarui, atau meningkatkan tingkat premi di luar yang sudah ditentukan, selama peserta membayar premi tepat waktu."
+      ]
+    },
+    {
+      "nomor": 44,
+      "istilah": "Opting-out Provision",
+      "penjelasan": "Ketentuan opting-out. Provisi yang memungkinkan peserta untuk memilih tidak mengikuti suatu cakupan manfaat tertentu dalam paket asuransi kesehatan.",
+      "contoh": [
+        "Seorang peserta yang sudah memiliki asuransi kesehatan dari sumber lain bisa memilih opting-out dari cakupan asuransi kesehatan kumpulan di tempat kerjanya."
+      ]
+    },
+    {
+      "nomor": 45,
+      "istilah": "Preferred Provider Organization (PPO)",
+      "penjelasan": "Organisasi penyedia yang disukai. Bentuk managed care yang mengontrak jaringan penyedia dengan tarif diskon. Peserta dapat memperoleh layanan dari penyedia di luar jaringan, tetapi dengan biaya tambahan (coinsurance lebih tinggi).",
+      "contoh": [
+        "Berbeda dengan HMO yang mengharuskan peserta memakai penyedia dalam jaringan, PPO memberikan keleluasaan memilih penyedia di luar jaringan dengan konsekuensi biaya lebih tinggi."
+      ]
+    },
+    {
+      "nomor": 46,
+      "istilah": "Property Insurance",
+      "penjelasan": "Asuransi harta benda. Memberikan manfaat bila harta benda yang diasuransikan mengalami kerusakan atau hilang karena risiko tertentu seperti kebakaran, pencurian, atau kecelakaan. Termasuk perlindungan terhadap rumah berikut isinya, bangunan komersial, alat-alat, furniture, dan kendaraan.",
+      "contoh": [
+        "Risiko properti dapat berupa kehilangan harta benda, kehilangan penggunaan properti atau penghasilannya, dan biaya tambahan yang disebabkan oleh hilangnya harta benda tersebut."
+      ]
+    },
+    {
+      "nomor": 47,
+      "istilah": "Pure Risk",
+      "penjelasan": "Risiko murni. Risiko yang hanya memiliki dua kemungkinan: tidak terjadi kerugian, atau terjadi kerugian akibat kejadian di luar kendali orang yang menghadapi risiko. Tidak ada kemungkinan untung. Inilah jenis risiko yang ditanggung oleh sistem asuransi.",
+      "contoh": [
+        "Sakit atau cedera adalah contoh pure risk — hasilnya hanya rugi atau tidak rugi, tidak ada untung. Berbeda dengan investasi saham (spekulatif) yang bisa untung atau rugi."
+      ]
+    },
+    {
+      "nomor": 48,
+      "istilah": "Reinsurance",
+      "penjelasan": "Reasuransi. Asuransi yang dibeli oleh perusahaan asuransi (ceding company) dari perusahaan asuransi lain (reinsurer) untuk mengalihkan sebagian atau seluruh risiko polis yang diterbitkannya. Tidak mengurangi tanggung jawab perusahaan asuransi pertama terhadap peserta.",
+      "contoh": [
+        "Perusahaan asuransi kesehatan dapat mentransfer risiko polis kesehatan yang bernilai sangat besar ke perusahaan reasuransi agar tidak bangkrut jika terjadi klaim katastrofik."
+      ]
+    },
+    {
+      "nomor": 49,
+      "istilah": "Retrocession",
+      "penjelasan": "Retrosesi. Transfer risiko dari perusahaan reasuransi kepada perusahaan reasuransi lain. Dilakukan dengan alasan yang sama seperti perusahaan asuransi biasa melakukan reasuransi, yaitu ketika jumlah kerugian yang direasuransikan sangat besar.",
+      "contoh": [
+        "Perusahaan reasuransi yang menerima klaim sangat besar dapat melakukan retrosesi dengan memindahkan sebagian risiko ke retrocessionaire."
+      ]
+    },
+    {
+      "nomor": 50,
+      "istilah": "Risk",
+      "penjelasan": "Risiko. Ketidakpastian (uncertainty) mengenai masa depan yang dapat menimbulkan kerugian. Dalam konteks asuransi, risiko dibedakan antara risiko murni (pure risk) yang dapat diasuransikan dan risiko spekulatif (speculative risk) yang tidak dapat diasuransikan.",
+      "contoh": [
+        "Sakit, kecelakaan, kematian, kebakaran, dan gempa bumi adalah contoh risiko yang dihadapi dalam kehidupan sehari-hari yang dapat menimbulkan kerugian ekonomi."
+      ]
+    },
+    {
+      "nomor": 51,
+      "istilah": "Risk Avoidance",
+      "penjelasan": "Menghindari risiko. Salah satu strategi manajemen risiko dengan cara mencegah penyebab risiko. Kadang tidak efektif atau tidak praktis dilakukan.",
+      "contoh": [
+        "Seseorang memilih tidak bepergian dengan pesawat karena takut kecelakaan pesawat — tetapi ini tidak praktis jika harus melakukan perjalanan jauh."
+      ]
+    },
+    {
+      "nomor": 52,
+      "istilah": "Risk Reduction",
+      "penjelasan": "Mengurangi risiko. Strategi manajemen risiko dengan melakukan sesuatu untuk mencegah atau mengurangi kerugian jika risiko itu terjadi.",
+      "contoh": [
+        "Memasang alat pemadam kebakaran dan detektor asap di gedung untuk mengurangi dampak jika terjadi kebakaran."
+      ]
+    },
+    {
+      "nomor": 53,
+      "istilah": "Risk Assumption",
+      "penjelasan": "Menerima atau menahan risiko. Strategi manajemen risiko dengan menanggung seluruh tanggung jawab finansial atas risiko tersebut. Disebut juga self-insurance atau swa-asuransi.",
+      "contoh": [
+        "Sebuah perusahaan besar memutuskan untuk membayar sendiri klaim kesehatan karyawan yang nilainya di bawah Rp 5 juta, dan hanya membeli asuransi untuk klaim di atas nilai itu."
+      ]
+    },
+    {
+      "nomor": 54,
+      "istilah": "Risk Transfer",
+      "penjelasan": "Mengalihkan risiko. Strategi manajemen risiko dengan memindahkan sebagian atau seluruh risiko kepada pihak lain, misalnya kepada perusahaan asuransi, dengan membayar premi sebagai imbalan.",
+      "contoh": [
+        "Membeli polis asuransi kesehatan adalah bentuk risk transfer: peserta membayar premi relatif kecil, dan perusahaan asuransi menanggung risiko biaya kesehatan yang besar."
+      ]
+    },
+    {
+      "nomor": 55,
+      "istilah": "Speculative Risk",
+      "penjelasan": "Risiko spekulatif. Risiko yang memiliki tiga kemungkinan hasil: rugi, untung, atau impas. Tidak dapat diasuransikan karena mengandung unsur spekulasi, bukan ketidakpastian murni.",
+      "contoh": [
+        "Menanamkan uang dalam usaha bisnis atau membeli saham adalah contoh risiko spekulatif — pemodal berharap mendapat untung, tetapi bisa juga mengalami kerugian."
+      ]
+    },
+    {
+      "nomor": 56,
+      "istilah": "Static Risk",
+      "penjelasan": "Risiko statis. Risiko yang menimbulkan kerugian meskipun tidak ada perubahan ekonomi. Berasal dari sebab-sebab seperti bahaya alam, ketidakjujuran individu, dan sejenisnya. Cenderung muncul dengan pola teratur sehingga dapat diprediksi dan lebih sesuai ditangani asuransi.",
+      "contoh": [
+        "Kebakaran rumah atau perampokan bank adalah contoh risiko statis yang tidak dipengaruhi perubahan ekonomi."
+      ]
+    },
+    {
+      "nomor": 57,
+      "istilah": "Dynamic Risk",
+      "penjelasan": "Risiko dinamis. Risiko yang timbul akibat perubahan ekonomi seperti perubahan tingkat harga, selera konsumen, pendapatan, pengeluaran, serta teknologi. Umumnya dianggap kurang dapat diprediksi dibanding risiko statis karena kejadiannya tidak berpola teratur.",
+      "contoh": [
+        "Perubahan teknologi yang membuat suatu jenis pekerjaan hilang secara massal adalah contoh risiko dinamis yang sulit diprediksi."
+      ]
+    },
+    {
+      "nomor": 58,
+      "istilah": "Fundamental Risk",
+      "penjelasan": "Risiko dasar. Kerugian yang asal dan konsekuensinya bersifat impersonal — risiko kelompok yang disebabkan fenomena ekonomi, sosial, dan politik. Mempengaruhi sebagian besar atau bahkan semua masyarakat.",
+      "contoh": [
+        "Pengangguran, perang, gempa bumi, inflasi, dan banjir adalah contoh risiko dasar yang biasanya ditangani melalui asuransi sosial atau program pemerintah."
+      ]
+    },
+    {
+      "nomor": 59,
+      "istilah": "Particular Risk",
+      "penjelasan": "Risiko khusus. Kerugian yang timbul dari kejadian individual dan dirasakan oleh perorangan, bukan oleh keseluruhan kelompok. Bisa statis atau dinamis, dianggap tanggung jawab perorangan.",
+      "contoh": [
+        "Kebakaran rumah atau perampokan sebuah bank adalah contoh risiko khusus yang biasanya ditangani melalui pembelian asuransi."
+      ]
+    },
+    {
+      "nomor": 60,
+      "istilah": "Peril",
+      "penjelasan": "Peril. Penyebab kerugian. Dalam kaitannya dengan risiko, jika risiko adalah ketidakpastian yang berakibat timbulnya kerugian, maka peril adalah penyebab langsung terjadinya kerugian tersebut.",
+      "contoh": [
+        "Kebakaran, kecelakaan mobil, dan penyakit adalah contoh peril yang dapat menyebabkan kerugian finansial."
+      ]
+    },
+    {
+      "nomor": 61,
+      "istilah": "Hazard",
+      "penjelasan": "Hazard. Kondisi yang bisa meningkatkan atau menciptakan kemungkinan terjadinya peril. Dibedakan menjadi physical hazard, moral hazard, morale hazard, dan legal hazard.",
+      "contoh": [
+        "Riwayat serangan jantung adalah physical hazard yang meningkatkan kemungkinan seseorang meninggal lebih cepat daripada orang tanpa riwayat tersebut."
+      ]
+    },
+    {
+      "nomor": 62,
+      "istilah": "Physical Hazard",
+      "penjelasan": "Bahaya fisik. Karakteristik fisik yang dapat meningkatkan kemungkinan kerugian.",
+      "contoh": [
+        "Seseorang dengan berat badan berlebih memiliki karakteristik fisik yang diketahui berkontribusi terhadap masalah kesehatan, sehingga berisiko menimbulkan biaya perawatan medis lebih tinggi."
+      ]
+    },
+    {
+      "nomor": 63,
+      "istilah": "Moral Hazard",
+      "penjelasan": "Bahaya moral. Kemungkinan seseorang bertindak tidak jujur dalam transaksi asuransi, misalnya memberikan informasi yang tidak benar atau sengaja menimbulkan kerugian untuk mendapatkan klaim.",
+      "contoh": [
+        "Seseorang dengan riwayat kriminal memiliki kemungkinan lebih besar untuk menipu perusahaan asuransi, sehingga underwriter mempertimbangkan fakta itu dengan hati-hati."
+      ]
+    },
+    {
+      "nomor": 64,
+      "istilah": "Morale Hazard",
+      "penjelasan": "Bahaya morale. Hazard yang ditimbulkan oleh tindakan yang kurang hati-hati karena merasa sudah diasuransikan, sehingga menimbulkan kerugian.",
+      "contoh": [
+        "Seseorang yang rumahnya sudah diasuransikan bertindak ceroboh karena merasa kerugian akan ditanggung asuransi."
+      ]
+    },
+    {
+      "nomor": 65,
+      "istilah": "Legal Hazard",
+      "penjelasan": "Bahaya legal. Hazard yang ditimbulkan karena tindakan yang kurang peduli akibat adanya peraturan perundangan tentang perlindungan atau asuransi.",
+      "contoh": [
+        "Pemberi kerja yang kurang memperhatikan sarana keselamatan kerja justru meningkatkan terjadinya kecelakaan kerja karena tahu ada asuransi yang akan menanggung."
+      ]
+    },
+    {
+      "nomor": 66,
+      "istilah": "Underwriting",
+      "penjelasan": "Seleksi risiko. Proses mengidentifikasi dan mengelompokkan tingkat risiko yang dimiliki calon tertanggung, untuk menentukan apakah permohonan asuransi diterima atau ditolak, serta menetapkan tarif premi yang sesuai.",
+      "contoh": [
+        "Underwriting asuransi kesehatan perorangan menilai riwayat kesehatan setiap pemohon, sedangkan underwriting kumpulan lebih fokus pada penyebaran risiko dalam kelompok."
+      ]
+    },
+    {
+      "nomor": 67,
+      "istilah": "Underwriter",
+      "penjelasan": "Petugas seleksi risiko. Orang yang bertanggung jawab melakukan evaluasi risiko calon tertanggung, menganalisis risiko kesehatan, dan memprediksi terjadinya risiko di masa depan.",
+      "contoh": [
+        "Seorang underwriter asuransi kesehatan akan menganalisis riwayat kesehatan pemohon berusia 38 tahun dengan berat badan 96 kg dan tinggi 167 cm yang pernah menderita darah tinggi."
+      ]
+    },
+    {
+      "nomor": 68,
+      "istilah": "Standard Risk",
+      "penjelasan": "Risiko standar. Calon tertanggung yang memiliki kemungkinan mengalami kerugian yang tidak terlalu besar dari rata-rata, dan dikenakan tarif premi standar.",
+      "contoh": [
+        "Sebagian besar polis asuransi jiwa dan asuransi kesehatan diterbitkan dengan tarif premi standar untuk peserta dengan kondisi kesehatan rata-rata."
+      ]
+    },
+    {
+      "nomor": 69,
+      "istilah": "Substandard Risk",
+      "penjelasan": "Risiko sub-standar. Calon tertanggung yang memiliki kemungkinan mengalami kerugian jauh lebih besar dari rata-rata, namun tetap dapat diasuransikan dengan tarif premi yang lebih tinggi atau modifikasi polis.",
+      "contoh": [
+        "Seorang pemohon asuransi jiwa dengan riwayat penyakit kronis dapat dikenakan substandard premium rate atau polisnya dimodifikasi."
+      ]
+    },
+    {
+      "nomor": 70,
+      "istilah": "Declined Risk",
+      "penjelasan": "Risiko ditolak. Calon tertanggung yang memiliki risiko terlalu besar untuk ditanggung, sehingga permohonan asuransinya ditolak.",
+      "contoh": [
+        "Seseorang yang sedang menjalani perawatan kanker tidak dapat membeli asuransi kesehatan perawatan rumah sakit karena risikonya terlalu tinggi."
+      ]
+    },
+    {
+      "nomor": 71,
+      "istilah": "Preferred Risk",
+      "penjelasan": "Risiko pilihan. Calon tertanggung yang memiliki kemungkinan mengalami kerugian jauh lebih rendah dari rata-rata, sehingga dibebankan premi yang lebih rendah dari standar.",
+      "contoh": [
+        "Seorang calon tertanggung dengan kondisi fisik sangat baik, tidak merokok, dan riwayat keluarga sehat dapat dikategorikan sebagai preferred risk."
+      ]
+    },
+    {
+      "nomor": 72,
+      "istilah": "Super-Preferred Risk",
+      "penjelasan": "Risiko super pilihan. Klasifikasi tambahan bagi calon tertanggung dengan tingkat risiko yang sedikit lebih rendah daripada preferred risk.",
+      "contoh": [
+        "Beberapa perusahaan asuransi membuat klasifikasi super-preferred risk untuk peserta dengan kondisi kesehatan terbaik dan gaya hidup paling sehat."
+      ]
+    },
+    {
+      "nomor": 73,
+      "istilah": "Standard Premium Rate",
+      "penjelasan": "Tarif premi standar. Tarif premi yang dikenakan kepada peserta dengan risiko standar, merupakan tarif dasar yang berlaku umum.",
+      "contoh": [
+        "Seorang peserta asuransi kesehatan dengan kondisi kesehatan rata-rata akan dikenakan standard premium rate."
+      ]
+    },
+    {
+      "nomor": 74,
+      "istilah": "Substandard Premium Rate",
+      "penjelasan": "Tarif premi sub-standar. Tarif premi yang lebih tinggi dari tarif standar, dikenakan kepada peserta dengan risiko di atas rata-rata.",
+      "contoh": [
+        "Calon tertanggung dengan riwayat penyakit tertentu dikenakan substandard premium rate karena risiko klaim di masa depan lebih tinggi."
+      ]
+    },
+    {
+      "nomor": 75,
+      "istilah": "Retention Limit",
+      "penjelasan": "Batas retensi. Jumlah asuransi maksimum yang akan ditanggung oleh perusahaan asuransi atas risikonya sendiri untuk setiap jiwa, sebelum mengalihkan sebagian risiko ke perusahaan reasuransi.",
+      "contoh": [
+        "Perusahaan asuransi jiwa menetapkan retention limit Rp 500 juta per jiwa; nilai pertanggungan di atas itu direasuransikan ke perusahaan reasuransi."
+      ]
+    },
+    {
+      "nomor": 76,
+      "istilah": "Facultative Reinsurance",
+      "penjelasan": "Reasuransi fakultatif. Bentuk reasuransi di mana perusahaan reasuransi dapat menerima atau menolak risiko yang diajukan oleh perusahaan asuransi, karena penelaahan dilakukan per kasus.",
+      "contoh": [
+        "Untuk kasus dengan risiko khusus atau nilai sangat besar, ceding company mengajukan tawaran reasuransi secara fakultatif ke reinsurer, dan reinsurer memutuskan menerima atau menolak."
+      ]
+    },
+    {
+      "nomor": 77,
+      "istilah": "Reinsurer",
+      "penjelasan": "Perusahaan reasuransi. Perusahaan yang menerima pengalihan risiko dari perusahaan asuransi (ceding company).",
+      "contoh": [
+        "Ketika ceding company mentransfer risiko klaim di atas Rp 10 miliar, reinsurer bertanggung jawab membayar klaim di atas batas itu."
+      ]
+    },
+    {
+      "nomor": 78,
+      "istilah": "Retrocessionaire",
+      "penjelasan": "Perusahaan yang menerima retrosesi. Pihak yang menerima pengalihan risiko dari perusahaan reasuransi dalam transaksi retrosesi.",
+      "contoh": [
+        "Sebuah perusahaan reasuransi yang menghadapi klaim sangat besar melakukan retrosesi, sehingga sebagian risiko dialihkan ke retrocessionaire."
+      ]
+    },
+    {
+      "nomor": 79,
+      "istilah": "Annunity / Anuitas",
+      "penjelasan": "Anuitas. Kontrak yang menjamin pembayaran sejumlah uang kepada pihak tertentu selama waktu tertentu atau seumur hidup, biasanya digunakan sebagai penghasilan pensiun. Termasuk bentuk lain dari asuransi jiwa.",
+      "contoh": [
+        "Seorang pensiunan menerima anuitas bulanan dari perusahaan asuransi jiwa selama ia masih hidup, sebagai pengganti penghasilan tetap setelah pensiun."
+      ]
+    },
+    {
+      "nomor": 80,
+      "istilah": "Whole Life Insurance",
+      "penjelasan": "Asuransi jiwa seumur hidup (permanen). Asuransi jiwa yang memberikan perlindungan seumur hidup dan mengakumulasi nilai tunai. Sering digunakan sebagai cara menyimpan uang atau menabung.",
+      "contoh": [
+        "Pemegang polis whole life dapat memanfaatkan nilai tunai polisnya untuk kebutuhan keuangan mendesak atau meminjam uang dengan jaminan polis."
+      ]
+    },
+    {
+      "nomor": 81,
+      "istilah": "Term Life Insurance",
+      "penjelasan": "Asuransi jiwa berjangka. Asuransi jiwa yang memberikan perlindungan selama waktu tertentu, biasanya tidak menawarkan nilai tunai.",
+      "contoh": [
+        "Seorang kepala keluarga membeli term life insurance 20 tahun untuk melindungi keluarganya selama masa produktif."
+      ]
+    },
+    {
+      "nomor": 82,
+      "istilah": "Agency System",
+      "penjelasan": "Sistem keagenan. Sistem distribusi asuransi di mana agen dikontrak oleh perusahaan asuransi untuk menjual produk perusahaan tersebut kepada calon peserta.",
+      "contoh": [
+        "Tumpuan pengembangan bisnis asuransi kesehatan perorangan di Indonesia adalah sistem keagenan, di mana agen melakukan penjualan langsung kepada individu."
+      ]
+    },
+    {
+      "nomor": 83,
+      "istilah": "Agent",
+      "penjelasan": "Agen. Orang yang dikontrak oleh perusahaan asuransi untuk menjual produk perusahaan tersebut. Berfungsi juga sebagai pelayanan pemegang polis dan sumber informasi.",
+      "contoh": [
+        "Agen asuransi kesehatan perorangan melakukan underwriting lapangan (seleksi risiko awal), pelayanan pemegang polis, dan hubungan masyarakat."
+      ]
+    },
+    {
+      "nomor": 84,
+      "istilah": "Broker",
+      "penjelasan": "Pialang. Perorangan atau perusahaan yang mewakili kepentingan peserta dalam menentukan cakupan asuransinya dari suatu perusahaan asuransi. Bekerja untuk kepentingan pemegang polis, bukan untuk perusahaan asuransi.",
+      "contoh": [
+        "Broker asuransi kesehatan kumpulan mewakili perusahaan klien untuk memilih produk asuransi yang paling sesuai dari berbagai perusahaan asuransi."
+      ]
+    },
+    {
+      "nomor": 85,
+      "istilah": "Employee Benefit Consultant",
+      "penjelasan": "Konsultan kesejahteraan karyawan. Perorangan atau perusahaan yang mengkhususkan diri dalam membuat rancangan, penjualan, dan jasa pelayanan asuransi karyawan. Umumnya mendapat pembayaran dari klien dan tidak menerima komisi dari perusahaan asuransi.",
+      "contoh": [
+        "Sebuah perusahaan besar menggunakan konsultan kesejahteraan karyawan untuk merancang paket asuransi kesehatan karyawan yang paling efisien."
+      ]
+    },
+    {
+      "nomor": 86,
+      "istilah": "Group Representative",
+      "penjelasan": "Perwakilan kelompok. Karyawan perusahaan asuransi yang dilatih tentang teknik penjualan dan pelayanan santunan asuransi kumpulan. Bekerja sama dengan agen dan broker dalam mengembangkan kepesertaan kumpulan.",
+      "contoh": [
+        "Seorang group representative membantu proses pendaftaran peserta baru, mempersiapkan prosedur administrasi, dan memberikan informasi kepada kantor pusat tentang persaingan di lapangan."
+      ]
+    },
+    {
+      "nomor": 87,
+      "istilah": "Direct Writer",
+      "penjelasan": "Penanggung langsung. Perusahaan asuransi yang memasarkan produknya langsung kepada calon peserta tanpa menggunakan agen atau broker. Menggunakan tenaga-tenaga yang digaji untuk mendekati perusahaan.",
+      "contoh": [
+        "Beberapa perusahaan asuransi yang dikenal sebagai direct writers langsung memasarkan produknya kepada perusahaan calon peserta tanpa perantara."
+      ]
+    },
+    {
+      "nomor": 88,
+      "istilah": "Prospect",
+      "penjelasan": "Prospek. Calon peserta asuransi yang memenuhi syarat: membutuhkan asuransi kesehatan, mampu membayar premi, dan memenuhi syarat untuk proses underwriting.",
+      "contoh": [
+        "Semua prospek untuk asuransi kesehatan perorangan mempunyai nama, tetapi tidak semua nama adalah prospek sampai terbukti membutuhkan asuransi dan memenuhi syarat."
+      ]
+    },
+    {
+      "nomor": 89,
+      "istilah": "Prospecting",
+      "penjelasan": "Pengembangan prospek. Proses mengubah daftar nama menjadi prospek yang memenuhi syarat, melalui berbagai sumber data dan pendekatan.",
+      "contoh": [
+        "Agen asuransi kesehatan melakukan prospecting dengan menyusun daftar prospek dari pemegang polis yang ada, teman, keluarga, atau perusahaan yang menyediakan daftar prospek."
+      ]
+    },
+    {
+      "nomor": 90,
+      "istilah": "Cold Call",
+      "penjelasan": "Telepon langsung. Pendekatan kepada calon prospek melalui telepon tanpa memberi tahu sebelumnya.",
+      "contoh": [
+        "Seorang agen asuransi menelepon nomor acak untuk menawarkan produk asuransi kesehatan tanpa perkenalan sebelumnya."
+      ]
+    },
+    {
+      "nomor": 91,
+      "istilah": "Pre-Approach Letter",
+      "penjelasan": "Surat perkenalan. Surat yang dikirim agen kepada prospek untuk menjelaskan maksud kunjungan, biasanya diikuti dengan telepon untuk mengatur pertemuan.",
+      "contoh": [
+        "Agen mengirim pre-approach letter kepada seorang pengusaha untuk menjelaskan manfaat asuransi kesehatan kumpulan bagi karyawannya."
+      ]
+    },
+    {
+      "nomor": 92,
+      "istilah": "Pre-Approach Telephone Call",
+      "penjelasan": "Telepon pendahuluan. Sebelum melakukan pertemuan untuk menawarkan produk asuransi, agen menelepon prospek terlebih dahulu untuk menumbuhkan minatnya.",
+      "contoh": [
+        "Sebelum berkunjung ke kantor calon klien, agen melakukan pre-approach telephone call untuk memastikan waktu dan menumbuhkan minat."
+      ]
+    },
+    {
+      "nomor": 93,
+      "istilah": "Policyholder Referral",
+      "penjelasan": "Referensi pemegang polis. Pendekatan di mana pemegang polis merekomendasikan agen kepada kenalannya. Menggunakan pemegang polis sebagai orang yang berpengaruh (centers of influence).",
+      "contoh": [
+        "Agen meminta pemegang polis yang puas untuk memperkenalkan dirinya kepada teman-temannya yang belum memiliki asuransi kesehatan."
+      ]
+    },
+    {
+      "nomor": 94,
+      "istilah": "Commission",
+      "penjelasan": "Komisi. Bentuk kompensasi utama bagi agen asuransi, biasanya berupa persentase dari premi yang dibayarkan peserta.",
+      "contoh": [
+        "Agen asuransi kesehatan kumpulan mendapat komisi tinggi-rendah atau komisi tetap atas penjualan dan jasa yang berhasil mereka jual."
+      ]
+    },
+    {
+      "nomor": 95,
+      "istilah": "High-Low Commission",
+      "penjelasan": "Komisi tinggi-rendah. Bentuk komisi yang memberikan persentase lebih tinggi untuk tahun pertama, diikuti komisi lebih rendah untuk tahun-tahun berikutnya.",
+      "contoh": [
+        "Komisi 20% untuk tahun pertama dan 5% untuk tahun ke-2 sampai ke-10 adalah contoh high-low commission schedule."
+      ]
+    },
+    {
+      "nomor": 96,
+      "istilah": "Level Commission",
+      "penjelasan": "Komisi tetap. Bentuk komisi yang memberikan jumlah sama untuk setiap tahun, semakin banyak diterapkan dalam industri asuransi kesehatan.",
+      "contoh": [
+        "Dengan level commission, agen menerima persentase komisi yang sama pada tahun pertama hingga tahun ke-sepuluh."
+      ]
+    },
+    {
+      "nomor": 97,
+      "istilah": "Override Commission",
+      "penjelasan": "Komisi override. Komisi tambahan di atas komisi yang dibayarkan kepada agen penjualan atau broker, diberikan kepada agen umum atau manajer yang memberikan nasihat atau melatih agen lain.",
+      "contoh": [
+        "Agen umum yang melatih agen baru dan memberikan nasihat untuk kasus underwriting yang rumit menerima override commission selain komisi penjualannya sendiri."
+      ]
+    },
+    {
+      "nomor": 98,
+      "istilah": "Vesting",
+      "penjelasan": "Hak agen untuk menerima semua atau sebagian komisi dari penjualan asuransi meskipun kontraknya dengan perusahaan asuransi sudah berakhir.",
+      "contoh": [
+        "Komisi vested diberikan kepada agen underwriting atau kepada pemilik agen tersebut terlepas dari apakah agen tersebut masih bekerja di perusahaan asuransi atau tidak."
+      ]
+    },
+    {
+      "nomor": 99,
+      "istilah": "Market Segmentation",
+      "penjelasan": "Segmentasi pasar. Proses pembagian pasar yang besar menjadi pasar-pasar lebih kecil dengan ciri-ciri tertentu. Empat dasar segmentasi: geografis, demografi, psikografi, dan perilaku.",
+      "contoh": [
+        "Perusahaan asuransi membidik mahasiswa di perguruan tinggi sebagai pasar potensial menggunakan segmentasi demografis (usia dan pendidikan)."
+      ]
+    },
+    {
+      "nomor": 100,
+      "istilah": "Direct Mail Marketing",
+      "penjelasan": "Pemasaran surat langsung. Teknik pemasaran dengan mengirimkan penawaran asuransi melalui pos ke rumah-rumah penduduk, biasanya dilengkapi formulir permohonan singkat.",
+      "contoh": [
+        "Perusahaan asuransi mengirimkan brosur dan formulir permohonan asuransi kesehatan ke banyak alamat dalam satu wilayah untuk menjangkau calon peserta secara massal."
+      ]
+    },
+    {
+      "nomor": 101,
+      "istilah": "Mass Marketing",
+      "penjelasan": "Pemasaran massal. Teknik pemasaran asuransi perorangan dengan menjangkau calon peserta dalam jumlah besar sekaligus, melalui surat langsung, franchise plan, sponsor pihak ketiga, vending machine, dan penjualan over the counter.",
+      "contoh": [
+        "Perusahaan asuransi memasang iklan di surat kabar dan majalah dengan formulir permohonan singkat, lalu responden mengirimkannya kembali ke perusahaan."
+      ]
+    },
+    {
+      "nomor": 102,
+      "istilah": "Franchise Plan",
+      "penjelasan": "Franchise plan. Kegiatan pemasaran asuransi perorangan bagi karyawan atau individu yang tidak memenuhi syarat sebagai peserta asuransi kumpulan, dengan premi yang lebih murah dari asuransi perorangan biasa karena komisi rendah dan administrasi skala besar.",
+      "contoh": [
+        "Perusahaan asuransi mengembangkan franchise plan untuk karyawan perusahaan kecil atau anggota perkumpulan yang tidak memenuhi syarat asuransi kumpulan."
+      ]
+    },
+    {
+      "nomor": 103,
+      "istilah": "Third-Party Sponsorship",
+      "penjelasan": "Sponsor pihak ketiga. Sistem pemasaran di mana perusahaan asuransi bekerja sama dengan pihak ketiga (bank, perusahaan kartu kredit, atau lembaga lain) untuk menawarkan asuransi kepada konsumen pihak ketiga tersebut.",
+      "contoh": [
+        "Perusahaan asuransi bekerja sama dengan bank untuk menawarkan asuransi kesehatan kepada nasabah bank melalui surat langsung."
+      ]
+    },
+    {
+      "nomor": 104,
+      "istilah": "Vending Machine",
+      "penjelasan": "Mesin jual otomatis untuk menjual asuransi, umumnya asuransi kecelakaan perjalanan. Banyak terdapat di bandara, terminal bus, dan stasiun kereta api.",
+      "contoh": [
+        "Seorang calon penumpang pesawat membeli polis asuransi kecelakaan perjalanan dari vending machine di bandara dengan memasukkan uang logam."
+      ]
+    },
+    {
+      "nomor": 105,
+      "istilah": "Personal Producing General Agent (PPGA)",
+      "penjelasan": "Agen umum yang bekerja secara independen di bawah kontrak dengan perusahaan asuransi. Membiayai sendiri fasilitas kantor, tenaga staf, dan pengeluaran lainnya. Sering mendapat tunjangan seperti asuransi jiwa dan asuransi kesehatan.",
+      "contoh": [
+        "PPGA yang berpengalaman memilih perusahaan asuransi yang memberi komisi lebih besar dibandingkan jika bertindak sebagai agen biasa."
+      ]
+    },
+    {
+      "nomor": 106,
+      "istilah": "General Agent",
+      "penjelasan": "Agen umum. Agen yang dikontrak perusahaan asuransi dan memiliki fasilitas kantor, staf, serta tenaga supervisor. Merekrut, melatih, dan mengawasi para agen.",
+      "contoh": [
+        "Agen umum mendapat bantuan dana dari perusahaan asuransi untuk melatih agen-agen baru."
+      ]
+    },
+    {
+      "nomor": 107,
+      "istilah": "Branch Office",
+      "penjelasan": "Kantor cabang. Kantor perusahaan asuransi yang mengendalikan bagian penjualan di suatu wilayah, dikelola oleh manager penjualan yang menjadi karyawan perusahaan asuransi.",
+      "contoh": [
+        "Manager penjualan kantor cabang merekrut dan melatih agen baru, mengawasi kegiatan petugas lapangan, dan menjaga jumlah dan mutu penjualan."
+      ]
+    },
+    {
+      "nomor": 108,
+      "istilah": "Plan Specification",
+      "penjelasan": "Spesifikasi program. Gambaran rinci tentang rencana manfaat asuransi yang disusun untuk prospek, termasuk manfaat, tarif, dan asumsi underwriting. Diperlukan klien untuk membandingkan proposal.",
+      "contoh": [
+        "Sebuah perusahaan besar meminta spesifikasi program dari beberapa perusahaan asuransi untuk dibandingkan sebelum memilih penyedia asuransi kesehatan kumpulan."
+      ]
+    },
+    {
+      "nomor": 109,
+      "istilah": "Experience Refund",
+      "penjelasan": "Pengembalian premi berdasar pengalaman. Pengembalian sebagian premi kepada pemegang polis kumpulan jika pengalaman klaim lebih baik dari yang diperkirakan. Ditetapkan pada tanggal ulang tahun polis jika kontrak aktif dan premi dibayar.",
+      "contoh": [
+        "Sebuah kelompok dengan claim ratio rendah menerima experience refund dalam bentuk tunai atau deposit pada penanggung."
+      ]
+    },
+    {
+      "nomor": 110,
+      "istilah": "Dental Plan Terintegrasi",
+      "penjelasan": "Integrated dental plan. Paket asuransi gigi di mana biaya perawatan gigi digabung ke dalam biaya yang dicakup oleh paket manfaat medis utama. Deductible harus dipenuhi setiap tahun kalender, baik biaya perawatan medis maupun gigi.",
+      "contoh": [
+        "Pada paket gigi terintegrasi, cakupan berdasarkan biaya biasa dan umum (usual and customary), bukan berdasarkan daftar tarif."
+      ]
+    },
+    {
+      "nomor": 111,
+      "istilah": "Non-Integrated Dental Plan",
+      "penjelasan": "Paket gigi tidak terintegrasi. Paket asuransi gigi yang biaya perawatannya dicakup secara terpisah, baik berdasarkan daftar tarif maupun daftar non-tarif.",
+      "contoh": [
+        "Pada paket gigi tidak terintegrasi, layanan gigi sering dikelompokkan sehingga berbagai deductible, coinsurance, dan manfaat maksimum dapat digunakan untuk setiap kelompok."
+      ]
+    },
+    {
+      "nomor": 112,
+      "istilah": "Surgical Schedule",
+      "penjelasan": "Daftar tarif bedah. Daftar prosedur bedah umum yang menyatakan jumlah maksimum yang bisa dibayar perusahaan asuransi, berdasarkan tingkat kesulitan operasi.",
+      "contoh": [
+        "Repair of heart valve mitral bernilai 32,0 dan aortic, pulmonic, or tricuspid bernilai 50,0 dalam daftar tarif bedah."
+      ]
+    },
+    {
+      "nomor": 113,
+      "istilah": "Second Opinion",
+      "penjelasan": "Pendapat bedah kedua. Sebagian besar polis asuransi bedah rumah sakit memerlukan pendapat bedah kedua untuk operasi rawat inap dan rawat jalan elektif.",
+      "contoh": [
+        "Jika pasien menjalani operasi elektif tanpa mencari pendapat kedua, paket asuransi tidak membayar manfaat bedah atau menggantinya pada tingkat yang lebih rendah."
+      ]
+    },
+    {
+      "nomor": 114,
+      "istilah": "Maternity Benefit",
+      "penjelasan": "Manfaat kehamilan atau bersalin. Manfaat asuransi untuk biaya kehamilan yang diasuransikan. Umumnya diberikan hanya jika kehamilan terjadi lebih dari jumlah hari tertentu setelah polis efektif, atau dikenakan masa tunggu sepuluh bulan.",
+      "contoh": [
+        "Di AS, HIPAA 1996 melarang masa tunggu apapun untuk manfaat kehamilan, sehingga persalinan dicakup sama seperti kondisi kesehatan lainnya."
+      ]
+    },
+    {
+      "nomor": 115,
+      "istilah": "Hospital Indemnity Coverage",
+      "penjelasan": "Cakupan ganti rugi rumah sakit. Membayar manfaat sejumlah uang tetap per hari, minggu, atau bulan untuk setiap hari tertanggung rawat inap. Manfaat biasanya berkisar dari Rp 1 juta hingga Rp 4 juta per hari.",
+      "contoh": [
+        "Tuan Y memiliki hospital cash plan dengan manfaat Rp 1.000.000 per hari. Setelah dirawat 7 hari, ia menerima Rp 7.000.000 meskipun biaya aktualnya hanya Rp 5.000.000."
+      ]
+    },
+    {
+      "nomor": 116,
+      "istilah": "Prescription Drug Insurance",
+      "penjelasan": "Asuransi obat resep. Mencakup obat-obatan yang dibeli dengan resep dokter, dengan sangat sedikit atau tanpa biaya kepada tertanggung. Ada dua paket dasar: penggantian biaya (reimbursement) dan layanan (service).",
+      "contoh": [
+        "Nyonya B harus membayar Rp 15.000 setiap kali menebus resep dokter di apotek; biaya ini disebut copayment."
+      ]
+    },
+    {
+      "nomor": 117,
+      "istilah": "Vision Care Insurance",
+      "penjelasan": "Asuransi perawatan penglihatan. Memberikan manfaat untuk perawatan mata pencegahan dan korektif rutin, termasuk pemeriksaan mata, lensa single vision, bifocal, trifocal, lensa kontakt, dan frame.",
+      "contoh": [
+        "Program perawatan penglihatan umumnya membatasi cakupan untuk satu pemeriksaan dan sepasang lensa dalam 12 bulan berturut-turut dan satu pasang frame setiap dua tahun."
+      ]
+    },
+    {
+      "nomor": 118,
+      "istilah": "Specified Disease Insurance",
+      "penjelasan": "Asuransi penyakit tertentu. Jenis polis yang paling umum adalah asuransi kanker. Dijual untuk mengisi kesenjangan dalam asuransi kesehatan (deductibles, coinsurance, dan biaya yang tidak ditanggung). Juga memberi perlindungan terhadap biaya tambahan seperti makanan dan penginapan saat bepergian untuk perawatan.",
+      "contoh": [
+        "Asuransi kanker memberikan manfaat untuk tes skrining kanker, kamar harian dan makan, kunjungan dokter, perawatan, dan obat-obatan dengan manfaat maksimal Rp 500 juta hingga Rp 1,5 miliar."
+      ]
+    },
+    {
+      "nomor": 119,
+      "istilah": "Critical Illness Insurance",
+      "penjelasan": "Asuransi penyakit kritis. Asuransi yang mencakup manfaat untuk beberapa penyakit-penyakit kritis. Umumnya memberikan santunan sejumlah uang pertanggungan tertentu ketika tertanggung didiagnosis mengidap salah satu penyakit yang tercantum dalam polis.",
+      "contoh": [
+        "Tuan Budi memiliki polis asuransi jiwa dwiguna dengan rider dread disease benefit; jika ia mengalami stroke, kanker, atau gagal ginjal, ia menerima 50% dari uang pertanggungan."
+      ]
+    },
+    {
+      "nomor": 120,
+      "istilah": "Medicare Supplement Insurance",
+      "penjelasan": "Asuransi suplemen Medicare. Polis asuransi tambahan yang membantu membayar sebagian biaya yang tidak ditanggung Medicare (deductible dan coinsurance). Sejak November 1991, semua polis suplemen Medicare dibakukan ke dalam sepuluh plan atau paket berlabel A sampai J.",
+      "contoh": [
+        "Seseorang berusia 65 tahun ke atas membeli Plan F sebagai suplemen Medicare untuk menutup deductible dan coinsurance yang tidak dibayar Medicare."
+      ]
+    },
+    {
+      "nomor": 121,
+      "istilah": "Travel Insurance",
+      "penjelasan": "Asuransi kecelakaan perjalanan. Perlindungan yang memberikan manfaat dalam kasus kematian atau kehilangan anggota badan akibat kecelakaan tertanggung sebagai penumpang angkutan umum seperti pesawat terbang. Perlindungan biasanya untuk satu kali perjalanan.",
+      "contoh": [
+        "Travel insurance dijual di vending machine di bandara, dengan manfaat terbatas dan premi cukup murah."
+      ]
+    },
+    {
+      "nomor": 122,
+      "istilah": "Total Disability",
+      "penjelasan": "Cacat total atau disabilitas total. Kondisi di mana tertanggung tidak dapat melakukan pekerjaannya karena sakit atau cedera. Menjadi syarat untuk mendapatkan manfaat pada asuransi disabilitas pendapatan.",
+      "contoh": [
+        "Pada periode awal disabilitas (24 bulan pertama), tertanggung dianggap cacat total jika tidak dapat terlibat dalam pekerjaannya sendiri. Setelah periode awal, dianggap cacat total jika tidak dapat terlibat dalam pekerjaan yang menguntungkan sesuai pendidikan, pelatihan, dan pengalamannya."
+      ]
+    },
+    {
+      "nomor": 123,
+      "istilah": "Residual Disability",
+      "penjelasan": "Disabilitas residual. Cakupan disabilitas parsial yang didasarkan pada konsep pengurangan penghasilan. Tertanggung harus secara parsial mengalami disabilitas, yaitu tidak dapat melakukan sebagian tugas pekerjaan normalnya atau tidak dapat bekerja penuh waktu.",
+      "contoh": [
+        "Setelah kembali bekerja dengan penghasilan berkurang, tertanggung tetap menerima tunjangan dengan dasar dikurangi secara proporsional dengan pengurangan pendapatannya."
+      ]
+    },
+    {
+      "nomor": 124,
+      "istilah": "Partial Disability",
+      "penjelasan": "Disabilitas parsial. Kondisi di mana tertanggung tidak dapat melakukan sebagian tugas pekerjaan normalnya atau tidak dapat bekerja penuh waktu, namun masih bisa bekerja dengan penghasilan berkurang.",
+      "contoh": [
+        "Seseorang yang setelah sembuh dari cedera tidak dapat kembali bekerja penuh waktu, hanya paruh waktu, dianggap mengalami disabilitas parsial."
+      ]
+    },
+    {
+      "nomor": 125,
+      "istilah": "Elimination Period",
+      "penjelasan": "Periode eliminasi. Waktu di mana tidak ada manfaat yang dibayarkan pada awal periode kecacatan. Periode yang paling umum adalah 30, 60, 90, dan 180 hari untuk penyakit dan cedera. Berfungsi mengurangi biaya administrasi dan menjaga premi tetap terjangkau.",
+      "contoh": [
+        "Pada polis disabilitas dengan periode eliminasi 90 hari, manfaat baru mulai dibayarkan pada hari ke-91 sejak kecacatan terjadi."
+      ]
+    },
+    {
+      "nomor": 126,
+      "istilah": "Benefit Period",
+      "penjelasan": "Periode manfaat maksimal. Jangka waktu maksimum untuk mendapatkan manfaat selama satu periode kecacatan. Periode yang paling sering ditawarkan: satu tahun, dua tahun, lima tahun, dan sampai usia 65 tahun.",
+      "contoh": [
+        "Pada asuransi disabilitas pendapatan dengan benefit period sampai usia 65 tahun, manfaat dibayarkan sampai tertanggung mencapai usia 65 tahun atau sampai pulih."
+      ]
+    },
+    {
+      "nomor": 127,
+      "istilah": "Monthly Benefit",
+      "penjelasan": "Manfaat bulanan. Jumlah yang dibayar setiap bulan selama cacat total pada asuransi disabilitas pendapatan. Dinyatakan dalam polis dan disetujui oleh perusahaan asuransi dan tertanggung.",
+      "contoh": [
+        "Jumlah manfaat bulanan dapat berkisar dari Rp 10 juta hingga Rp 150 juta per bulan, tergantung kebutuhan pendapatan tertanggung dan batas-batas perusahaan asuransi."
+      ]
+    },
+    {
+      "nomor": 128,
+      "istilah": "Waiver of Premium",
+      "penjelasan": "Pengabaian premi. Klausul yang menyatakan pembayaran premi dibebaskan ketika pembayaran manfaat dimulai. Pembayaran premi mulai lagi pada tanggal jatuh tempo premi pertama setelah berakhirnya periode manfaat.",
+      "contoh": [
+        "Ketika tertanggung menerima manfaat disabilitas pendapatan, ia dibebaskan dari pembayaran premi selama periode manfaat berlangsung."
+      ]
+    },
+    {
+      "nomor": 129,
+      "istilah": "Future Increase Option",
+      "penjelasan": "Opsi peningkatan di masa depan. Cakupan opsional pada asuransi disabilitas pendapatan yang memungkinkan tertanggung membeli tambahan cakupan hingga jumlah tertentu pada tanggal opsi yang ditentukan, terlepas dari kelayakan asuransi medis, sepanjang penghasilannya meningkat.",
+      "contoh": [
+        "Seorang profesional muda dapat meningkatkan cakupan disabilitas pendapatannya seiring kenaikan penghasilan tanpa perlu pemeriksaan kesehatan ulang."
+      ]
+    },
+    {
+      "nomor": 130,
+      "istilah": "Cost-of-Living Adjustment (COLA)",
+      "penjelasan": "Penyesuaian biaya hidup. Ketentuan opsional pada asuransi disabilitas pendapatan yang meningkatkan pembayaran manfaat dengan persentase tertentu untuk mengimbangi inflasi selama disabilitas berpanjangan.",
+      "contoh": [
+        "Pada disabilitas jangka panjang, manfaat bulanan bisa disesuaikan naik setiap tahun sebesar persentase tertentu untuk menjaga daya beli."
+      ]
+    },
+    {
+      "nomor": 131,
+      "istilah": "Disability Buyout Insurance",
+      "penjelasan": "Asuransi buyout disabilitas. Memberikan uang tunai untuk pembelian kepentingan bisnis (business interest) dari mitra atau pemegang saham yang mengalami disabilitas. Para mitra menyiapkan perjanjian beli/jual resmi terlebih dahulu.",
+      "contoh": [
+        "Jika salah satu mitra mengalami disabilitas untuk jangka waktu tertentu (biasanya satu hingga dua tahun), mitra tersebut berkewajiban menjual kepentingannya, dan mitra lain berkewajiban membelinya sesuai harga yang disepakati."
+      ]
+    },
+    {
+      "nomor": 132,
+      "istilah": "Overhead Expenses Insurance",
+      "penjelasan": "Asuransi biaya overhead. Polis penggantian yang membayar kembali tertanggung atas bagian dari biaya bisnis sebenarnya yang timbul selama disabilitas total. Mencakup sewa, gaji karyawan, utilitas, ongkos kirim, dan iuran asosiasi.",
+      "contoh": [
+        "Sebuah usaha kecil dengan satu pemilik membeli polis biaya overhead agar bisnisnya tetap berjalan meski pemiliknya mengalami disabilitas total."
+      ]
+    },
+    {
+      "nomor": 133,
+      "istilah": "Key Person Disability",
+      "penjelasan": "Disabilitas karyawan kunci. Asuransi disabilitas pendapatan yang menyediakan pembayaran untuk bisnis atas kerugian yang timbul karena disabilitas salah satu personil utamanya. Manfaat dibayarkan langsung kepada pemberi kerja.",
+      "contoh": [
+        "Sebuah firma hukum kecil membeli asuransi disabilitas untuk mitra seniornya agar firma tidak kehilangan pendapatan jika mitra tersebut tiba-tiba mengalami disabilitas."
+      ]
+    },
+    {
+      "nomor": 134,
+      "istilah": "Activities of Daily Living (ADL)",
+      "penjelasan": "Kegiatan hidup sehari-hari. Enam kegiatan dasar yang menjadi acuan untuk menentukan apakah seseorang memerlukan perawatan jangka panjang: mandi, berpakaian, berpindah, ke peturasan, makan, dan pengendalian diri.",
+      "contoh": [
+        "Seseorang dianggap kehilangan kapasitas fungsional jika tidak bisa melakukan beberapa ADL seperti mandi atau berpakaian tanpa bantuan orang lain."
+      ]
+    },
+    {
+      "nomor": 135,
+      "istilah": "Cognitive Impairment",
+      "penjelasan": "Gangguan kognitif. Gangguan mental karena penyakit atau cedera otak organik seperti penyakit Alzheimer, yang menjadi pertimbangan dalam asuransi perawatan jangka panjang.",
+      "contoh": [
+        "Penderita Alzheimer yang mengalami gangguan kognitif dapat mengajukan klaim asuransi perawatan jangka panjang untuk membiayai perawatan di panti wreda."
+      ]
+    },
+    {
+      "nomor": 136,
+      "istilah": "Nursing Home Care",
+      "penjelasan": "Perawatan di panti perawatan. Bentuk perawatan jangka panjang yang diberikan di fasilitas keperawatan berlisensi. Merupakan salah satu manfaat utama asuransi perawatan jangka panjang.",
+      "contoh": [
+        "Program perawatan jangka panjang biasanya membayar antara Rp 500 ribu dan Rp 3 juta untuk setiap hari layanan di fasilitas perawatan."
+      ]
+    },
+    {
+      "nomor": 137,
+      "istilah": "Home Health Care",
+      "penjelasan": "Perawatan kesehatan di rumah. Perawatan yang diberikan di rumah tertanggung oleh agen kesehatan di rumah (home health agency) dan dilakukan oleh perawat terdaftar, perawat praktik berlisensi, asisten kesehatan di rumah, atau terapis berlisensi.",
+      "contoh": [
+        "Manfaat perawatan kesehatan di rumah umumnya antara Rp 200 ribu dan Rp 1,5 juta untuk setiap hari perawatan."
+      ]
+    },
+    {
+      "nomor": 138,
+      "istilah": "Adult Day Care",
+      "penjelasan": "Perawatan orang dewasa. Fasilitas berlisensi yang menyediakan layanan sosial, keperawatan, medis, dan kesehatan untuk orang dewasa yang membutuhkan pengawasan pada siang hari.",
+      "contoh": [
+        "Seorang lanjut usia dengan gangguan kognitif ringan menghabiskan hari di adult day care saat keluarganya bekerja."
+      ]
+    },
+    {
+      "nomor": 139,
+      "istilah": "Cafeteria Plan",
+      "penjelasan": "Paket kafetaria. Nama lain untuk paket manfaat fleksibel, di mana peserta dapat memilih beberapa atau semua manfaat yang ditawarkan pemberi kerja.",
+      "contoh": [
+        "Seorang karyawan memilih kombinasi asuransi jiwa, asuransi kesehatan dengan deductible tinggi, dan asuransi gigi, sesuai kebutuhan keluarganya."
+      ]
+    },
+    {
+      "nomor": 140,
+      "istilah": "Modular Plan",
+      "penjelasan": "Format modular. Format paket manfaat fleksibel di mana karyawan dapat memilih dari paket atau kelompok manfaat yang ditawarkan pemberi kerja. Biasanya tersedia tiga atau empat paket dengan karakteristik berbeda untuk memenuhi kebutuhan karyawan sekaligus mengurangi adverse selection.",
+      "contoh": [
+        "Paket Opsi 1: asuransi jiwa 2x gaji + disabilitas 50% + paket gigi + paket obat + asuransi medis deductible Rp 10 juta; Paket Opsi 2: 1x gaji + disabilitas 50% + paket penglihatan + tanpa gigi + paket obat + deductible Rp 5 juta."
+      ]
+    },
+    {
+      "nomor": 141,
+      "istilah": "Core-Plus Plan",
+      "penjelasan": "Format inti-plus. Format paket manfaat fleksibel yang menyediakan paket manfaat dasar yang biasanya dibayar perusahaan dan mencakup semua karyawan. Manfaat opsional dapat disediakan, didanai melalui kredit fleksibel dari perusahaan atau kontribusi karyawan.",
+      "contoh": [
+        "Inti mencakup asuransi jiwa 1x gaji + asuransi medis deductible Rp 10 juta; opsi tambahan mencakup asuransi gigi, disabilitas jangka panjang yang lebih tinggi, atau rekening penggantian biaya."
+      ]
+    },
+    {
+      "nomor": 142,
+      "istilah": "Full-Flexible Plan",
+      "penjelasan": "Format seluruhnya fleksibel. Format paket manfaat fleksibel yang memungkinkan karyawan memilih secara bebas dari berbagai pilihan dalam setiap jenis cakupan secara independen, sehingga kombinasi manfaat menjadi sangat beragam.",
+      "contoh": [
+        "Karyawan bisa memilih asuransi jiwa 3x gaji, asuransi medis dengan deductible Rp 2,5 juta, asuransi gigi maksimum Rp 20 juta, dan tetap ikut disabilitas jangka panjang."
+      ]
+    },
+    {
+      "nomor": 143,
+      "istilah": "Unit Link",
+      "penjelasan": "Produk asuransi yang dikaitkan dengan investasi (PAYDI). Produk asuransi yang paling sedikit memberikan perlindungan terhadap risiko kematian dan memberikan manfaat yang mengacu kepada hasil investasi dari kumpulan dana khusus produk asuransi. Premi dibagi ke dua rekening: rekening proteksi asuransi (risk account) dan rekening investasi (investment account).",
+      "contoh": [
+        "Pada asuransi kesehatan unit link, premi yang dibayarkan pemegang polis dibagi ke rekening risiko dan rekening unit (investasi); hasil investasi tidak mempengaruhi besar santunan kesehatan."
+      ]
+    },
+    {
+      "nomor": 144,
+      "istilah": "Penyakit Kritis",
+      "penjelasan": "Critical illness. Penyakit-penyakit yang dianggap mengancam jiwa atau memerlukan perawatan intensif dan mahal, seperti kanker, serangan jantung, stroke, gagal ginjal, dan penyakit hati kronis. Ditanggung dalam asuransi penyakit kritis.",
+      "contoh": [
+        "Tuan Budi memiliki polis asuransi jiwa dwiguna dengan rider dread disease benefit untuk stroke, kanker, gagal ginjal, serangan jantung, bedah aorta, dan penyakit hati kronis dengan santunan 50% dari uang pertanggungan."
+      ]
+    },
+    {
+      "nomor": 145,
+      "istilah": "Asuransi Kecelakaan Diri",
+      "penjelasan": "Personal accident insurance. Asuransi yang memberikan perlindungan terhadap kerugian finansial akibat kecelakaan diri, termasuk kematian akibat kecelakaan dan kehilangan anggota badan. Dapat dirancang untuk pertanggungan 24 jam.",
+      "contoh": [
+        "Asuransi kecelakaan diri untuk siswa pelajar dapat mencakup kecelakaan lalu lintas, terkilir, dan keracunan selama kegiatan study tour atau extracurricular."
+      ]
+    },
+    {
+      "nomor": 146,
+      "istilah": "Copayment",
+      "penjelasan": "Copayment. Sejumlah uang tetap yang dibayar peserta setiap kali menerima layanan kesehatan tertentu, seperti kunjungan dokter atau penebusan resep, tanpa memandang biaya aktual layanan tersebut.",
+      "contoh": [
+        "Nyonya B membayar Rp 15.000 setiap kali menebus resep dokter di apotek."
+      ]
+    },
+    {
+      "nomor": 147,
+      "istilah": "Coinsurance",
+      "penjelasan": "Coinsurance. Pengaturan di mana penanggung dan tertanggung berbagi persentase kerugian yang ditanggung setelah deductible dipenuhi. Biasanya perusahaan asuransi membayar 80% dan tertanggung membayar 20%.",
+      "contoh": [
+        "Nyonya X memiliki polis asuransi biaya medis dengan coinsurance 20%. Bila biaya pengobatan Rp 1.200.000, asuransi menanggung Rp 960.000 (80%) dan Nyonya X menanggung Rp 240.000 (20%)."
+      ]
+    },
+    {
+      "nomor": 148,
+      "istilah": "Deductible",
+      "penjelasan": "Deductible. Jumlah biaya yang harus dikeluarkan dan dibayar tertanggung sebelum manfaat dibayarkan oleh perusahaan asuransi. Tujuan utamanya menurunkan biaya premi dengan menghindari penggunaan layanan yang tidak perlu dan menghilangkan klaim kecil.",
+      "contoh": [
+        "Tuan Ricky menjalani operasi usus buntu dengan total biaya Rp 18 juta, deductible Rp 1.000.000, dan coinsurance 20%. Total biaya yang harus dibayar Tuan Ricky adalah Rp 4.400.000."
+      ]
+    },
+    {
+      "nomor": 149,
+      "istilah": "All-Cause Deductible",
+      "penjelasan": "All-cause deductible. Deductible yang mencakup semua biaya yang dikeluarkan terlepas dari jumlah penyakit atau kecelakaan, yang terakumulasi untuk memenuhi deductible. Tahun kalender (1 Januari hingga 31 Desember) digunakan hampir secara universal sebagai periode akumulasi.",
+      "contoh": [
+        "Pada all-cause deductible, klaim untuk berbagai penyakit yang berbeda selama satu tahun kalender diakumulasikan untuk memenuhi satu deductible."
+      ]
+    },
+    {
+      "nomor": 150,
+      "istilah": "Per-Cause Deductible",
+      "penjelasan": "Per-cause deductible. Deductible jumlah tetap yang harus dibayar tertanggung untuk pengeluaran medis yang memenuhi syarat akibat penyakit atau kecelakaan tertentu sebelum perusahaan asuransi melakukan pembayaran manfaat. Periode manfaat untuk setiap penyebab biasanya berakhir satu atau dua tahun setelah tanggal dimulainya.",
+      "contoh": [
+        "Pada per-cause deductible, klaim kecil untuk penyakit kecil yang tidak terkait sering dihilangkan, dan deductible harus dipenuhi lagi untuk setiap penyebab baru."
+      ]
+    },
+    {
+      "nomor": 151,
+      "istilah": "Corridor Deductible",
+      "penjelasan": "Corridor deductible. Deductible yang digunakan pada paket medis utama tambahan. Merupakan koridor antara program dasar dan program medis utama. Pengeluaran medis yang melebihi jumlah yang tercakup dalam paket dasar tercakup dalam paket medis utama tambahan setelah corridor deductible dipenuhi.",
+      "contoh": [
+        "Jika paket dasar membayar biaya rumah sakit sampai Rp 15 juta, dan pengeluaran mencapai Rp 20 juta, maka selisih Rp 5 juta menjadi koridor yang harus ditanggung tertanggung sebagai corridor deductible sebelum manfaat tambahan dibayarkan."
+      ]
+    },
+    {
+      "nomor": 152,
+      "istilah": "Integrated Deductible",
+      "penjelasan": "Integrated deductible. Deductible dengan jumlah yang cukup tinggi (misalnya Rp 10 juta) atau lebih besar dari manfaat paket dasar. Jika paket dasar membayar Rp 15 juta, deductible Rp 10 juta otomatis terpenuhi dan manfaat tambahan akan dibayarkan.",
+      "contoh": [
+        "Jika paket dasar hanya membayar Rp 7 juta, maka Rp 3 juta diperlukan untuk memenuhi deductible Rp 10 juta sebelum manfaat medis tambahan bisa dibayarkan."
+      ]
+    },
+    {
+      "nomor": 153,
+      "istilah": "Overall Maximum",
+      "penjelasan": "Batas manfaat maksimal. Setiap polis medis utama memiliki batas manfaat maksimal yang dibayarkan oleh perusahaan asuransi. Maksimum bisa sebagai seumur hidup (all cause) atau per cause.",
+      "contoh": [
+        "Suatu polis medis utama memiliki overall maximum Rp 10 miliar seumur hidup; total pembayaran manfaat tidak akan melampaui batas tersebut."
+      ]
+    },
+    {
+      "nomor": 154,
+      "istilah": "Exclusion",
+      "penjelasan": "Pengecualian. Ketentuan yang menghilangkan cakupan untuk risiko tertentu pada polis asuransi. Berbeda dengan limitation yang hanya membatasi cakupan di area tertentu.",
+      "contoh": [
+        "Program pengeluaran medis biasanya mengecualikan bedah kosmetik, kondisi yang sudah ada sebelumnya (preexisting conditions), dan perawatan gigi."
+      ]
+    },
+    {
+      "nomor": 155,
+      "istilah": "Limitation",
+      "penjelasan": "Pembatasan. Ketentuan yang membatasi cakupan di area tertentu pada polis asuransi, berbeda dengan exclusion yang menghilangkan cakupan secara penuh.",
+      "contoh": [
+        "Keterbatasan untuk manfaat gigi sering dinyatakan secara seumur hidup (lifetime) atau per tahun, misalnya maksimum Rp 10 juta per tahun."
+      ]
+    },
+    {
+      "nomor": 156,
+      "istilah": "Usual and Customary",
+      "penjelasan": "Biasa dan umum. Dasar perhitungan penggantian biaya perawatan kesehatan yang mengacu pada tarif atau tagihan rata-rata untuk pelayanan yang identik atau mirip dalam daerah geografis tertentu.",
+      "contoh": [
+        "Nona Ana dirawat di kelas VIP karena sakit demam berdarah dengan total biaya Rp 9 juta, tetapi asuransi hanya menanggung Rp 4 juta sesuai kelas rawat menurut polis; selisih Rp 5 juta menjadi beban Nona Ana sebagai excess claim."
+      ]
+    },
+    {
+      "nomor": 157,
+      "istilah": "Usual, Customary, and Reasonable (UCR)",
+      "penjelasan": "Biasa, umum, dan wajar. Standar penentuan tarif penggantian yang mempertimbangkan tarif yang biasanya ditagihkan penyedia di wilayah geografis tertentu.",
+      "contoh": [
+        "Polis medis utama biasanya menyediakan cakupan untuk layanan dan persediaan yang ditagihkan dengan tarif biasa dan umum di wilayah tersebut."
+      ]
+    },
+    {
+      "nomor": 158,
+      "istilah": "Benefit Schedule",
+      "penjelasan": "Daftar manfaat. Jadwal yang menunjukkan variasi tipe dan besar manfaat, premi tahunan awal, periode manfaat maksimum, periode eliminasi, dan variabel lainnya pada polis asuransi kesehatan.",
+      "contoh": [
+        "Pada polis asuransi kesehatan perorangan, benefit schedule biasanya terpisah dari polis dan memperlihatkan nomor polis, tanggal diterbitkan, nama peserta, serta rincian manfaat."
+      ]
+    },
+    {
+      "nomor": 159,
+      "istilah": "Insuring Clause",
+      "penjelasan": "Klausul pengasuransian. Ketentuan pada polis yang mewajibkan penanggung untuk membayar manfaat yang dijelaskan dalam polis untuk setiap individu yang dijamin. Klausul ini juga menentukan bahwa bukti kerugian harus disampaikan sebelum pembayaran dilakukan.",
+      "contoh": [
+        "Insuring clause pada polis asuransi kesehatan menyatakan penanggung setuju membayar manfaat untuk setiap peserta yang dijamin sesuai ketentuan polis."
+      ]
+    },
+    {
+      "nomor": 160,
+      "istilah": "Consideration Clause",
+      "penjelasan": "Klausul konsiderasi. Ketentuan pada polis di mana penanggung menyatakan penerbitan polis dengan mempertimbangkan aplikasi dan pembayaran premi pertama yang harus dilakukan sebelum polis diserahkan.",
+      "contoh": [
+        "Sebelum polis asuransi kesehatan menjadi efektif, premi pertama harus dibayar dan polis diserahkan kepada peserta, sesuai consideration clause."
+      ]
+    },
+    {
+      "nomor": 161,
+      "istilah": "Entire Contract",
+      "penjelasan": "Kontrak keseluruhan. Polis dan aplikasi peserta merupakan satu kesatuan kontrak yang tidak terpisahkan antara pemegang polis dengan penanggung. Tidak ada pernyataan yang dibuat pemegang polis dapat digunakan melawan validitas kontrak kecuali duplikat aplikasi telah diserahkan.",
+      "contoh": [
+        "Kontrak asuransi kesehatan kumpulan terdiri atas polis dan aplikasi peserta; keduanya membentuk entire contract."
+      ]
+    },
+    {
+      "nomor": 162,
+      "istilah": "Incontestable Clause",
+      "penjelasan": "Klausul tidak dapat dibantah. Klausul yang menyatakan bahwa setelah polis berlaku efektif selama 2 tahun, penanggung tidak akan membantah keabsahan keterangan yang diberikan tertanggung. Bertujuan menjaga prinsip itikad baik dan melindungi peserta dari kerugian polis.",
+      "contoh": [
+        "Setelah polis berlaku 2 tahun, kekeliruan kecil dalam aplikasi tidak dapat dijadikan alasan penolakan klaim, kecuali terbukti ada kecurangan."
+      ]
+    },
+    {
+      "nomor": 163,
+      "istilah": "Misstatement of Age",
+      "penjelasan": "Kesalahan pernyataan umur. Jika terjadi kesalahan pernyataan umur pada polis, dan akibatnya peserta tidak sesuai dengan paket yang disediakan, personil asuransi akan memperbaiki kesalahan dan menyesuaikan premi.",
+      "contoh": [
+        "Jika seorang peserta yang seharusnya berusia 60 tahun tertulis 55 tahun di polis, maka perusahaan akan memperbaiki umur dan menyesuaikan besaran premi sesuai usia sebenarnya."
+      ]
+    },
+    {
+      "nomor": 164,
+      "istilah": "Clerical Error",
+      "penjelasan": "Kesalahan juru tulis. Kesalahan atau kelalaian administratif pada polis kumpulan yang harus dipertimbangkan personil asuransi, termasuk penyesuaian pembayaran dan besaran.",
+      "contoh": [
+        "Jika ada kesalahan penulisan nama peserta pada polis kumpulan, perusahaan asuransi akan memperbaikinya tanpa mengubah manfaat utama."
+      ]
+    },
+    {
+      "nomor": 165,
+      "istilah": "Record Keeping",
+      "penanggung": "x",
+      "penjelasan": "Pemeliharaan catatan. Penanggung dan pemegang polis menyetujui untuk memelihara pencatatan seluruh pemegang polis, termasuk informasi seperti nama, umur, jumlah asuransi, dan tanggal efektif asuransi.",
+      "contoh": [
+        "Pemberi kerja yang mengelola asuransi kumpulan menyimpan catatan setiap karyawan yang eligible untuk memastikan penambahan dan terminasi tercatat dengan benar."
+      ]
+    },
+    {
+      "nomor": 166,
+      "istilah": "Assignment of Benefit",
+      "penjelasan": "Pengalihan manfaat. Ketentuan yang memungkinkan penanggung membayarkan manfaat langsung kepada penyedia pelayanan kesehatan (PPK) atas persetujuan pemegang polis.",
+      "contoh": [
+        "Meskipun manfaat medis kumpulan normalnya dibayarkan langsung kepada pemegang polis, sebagian besar kontrak dapat membayarkan manfaat langsung kepada PPK jika pemegang polis telah menandatangani surat persetujuan."
+      ]
+    },
+    {
+      "nomor": 167,
+      "istilah": "Effective Date",
+      "penjelasan": "Tanggal efektif. Tanggal mulai berlakunya kontrak asuransi kumpulan, biasanya tampak pada halaman muka polis dan diterapkan untuk semua seksi polis. Dalam pengalihan pertanggungan, tanggal efektif kontrak baru adalah segera setelah tanggal terminasi dari penanggung sebelumnya.",
+      "contoh": [
+        "Ketika sebuah perusahaan memindahkan pertanggungan asuransi kesehatannya ke perusahaan asuransi baru, tanggal efektif kontrak baru adalah segera setelah tanggal terminasi dari asuradur sebelumnya."
+      ]
+    },
+    {
+      "nomor": 168,
+      "istilah": "Grace Period",
+      "penjelasan": "Masa tenggang. Periode (umumnya 31 hari) setelah tanggal jatuh tempo pembayaran premi, di mana pemegang polis dapat membayar premi tanpa dikenakan penalti. Manfaat tetap berlaku selama masa tenggang.",
+      "contoh": [
+        "Jika pemegang polis belum membayar premi pada tanggal jatuh tempo, ia masih memiliki waktu 31 hari untuk membayar tanpa kehilangan manfaat."
+      ]
+    },
+    {
+      "nomor": 169,
+      "istilah": "Policy Lapse",
+      "penjelasan": "Polis lapse. Kondisi di mana polis menjadi tidak aktif karena premi tidak dibayarkan hingga akhir masa tenggang.",
+      "contoh": [
+        "Jika pemegang polis tidak membayar premi hingga akhir grace period, polis menjadi lapse dan manfaat tidak berlaku lagi."
+      ]
+    },
+    {
+      "nomor": 170,
+      "istilah": "Reinstatement",
+      "penjelasan": "Pemulihan polis. Proses pemberlakuan kembali polis yang lapse akibat premi tertunggak. Ada ketentuan yang memberikan kesempatan kepada penanggung untuk menilai kembali risiko.",
+      "contoh": [
+        "Ketika pemegang polis memulihkan polis yang lapse, manfaat untuk penyakit yang mulai lebih dari sepuluh hari setelah tanggal pemulihan umumnya berlaku."
+      ]
+    },
+    {
+      "nomor": 171,
+      "istilah": "Termination of Coverage",
+      "penjelasan": "Pemutusan pertanggungan. Berakhirnya manfaat asuransi karena berbagai alasan, seperti status kepegawaian yang berakhir, polis kumpulan dihentikan, atau peserta dipindahkan ke klasifikasi yang tidak eligible.",
+      "contoh": [
+        "Manfaat asuransi kesehatan kumpulan berakhir ketika karyawan berhenti dari pekerjaannya atau ketika polis kumpulan diterminasi."
+      ]
+    },
+    {
+      "nomor": 172,
+      "istilah": "Conversion Privilege",
+      "penjelasan": "Hak istimewa konversi. Hak yang diberikan kepada peserta kumpulan untuk melanjutkan proteksi asuransinya dengan polis perorangan atau kumpulan jika manfaat di bawah polis biaya medis berakhir. Peserta yang telah dijamin minimal 3 bulan berhak menggunakan hak ini.",
+      "contoh": [
+        "Seorang karyawan yang berhenti dari pekerjaannya dapat mengonversi asuransi kesehatan kumpulannya menjadi polis asuransi kesehatan perorangan tanpa harus menjalani uji kelayakan asuransi."
+      ]
+    },
+    {
+      "nomor": 173,
+      "istilah": "Coordination of Benefits (COB)",
+      "penjelasan": "Koordinasi manfaat. Provisi yang mencegah terjadinya over pembayaran ketika peserta memiliki lebih dari satu paket asuransi kesehatan. Total pembayaran manfaat tidak melebihi total pengeluaran yang terjadi.",
+      "contoh": [
+        "Jika suami dan istri sama-sama bekerja dan keduanya memiliki asuransi kesehatan, koordinasi manfaat memastikan total pembayaran dari kedua asuransi tidak melebihi biaya aktual perawatan."
+      ]
+    },
+    {
+      "nomor": 174,
+      "istilah": "Pre-Existing Condition",
+      "penjelasan": "Kondisi yang sudah ada sebelumnya. Kondisi kesehatan yang sudah diderita peserta sebelum ia menjadi peserta asuransi. Paket biaya medis dapat mengeluarkan atau membatasi manfaat untuk kondisi ini dalam waktu spesifik.",
+      "contoh": [
+        "Kondisi yang sudah ada sebelumnya didefinisikan sebagai kecelakaan atau kesakitan yang sudah diderita dalam 3 atau 6 bulan sebelum peserta menjadi peserta asuransi."
+      ]
+    },
+    {
+      "nomor": 175,
+      "istilah": "Eligibility",
+      "penjelasan": "Eligibilitas atau kelayakan. Ketentuan yang menentukan siapa yang berhak menjadi peserta asuransi kumpulan atau perorangan, biasanya didasarkan pada kondisi pekerjaan atau status keanggotaan.",
+      "contoh": [
+        "Karyawan tetap yang aktif bekerja umumnya eligible untuk asuransi kesehatan kumpulan, sedangkan pekerja paruh waktu, musiman, dan sementara jarang dicakup."
+      ]
+    },
+    {
+      "nomor": 176,
+      "istilah": "Dependent",
+      "penjelasan": "Tanggungan atau anggota keluarga. Pasangan karyawan dan anak-anak yang belum menikah yang berusia di bawah 19 tahun, atau di atas 19 tahun tetapi kurang dari 23 tahun jika terdaftar sebagai mahasiswa reguler penuh waktu.",
+      "contoh": [
+        "Paket asuransi kesehatan kumpulan biasanya mencakup tanggungan (dependent), yaitu pasangan dan anak-anak yang belum menikah."
+      ]
+    },
+    {
+      "nomor": 177,
+      "istilah": "Contestable Period",
+      "penjelasan": "Periode contestable. Periode (biasanya dua tahun) di mana penanggung berhak mempertanyakan atau menyelidiki kebenaran informasi atau data yang diberikan tertanggung dalam surat aplikasi permohonan.",
+      "contoh": [
+        "Selama contestable period, perusahaan asuransi dapat membatalkan polis jika menemukan kesalahan pernyataan atau penyembunyian informasi yang material."
+      ]
+    },
+    {
+      "nomor": 178,
+      "istilah": "Rescission",
+      "penjelasan": "Pembatalan kontrak asuransi. Penghapusan polis karena informasi material yang salah atau disembunyikan, atau karena penanggung tidak diberikan peluang yang adil untuk menilai risiko.",
+      "contoh": [
+        "Jika peserta menyembunyikan riwayat penyakit serius saat mendaftar, penanggung dapat melakukan rescission terhadap polis tersebut."
+      ]
+    },
+    {
+      "nomor": 179,
+      "istilah": "Contract of Adhesion",
+      "penjelasan": "Kontrak adhesi. Kontrak yang ditawarkan dengan basis ambil atau tinggalkan (take-it-or-leave-it) oleh pihak yang memiliki pengetahuan lebih kuat kepada pihak yang memiliki keterbatasan sumber daya dan sedikit keahlian. Karena itu, umumnya kontrak asuransi ditafsirkan lebih menguntungkan kepada pemegang polis.",
+      "contoh": [
+        "Polis asuransi adalah contoh kontrak adhesi karena peserta umumnya tidak dapat menegosiasikan klausulnya dan hanya bisa menerima atau menolak."
+      ]
+    },
+    {
+      "nomor": 180,
+      "istilah": "Doctrine of Reasonable Expectations",
+      "penjelasan": "Doktrin ekspektasi beralasan. Teori interpretasi kontrak yang menyatakan bahasa dalam kontrak bukan faktor kontrol jika pemegang polis berharap sesuatu yang berbeda dari apa yang tertulis dalam kontrak, sepanjang ekspektasi tersebut beralasan.",
+      "contoh": [
+        "Jika pemegang polis berharap manfaat tertentu berdasarkan iklan atau penjelasan agen, pengadilan bisa memutuskan berpihak kepada pemegang polis meski polis menyatakan sebaliknya."
+      ]
+    },
+    {
+      "nomor": 181,
+      "istilah": "Unilateral Contract",
+      "penjelasan": "Kontrak sepihak. Kontrak di mana hanya satu pihak yang membuat janji. Pada asuransi, hanya penanggung yang membuat janji legal yang harus dilaksanakan; pemegang polis tidak dapat dipaksa secara legal membayar premi.",
+      "contoh": [
+        "Jika peserta berhenti membayar premi, penanggung tidak dapat menuntut pemegang polis untuk melanjutkan pembayaran; yang bisa dilakukan penanggung adalah menghentikan perlindungan."
+      ]
+    },
+    {
+      "nomor": 182,
+      "istilah": "Aleatory Contract",
+      "penjelasan": "Kontrak aleatory. Kontrak di mana satu pihak mungkin mendapatkan keuntungan finansial yang besar dibandingkan pihak lain tergantung pada kejadian di masa depan yang tidak pasti.",
+      "contoh": [
+        "Tuan Badu baru membayar premi 3 bulan sebesar Rp 240 ribu tetapi bisa menerima manfaat operasi jantung senilai Rp 200 juta."
+      ]
+    },
+    {
+      "nomor": 183,
+      "istilah": "Conditional Contract",
+      "penjelasan": "Kontrak kondisional. Kontrak yang mewajibkan penanggung membayar manfaat apabila suatu kejadian tertentu terjadi. Kinerja kontrak tergantung pada kejadian yang dijamin risikonya.",
+      "contoh": [
+        "Penanggung tidak berkewajiban membayar manfaat sampai peserta mengalami kejadian yang diperjanjikan dalam polis, seperti sakit atau kecelakaan."
+      ]
+    },
+    {
+      "nomor": 184,
+      "istilah": "Offer and Acceptance",
+      "penjelasan": "Penawaran dan penerimaan. Dua komponen penting dalam pembentukan ikatan kontrak. Aplikasi asuransi dan pembayaran premi merupakan penawaran dari calon peserta; penerimaan polis dan premi oleh penanggung adalah penerimaan.",
+      "contoh": [
+        "Jika calon pemegang polis melengkapi aplikasi dan membayar premi, ia telah membuat penawaran kepada penanggung, yang kemudian dapat menerima atau menolak."
+      ]
+    },
+    {
+      "nomor": 185,
+      "istilah": "Consideration",
+      "penjelasan": "Konsiderasi atau pertimbangan. Apa yang diberikan atau dilepaskan oleh suatu pihak untuk mendapatkan apa yang diberikan pihak lain. Pada asuransi, konsiderasi peserta adalah pernyataan pada aplikasi dan pembayaran premi; konsiderasi penanggung adalah janji membayar manfaat.",
+      "contoh": [
+        "Untuk validitas kontrak asuransi, pertimbangan harus saling ditukarkan: peserta memberikan premi, penanggung menjanjikan manfaat."
+      ]
+    },
+    {
+      "nomor": 186,
+      "istilah": "Meeting of Minds",
+      "penjelasan": "Kesepahaman. Kondisi di mana kedua pihak yang membuat kontrak mencapai pemahaman bersama berkaitan dengan hak dan kewajiban yang tertera pada kontrak. Jika tidak tercapai, validitas kontrak dapat dipertanyakan.",
+      "contoh": [
+        "Jika agen memberikan penjelasan yang salah tentang manfaat polis sehingga peserta salah paham, meeting of minds tidak tercapai dan kontrak bisa dibatalkan."
+      ]
+    },
+    {
+      "nomor": 187,
+      "istilah": "Capacity to Contract",
+      "penjelasan": "Kapasitas berkontrak. Kemampuan kedua pihak untuk memahami istilah-istilah kontrak. Umumnya seseorang yang mencapai umur dewasa (18 tahun di AS) memiliki kapasitas legal untuk melakukan kontrak asuransi kesehatan.",
+      "contoh": [
+        "Berapapun umurnya, orang-orang yang mempunyai kelemahan mental tidak memiliki kapasitas untuk membuat kontrak asuransi kepada perusahaan."
+      ]
+    },
+    {
+      "nomor": 188,
+      "istilah": "Kontrak Asuransi",
+      "penjelasan": "Perjanjian antara penanggung (asuradur) dan peserta (tertanggung), di mana penanggung setuju memberikan kompensasi atas kerugian peserta sebagai imbalan atas premi yang dibayarkan. Termasuk perjanjian timbal balik yang bersyarat.",
+      "contoh": [
+        "Perjanjian asuransi dianggap terbentuk dengan adanya kata sepakat antara kedua belah pihak, bahkan sebelum polis ditandatangani, seperti tercantum dalam Pasal 257 KUHD."
+      ]
+    },
+    {
+      "nomor": 189,
+      "istilah": "Polis",
+      "penjelasan": "Dokumen tertulis yang berisi perjanjian antara perusahaan asuransi dan pemegang polis. Merupakan alat bukti tertulis yang menunjukkan telah terjadi perjanjian asuransi. Menurut Pasal 255 KUHD, perjanjian asuransi harus dibuat secara tertulis dalam bentuk polis.",
+      "contoh": [
+        "Polis asuransi memuat semua istilah dan kondisi perjanjian, serta hak dan kewajiban kedua belah pihak."
+      ]
+    },
+    {
+      "nomor": 190,
+      "istilah": "KUHPer Pasal 1320",
+      "penjelasan": "Pasal 1320 Kitab Undang-Undang Hukum Perdata yang mengatur syarat sahnya suatu perjanjian. Empat syaratnya: (1) sepakat mereka yang mengikatkan diri, (2) kecakapan untuk membuat perjanjian, (3) suatu hal tertentu, dan (4) suatu sebab yang halal.",
+      "contoh": [
+        "Dalam perjanjian asuransi, kedua belah pihak harus sepakat, cakap hukum, objeknya jelas, dan isi perjanjian tidak melanggar undang-undang atau kesusilaan."
+      ]
+    },
+    {
+      "nomor": 191,
+      "istilah": "KUHPer Pasal 1338",
+      "penjelasan": "Pasal yang menyatakan bahwa perjanjian yang dibuat secara sah berlaku sebagai undang-undang bagi mereka yang membuatnya, tidak dapat ditarik kembali tanpa persetujuan kedua belah pihak, dan harus dilaksanakan dengan itikad baik.",
+      "contoh": [
+        "Polis asuransi berkekuatan seperti undang-undang bagi penanggung dan tertanggung, sehingga keduanya harus mentaati isi polis."
+      ]
+    },
+    {
+      "nomor": 192,
+      "istilah": "Pasal 251 KUHD",
+      "penjelasan": "Pasal yang mengatur kewajiban pemberitahuan tertanggung kepada penanggung mengenai keadaan objek asuransi. Kelalaian dalam pemberitahuan dapat mengakibatkan asuransi batal.",
+      "contoh": [
+        "Dalam asuransi kesehatan, keterangan tertulis dari tertanggung merupakan bagian integral polis dan wajib diisi dengan sebaik mungkin oleh tertanggung."
+      ]
+    },
+    {
+      "nomor": 193,
+      "istilah": "Pasal 255 KUHD",
+      "penjelasan": "Pasal yang menyatakan bahwa perjanjian asuransi harus dibuat secara tertulis dalam suatu akta yang disebut polis.",
+      "contoh": [
+        "Walaupun polis belum ditandatangani, perjanjian asuransi sudah dianggap terbentuk pada saat tercapainya kata sepakat (Pasal 257 KUHD)."
+      ]
+    },
+    {
+      "nomor": 194,
+      "istilah": "Bekenheids Clausule",
+      "penjelasan": "Klausul pengetahuan keadaan risiko. Klausul di mana keterangan yang diberitahukan oleh tertanggung dianggap cukup dan lengkap, dan segala sesuatu mengenai benda yang diasuransikan dianggap telah diketahui penanggung.",
+      "contoh": [
+        "Klausul ini sering digunakan dalam asuransi kebakaran, di mana sifat, susunan, konstruksi, letak, dan pemakaian risiko dianggap telah diketahui penanggung dengan sempurna."
+      ]
+    },
+    {
+      "nomor": 195,
+      "istilah": "Renuntiatie Clausule",
+      "penjelasan": "Klausul penyimpangan. Klausul yang memuat ketentuan Pasal 251 KUHD dalam polis yang dapat dikesampingkan, kecuali jika hakim berpendapat pasal itu harus diperlukan menurut kejujuran dan adat kebiasaan.",
+      "contoh": [
+        "Dalam polis sering dicantumkan bahwa penanggung tidak akan menggugat dengan Pasal 251 KUHD terhadap tertanggung, kecuali hakim menetapkan ada alasan yang sah."
+      ]
+    },
+    {
+      "nomor": 196,
+      "istilah": "Rider",
+      "penjelasan": "Tumpangan atau tambahan. Dokumen terpisah yang melekat pada polis dan dapat mengubah polis. Ada tiga tipe riders untuk kontrak asuransi kesehatan perorangan: bahasa polis, manfaat opsional, dan pengecualian.",
+      "contoh": [
+        "Cakupan kematian akibat kecelakaan (accidental death coverage) merupakan rider dari polis asuransi jiwa."
+      ]
+    },
+    {
+      "nomor": 197,
+      "istilah": "Endorsement",
+      "penjelasan": "Istilah yang sering digunakan secara bergantian dengan rider dan amandemen. Merupakan dokumen yang mengubah atau menambah ketentuan pada polis asuransi.",
+      "contoh": [
+        "Jika pemegang polis ingin mengubah tingkat manfaat pada polis asuransi kumpulan, penanggung mengeluarkan endorsement atau rider yang menjelaskan perubahan tersebut."
+      ]
+    },
+    {
+      "nomor": 198,
+      "istilah": "Noncancellable",
+      "penjelasan": "Tidak dapat dibatalkan. Salah satu bentuk provisi perpanjangan polis asuransi kesehatan perorangan yang memberikan hak kepada peserta untuk melanjutkan asuransi dengan premi yang tepat waktu sampai minimal berumur 50 tahun, tanpa penanggung dapat mengubah provisi secara sepihak.",
+      "contoh": [
+        "Dengan polis noncancellable, penanggung tidak dapat membatalkan, menolak memperbarui, atau meningkatkan premi di luar yang sudah ditentukan."
+      ]
+    },
+    {
+      "nomor": 199,
+      "istilah": "Guaranteed Renewable",
+      "penjelasan": "Dijamin dapat diperbarui. Bentuk provisi perpanjangan polis asuransi kesehatan perorangan yang memberikan hak kepada peserta untuk memperbarui polis, tetapi penanggung dapat menaikkan premi berdasarkan klasifikasi kelompok (umur atau pekerjaan), bukan perorangan.",
+      "contoh": [
+        "Berbeda dengan noncancellable, pada guaranteed renewable penanggung dapat menaikkan premi sesuai klasifikasi peserta, tetapi tidak dapat membatalkan polis."
+      ]
+    },
+    {
+      "nomor": 200,
+      "istilah": "Optionally Renewable",
+      "penjelasan": "Dapat diperbarui secara opsional. Bentuk provisi perpanjangan polis asuransi kesehatan perorangan yang memberikan paling minimal jaminan kelanjutan manfaat kepada peserta. Hanya renewable sesuai kebijakan penanggung, yang memiliki hak unilateral untuk menolak renewal pada akhir periode premi.",
+      "contoh": [
+        "Pada polis optionally renewable, penanggung dapat menolak memperbarui polis atau menghapus manfaat tertentu untuk kerugian tipe tertentu."
+      ]
+    },
+    {
+      "nomor": 201,
+      "istilah": "Nonrenewable for Stated Reasons Only",
+      "penjelasan": "Tidak dapat diperbarui kecuali untuk alasan tertentu saja. Bentuk provisi perpanjangan polis asuransi kesehatan perorangan yang berada di antara guaranteed renewable dan optionally renewable. Penanggung dibatasi haknya untuk tidak memperbarui polis perorangan tertentu, hanya boleh di bawah kondisi tertentu.",
+      "contoh": [
+        "Polis tidak dapat diperbarui hanya jika peserta mencapai usia tertentu, berhenti sebagai pegawai, atau jika penanggung menolak memberi seluruh polis yang mengikat sejumlah bentuk formulir polis perorangan."
+      ]
+    },
+    {
+      "nomor": 202,
+      "istilah": "Readability",
+      "penjelasan": "Keterbacaan. Standar yang mengharuskan bahasa dan format kontrak polis asuransi disederhanakan sehingga pelanggan umumnya dapat mengerti dokumen dengan baik. Hampir seluruh negara bagian di AS mewajibkan polis asuransi memenuhi standar minimum keterbacaan.",
+      "contoh": [
+        "Undang-undang keterbacaan polis menetapkan jumlah minimum kalimat pendek dan kata-kata umum dalam polis asuransi kesehatan."
+      ]
+    },
+    {
+      "nomor": 203,
+      "istilah": "Model Life and Health Insurance Policy Language",
+      "penjelasan": "Model bahasa polis asuransi jiwa dan kesehatan. Standar yang ditetapkan NAIC yang berkaitan dengan kejelasan bahasa (readability) pada polis asuransi jiwa dan kesehatan.",
+      "contoh": [
+        "Model ini digunakan oleh negara bagian di AS untuk memastikan bahasa polis asuransi kesehatan mudah dipahami oleh pemegang polis."
+      ]
+    },
+    {
+      "nomor": 204,
+      "istilah": "Uniform Policy Provisions Law (UPPL)",
+      "penjelasan": "Undang-undang ketentuan polis seragam. Model hukum NAIC tahun 1950 yang menentukan provisi mandatory dan opsional untuk digunakan pada formulir asuransi kesehatan. Model ini diadopsi oleh hampir semua negara bagian di AS.",
+      "contoh": [
+        "UPPL membatasi 3 tahun hak penanggung untuk membatalkan polis karena kesalahan pernyataan tertanggung pada aplikasi."
+      ]
+    },
+    {
+      "nomor": 205,
+      "istilah": "Time Limit on Certain Defenses",
+      "penjelasan": "Klausul pembatasan waktu untuk menggugat. Ketentuan polis asuransi kesehatan perorangan yang membatasi hak penanggung untuk menggugat keabsahan kontrak atas dasar kesalahan penyajian dalam aplikasi atau untuk menolak klaim atas dasar kondisi yang sudah ada sebelumnya.",
+      "contoh": [
+        "UPPL menempatkan batas waktu 2 tahun hak penanggung untuk menghindari manfaat pada kondisi pre-existing, kecuali jika kondisi tersebut secara spesifik dikecualikan berdasarkan nama peserta."
+      ]
+    },
+    {
+      "nomor": 206,
+      "istilah": "Legal Action",
+      "penjelasan": "Tindakan hukum. Pada kontrak asuransi kesehatan perorangan, peserta harus menunggu sedikitnya 60 hari setelah menyampaikan bukti kerugian sebelum memulai tindakan legal terhadap penanggung. Peserta juga dilarang membawa tindakan hukum lebih dari 3 tahun setelah bukti disyaratkan.",
+      "contoh": [
+        "Provisi legal action melindungi penanggung terhadap tuntutan hukum yang dimulai sebelum penanggung mempunyai peluang yang cukup untuk menyelidiki klaim."
+      ]
+    },
+    {
+      "nomor": 207,
+      "istilah": "Optional Provision",
+      "penjelasan": "Provisi pilihan. Ketentuan pada polis asuransi kesehatan perorangan yang dapat dimasukkan atau tidak oleh penanggung. Contoh: penyesuaian premi jika peserta mengubah pekerjaan menjadi lebih berbahaya.",
+      "contoh": [
+        "Salah satu provisi pilihan adalah pengurangan premi yang belum dibayar dari pembayaran klaim, atau penyesuaian besar manfaat pada kasus kesalahan pernyataan umur."
+      ]
+    },
+    {
+      "nomor": 208,
+      "istilah": "Insurable Interest",
+      "penjelasan": "Kepentingan yang dapat diasuransikan. Hubungan antara pemohon asuransi dengan objek yang diasuransikan. Pada asuransi jiwa, insurable interest ada apabila pemegang polis akan mengalami kerugian finansial jika tertanggung meninggal.",
+      "contoh": [
+        "Contoh kategori orang yang memiliki insurable interest adalah karyawan dengan pemberi kerja, karena perusahaan akan mengalami kerugian jika karyawan kuncinya sakit atau meninggal."
+      ]
+    },
+    {
+      "nomor": 209,
+      "istilah": "Contribution",
+      "penjelasan": "Kontribusi. Istilah untuk premi pada asuransi syariah — sejumlah uang yang ditetapkan oleh perusahaan asuransi syariah dan disetujui pemegang polis untuk dibayarkan berdasarkan perjanjian asuransi syariah.",
+      "contoh": [
+        "Kontribusi peserta pada asuransi kesehatan syariah dibagi ke dalam rekening risiko (risk account) untuk dana tabarru' dan rekening tabungan atau investasi (saving or investment account)."
+      ]
+    },
+    {
+      "nomor": 210,
+      "istilah": "Akad",
+      "penjelasan": "Akad. Perjanjian tertulis yang memuat kesepakatan tertentu, beserta hak dan kewajiban para pihak sesuai prinsip syariah.",
+      "contoh": [
+        "Dalam asuransi syariah, akad yang digunakan antara lain akad tabarru' (hibah untuk tolong-menolong) dan akad tijarah (perjanjian komersial)."
+      ]
+    },
+    {
+      "nomor": 211,
+      "istilah": "Tabarru'",
+      "penjelasan": "Tabarru'. Akad hibah dalam bentuk pemberian dana dari satu peserta kepada dana tabarru' untuk tujuan tolong-menolong di antara para peserta, yang tidak bersifat komersial. Dana tabarru' adalah kumpulan dana yang berasal dari kontribusi para peserta asuransi syariah.",
+      "contoh": [
+        "Ketika peserta asuransi syariah membayar kontribusi, sebagian dialokasikan ke dana tabarru' untuk saling menanggung risiko di antara peserta."
+      ]
+    },
+    {
+      "nomor": 212,
+      "istilah": "Mudharabah",
+      "penjelasan": "Mudharabah. Akad tijarah yang memberikan kuasa kepada perusahaan asuransi syariah sebagai mudharib (pengelola dana) untuk mengelola investasi dana tabarru' dan/atau dana investasi peserta, dengan imbalan berupa bagi hasil (nisbah) yang besarnya telah disepakati sebelumnya.",
+      "contoh": [
+        "Pada asuransi syariah, dana saving account dikelola dengan akad mudharabah sehingga hasil investasinya dibagi sesuai kesepakatan antara perusahaan asuransi dan pemegang polis."
+      ]
+    },
+    {
+      "nomor": 213,
+      "istilah": "Mudharabah Musytarakah",
+      "penjelasan": "Mudharabah musytarakah. Akad tijarah yang memberikan kuasa kepada perusahaan asuransi syariah sebagai mudharib untuk mengelola investasi dana tabarru' dan/atau dana investasi peserta, yang digabungkan dengan kekayaan perusahaan asuransi syariah. Imbalan berupa bagi hasil (nisbah) yang besarnya ditentukan berdasarkan komposisi kekayaan yang digabungkan.",
+      "contoh": [
+        "Akad mudharabah musytarakah memungkinkan perusahaan asuransi syariah menggabungkan dana peserta dengan kekayaan perusahaannya untuk diinvestasikan bersama."
+      ]
+    },
+    {
+      "nomor": 214,
+      "istilah": "Wakalah bil Ujrah",
+      "penjelasan": "Wakalah bil ujrah. Akad tijarah yang memberikan kuasa kepada perusahaan asuransi syariah sebagai wakil peserta untuk mengelola dana tabarru' dan/atau dana investasi peserta, dengan imbalan berupa ujrah (fee).",
+      "contoh": [
+        "Perusahaan asuransi syariah menerima ujrah dari peserta atas jasa pengelolaan dana tabarru' sesuai akad wakalah bil ujrah."
+      ]
+    },
+    {
+      "nomor": 215,
+      "istilah": "Nisbah",
+      "penjelasan": "Nisbah. Bagi hasil secara syariah. Perbandingan bagi hasil antara perusahaan asuransi syariah dan peserta atas keuntungan investasi dana.",
+      "contoh": [
+        "Hasil investasi dana tabarru' dibagi antara perusahaan asuransi syariah dan peserta sesuai nisbah yang disepakati."
+      ]
+    },
+    {
+      "nomor": 216,
+      "istilah": "Qardh",
+      "penjelasan": "Qardh. Akad pinjaman atau penyaluran dana kepada nasabah dengan ketentuan nasabah wajib mengembalikan dana yang diterimanya kepada Lembaga Keuangan Syariah pada waktu yang telah disepakati.",
+      "contoh": [
+        "Dalam asuransi syariah, perusahaan dapat memberikan qardh (pinjaman) kepada dana tabarru' jika dana tabarru' tidak cukup untuk membayar manfaat asuransi."
+      ]
+    },
+    {
+      "nomor": 217,
+      "istilah": "Takaful",
+      "penjelasan": "Takaful. Prinsip asuransi syariah berupa usaha saling melindungi dan saling tolong-menolong di antara sejumlah orang melalui investasi dalam bentuk aset dana tabarru' yang memberikan pola pengembalian untuk menghadapi risiko tertentu melalui akad sesuai syariah.",
+      "contoh": [
+        "Usaha asuransi syariah berdasarkan Dewan Syariah Nasional (DSN) MUI adalah takaful dan ta'awun di antara peserta."
+      ]
+    },
+    {
+      "nomor": 218,
+      "istilah": "Ta'awun",
+      "penjelasan": "Ta'awun. Prinsip saling tolong-menolong yang menjadi dasar asuransi syariah.",
+      "contoh": [
+        "Pada asuransi syariah, prinsip ta'awun diwujudkan melalui dana tabarru' yang dikumpulkan bersama untuk membantu peserta yang mengalami musibah."
+      ]
+    },
+    {
+      "nomor": 219,
+      "istilah": "Risk Sharing",
+      "penjelasan": "Berbagi risiko. Konsep dasar asuransi syariah yang berbeda dengan risk transfer pada asuransi konvensional. Peserta secara bersama-sama menanggung risiko melalui dana tabarru'.",
+      "contoh": [
+        "Berbeda dengan asuransi konvensional yang menganut konsep transfer risiko, asuransi syariah menggunakan konsep risk sharing di antara para peserta."
+      ]
+    },
+    {
+      "nomor": 220,
+      "istilah": "Dewan Pengawas Syariah (DPS)",
+      "penjelasan": "Organ pada perusahaan asuransi syariah yang mempunyai tugas dan fungsi pengawasan terhadap penyelenggaraan kegiatan usaha perusahaan agar sesuai dengan prinsip syariah.",
+      "contoh": [
+        "DPS memastikan produk asuransi syariah dan operasionalnya sesuai dengan fatwa Dewan Syariah Nasional MUI."
+      ]
+    },
+    {
+      "nomor": 221,
+      "istilah": "Dewan Syariah Nasional (DSN)",
+      "penjelasan": "Lembaga yang dibentuk oleh Majelis Ulama Indonesia (MUI) yang berwenang menetapkan fatwa di bidang syariah, termasuk untuk industri asuransi syariah.",
+      "contoh": [
+        "Setiap produk asuransi syariah di Indonesia harus memperoleh fatwa dari DSN MUI sebelum dipasarkan."
+      ]
+    },
+    {
+      "nomor": 222,
+      "istilah": "Jaminan Kesehatan Nasional (JKN)",
+      "penjelasan": "Program jaminan kesehatan nasional Indonesia yang diselenggarakan oleh BPJS Kesehatan berdasarkan UU No. 40 tahun 2004 tentang SJSN dan UU No. 24 tahun 2011 tentang BPJS. Bertujuan memberikan jaminan kesehatan bagi seluruh penduduk Indonesia.",
+      "contoh": [
+        "Sejak Januari 2014, Indonesia memberlakukan Universal Health Coverage (JKN) yang ditargetkan pada 2019 mencapai 250 juta peserta."
+      ]
+    },
+    {
+      "nomor": 223,
+      "istilah": "Badan Penyelenggara Jaminan Sosial (BPJS)",
+      "penjelasan": "Badan hukum publik yang dibentuk untuk menyelenggarakan program jaminan sosial di Indonesia. Terdiri dari BPJS Kesehatan (untuk JKN) dan BPJS Ketenagakerjaan (untuk JKK, JKM, JHT, dan JP).",
+      "contoh": [
+        "BPJS Kesehatan menyelenggarakan program JKN, sedangkan BPJS Ketenagakerjaan menyelenggarakan program JKK (Jaminan Kecelakaan Kerja) dan JKM (Jaminan Kematian)."
+      ]
+    },
+    {
+      "nomor": 224,
+      "istilah": "Sistem Jaminan Sosial Nasional (SJSN)",
+      "penjelasan": "Sistem jaminan sosial nasional Indonesia yang diatur dalam UU No. 40 tahun 2004. Menjadi dasar hukum bagi penyelenggaraan program jaminan sosial oleh BPJS.",
+      "contoh": [
+        "UU No. 40 tahun 2004 tentang SJSN mewajibkan seluruh penduduk Indonesia memiliki asuransi kesehatan sosial."
+      ]
+    },
+    {
+      "nomor": 225,
+      "istilah": "Otoritas Jasa Keuangan (OJK)",
+      "penjelasan": "Lembaga independen di Indonesia yang mempunyai fungsi, tugas, dan wewenang pengaturan, pengawasan, pemeriksaan, dan penyidikan terhadap industri jasa keuangan, termasuk industri perasuransian. Dibentuk berdasarkan UU No. 21 tahun 2011.",
+      "contoh": [
+        "Sebelum adanya OJK, pengaturan industri asuransi di Indonesia berada di bawah Departemen Keuangan dan Bapepam-LK. Setelah UU OJK, kewenangan itu dialihkan ke OJK."
+      ]
+    },
+    {
+      "nomor": 226,
+      "istilah": "UU No. 40 Tahun 2014 tentang Perasuransian",
+      "penjelasan": "Undang-undang yang menggantikan UU No. 2 tahun 1992 tentang Usaha Perasuransian. Antara lain mengakomodasi perkembangan industri, termasuk bisnis perasuransian syariah.",
+      "contoh": [
+        "UU No. 40 tahun 2014 mengatur definisi asuransi, premi, kontribusi, dan ruang lingkup usaha perasuransian di Indonesia, termasuk asuransi syariah."
+      ]
+    },
+    {
+      "nomor": 227,
+      "istilah": "Jamsostek",
+      "penjelasan": "Jaminan Sosial Tenaga Kerja. Program jaminan sosial tenaga kerja di Indonesia yang diatur dalam UU No. 3 tahun 1992, kemudian digantikan oleh UU No. 40 tahun 2004 tentang SJSN dan UU No. 24 tahun 2011 tentang BPJS.",
+      "contoh": [
+        "Melalui PP 14 tahun 1993 tentang Jamsostek, perusahaan yang telah menyelenggarakan sendiri program pemeliharaan kesehatan bagi karyawannya dengan manfaat lebih baik tidak wajib ikut JPK Jamsostek."
+      ]
+    },
+    {
+      "nomor": 228,
+      "istilah": "Jaminan Pemeliharaan Kesehatan (JPK)",
+      "penjelasan": "Program jaminan pemeliharaan kesehatan dalam Jamsostek yang memberikan manfaat pelayanan kesehatan bagi tenaga kerja dan keluarganya.",
+      "contoh": [
+        "Perusahaan yang menyelenggarakan sendiri program pemeliharaan kesehatan dengan manfaat lebih baik dari JPK Jamsostek tidak wajib mengikuti program JPK Jamsostek."
+      ]
+    },
+    {
+      "nomor": 229,
+      "istilah": "Asuransi Jiwa Bersama (AJB) Bumiputera 1912",
+      "penjelasan": "Perusahaan asuransi mutual pertama di Indonesia, didirikan pada 12 Februari 1912 di Magelang dengan nama awal Onderlinge Lavenzekering Maatschappij Persatoean Goeroe-Goeroe Hindia Belanda. Merupakan perusahaan asuransi yang didirikan oleh bangsa Indonesia sendiri.",
+      "contoh": [
+        "Pendirian AJB Bumiputera 1912 diprakarsai oleh tiga orang: Mas Ngabei Hwidjosewojo, Mas Karto Hadi Karto Soebroto, dan Mas Adimidjojo."
+      ]
+    },
+    {
+      "nomor": 230,
+      "istilah": "NILLMIJ",
+      "penjelasan": "Nederlandsch Indiesche Levensverzekering en Liffrente Maatschappij. Perusahaan asuransi jiwa pertama di Indonesia (Hindia Belanda), berdiri 31 Desember 1859. Setelah nasionalisasi dan beberapa kali merger, pada 14 Juli 2003 menjadi PT Asuransi Jiwasraya (Persero).",
+      "contoh": [
+        "NILLMIJ adalah salah satu perusahaan asuransi Belanda yang berdiri di Indonesia sebelum AJB Bumiputera 1912."
+      ]
+    }
+  ]
+}
