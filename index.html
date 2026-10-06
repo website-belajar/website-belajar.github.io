@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gateway · redirecting…</title>
+    <!-- 
+        METHOD 1: Immediate redirect via meta refresh 
+        This is the simplest and most reliable way.
+        Change "next.html" to the actual filename you want to open.
+    -->
+    <meta http-equiv="refresh" content="0; url=next.html">
+    
+    <!-- Optional: small style for a clean fallback message -->
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            background: #0b0f17;
+            font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: #eef3fc;
+        }
+        .card {
+            background: rgba(20, 30, 45, 0.8);
+            backdrop-filter: blur(8px);
+            padding: 2.5rem 3rem;
+            border-radius: 2rem;
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            box-shadow: 0 25px 40px -12px rgba(0, 0, 0, 0.6);
+            text-align: center;
+            max-width: 500px;
+            width: 90%;
+        }
+        h1 {
+            font-weight: 500;
+            font-size: 1.8rem;
+            letter-spacing: -0.01em;
+            margin-bottom: 1rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 0.6rem;
+        }
+        .spinner {
+            width: 1.2rem;
+            height: 1.2rem;
+            border: 2.5px solid rgba(255, 255, 255, 0.2);
+            border-top-color: #5b8cff;
+            border-radius: 50%;
+            animation: spin 0.8s linear infinite;
+            display: inline-block;
+        }
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+        p {
+            color: #9aa9c0;
+            margin: 1.2rem 0 1.8rem;
+            line-height: 1.6;
+            font-size: 1rem;
+        }
+        .filename {
+            background: #1d2a3a;
+            padding: 0.3rem 0.8rem;
+            border-radius: 30px;
+            font-family: 'SF Mono', 'Fira Code', monospace;
+            font-size: 0.9rem;
+            color: #b7d0ff;
+            border: 1px solid #2f4057;
+            display: inline-block;
+        }
+        a {
+            color: #7d9eff;
+            text-decoration: none;
+            font-weight: 500;
+            border-bottom: 1px dashed #3a5070;
+            transition: 0.2s;
+            padding-bottom: 1px;
+        }
+        a:hover {
+            color: #a5bcff;
+            border-bottom-color: #7d9eff;
+        }
+        .footnote {
+            font-size: 0.8rem;
+            color: #5a6d86;
+            margin-top: 1.2rem;
+            border-top: 1px solid #1e2a38;
+            padding-top: 1.2rem;
+        }
+        .footnote code {
+            background: #141e2a;
+            padding: 0.2rem 0.5rem;
+            border-radius: 6px;
+            font-size: 0.8rem;
+            color: #b0c6e0;
+        }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <h1>
+            <span class="spinner"></span> 
+            Redirecting
+        </h1>
+        <p>
+            You are being sent to <span class="filename">Latihan_Soal_FA.html</span><br>
+            in the same directory.
+        </p>
+        <p style="font-size:0.95rem; margin-top:-0.5rem;">
+            If nothing happens, <a href="Latihan_Soal_FA.html">click here to continue</a>.
+        </p>
+        <div class="footnote">
+            ⚡ <code>Latihan_Soal_FA.html</code> · automatic forward
+        </div>
+    </div>
+
+    <!-- 
+        METHOD 2: JavaScript fallback (in case meta refresh is blocked)
+        This also handles the case where the browser ignores meta refresh.
+        Also provides an extra layer for older browsers.
+    -->
+    <script>
+        (function() {
+            // Target file – change to your desired HTML file
+            const targetPage = 'Latihan_Soal_FA.html';
+
+            // Immediate client-side redirect
+            window.location.replace(targetPage);
+
+            // Optional: if you prefer a small delay (e.g., to show the message)
+            // use setTimeout(() => { window.location.href = targetPage; }, 300);
+            // but we want instant, so location.replace is used.
+
+            // Note: if you want to keep history (back button works), 
+            // use window.location.href instead of replace.
+            // But for a pure "gateway" index, replace is usually better.
+        })();
+    </script>
+
+    <!-- 
+        💡 HOW TO USE:
+        1. Save this file as `index.html` in your folder.
+        2. Make sure you have another file named `next.html` 
+           (or change the filename in BOTH the meta tag and the script).
+        3. When someone visits index.html, they'll be taken to next.html instantly.
+        
+        ⚠️ IMPORTANT: 
+        - The redirect works via both <meta http-equiv="refresh"> and JavaScript.
+        - If you rename the target, update the meta content and the JavaScript variable.
+        - The link in the fallback also uses `next.html`.
+    -->
+</body>
+</html>
