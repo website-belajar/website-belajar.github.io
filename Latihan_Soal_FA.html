@@ -410,6 +410,17 @@
     .review-item .rev-answer.user-correct { color: #276749; }
     .review-item .rev-answer.user-wrong { color: #c53030; }
     .review-item .rev-answer.correct-answer { color: #2b6cb0; font-weight: 600; }
+    .review-item .rev-answer.rev-catatan {
+        color: #744210;
+        background: #fffbeb;
+        border-left: 3px solid #f6ad55;
+        padding: 6px 10px;
+        border-radius: 4px;
+        font-style: italic;
+        margin-top: 6px;
+        white-space: pre-line;
+        font-size: 0.85em;
+    }
 
     /* ============ BELAJAR ============ */
     .belajar-header {
@@ -863,6 +874,20 @@
             .replace(/'/g, '&#39;');
     }
 
+    // Helper untuk format baru: jawaban berupa array
+    // - elemen [0]  = jawaban benar
+    // - elemen [1+] = catatan / penjelasan modul
+    function getJawabanBenar(q) {
+        if (Array.isArray(q.jawaban)) return q.jawaban[0] || '';
+        return q.jawaban || '';
+    }
+    function getCatatanJawaban(q) {
+        if (Array.isArray(q.jawaban) && q.jawaban.length > 1) {
+            return q.jawaban.slice(1).filter(Boolean).join('\n');
+        }
+        return '';
+    }
+
     // ================= MODE UJIAN =================
     function ambilSoal(kategori, jumlah) {
         const pool = bankSoal.filter(q => q.kategori === kategori);
@@ -931,6 +956,8 @@
         const jawabanTerpilih = tersimpan.jawaban || '';
         const ragu = tersimpan.ragu || false;
 
+        const jawabanBenar = getJawabanBenar(q);
+
         let html = '';
         html += '<div class="question-header">';
         html += '<div class="question-number">Soal ' + (currentIndex + 1) + ' dari ' + total + '</div>';
@@ -940,7 +967,7 @@
 
         html += '<div class="question-text">' + escapeHtml(q.soal) + '</div>';
 
-        const allOptions = shuffleArray([q.jawaban, ...q.pengecoh]);
+        const allOptions = shuffleArray([jawabanBenar, ...q.pengecoh]);
         html += '<div class="options">';
         allOptions.forEach(function (opt) {
             const checked = (opt === jawabanTerpilih) ? 'checked' : '';
@@ -1048,7 +1075,7 @@
             const isKombinasi = q.kategori === 'kombinasi';
             if (isKombinasi) totalKombinasi++; else totalTunggal++;
             const data = jawabanUser[idx];
-            if (data && data.jawaban === q.jawaban) {
+            if (data && data.jawaban === getJawabanBenar(q)) {
                 if (isKombinasi) benarKombinasi++; else benarTunggal++;
             }
         });
@@ -1084,7 +1111,9 @@
         currentQuestions.forEach(function (q, i) {
             const data = jawabanUser[i];
             const userAnswer = data ? data.jawaban : null;
-            const isCorrect = userAnswer === q.jawaban;
+            const jawabanBenar = getJawabanBenar(q);
+            const catatan = getCatatanJawaban(q);
+            const isCorrect = userAnswer === jawabanBenar;
             const isKombinasi = q.kategori === 'kombinasi';
 
             const item = document.createElement('div');
@@ -1110,12 +1139,20 @@
             userAns.textContent = 'Jawaban Anda: ' + (userAnswer || '(tidak dijawab)');
             item.appendChild(userAns);
 
-            if (!isCorrect) {
-                const correctAns = document.createElement('div');
-                correctAns.className = 'rev-answer correct-answer';
-                correctAns.textContent = 'Jawaban Benar: ' + q.jawaban;
-                item.appendChild(correctAns);
+            // Jawaban benar — selalu ditampilkan (konfirmasi kalau benar, koreksi kalau salah)
+            const correctAns = document.createElement('div');
+            correctAns.className = 'rev-answer correct-answer';
+            correctAns.textContent = 'Jawaban Benar: ' + jawabanBenar;
+            item.appendChild(correctAns);
+
+            // Catatan modul — selalu ditampilkan (benar maupun salah)
+            if (catatan) {
+                const note = document.createElement('div');
+                note.className = 'rev-answer rev-catatan';
+                note.textContent = '📝 Catatan: ' + catatan;
+                item.appendChild(note);
             }
+
             reviewContainer.appendChild(item);
         });
 
