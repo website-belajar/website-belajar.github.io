@@ -824,6 +824,281 @@
         "Paket contributory mengindikasikan perhatian pengusaha terhadap karyawan tinggi",
         "Perusahaan yang memilih paket non-contributory mengindikasikan kemungkinan kesulitan finansial"
       ]
+    },
+    {
+      "id": 101,
+      "kategori": "tunggal",
+      "soal": "Pasar asuransi kesehatan di Indonesia mengalami pertumbuhan pesat dengan adanya PP 14 tahun 1993 tentang Jamsostek. Klausul tersebut mengatur hal sebagai berikut:",
+      "jawaban": ["Perusahaan yang telah menyelenggarakan sendiri program pemeliharaan kesehatan bagi karyawannya dengan manfaat yang lebih baik dari yang disediakan program JPK Jamsostek tidak wajib ikut dalam program JPK Jamsostek", "dari modul hal 21 — program Jamsostek dengan opting-out provision: bila pemberi kerja bisa memberikan perlindungan yang lebih baik dari JPK Jamsostek diperkenankan tidak ikut dalam program JPK Jamsostek"],
+      "pengecoh": [
+        "Perusahaan asuransi kerugian wajib menyediakan asuransi kesehatan dengan mengacu sebagaimana diatur menurut program Jamsostek",
+        "Perusahaan tidak wajib menyediakan jaminan kesehatan bagi seluruh karyawan dan keluarganya melalui asuransi kesehatan yang diselenggarakan pemerintah",
+        "Perusahaan asuransi jiwa wajib menyediakan asuransi kesehatan sebagaimana diatur menurut program Jamsostek"
+      ]
+    },
+    {
+      "id": 102,
+      "kategori": "tunggal",
+      "soal": "Pada abad ke-16 berkembang bisnis pengiriman barang antara Eropa dan daerah-daerah koloni yang memunculkan usaha baru di bidang perasuransian yang bermula dengan praktek underwriting yang dilakukan di kedai-kedai kopi di kota London, merupakan tempat pertemuan utama para pedagang, pemilik kapal dan lain-lain untuk mencari asuransi. Kedai kopi tersebut dewasa ini dikenal dengan:",
+      "jawaban": ["Lloyd's of London", "dari pengetahuan umum — Lloyd's of London bermula dari kedai kopi Edward Lloyd pada abad ke-17 yang menjadi tempat pertemuan para pedagang kapal dan underwriter. Nama Lloyd's of London diambil dari Edward Lloyd Coffeehouse"],
+      "pengecoh": [
+        "Royal Exchange",
+        "London Stock Exchange (LSE)",
+        "Edward Lloyd Coffeehouse"
+      ]
+    },
+    {
+      "id": 103,
+      "kategori": "tunggal",
+      "soal": "Keinginan memperbaiki aliran kas dan mengurangi kewajiban pembayaran pajak telah mendorong banyak pengusaha untuk mengelola sendiri, seluruhnya atau sebagian, jaminan kesehatan karyawannya. Oleh karena banyak perusahaan asuransi swasta atau pihak ketiga yang menawarkan jasa:",
+      "jawaban": ["ASO (Administrative Service Only)", "dari modul hal 20 — banyak perusahaan asuransi swasta hanya mengembangkan jasa layanan administrasi (ASO) untuk program asuransi mandiri"],
+      "pengecoh": [
+        "ISO (Insurance Service Only)",
+        "ASO (Assurance Service Only)",
+        "ISO (Insurance Staff Officer)"
+      ]
+    },
+    {
+      "id": 104,
+      "kategori": "tunggal",
+      "soal": "Dalam praktek asuransi kesehatan, biasanya ada pengaturan antara penanggung dan tertanggung dalam membagi persentase tertentu dari biaya klaim, misalnya 20% menjadi beban tertanggung dan 80% menjadi beban penanggung. Hal ini disebut dengan:",
+      "jawaban": ["Coinsurance", "dari modul hal 86 — coinsurance adalah pengaturan di mana penanggung dan tertanggung berbagi persentase kerugian yang ditanggung setelah deductible dipenuhi. Untuk biaya yang ditanggung setelah deductible, perusahaan asuransi biasanya membayar 80 persen dan tertanggung membayar 20 persen"],
+      "pengecoh": [
+        "Reinsurance",
+        "Coordination of benefit (COB)",
+        "Deductible"
+      ]
+    },
+    {
+      "id": 105,
+      "kategori": "tunggal",
+      "soal": "Sebuah treaty dimana ceding company terikat untuk memberikan atau menyerahkan (ceded to) dan reinsurer diwajibkan untuk menerima suatu bagian yang tetap (fixed proportion) dari setiap risiko yang diterima atau diakses (accepted) oleh ceding company, disebut:",
+      "jawaban": ["Quota Share", "dari pengetahuan umum (tidak ada di modul) — Quota Share adalah jenis treaty reasuransi PROPORSIONAL di mana ceding company dan reinsurer berbagi SETIAP RISIKO dengan PROPORSITETAP (fixed proportion), misal 30:70. Ceding company terikat menyerahkan dan reinsurer wajib menerima. Berbeda dengan: (1) Surplus = proporsi TIDAK TETAP (tergantung retensi); (2) Excess of Loss = NON-PROPORSIONAL (hanya membayar kelebihan klaim di atas retensi); (3) Facultative Obligatory = campuran, ceding bebas menyerahkan tapi reinsurer wajib menerima (tidak ada fixed proportion untuk setiap risiko)"],
+      "pengecoh": [
+        "Facultative Obligatory",
+        "Surplus",
+        "Excess of Loss"
+      ]
+    },
+    {
+      "id": 106,
+      "kategori": "tunggal",
+      "soal": "Dalam polis asuransi terdapat ketentuan masa waktu tertentu biasanya 31 hari setelah tanggal jatuh tempo pembayaran premi dimana asuransi tetap berlaku dan seorang pemegang polis boleh membayar premi tanpa denda. Periode ini disebut dengan:",
+      "jawaban": ["Grace period", "dari modul hal 146 — kontrak kumpulan memberikan masa tenggang (grace period) yang umumnya 31 hari setelah tanggal jatuh tempo, di mana pada periode ini pemegang polis dapat membayar premi melewati batas tempo tanpa dikenakan penalti atau denda"],
+      "pengecoh": [
+        "Elimination period",
+        "Waiting period",
+        "Contestable period"
+      ]
+    },
+    {
+      "id": 107,
+      "kategori": "tunggal",
+      "soal": "Perusahaan asuransi jiwa dan kesehatan harus memahami bahwa tidak semua risiko dapat diasuransikan. Mengasuransikan sesuatu yang tidak memiliki nilai ekonomi merupakan hal yang mustahil, dalam kasus ini alasan yang sesuai dengan prinsip asuransi adalah:",
+      "jawaban": ["Perusahaan asuransi harus dapat menghitung kerugian finansial", "dari modul hal 37 — kerugian yang terjadi harus dapat dihitung (calculable cost). Pihak penanggung harus mampu menghitung kerugian yang ditanggungnya dalam hitungan uang (measurability of loss)"],
+      "pengecoh": [
+        "Nilai ekonomis atau jiwa yang diasuransikan dan risiko yang ditanggung mempunyai insurable interest",
+        "Dalam pertanggungan perlu terdapat jenis risiko yang sama",
+        "Perusahaan asuransi hanya mampu menanggung risiko yang sama dalam jumlah yang besar"
+      ]
+    },
+    {
+      "id": 108,
+      "kategori": "tunggal",
+      "soal": "Orang menggunakan berbagai metoda manajemen risiko untuk menghadapi kemungkinan suatu kerugian yang bisa terjadi dalam kehidupan sehari-hari dengan berbagai cara. Mekanisme asuransi adalah salah satu metoda yang menggunakan cara:",
+      "jawaban": ["memindahkan sebagian atau seluruh risiko tersebut kepada pihak lain", "dari modul hal 30 — mengalihkan risiko (risk transfer): memindahkan atau mengalihkan sebagian atau seluruh risiko tersebut kepada pihak lain, misalnya kepada perusahaan asuransi, dengan cara membayar premi sebagai imbalan dari pertanggungan asuransi"],
+      "pengecoh": [
+        "menghadapi atau mengasumsikan risiko tersebut apa adanya",
+        "menghilangkan risiko dengan cara mencegah penyebabnya",
+        "mengurangi besarnya risiko dengan melakukan sesuatu untuk mencegah atau mengurangi kerugian apabila kejadian tersebut terjadi"
+      ]
+    },
+    {
+      "id": 109,
+      "kategori": "tunggal",
+      "soal": "Apakah yang dilakukan oleh asuransi kepada sejumlah peserta sehingga mayoritas orang dalam kelompok peserta tersebut yang tidak mengalami kerugian, dapat membantu sejumlah kecil peserta yang mengalami kerugian?",
+      "jawaban": ["Menyebarkan risiko", "dari modul hal 31 — cara asuransi bekerja adalah menyebarkan risiko kepada sejumlah peserta, sehingga mayoritas orang dalam kelompok peserta tersebut yang tidak mengalami kerugian dapat membantu kerugian yang dialami sejumlah kecil peserta yang mengalami kerugian"],
+      "pengecoh": [
+        "Mengurangi risiko",
+        "Mengelompokkan risiko",
+        "Menghindari risiko"
+      ]
+    },
+    {
+      "id": 110,
+      "kategori": "tunggal",
+      "soal": "Variasi ketentuan atas asuransi biaya medis juga dapat terjadi dalam hal batasan manfaat yang disantun oleh perusahaan asuransi. Dari tiga variasi utama batasan manfaat yang disantun adalah as charge yang berarti:",
+      "jawaban": ["Jika salah satu komponen santunan telah mencapai batas maksimum maka komponen santunan tersebut tidak lagi mendapatkan penggantian", "dari pengetahuan umum (tidak ada di modul) — 'As charge' adalah istilah teknis dalam asuransi biaya medis yang merujuk pada batasan manfaat PER KOMPONEN SANTUNAN. Jika satu komponen (misal rawat inap) mencapai batas maksimum, komponen itu tidak lagi mendapat penggantian, sementara komponen lain (misal bedah) masih bisa diganti. Tiga variasi utama batasan manfaat: (1) As charge = batasan per komponen; (2) Per illness = batasan per penyakit per tahun; (3) No limit/unlimited = tidak ada batasan per komponen/penyakit, tapi mungkin ada batas nominal total"],
+      "pengecoh": [
+        "Pembatasan atas komponen santunan dikaitkan dengan jenis penyakit yang diderita oleh tertanggung per tahun",
+        "Tidak ada batasan atas komponen santunan dan per penyakit per tahun, namun besarnya nominal yang dapat diklaim tetaplah terbatas",
+        "Besarnya nominal yang dapat diklaim selama satu tahun tidak terbatas"
+      ]
+    },
+    {
+      "id": 111,
+      "kategori": "tunggal",
+      "soal": "Sejumlah biaya kesehatan atau klaim yang menjadi beban peserta, dan harus dibayar sebelum klaim tersebut diajukan dan dibayar oleh penanggung disebut deductible. Tujuan dari deductible ini antara lain adalah untuk:",
+      "jawaban": ["menghapus biaya-biaya yang kecil dan yang tidak penting", "dari modul hal 85 — tujuan utama dari deductible adalah untuk menurunkan biaya premi dengan menghindari penggunaan layanan yang tidak perlu dan menghilangkan klaim kecil dan biaya penanganannya"],
+      "pengecoh": [
+        "menghindarkan penanggung dari kerugian sesaat yang besar",
+        "mempermudah perhitungan proporsi benefit atau manfaat",
+        "membuat biaya cadangan yang harus ditanggung oleh pihak penanggung menjadi relevan dengan tarif premi"
+      ]
+    },
+    {
+      "id": 112,
+      "kategori": "kombinasi",
+      "soal": "Berbeda dengan NAIC, Otoritas Jasa Keuangan (OJK) di Indonesia mempunyai fungsi menyelenggarakan sistem pengaturan dan pengawasan yang terintegrasi terhadap keseluruhan kegiatan di sektor jasa keuangan. OJK mempunyai tugas melakukan pengaturan dan pengawasan terhadap kegiatan jasa keuangan di:\nI. sektor Perbankan\nII. sektor IKNB\nIII. sektor Pasar Modal\nJawaban yang benar adalah:",
+      "jawaban": ["I, II dan III", "dari modul hal 22 — UU No 21 tahun 2011 tentang OJK mengatur fungsi dan tugas dan wewenang OJK dalam kegiatan di sektor jasa keuangan, termasuk perbankan, IKNB (Industri Keuangan Non-Bank), dan pasar modal"],
+      "pengecoh": [
+        "I dan II saja",
+        "I dan III saja",
+        "II dan III saja"
+      ]
+    },
+    {
+      "id": 113,
+      "kategori": "tunggal",
+      "soal": "Seseorang yang sedang sakit tidak bisa membeli asuransi kesehatan rawat inap pada saat ia sedang berada dalam ambulan menuju rumah sakit, ketentuan tentang hal ini sejalan dengan prinsip asuransi:",
+      "jawaban": ["uncertainty of loss", "dari modul hal 35 — prinsip dasar asuransi adalah adanya ketidakpastian bahwa suatu kerugian akan terjadi di luar kendali seseorang (uncertainty of loss). Asuransi hanya mungkin diterapkan apabila suatu kejadian mengandung ketidakpastian"],
+      "pengecoh": [
+        "a large number of insured",
+        "measurability of loss",
+        "a significant size of potential loss"
+      ]
+    },
+    {
+      "id": 114,
+      "kategori": "tunggal",
+      "soal": "Polis asuransi adalah suatu perjanjian asuransi atau pertanggungan bersifat consensual harus dibuat secara tertulis dalam suatu akta antara pihak yang mengadakan perjanjian pertanggungan yang merupakan bukti tertulis. Pada asuransi kumpulan yang disebut sebagai pemegang polis adalah:",
+      "jawaban": ["Pemberi kerja (employer)", "dari pengetahuan umum (tidak ada definisi eksplisit di modul) — Di asuransi kumpulan, pemegang polis adalah pemberi kerja (employer) yang mengadakan kontrak dengan penanggung untuk melindungi karyawannya. Modul menyebut 'pemegang polis' di banyak tempat (hal 135, 142, 146) tapi tidak secara eksplisit mendefinisikan 'pemegang polis = pemberi kerja'. Karyawan berstatus sebagai tertanggung (insured), bukan pemegang polis"],
+      "pengecoh": [
+        "Penanggung (insurer)",
+        "Penerima manfaat (beneficiary)",
+        "Tertanggung (insured)"
+      ]
+    },
+    {
+      "id": 115,
+      "kategori": "tunggal",
+      "soal": "Dari laporan OJK tahun 2016, jumlah perusahaan asuransi sekitar 145 buah mempunyai total aset sebesar lebih dari Rp 1.002 triliun, dengan per capita expenditure Rp 1,40 juta (gross premium per population). Dan premi bruto yang tumbuh 22,4% dan rasio premi bruto terhadap PDB juga mengalami kenaikan memberikan gambaran peluang yang masih besar bagi perkembangan usaha asuransi di Indonesia. Sampai dengan tahun 2016, aset terbesar menurut jenis usaha asuransi adalah pada sektor:",
+      "jawaban": ["Asuransi Jiwa", "dari modul hal 65 — pada tahun 2016, perusahaan asuransi jiwa memiliki aset sebesar 44,8% dari total aset industri asuransi. BPJS memiliki 28,7%, diikuti asuransi umum 12,6%"],
+      "pengecoh": [
+        "Asuransi Sosial (Jaminan Sosial)",
+        "Reasuransi",
+        "Asuransi Umum (Kerugian)"
+      ]
+    },
+    {
+      "id": 116,
+      "kategori": "kombinasi",
+      "soal": "Banyak cara yang bisa ditempuh bagi orang dalam mengelola suatu risiko. Cara-cara mengelola risiko yang diambil seseorang agar ia tidak merugi adalah:\nI. menghadapi risiko\nII. menghindari risiko\nIII. mengalihkan risiko\nJawaban yang benar adalah:",
+      "jawaban": ["I, II dan III", "dari modul hal 30 — manajemen risiko mencakup: (1) menghindari risiko (risk avoidance), (2) mengurangi risiko (risk reduction), (3) menghadapi/menerima risiko (risk assumption), dan (4) mengalihkan risiko (risk transfer)"],
+      "pengecoh": [
+        "I dan II saja",
+        "I dan III saja",
+        "II dan III saja"
+      ]
+    },
+    {
+      "id": 117,
+      "kategori": "tunggal",
+      "soal": "Tagihan untuk perawatan kesehatan yang konsisten dengan tarif atau tagihan rata-rata untuk pelayanan yang identik atau mirip dalam daerah geografis tertentu dikenal dengan istilah:",
+      "jawaban": ["Reasonable and customary charge", "dari modul hal 91 — polis bedah rumah sakit berisi definisi biaya yang memenuhi syarat dan biaya umum dan biasa (usual and customary). Reasonable and customary charge adalah tarif yang wajar dan umum di daerah geografis tertentu"],
+      "pengecoh": [
+        "Resonance and causally charge",
+        "Additional and complete charge",
+        "Custodial and excise charge"
+      ]
+    },
+    {
+      "id": 118,
+      "kategori": "tunggal",
+      "soal": "Premi asuransi kumpulan yang berhasil dihimpun adalah sebesar Rp. 100.000.000, dan komisi penjualan tahun pertama dibayar sebesar 20% serta komisi penjualan tahun ke-2 sampai dengan tahun ke-10 dibayar 5%. Kompensasi bagi penjual asuransi kumpulan tersebut disebut:",
+      "jawaban": ["high-low commission schedule", "dari modul hal 176 — komisi tinggi-rendah (high-low commission) memberikan komisi yang lebih tinggi untuk tahun pertama diikuti dengan komisi yang lebih rendah untuk tahun-tahun berikutnya"],
+      "pengecoh": [
+        "override commission",
+        "vesting",
+        "level commission schedule"
+      ]
+    },
+    {
+      "id": 119,
+      "kategori": "tunggal",
+      "soal": "Ada serangkaian tindakan di mana seorang pasien diberikan tes-tes laboratorium, radiologi, dan tes-tes pre-screening lainnya dan pemeriksaan sebelum ia dimasukkan ke dalam fasilitas medis sebagai pasien rawat inap. Tindakan ini dikenal dengan istilah:",
+      "jawaban": ["Pre-admission Test", "dari pengetahuan umum (tidak ada di modul) — Pre-admission test adalah rangkaian pemeriksaan (laboratorium, radiologi, pre-screening, EKG) yang dilakukan SEBELUM pasien dirawat inap. Tujuannya: (1) memastikan diagnosis; (2) menentukan tindakan medis; (3) mempersiapkan perawatan; (4) mengurangi risiko komplikasi; (5) efisiensi biaya. Dalam asuransi kesehatan, pre-admission test sering diwajibkan untuk utilization review — memastikan rawat inap benar-benar diperlukan. Pengecoh: (A) Fidelity Concern = jaminan kejujuran karyawan (fidelity bond), terkait fraud/keuangan, bukan medis; (C) Ambulatory Screening = skrining kesehatan untuk pasien RAWAT JALAN, bukan persiapan rawat inap; (D) Patient Checking = istilah umum untuk memeriksa pasien, bukan istilah teknis pre-admission"],
+      "pengecoh": [
+    "Fidelity Concern",
+    "Ambulatory Screening",
+    "Patient Checking"
+      ]
+    },
+    {
+      "id": 120,
+      "kategori": "tunggal",
+      "soal": "Perusahaan asuransi sebagai organisasi bisnis memiliki berbagai bentuk, lazimnya berbentuk stock insurance company dan mutual insurance company. Di Indonesia perusahaan asuransi yang berbentuk mutual company adalah:",
+      "jawaban": ["Asuransi Jiwa Bersama Bumiputera", "dari modul hal 20 — AJB Bumiputera 1912 merupakan perusahaan mutual dan perusahaan asuransi yang didirikan oleh bangsa sendiri"],
+      "pengecoh": [
+        "PT Asuransi Jasa Indonesia (Persero)",
+        "BPJS Kesehatan",
+        "PT Jasa Raharja (Persero)"
+      ]
+    },
+    {
+      "id": 121,
+      "kategori": "tunggal",
+      "soal": "Kalau jumlah kerugian yang direasuransikan sangat besar, maka perusahaan reasuransi dapat pula memindahkan sebagian risiko yang dihadapinya kepada perusahaan reasuransi lain. Transaksi seperti ini disebut:",
+      "jawaban": ["Retrocession", "dari modul hal 47 — kalau jumlah kerugian yang direasuransikan sangat besar, maka perusahaan reasuransi dapat pula mentransfer risiko yang dihadapinya kepada perusahaan reasuransi lain. Transaksi seperti ini disebut retrosesi (retrocession)"],
+      "pengecoh": [
+        "Reserving",
+        "Recalculation",
+        "Retransferring"
+      ]
+    },
+    {
+      "id": 122,
+      "kategori": "tunggal",
+      "soal": "Salah satu perkembangan bisnis di industri asuransi tindakan korporasi yang disebut merger. Penggabungan dua perusahaan asuransi termasuk dalam jenis merger:",
+      "jawaban": ["Horizontal integration", "dari pengetahuan umum (tidak ada di modul) — Horizontal integration (integrasi horizontal) adalah penggabungan dua perusahaan atau lebih yang bergerak di bidang usaha yang SAMA (sejenis) dan menghasilkan produk/jasa yang sama, biasanya pesaing langsung. Contoh: Bank A merger dengan Bank B; Perusahaan asuransi X merger dengan perusahaan asuransi Y. Tujuan: memperbesar pangsa pasar, mengurangi pesaing. Pengecoh: (A) Vertikal Integration = penggabungan perusahaan di tingkat rantai produksi BERBEDA (misal produsen + pemasok, pabrik + distributor); (B) Corporate Spin-off = PEMISAHAN satu perusahaan menjadi dua perusahaan terpisah (kebalikan merger), misal HP spin-off menjadi HP Inc dan HPE; (C) Conglomerate M&A = penggabungan perusahaan BERBEDA BIDANG total (misal rokok + bank, makanan + otomotif), tujuan diversifikasi"],
+      "pengecoh": [
+        "Vertikal integration",
+        "Corporate spin-off",
+        "Conglomerate M&A"
+      ]
+    },
+    {
+      "id": 123,
+      "kategori": "tunggal",
+      "soal": "Banyak perusahaan di Kanada berhasil melakukan proses mutualisasi. Tujuan dari mutualisasi tersebut adalah untuk:",
+      "jawaban": ["Menghindarkan diri dari pengambil alihan oleh perusahaan asing", "dari modul hal 61 — karena perusahaan mutual tidak memiliki stok untuk dijual, perusahaan bersama tidak dapat dibeli oleh perusahaan lain semudah perusahaan saham. Banyak perusahaan Kanada berhasil menghindari pengambilalihan oleh perusahaan asing dengan proses mutualisasi"],
+      "pengecoh": [
+        "Memperoleh keuntungan yang bisa dibagikan kepada pemegang saham",
+        "Lebih fleksibel membeli perusahaan lain",
+        "Memiliki kemampuan keuangan untuk memenuhi kewajiban asuransinya"
+      ]
+    },
+    {
+      "id": 124,
+      "kategori": "tunggal",
+      "soal": "Asuransi syariah tidak hanya diperuntukkan bagi pemeluk agama Islam saja, siapapun diperbolehkan untuk ikut berasuransi secara syariah. Meskipun demikian, mekanisme kerjanya diatur dan harus diselaraskan dengan prinsip syariat Islam. Berdasarkan UU No 40 Tahun 2014 tentang Perasuransian, premi dalam industri asuransi syariah dikenal dengan istilah:",
+      "jawaban": ["Kontribusi", "dari modul hal 75 — kontribusi (contribution) pada asuransi syariah adalah sejumlah uang yang ditetapkan oleh perusahaan asuransi syariah dan disetujui oleh pemegang polis untuk dibayarkan berdasarkan perjanjian asuransi syariah"],
+      "pengecoh": [
+        "Mudharabah",
+        "Ujroh",
+        "Akad"
+      ]
+    },
+    {
+      "id": 125,
+      "kategori": "kombinasi",
+      "soal": "Program asuransi atau jaminan kesehatan sosial di Amerika Serikat tidak mencakup seluruh penduduknya, dan Amerika Serikat memilih kelompok penduduk tertentu saja yang dicakup oleh program asuransi pemerintah, antara lain yang utama adalah terhadap penduduk yang sudah pensiun dan terhadap penduduk yang berada di bawah garis kemiskinan. Salah satu program tersebut adalah Medicare yang mencakup:\nI. Medicare memiliki ketentuan deductible dan copayment\nII. Medicare merupakan bagian dari program pemerintah federal\nIII. Medicare menanggung dan memberi manfaat layanan kesehatan kepada para pekerja di usia produktif\nJawaban yang benar adalah:",
+      "jawaban": ["I dan II saja", "dari modul hal 100 — Medicare adalah program pemerintah federal untuk penduduk usia 65 tahun ke atas. Medicare memiliki deductible dan coinsurance/copayment. Medicare BUKAN untuk pekerja usia produktif (itu Medicaid untuk penduduk miskin)"],
+      "pengecoh": [
+        "I dan III saja",
+        "II dan III saja",
+        "I, II dan III"
+      ]
     }
   ]
 }
