@@ -1,0 +1,1054 @@
+{
+  "bank_soal": [
+    {
+      "id": 1,
+      "kategori": "tunggal",
+      "soal": "Salah satu teknik managed care yang diterapkan pada FKTP adalah penggunaan dokter pelayanan primer (primary care physicians) sebagai gatekeeper. Pendekatan manajemen kasus pelayanan primer (primary care case management approach) yang dilakukan dokter tersebut adalah: (KUK: 1.1)",
+      "jawaban": [
+        "Dokter pelayanan primer harus memberikan otorisasi terlebih dahulu sebelum pasien mendapatkan jasa medis dari dokter spesialis",
+        "Modul Page 19 (PDF) menyebutkan bahwa pendekatan manajemen kasus pelayanan primer memerlukan otorisasi dokter pelayanan primer terlebih dahulu sebelum mendapatkan jasa medis dari dokter spesialis."
+      ],
+      "pengecoh": [
+        "Dokter pelayanan primer dilarang memberikan rujukan ke dokter spesialis melebihi 25% dari pasien yang berobat pada dokter pelayanan primer",
+        "Dokter pelayanan primer tidak diperkenankan menulis resep obat yang berharga tinggi",
+        "Dokter pelayanan primer harus melayani minimal 1000 peserta dalam suatu wilayah"
+      ]
+    },
+    {
+      "id": 2,
+      "kategori": "tunggal",
+      "soal": "Banyak model HMO yang bisa diterapkan di lapangan. Salah satu faktor yang menyebabkan HMO model IPA sangat populer di Amerika Serikat (AS) adalah: (KUK: 1.1)",
+      "jawaban": [
+        "Pasien dapat mengakses dokter praktek di lingkungannya sendiri",
+        "Modul Page 21 (PDF) menyebutkan bahwa HMO model IPA populer karena pasien dapat akses ke dokter praktek atau dokter keluarga di lingkungan pasien sendiri yang biasa dikenal."
+      ],
+      "pengecoh": [
+        "Dokter hanya boleh bergabung di satu HMO",
+        "Dokter praktek harus menjadi karyawan HMO",
+        "Membangun HMO model IPA lebih mudah dibandingkan HMO model kelompok"
+      ]
+    },
+    {
+      "id": 3,
+      "kategori": "tunggal",
+      "soal": "Asosiasi dokter dan masyarakat kedokteran pada awalnya tidak bersimpati terhadap implementasi managed care pada pelayanan dan perawatan kesehatan. Alasan mereka adalah: (KUK: 1.1)",
+      "jawaban": [
+        "Tidak ada kepentingan finansial bagi mereka atas keberhasilan managed care",
+        "Modul Page 18 (PDF) menyebutkan bahwa AMA dan masyarakat kedokteran tidak bersimpati karena mereka tidak mempunyai kepentingan finansial pada keberhasilan managed care."
+      ],
+      "pengecoh": [
+        "Managed care membuat persaingan yang tidak sehat antar para dokter",
+        "Yang memperoleh manfaat dari keberhasilan managed care hanya perusahaan asuransi",
+        "Managed care membatasi penggunaan teknologi kedokteran yang disukai para dokter"
+      ]
+    },
+    {
+      "id": 4,
+      "kategori": "tunggal",
+      "soal": "Teknik-teknik managed care yang telah diterapkan oleh praktek kelompok prabayar terbukti dapat menekan biaya perawatan. Salah satu teknik managed care yang diterapkan pada tindakan pembedahan adalah: (KUK: 1.1)",
+      "jawaban": [
+        "Diperlukan adanya pendapat dokter bedah kedua sebelum dilakukan pembedahan (second surgical opinion)",
+        "Modul Page 19 (PDF) menyebutkan bahwa salah satu teknik managed care generasi pertama adalah pendapat dokter bedah kedua (second surgical opinion) untuk menyaring prospektif perlu tidaknya tindakan pembedahan."
+      ],
+      "pengecoh": [
+        "Untuk mencegah fraud, segala jenis tindakan pembedahan dilaksanakan sebagai pasien rawat inap",
+        "Dilakukan sharing membebankan penggantian pembedahan antara perusahaan asuransi dan peserta 80%: 20%",
+        "Apabila dalam satu kasus dilakukan tindakan pembedahan sebanyak dua kali, maka pembedahan kedua tidak diganti oleh perusahaan asuransi"
+      ]
+    },
+    {
+      "id": 5,
+      "kategori": "kombinasi",
+      "soal": "Terdapat beberapa macam bentuk MCO, satu sama lain memiliki kelebihan dan kekurangan masing-masing. Perbedaan antara PPO dan HMO model IPA, yakni pada PPO:\nI. PPO menerapkan fitur deductible untuk pembayaran pelayanan kesehatan, pada pelayanan rawat jalan dan rawat inap di luar emergency\nII. Peserta diperbolehkan berobat di luar jaringan provider yang dikontrak dengan konsekuensi pengurangan manfaat\nIII. Dokter dan fasilitas pelayanan kesehatan menawarkan diskon fee for service (discounted fee-for-service) untuk paket pelayanan kesehatan",
+      "jawaban": [
+        "II dan III saja",
+        "Modul Page 23 (PDF) menjelaskan perbedaan PPO dengan HMO model IPA pada dua hal pokok: (1) peserta diperbolehkan berobat di luar jaringan provider dengan konsekuensi pengurangan manfaat, dan (2) dokter dan fasilitas kesehatan menawarkan diskon fee-for-service. Fitur deductible (I) tidak secara eksplisit disebut sebagai perbedaan utama di bagian ini."
+      ],
+      "pengecoh": [
+        "I dan II saja",
+        "I dan III saja",
+        "I, II dan III"
+      ]
+    },
+    {
+      "id": 6,
+      "kategori": "tunggal",
+      "soal": "Hubungan antara kepemilikan asuransi kesehatan dan konsumsi pelayanan kesehatan dapat digambarkan dalam pernyataan berikut ini. Pilihlah pernyataan yang paling benar. (KUK: 1.2)",
+      "jawaban": [
+        "Orang yang memiliki asuransi kesehatan cenderung menggunakan jasa pelayanan kesehatan berlebihan dibanding mereka yang tidak memiliki asuransi kesehatan",
+        "Modul Page 18 (PDF) menyebutkan bahwa bagi orang yang memiliki asuransi, biaya layanan bukanlah masalah, sehingga terjadi konsumsi yang berlebihan."
+      ],
+      "pengecoh": [
+        "Memiliki asuransi kesehatan mengakibatkan seseorang lebih peduli terhadap pemanfaatan pelayanan kesehatan yang diberikan provider",
+        "Orang yang tidak memiliki asuransi kesehatan lebih banyak mengonsumsi jasa pelayanan dibanding mereka yang memiliki asuransi kesehatan",
+        "Ada tidaknya asuransi kesehatan yang dimiliki seseorang tidak memberi pengaruh pada konsumsi pelayanan kesehatan nnya"
+      ]
+    },
+    {
+      "id": 7,
+      "kategori": "tunggal",
+      "soal": "Sistem pelayanan kesehatan tidak lepas dari lingkungan teknologi yang terus berkembang. Kemajuan di bidang teknologi kedokteran tidak berbanding lurus dengan peningkatan mutu kesehatan peserta. Hingga saat ini teknologi kedokteran masih berfokus pada: (KUK: 1.2)",
+      "jawaban": [
+        "Peningkatan teknologi penunjang diagnostic medis kurang berdampak pada pengobatan dan tindakan medis",
+        "Modul Page 20 (PDF) menyebutkan bahwa kemajuan teknologi lebih sering terjadi dalam teknologi diagnostik untuk meningkatkan kemampuan mengidentifikasi masalah medis, dan hanya berdampak sedikit pada kemampuan memperbaiki kesehatan pasien."
+      ],
+      "pengecoh": [
+        "Pengembangan manajemen utilisasi kesehatan pada rumah sakit",
+        "Peningkatan kualitas pelayanan kesehatan",
+        "Peningkatan kepuasan peserta terhadap pelayanan yang diberikan provider"
+      ]
+    },
+    {
+      "id": 8,
+      "kategori": "tunggal",
+      "soal": "Sistem pembiayaan pelayanan kesehatan dengan cara fee-for-service tidak dapat menahan lajunya peningkatan biaya pelayanan kesehatan yang semakin mahal, sehingga masyarakat yang membutuhkan perlindungan terhadap pembiayaan pelayanan kesehatan banyak tertinggal tanpa pertanggungan. Secara umum masalah tersebut merupakan akibat dari: (KUK: 1.2)",
+      "jawaban": [
+        "Insentif yang tidak memadai, bahkan tidak ada sama sekali bagi provider dan konsumen untuk menerapkan sistem pelayanan kesehatan secara efisien",
+        "Modul Page 17 (PDF) menyebutkan bahwa masalah tersebut merupakan akibat dari tidak memadai atau tidak ada insentif bagi provider dan konsumen untuk menerapkan sistem pelayanan kesehatan secara efisien."
+      ],
+      "pengecoh": [
+        "Faktor demografi menunjukkan bahwa banyak masyarakat berusia muda yang mendaftar sebagai peserta dengan kecenderungan perilakunya hidup bebas dan tanpa memedulikan faktor kesehatan dan keselamatan",
+        "Lokasi fasilitas pelayanan kesehatan yang tersebar dan berpusat di perkotaan daripada di pedesaan",
+        "Semakin maksimalnya peran HTA (High Technology Assessment) dalam menilai inovasi baru pada sarana dan prasarana pelayanan kesehatan yang digunakan oleh konsumen"
+      ]
+    },
+    {
+      "id": 9,
+      "kategori": "kombinasi",
+      "soal": "Beberapa peraturan yang dikeluarkan pihak regulator adakalanya menghambat penyelenggara asuransi kesehatan dalam melaksanakan upaya pengendalian biaya. Karena itu, dalam menyusun regulasi terkait dengan upaya pengendalian biaya, hendaknya pemerintah selalu mempertimbangkan beberapa cara dalam upaya pengendalian biaya, yaitu:\nI. Adanya upaya inovatif dari pemberi pelayanan kesehatan (provider)\nII. Adanya insentif finansial bagi konsumen sehingga konsumen akan memilih provider yang efisien\nIII. Dilakukannya kajian pemanfaatan (utilization review) yang efektif",
+      "jawaban": [
+        "I, II dan III",
+        "Modul Page 21 (PDF) menyatakan bahwa upaya pengendalian biaya membutuhkan upaya inovatif dari provider, insentif finansial untuk konsumen, atau bentuk kajian pemanfaatan yang efektif."
+      ],
+      "pengecoh": [
+        "I dan II saja",
+        "I dan III saja",
+        "II dan III saja"
+      ]
+    },
+    {
+      "id": 10,
+      "kategori": "tunggal",
+      "soal": "Salah satu faktor yang ikut mempengaruhi masalah pelayanan kesehatan adalah praktek kedokteran defensif. Yang dimaksud dengan praktek kedokteran defensif adalah: (KUK: 1.2)",
+      "jawaban": [
+        "Pemberian pelayanan secara berlebihan oleh dokter karena khawatir akan tuntutan malapraktik",
+        "Modul Page 17 (PDF) mendefinisikan praktek kedokteran defensif sebagai pelayanan yang diberikan berlebihan karena kehawatiran akan dituntut karena malpraktek."
+      ],
+      "pengecoh": [
+        "Para dokter yang memberikan pelayanan berlebihan karena ingin memperoleh imbalan yang sebanyak-banyaknya",
+        "Pelayanan kesehatan yang lebih mengutamakan pengobatan secara tradisional dan alamiah",
+        "Pengobatan kepada pasien mengandalkan metode pengobatan modern dan alat canggih"
+      ]
+    },
+    {
+      "id": 11,
+      "kategori": "tunggal",
+      "soal": "Peningkatan biaya kesehatan yang tidak terkontrol dapat mengakibatkan terjadinya inflasi biaya kesehatan. Managed care sebagai metode untuk mengintegrasikan pembiayaan dengan pelayanan kesehatan dalam sistem terpadu, akan mewujudkan efisiensi biaya, kemudahan akses pelayanan peserta, dan menjaga mutu layanan kesehatan. Hal itu dilakukan melalui: (KUK: 1.2)",
+      "jawaban": [
+        "Penekanan pada upaya pemeliharaan kesehatan peserta agar tetap sehat sehingga penggunaan jasa pelayanan pengobatan berkurang",
+        "Modul Page 10-11 (PDF) menyebutkan salah satu cara integrasi adalah penekanan pada upaya pemeliharaan kesehatan peserta agar tetap sehat sehingga penggunaan jasa pelayanan pengobatan berkurang."
+      ],
+      "pengecoh": [
+        "Pemilihan lokasi praktik dokter dilakukan berdasarkan popularitas dokter",
+        "Pemilihan dokter dilakukan dengan memantau besaran tarif jasa dokter yang paling rendah",
+        "Pemberian insentif pembiayaan bagi peserta bila memanfaatkan provider yang ada di luar jaringan"
+      ]
+    },
+    {
+      "id": 12,
+      "kategori": "tunggal",
+      "soal": "Masuknya perusahaan asuransi tradisional ke dalam bisnis managed care, pertama kali melalui uji coba dengan membentuk HMO. Akan tetapi model PPO lebih disukai oleh perusahaan asuransi tradisional karena: (KUK: 1.3)",
+      "jawaban": [
+        "Lebih mirip dengan ciri asuransi ganti rugi",
+        "Modul Page 25 (PDF) menyebutkan bahwa PPO lebih disukai karena lebih dekat dengan ciri asuransi ganti rugi atau indemnitas tradisional."
+      ],
+      "pengecoh": [
+        "Membutuhkan lebih sedikit dokter",
+        "Lebih mudah mendapatkan bantuan dana dari pemerintah",
+        "Menjanjikan keuntungan yang lebih besar"
+      ]
+    },
+    {
+      "id": 13,
+      "kategori": "kombinasi",
+      "soal": "Penyelenggaraan HMO di industri asuransi kesehatan AS mengalami pertumbuhan yang cepat. Hal tersebut mencerminkan bahwa:\nI. Kesadaran asosiasi dokter semakin tinggi dalam mendukung berkembangnya HMO\nII. Kesadaran pengusaha dan penyelenggara asuransi untuk menemukan kiat-kiat mengurangi biaya dan pasien tetap mendapatkan pelayanan yang sesuai\nIII. Semakin disadari bahwa paket indemnitas fee-for-services tidak mempunyai mekanisme yang cukup untuk mengendalikan biaya",
+      "jawaban": [
+        "II dan III saja",
+        "Modul Page 26 (PDF) menyebutkan bahwa pertumbuhan cepat managed care mencerminkan kesadaran pengusaha dan asuransi untuk mengurangi biaya dan paket indemnitas fee-for-service tidak mempunyai mekanisme cukup untuk mengendalikan biaya. Pilihan I tidak disebutkan."
+      ],
+      "pengecoh": [
+        "I dan II saja",
+        "I dan III saja",
+        "I, II dan III"
+      ]
+    },
+    {
+      "id": 14,
+      "kategori": "tunggal",
+      "soal": "Ada beberapa cara asuransi kesehatan tradisional menerapkan teknik-teknik managed care. Salah satunya adalah mengendalikan utilisasi pelayanan gawat darurat, yakni dengan cara: (KUK: 1.3)",
+      "jawaban": [
+        "Membebankan cost sharing (urun biaya) dan atau membatasi jumlah kunjungan",
+        "Modul Page 88 (PDF) menyebutkan bahwa pengendalian utilisasi pelayanan gawat darurat dilakukan dengan membebankan biaya substansial ke konsumen atau membatasi jumlah kunjungan."
+      ],
+      "pengecoh": [
+        "Melakukan coordination of benefit",
+        "Melakukan teknik stop-loss insurance untuk mencegah klaim besar",
+        "Melakukan prosedur pre-sertifikasi untuk penggunaan pelayanan"
+      ]
+    },
+    {
+      "id": 15,
+      "kategori": "tunggal",
+      "soal": "Salah satu ciri yang membedakan managed care dari asuransi tradisional adalah diterapkannya manajemen pemanfaatan atau utilisasi (utilization management). Tujuan manajemen utilisasi tersebut adalah untuk memastikan: (KUK: 1.3)",
+      "jawaban": [
+        "Pelayanan yang diberikan sesuai dengan kebutuhan medis yang diperlukan, dengan biaya yang efisien",
+        "Modul Page 12 (PDF) mendefinisikan manajemen utilisasi sebagai proses untuk memastikan tertanggung menerima pelayanan yang diperlukan, tidak berlebihan, sesuai kebutuhan medis dan berkualitas tinggi dengan biaya yang efisien."
+      ],
+      "pengecoh": [
+        "Pelayanan yang diterima peserta adalah pelayanan dengan kualitas terbaik yang mampu diberikan oleh provider",
+        "Peserta mendapatkan pelayanan di provider sesuai manfaat yang menjadi haknya",
+        "Pelayanan yang diberikan adalah pelayanan dengan alternatif biaya paling rendah"
+      ]
+    },
+    {
+      "id": 16,
+      "kategori": "tunggal",
+      "soal": "Ada beberapa perbedaan antara asuransi kesehatan tradisional dengan managed care. Salah satu yang membedakan asuransi ganti rugi tradisional (indemnity) dan managed care adalah: (KUK: 1.3)",
+      "jawaban": [
+        "Managed care membagi risiko biaya medis antara penyelenggara asuransi dan fasilitas kesehatan",
+        "Modul Page 12 (PDF) menyebutkan bahwa pada asuransi tradisional perusahaan asuransi menanggung semua risiko finansial, sedangkan pada managed care perusahaan asuransi berbagi risiko finansial dengan provider."
+      ],
+      "pengecoh": [
+        "Managed care tidak mengharuskan pelayanan kesehatan diberikan pada fasilitas kesehatan yang ditunjuk oleh penyelenggara asuransi",
+        "Managed care menyerahkan sepenuhnya mutu layanan kesehatan termasuk kelayakan pelayanan kepada fasilitas kesehatan",
+        "Managed care tidak perlu menerapkan manajemen utilisasi"
+      ]
+    },
+    {
+      "id": 17,
+      "kategori": "tunggal",
+      "soal": "Salah satu hal yang membedakan managed care dengan asuransi tradisional adalah akses peserta terhadap pelayanan. Perbedaan ini digambarkan hal ketentuan berikut: (KUK: 1.3)",
+      "jawaban": [
+        "Adanya kontrak dengan provider jaringan",
+        "Modul Page 12 (PDF) menyebutkan bahwa pada managed care perusahaan asuransi berbagi risiko finansial dengan provider, dan mendorong penggunaan provider yang ditentukan melalui kontrak jaringan."
+      ],
+      "pengecoh": [
+        "Adanya utilization review",
+        "Penggunaan formularium obat",
+        "Cara pembayaran fasilitas kesehatan primer dengan kapitas"
+      ]
+    },
+    {
+      "id": 18,
+      "kategori": "tunggal",
+      "soal": "Point-of-service plans (POS) adalah suatu model managed care yang muncul terakhir dan paling cepat berkembang. Program POS mengombinasikan ciri-ciri dari MCO berikut: (KUK: 1.4)",
+      "jawaban": [
+        "HMO dan PPO",
+        "Modul Page 59 (PDF) menyebutkan bahwa program POS mengkombinasikan ciri-ciri HMO dan PPO."
+      ],
+      "pengecoh": [
+        "EPO dan PPO",
+        "HMO model staf dan HMO model kelompok",
+        "IPA-PHO dan HMO model staf"
+      ]
+    },
+    {
+      "id": 19,
+      "kategori": "kombinasi",
+      "soal": "Integrasi pembiayaan dan pelayanan kesehatan pada managed care dilakukan melalui beberapa cara. Cara-cara dimaksud adalah sebagai berikut:\nI. Memasukkan dalam kontrak terkait program formal yang bertujuan untuk perbaikan mutu pelayanan dan kajian pemanfaatannya\nII. Memberlakukan deductible yang tinggi dan copayment pada pelayanan rawat jalan\nIII. Kesepakatan dengan fasilitas kesehatan tertentu untuk melaksanakan serangkaian pelayanan kesehatan yang komprehensif bagi peserta program",
+      "jawaban": [
+        "I dan III saja",
+        "Modul Page 10 (PDF) menyebutkan integrasi dilakukan melalui kesepakatan dengan provider tertentu dan program formal perbaikan kualitas dan kajian pemanfaatan. Pilihan II bukan merupakan cara integrasi yang disebutkan."
+      ],
+      "pengecoh": [
+        "I dan II saja",
+        "II dan III saja",
+        "I, II dan III"
+      ]
+    },
+    {
+      "id": 20,
+      "kategori": "tunggal",
+      "soal": "Seorang peserta MCO berobat ke dokter yang sudah menjadi langganan keluarganya, ternyata dokter tersebut tidak termasuk dalam jaringan provider, sehingga yang bersangkutan harus membayar dan menanggung seluruh biaya berobat, model MCO yang di miliki peserta tersebut adalah: (KUK: 1.4)",
+      "jawaban": [
+        "Exclusive provider organization (EPO)",
+        "Modul Page 58 (PDF) menyebutkan bahwa pada EPO, bila peserta mendapatkan pelayanan di luar jaringan, mereka membayar sendiri seluruh biaya."
+      ],
+      "pengecoh": [
+        "Point of service (POS)",
+        "HMO model kelompok",
+        "Preferred provider organization (PPO)"
+      ]
+    },
+    {
+      "id": 21,
+      "kategori": "tunggal",
+      "soal": "Cara memberikan remunerasi pada tenaga medis berbeda untuk masing-masing jenis HMO. Cara pembayaran yang lazim diterapkan bagi dokter yang bekerja pada HMO model staf adalah: (KUK: 1.4)",
+      "jawaban": [
+        "Salary",
+        "Modul Page 51 (PDF) menyebutkan bahwa pada HMO model staf, para dokter merupakan karyawan HMO yang mendapat gaji (salary)."
+      ],
+      "pengecoh": [
+        "Fee-for-service",
+        "Capitation",
+        "Per diem"
+      ]
+    },
+    {
+      "id": 22,
+      "kategori": "tunggal",
+      "soal": "Penerapan prinsip-prinsip managed care dalam program obat resep (prescribed drug plans) membantu memonitor dan mengendalikan penggunaan obat, serta mengendalikan biaya obat resep. Salah satu manfaat pelayanan farmasi model managed care tersebut antara lain: (KUK: 1.4)",
+      "jawaban": [
+        "Membatasi jaminan farmasi hanya untuk obat-obatan yang diresepkan oleh dokter jaringan",
+        "Modul Page 63 (PDF) menyebutkan bahwa manfaat pelayanan farmasi terkendali meliputi obat yang dijamin hanya yang diresepkan dokter dalam jaringan provider."
+      ],
+      "pengecoh": [
+        "Dokter tidak perlu mematuhi formulary obat ketika menuliskan resep",
+        "Resep ditulis tidak harus untuk di apotek jaringan yang ditentukan",
+        "Seluruh formulary merupakan substitusi generik untuk obat-obatan bermerek yang lebih mahal"
+      ]
+    },
+    {
+      "id": 23,
+      "kategori": "kombinasi",
+      "soal": "Tujuan mendasar managed care adalah mengurangi biaya dengan cara meningkatkan kelayakan dan efisiensi pelayanan kesehatan. Karena itu managed care memiliki ciri-ciri sebagai berikut:\nI. Memiliki standar waktu penyelesaian verifikasi klaim pelayanan kesehatan\nII. Pemanfaatan tenaga dokter pelayanan primer dan provider lainnya untuk melayani peserta\nIII. Melakukan pemantauan dan analisa terhadap pola-pola praktek dokter",
+      "jawaban": [
+        "II dan III saja",
+        "Modul Page 11 (PDF) menyebutkan ciri managed care antara lain menggunakan tenaga dokter pelayanan primer dan provider lainnya untuk melayani peserta serta memantau dan menganalisa pola-pola praktek dokter. Pilihan I tidak disebutkan."
+      ],
+      "pengecoh": [
+        "I dan II saja",
+        "I dan III saja",
+        "I, II dan III"
+      ]
+    },
+    {
+      "id": 24,
+      "kategori": "kombinasi",
+      "soal": "Ada perbedaan antara managed care dengan asuransi tradisional. Managed care memiliki ciri-ciri:\nI. Dilakukan pengukuran mutu pelayanan kesehatan\nII. Membayar provider secara fee-for-service\nIII. Ada risk-sharing dengan provider",
+      "jawaban": [
+        "I dan III saja",
+        "Modul Page 12 (PDF) menyebutkan bahwa pada managed care ada risk-sharing dengan provider dan dilakukan pengukuran mutu pelayanan kesehatan. Pilihan II salah karena managed care membayar provider berdasarkan tarif negosiasi, bukan fee-for-service murni."
+      ],
+      "pengecoh": [
+        "I dan II saja",
+        "II dan III saja",
+        "I, II dan III"
+      ]
+    },
+    {
+      "id": 25,
+      "kategori": "tunggal",
+      "soal": "Health maintenance organization (HMO) model jaringan mengontrak sejumlah independent practice association (IPA) untuk memberi pelayanan kesehatan kepada peserta. HMO model jaringan ini lebih terintegrasi, mengurangi risiko utilisasi pelayanan karena risiko tersebar ke kelompok-kelompok provider lainnya. Bagi peserta, keuntungan utama HMO model jaringan adalah: (KUK: 2.1)",
+      "jawaban": [
+        "Banyak pilihan provider yang dapat dipilih peserta",
+        "Modul Page 56 (PDF) menyebutkan bahwa keuntungan utama model jaringan adalah paling banyak providernya, sehingga calon peserta HMO tertarik."
+      ],
+      "pengecoh": [
+        "Pelayanan lebih memuaskan karena kapitasi dokter dibagi rata",
+        "Jumlah kunjungan pasien tidak berarti risiko utilisasi pelayanan",
+        "Dapat berobat kapan saja karena pelayanan berupa panel tertutup maupun terbuka"
+      ]
+    },
+    {
+      "id": 26,
+      "kategori": "tunggal",
+      "soal": "Manajemen pemasaran dan penjualan suatu organisasi managed care harus menetapkan strategi perolehan peserta baru. Salah satu komponen utama strategi perolehan peserta ini adalah: (KUK: 2.1)",
+      "jawaban": [
+        "Pengembangan produk dan harga berdasarkan hasil riset pasar",
+        "Modul Page 75 (PDF) menyebutkan bahwa komponen utama strategi perolehan peserta meliputi riset pasar, pengembangan produk dan penetapan harga berdasarkan hasil riset pasar, serta manajemen penjualan."
+      ],
+      "pengecoh": [
+        "Persentase komisi yang tinggi bagi tenaga penjual",
+        "Penambahan jumlah agen yang besar dan berpengalaman",
+        "Penetapan profit margin < 5%"
+      ]
+    },
+    {
+      "id": 27,
+      "kategori": "kombinasi",
+      "soal": "MCO mempunyai berbagai variasi bentuk dan cara kerjanya Meskipun demikian, umumnya MCO memiliki elemen-elemen yang sama, antara lain:\nI. Standar yang baku dalam memilih provider\nII. Teknik-teknik negosiasi yang teruji\nIII. Teknik-teknik pengendalian biaya",
+      "jawaban": [
+        "I dan III saja",
+        "Modul Page 48 (PDF) menyebutkan elemen MCO antara lain kerja sama dengan provider, standar baku pemilihan provider, program jaminan mutu, insentif ekonomi, pengendalian penyelenggaraan dan pembiayaan, teknik pengendalian biaya, dan manajemen utilisasi. Teknik negosiasi (II) tidak disebutkan secara eksplisit."
+      ],
+      "pengecoh": [
+        "I dan II saja",
+        "II dan III saja",
+        "I, II dan III"
+      ]
+    },
+    {
+      "id": 28,
+      "kategori": "tunggal",
+      "soal": "Dengan meningkatkan biaya obat resep, serta dampaknya terhadap paket jaminan kesehatan, perusahaan asuransi memperkenalkan teknik-teknik managed care ke dalam program manfaat obat resep. Program manajemen farmasi membantu pengendalian utilisasi dan biaya obat, dengan cara: (KUK: 2.1)",
+      "jawaban": [
+        "Penggunaan formularium",
+        "Modul Page 63 (PDF) menyebutkan bahwa penggunaan formularium adalah cara paling efektif untuk menekan biaya obat-obatan."
+      ],
+      "pengecoh": [
+        "Resep hanya ditulis oleh dokter primer",
+        "Resep dibatasi maksimum 3 item",
+        "Pembelian obat secara retail"
+      ]
+    },
+    {
+      "id": 29,
+      "kategori": "tunggal",
+      "soal": "Program managed care berkembang pesat dan menarik perhatian perusahaan asuransi tradisional untuk menganalisis keberhasilan managed care. Perusahaan asuransi tradisional mengambil beberapa teknik managed care untuk mengendalikan biaya, yaitu: (KUK: 2.1)",
+      "jawaban": [
+        "Melakukan utilization review, dan manajemen kasus untuk kasus kronis",
+        "Modul Page 68 (PDF) menyebutkan bahwa program indemnitas terkendali mengambil beberapa teknik managed care, antara lain utilization review, pembentukan organisasi khusus untuk manajemen utilisasi, dan manajemen kasus untuk kasus kronis."
+      ],
+      "pengecoh": [
+        "Menghitung eskalasi kenaikan tarif dan kecenderungan premi",
+        "Membandingkan tarif pelayanan satu daerah dengan daerah lain",
+        "Menghitung eskalasi kenaikan premi dan kecenderungan profit"
+      ]
+    },
+    {
+      "id": 30,
+      "kategori": "tunggal",
+      "soal": "Untuk mengatasi meningkatnya utilisasi dan biaya pelayanan kesehatan mental atau perilaku, penyelenggara asuransi melakukan kontrak dengan pihak ketiga dalam memberikan pelayanan spesialistik yang terkendali. Program pelayanan spesialistik ini juga menggunakan cara-cara pengendalian ala managed care, seperti: (KUK: 2.1)",
+      "jawaban": [
+        "Menggunakan teknik-teknik manajemen kasus",
+        "Modul Page 62 (PDF) menyebutkan bahwa pihak ketiga yang mengelola kesehatan mental menggunakan cara-cara pengendalian ala managed care, antara lain teknik-teknik manajemen kasus."
+      ],
+      "pengecoh": [
+        "Menyediakan layanan yang terbatas",
+        "Meningkatkan komunikasi antara pasien dengan pemberi kerja",
+        "Memantau utilisasi untuk mengetahui kepuasan pasien terhadap proses rujukan"
+      ]
+    },
+    {
+      "id": 31,
+      "kategori": "tunggal",
+      "soal": "Pemberi kerja yang memberikan perlindungan program kesehatan bagi para karyawannya perlu mempunyai polis kerugian stop-loss. Stop-loss arrangements tersebut adalah jenis asuransi yang: (KUK: 2.1)",
+      "jawaban": [
+        "Memberi perlindungan bila terjadi klaim melebihi perkiraan",
+        "Modul Page 53 (PDF) mendefinisikan stop-loss sebagai tipe asuransi yang memberikan perlindungan bila klaim lebih besar dari jumlah tertentu per orang yang ditanggung."
+      ],
+      "pengecoh": [
+        "Menghentikan pelayanan berbiaya besar pada akhir kontrak",
+        "Tidak menggunakan dokter sebagai gate-keeper",
+        "Tidak membayar klaim terkait bencana"
+      ]
+    },
+    {
+      "id": 32,
+      "kategori": "kombinasi",
+      "soal": "Program perawatan gigi bisa diselenggarakan dengan pola indemnity ataupun dengan pola managed care. Program pelayanan gigi dengan manfaat jaminan terkendali (managed indemnity benefit) memiliki ciri-ciri:\nI. Bebas memilih provider\nII. Utilization review dan klaim review\nIII. Provider terbatas",
+      "jawaban": [
+        "I dan II saja",
+        "Modul Page 64 (PDF) menyebutkan ciri managed indemnity benefits antara lain bebas memilih provider dan utilization review serta claim review oleh dokter gigi profesional. Pilihan III salah karena provider tidak terbatas."
+      ],
+      "pengecoh": [
+        "I dan III saja",
+        "II dan III saja",
+        "I, II dan III"
+      ]
+    },
+    {
+      "id": 33,
+      "kategori": "tunggal",
+      "soal": "Health maintenance organization (HMO) model kelompok membuat kontrak dengan kelompok multi-spesialis untuk memberikan pelayanan peserta. Meskipun jumlah kelompok dan penyebaran kelompok multi-spesialis sedikit dan tidak merata sehingga menyulitkan peserta, namun masih ada kelebihan HMO model kelompok dibandingkan dengan HMO model staf, yaitu: (KUK: 2.1)",
+      "jawaban": [
+        "Modal yang dibutuhkan HMO model kelompok relatif lebih kecil",
+        "Modul Page 52 (PDF) menyebutkan bahwa keuntungan model kelompok dibandingkan model staf adalah modal untuk model kelompok lebih kecil, kurang perlu membeli fasilitas kesehatan, dan biaya kapitasi pada model kelompok lebih murah."
+      ],
+      "pengecoh": [
+        "Biaya kapitas relatif tinggi dibanding gaji dokter pada model staf",
+        "Dokter siap menerima panggilan (on call) 24 jam ke rumah pasien",
+        "Fee-for-service merupakan pola tarif yang utama"
+      ]
+    },
+    {
+      "id": 34,
+      "kategori": "tunggal",
+      "soal": "HMO model staf dan HMO model kelompok disebut HMO panel tertutup (closed panel). Istilah panel tertutup ini berarti: (KUK: 2.1)",
+      "jawaban": [
+        "Para anggota HMO hanya boleh menggunakan jasa kelompok dokter yang dikontrak atau dipekerjakan oleh HMO",
+        "Modul Page 52 (PDF) menyebutkan bahwa istilah panel tertutup mengacu pada kenyataan bahwa para anggota/peserta HMO hanya boleh menggunakan jasa kelompok dokter yang dikontrak atau dipekerjakan oleh HMO."
+      ],
+      "pengecoh": [
+        "Para pengelola HMO hanya boleh praktek pada satu HMO pada siang hari dan bebas pada malam hari",
+        "Sebagai metode untuk menanggung risiko bersama secara terbatas antara provider dan pemberi kerja",
+        "Para dokter yang praktek pada HMO harus bersertifikat dan harus mampu lulus ujian yang dilakukan oleh organisasi profesi"
+      ]
+    },
+    {
+      "id": 35,
+      "kategori": "tunggal",
+      "soal": "Sebagian besar HMO memberikan kompensasi bagi dokter IPA melalui sistem pembayaran kapitas. Namun demikian, sebagian MCO juga memberikan kompensasi fee-for-service dengan melakukan withhold pada sebagian pembayaran. Tujuan adanya pembayaran ditahan (withhold) adalah: (KUK: 2.1)",
+      "jawaban": [
+        "Sebagai metode untuk menanggung risiko bersama",
+        "Modul Page 53 (PDF) menyebutkan bahwa withhold adalah metode untuk menanggung bersama risiko dalam keadaan terjadi risiko melebihi perkiraan."
+      ],
+      "pengecoh": [
+        "Sebagai upaya memberikan kepuasan provider",
+        "Memenuhi ketentuan pemerintah",
+        "Sebagai bonus bagi provider di akhir tahun"
+      ]
+    },
+    {
+      "id": 36,
+      "kategori": "tunggal",
+      "soal": "Dalam perkembangannya, managed care menerapkan pelayanan terbatas yang disebut carve out. Karena kesulitan mengontrol biayanya, Jenis pelayanan dengan menerapkan carve-out ini adalah: (KUK: 2.1)",
+      "jawaban": [
+        "Kesehatan mental",
+        "Modul Page 61 (PDF) menyebutkan bahwa layanan yang di-carve out meliputi kesehatan mental, obat-obatan yang diresepkan, dan kesehatan gigi."
+      ],
+      "pengecoh": [
+        "Pelayanan obat narkotik",
+        "Kesehatan fisik",
+        "Kesehatan otak"
+      ]
+    },
+    {
+      "id": 37,
+      "kategori": "tunggal",
+      "soal": "Sebuah MCO perlu melakukan pengukuran sejauh mana provider memenuhi standar yang telah ditetapkan dalam pelayanan kesehatan. Prosedur tersebut dilakukan untuk menentukan kebutuhan medis pada pelayanan kesehatan yang ditanggung program asuransi atau jaminan kesehatan, dan prosedur ini disebut: (KUK: 2.2)",
+      "jawaban": [
+        "Manajemen kualitas",
+        "Modul Page 78 (PDF) mendefinisikan manajemen kualitas sebagai proses di mana MCO melakukan pengukuran sejauh mana provider memenuhi standar yang telah ditetapkan dalam pelayanan kesehatan."
+      ],
+      "pengecoh": [
+        "Manajemen kasus",
+        "Manajemen penyakit",
+        "Manajemen utilisasi"
+      ]
+    },
+    {
+      "id": 38,
+      "kategori": "tunggal",
+      "soal": "Salah satu komisi yang penting dalam MCO adalah komisi medis. Tanggung jawab komisi manajemen medis pada managed care organization meliputi antara lain: (KUK: 2.2)",
+      "jawaban": [
+        "Penetapan paket jaminan",
+        "Modul Page 73 (PDF) menyebutkan bahwa tanggung jawab komisi manajemen medis adalah penetapan paket jaminan, manajemen utilisasi, masalah-masalah farmasi dan pengobatan, dan peningkatan mutu."
+      ],
+      "pengecoh": [
+        "Edukasi dan sosialisasi program",
+        "Optimalisasi profit",
+        "Kepuasan pelanggan"
+      ]
+    },
+    {
+      "id": 39,
+      "kategori": "tunggal",
+      "soal": "Meskipun tidak ada struktur manajemen yang baku dalam organisasi managed care, namun umumnya terdapat 6 unit manajemen, yang salah satunya adalah manajemen operasional. Fungsi utama manajemen operasional adalah mengembangkan dan mengelola sistem informasi. Suatu infrastruktur sistem informasi manajemen (SIM) yang efektif dalam managed care adalah yang: (KUK: 2.2)",
+      "jawaban": [
+        "Melayani seluruh fungsi bisnis dan klinik organisasi sambil menyediakan basis data umum untuk pelaporan manajemen yang dibutuhkan sehari-hari dan pengambilan keputusan jangka panjang",
+        "Modul Page 81 (PDF) menyebutkan bahwa tantangan SIM adalah bagaimana melayani seluruh fungsi bisnis dan klinik dari MCO sambil menyediakan basis data umum untuk pelaporan manajemen yang dibutuhkan untuk kegiatan sehari-hari dan pengambilan keputusan strategis jangka panjang."
+      ],
+      "pengecoh": [
+        "Fokus manajemen informasi jangka panjang, yaitu mengoptimalkan kinerja departemen untuk mencapai kinerja maksimum",
+        "Fokus manajemen informasi jangka pendek yaitu pengintegrasian sumber-sumber informasi yang ada menjadi sistem fungsional",
+        "Menekankan pada keluaran kesehatan dan menyediakan pengintegrasian informasi status kesehatan, utilisasi, dan biaya di antara berbagai provider"
+      ]
+    },
+    {
+      "id": 40,
+      "kategori": "tunggal",
+      "soal": "Pelayanan peserta (customer service) mempunyai kedudukan penting dalam suatu MCO. Peran utama divisi pelayanan peserta ini antara lain: (KUK: 2.2)",
+      "jawaban": [
+        "Merupakan penghubung antara MCO dengan peserta",
+        "Modul Page 76 (PDF) menyebutkan bahwa divisi pelayanan peserta memiliki tiga peran utama, salah satunya adalah penghubung penting antara MCO dengan peserta/pelanggan."
+      ],
+      "pengecoh": [
+        "Menyediakan data dalam hal terjadi gugatan hukum atau litigasi terhadap MCO",
+        "Menyelesaikan klaim-klaim yang disengketakan",
+        "Melakukan riset pasar untuk kepentingan produk baru"
+      ]
+    },
+    {
+      "id": 41,
+      "kategori": "tunggal",
+      "soal": "Telah dimaklumi bahwa eksekutif puncak (CEO, chief executive officer) bertanggung jawab atas struktur, fungsi, dan kinerja organisasi managed care, melalui pelaksanaan tiga fungsi utama yaitu kepemimpinan, pengambilan keputusan strategis, dan implementasi manajemen. Peran utama CEO dalam menetapkan sasaran strategis adalah: (KUK: 2.2)",
+      "jawaban": [
+        "Mengoptimalkan penghematan biaya dan peningkatan mutu pelayanan",
+        "Modul Page 74 (PDF) menyebutkan bahwa peran utama CEO adalah menetapkan arah strategis perusahaan untuk mencapai keadaan optimal dari dua tujuan yang tampaknya bertentangan yaitu penghematan biaya dan peningkatan kualitas pelayanan."
+      ],
+      "pengecoh": [
+        "Mengontrak dokter bermutu tinggi yang berkomitmen menerapkan managed care",
+        "Mengembangkan produk dan menetapkan harga berdasarkan market research",
+        "Mengembangkan dan mengelola sistem informasi manajemen MCO"
+      ]
+    },
+    {
+      "id": 42,
+      "kategori": "tunggal",
+      "soal": "Besar kecilnya ukuran perusahaan berpengaruh dalam pengembangan managed care. Dalam penerapan program managed care di perusahaan yang besar, umumnya pemberi kerja ikut berperan dalam hal: (KUK: 2.3)",
+      "jawaban": [
+        "Membuat rancangan paket manfaat",
+        "Modul Page 98 (PDF) menyebutkan bahwa perusahaan besar membantu menyusun rancangan program managed care dan ikut serta dalam membuat rancangan paket manfaat."
+      ],
+      "pengecoh": [
+        "Merancang polis",
+        "Menetapkan besaran premi",
+        "Administrasi klaim"
+      ]
+    },
+    {
+      "id": 43,
+      "kategori": "tunggal",
+      "soal": "Salah satu masalah serius dalam sistem asuransi kesehatan adalah ada peserta yang dijamin oleh asuransi pasangan (suami atau istri) selain asuransi dirinya sendiri yang disebut multiple coverage. Untuk mengatasi masalah ini diperlukan: (KUK: 2.3)",
+      "jawaban": [
+        "Pengaturan koordinasi manfaat",
+        "Modul Page 92 (PDF) menyebutkan bahwa untuk mengatasi multiple coverage diperlukan pengaturan koordinasi manfaat (COB)."
+      ],
+      "pengecoh": [
+        "Pengaturan pemberian pelayanan medis",
+        "Pengaturan premi masing-masing polis",
+        "Pasal-pasal salah satu polis tidak berlaku"
+      ]
+    },
+    {
+      "id": 44,
+      "kategori": "tunggal",
+      "soal": "Pemberi layanan kesehatan dapat mempengaruhi keputusan penggunaan layanan secara berlebihan yang kurang diperhatikan dampak finansialnya oleh konsumen dan pihak penyelenggara layanan kesehatan. Fitur yang mewajibkan konsumen saat mendapatkan layanan kesehatan, ikut menanggung biaya pelayanan kesehatan dalam persentase tertentu disebut: (KUK: 2.3)",
+      "jawaban": [
+        "Coinsurance",
+        "Modul Page 88 (PDF) mendefinisikan coinsurance sebagai sejumlah persentase dari biaya medis yang harus dibayarkan oleh peserta pada saat mendapatkan layanan medis."
+      ],
+      "pengecoh": [
+        "Deductible",
+        "Copayment",
+        "Premium sharing"
+      ]
+    },
+    {
+      "id": 45,
+      "kategori": "kombinasi",
+      "soal": "Dengan berkembangnya managed care dan meningkatnya pilihan program asuransi kesehatan, konsumen menghadapi banyak pilihan. Hal yang menjadi pertimbangan pokok konsumen dalam memilih program asuransi kesehatan adalah:\nI. Jumlah cost sharing\nII. Rancangan manfaat yang disediakan\nIII. Pemilihan provider",
+      "jawaban": [
+        "I, II dan III",
+        "Modul Page 90 (PDF) menyebutkan bahwa konsumen menghadapi dua hal pertimbangan pokok dalam memilih: memilih program kesehatan yang tepat dan biaya pelayanan di luar tanggungan asuransi. Rancangan manfaat dan pemilihan provider juga menjadi pertimbangan."
+      ],
+      "pengecoh": [
+        "I dan II saja",
+        "I dan III saja",
+        "II dan III saja"
+      ]
+    },
+    {
+      "id": 46,
+      "kategori": "kombinasi",
+      "soal": "Sarana utama untuk mempengaruhi perilaku konsumen pada asuransi tradisional adalah dengan cara menerapkan sistem menanggung biaya bersama (iur biaya, cost sharing). Bentuk cost sharing yang paling sering digunakan untuk cost control containment adalah:\nI. Benefit design\nII. Coinsurance\nIII. Deductible",
+      "jawaban": [
+        "II dan III saja",
+        "Modul Page 88 (PDF) menyebutkan bahwa bentuk cost sharing yang paling sering digunakan adalah coinsurance dan deductible. Benefit design (I) adalah rancangan manfaat, bukan bentuk cost sharing."
+      ],
+      "pengecoh": [
+        "I dan II saja",
+        "I dan III saja",
+        "I, II dan III"
+      ]
+    },
+    {
+      "id": 47,
+      "kategori": "tunggal",
+      "soal": "Metode cost sharing merupakan suatu cara untuk pencegahan (prevention) dan intervensi dini (early intervention) dengan tujuan pengendalian biaya pelayanan kesehatan. Sistem pembayaran prospektif dalam cost sharing untuk mengatasi permintaan yang berlebihan, dilakukan pasien atau tertanggung kepada fasilitas kesehatan disebut: (KUK: 2.3)",
+      "jawaban": [
+        "Copayment",
+        "Modul Page 88 (PDF) menjelaskan bahwa copayment adalah sejumlah biaya yang harus dibayarkan peserta setiap kali menerima layanan, tanpa melihat total biaya pengobatan."
+      ],
+      "pengecoh": [
+        "Coinsurance",
+        "Deductible",
+        "Fee-for-service"
+      ]
+    },
+    {
+      "id": 48,
+      "kategori": "kombinasi",
+      "soal": "Walaupun Amerika Serikat belum mempunyai program jaminan kesehatan yang mencakup seluruh penduduk, mereka memiliki program jaminan kesehatan Medicare yang sangat diandalkan, dengan karakteristik sebagai berikut:\nI. Menjamin penyakit-penyakit tertentu yang termasuk dalam undang-undang jaminan sosial\nII. Penerima Medicare adalah mereka yang berusia pensiun (65 tahun) ke atas\nIII. Didanai dari pajak umum",
+      "jawaban": [
+        "I dan II saja",
+        "Modul Page 103 (PDF) menyebutkan bahwa Medicare menjamin perawatan rumah sakit bagi usia 65 tahun ke atas dan orang dengan penyakit tertentu. Pendanaannya berasal dari kontribusi pekerja dan pemberi kerja, bukan pajak umum."
+      ],
+      "pengecoh": [
+        "I dan III saja",
+        "II dan III saja",
+        "I, II dan III"
+      ]
+    },
+    {
+      "id": 49,
+      "kategori": "tunggal",
+      "soal": "Pelayanan kesehatan di instalasi gawat darurat, banyak diminati oleh konsumen meskipun sebenarnya secara medis tidak tepat. Hal-hal yang dapat diidentifikasikan sebagai penyebab diminatinya pelayanan di instalasi gawat darurat tersebut antara lain adalah: (KUK: 3.1)",
+      "jawaban": [
+        "Pelayanan buka 24 jam dan dilayani dengan cepat",
+        "Modul Page 88 (PDF) menyebutkan bahwa pelayanan UGD cenderung diberikan secara cepat, banyak diminati konsumen, meskipun secara medis tidak membutuhkan pelayanan UGD."
+      ],
+      "pengecoh": [
+        "Tidak ada ketentuan yang mensyaratkan untuk pelayanan instalasi gawat darurat dari MCO",
+        "Obat yang diberikan dokter adalah obat paten terkenal",
+        "Pelayanan kesehatan di poliklinik harus membayar copayment besar"
+      ]
+    },
+    {
+      "id": 50,
+      "kategori": "tunggal",
+      "soal": "Program kompensasi pekerja (worker compensation) di Amerika Serikat serupa dengan Jaminan Kecelakaan Kerja SJSN di Indonesia. Manfaat yang diberikan dari program ini adalah: (KUK: 3.1)",
+      "jawaban": [
+        "Memberikan sebagian penghasilan yang hilang bila mengalami disabilitas parsial atau total",
+        "Modul Page 118 (PDF) menyebutkan bahwa manfaat jaminan kompensasi pekerja meliputi jaminan hilangnya penghasilan selama terjadi disabilitas akibat kecelakaan kerja atau penyakit akibat kerja, biasanya berupa persentase dari gaji."
+      ],
+      "pengecoh": [
+        "Mengganti biaya pengobatan dan perawatan bagi peserta yang mengalami kecelakaan di luar hubungan kerja",
+        "Memberikan santunan kecelakaan bagi ahli waris peserta",
+        "Memberikan biaya pelayanan kesehatan setelah peserta mencapai usia pensiun"
+      ]
+    },
+    {
+      "id": 51,
+      "kategori": "tunggal",
+      "soal": "Perusahaan kecil cenderung mempekerjakan karyawan dengan gaji rendah dan bekerja dalam kondisi margin operasional kecil sehingga membiayai pelayanan kesehatan pegawai dianggap menyulitkan perusahaan. EPO merupakan produk managed care yang berupaya untuk menarik perusahaan kecil, dengan cara: (KUK: 3.2)",
+      "jawaban": [
+        "Premi fleksibel dapat dinegosiasikan",
+        "Modul Page 99 (PDF) menyebutkan bahwa perusahaan kecil cenderung memilih EPO karena EPO menawarkan biaya yang lebih rendah dan lebih ketat kontrol biayanya, serta premi dapat dinegosiasikan."
+      ],
+      "pengecoh": [
+        "Sistem dikendalikan dengan ketat",
+        "Fleksibilitas kepesertaan karyawan tinggi",
+        "Pegawai lebih mengenal konsep managed care"
+      ]
+    },
+    {
+      "id": 52,
+      "kategori": "tunggal",
+      "soal": "Biaya layanan kesehatan di instalasi gawat darurat (IGD) lebih mahal dibandingkan biaya layanan kesehatan di poliklinik. Untuk menanggulangi layanan IGD yang tidak tepat, asuransi indemnitas mengenakan tambahan beban finansial guna memaksa konsumen menyadari adanya konsekuensi biaya terkait dengan penggunaan IGD, yaitu: (KUK: 3.2)",
+      "jawaban": [
+        "Penerapan deductible",
+        "Modul Page 88 (PDF) menyebutkan bahwa program indemnitas mengontrol utilisasi pelayanan gawat darurat dengan membebankan biaya substansial ke konsumen atau membatasi jumlah kunjungan."
+      ],
+      "pengecoh": [
+        "Tabel manfaat yang menjadi pertanggungan konsumen",
+        "Precertification of outpatient testing",
+        "Preadmission review"
+      ]
+    },
+    {
+      "id": 53,
+      "kategori": "tunggal",
+      "soal": "Peserta akan cenderung melakukan rawat inap meskipun secara medis tidak diperlukan, apabila manfaat layanan rawat inap yang ditanggung lebih baik dibandingkan manfaat rawat jalan. Oleh karena itu program asuransi indemnitas akan melakukan pengendalian biaya dengan cara: (KUK: 3.2)",
+      "jawaban": [
+        "Melakukan utilization review secara prospektif bagi kasus-kasus rawat inap yang tidak bersifat darurat",
+        "Modul Page 90 (PDF) menyebutkan bahwa banyak program asuransi indemnitas secara rutin memasukkan penilaian utilization review secara prospektif bagi kasus-kasus rawat inap yang tidak bersifat darurat."
+      ],
+      "pengecoh": [
+        "Melakukan prosedur pre-sertifikasi untuk penggunaan pelayanan",
+        "Melakukan cost sharing pelayanan rawat jalan",
+        "Memasukkan tambahan beban finansial yang signifikan guna memaksa konsumen menyadari adanya konsekuensi biaya yang terkait dengan penggunaan instalasi gawat darurat"
+      ]
+    },
+    {
+      "id": 54,
+      "kategori": "tunggal",
+      "soal": "Mendorong masyarakat agar berpola hidup sehat secara tidak langsung dapat memecahkan masalah biaya pelayanan kesehatan. Penelitian menunjukkan bukti yang penting bahwa perilaku pribadi untuk melakukan perubahan gaya hidup merupakan faktor penentu status kesehatan dibanding penggunaan pelayanan medis, yakni berupa: (KUK: 3.2)",
+      "jawaban": [
+        "Menerapkan pola makan sehat, berolahraga dan pemeliharaan lingkungan",
+        "Modul Page 93 (PDF) menyebutkan bahwa perubahan gaya hidup yang dapat memberi dampak lebih besar terhadap kesehatan adalah menerapkan pola makan yang sehat, berolahraga secara teratur dan pemeliharaan lingkungan yang bersih dan sehat."
+      ],
+      "pengecoh": [
+        "Mengikuti pendidikan kesehatan reguler",
+        "Makan vitamin teratur sesuai resep dokter",
+        "Rajin checkup untuk peserta usia lanjut di Posbindu"
+      ]
+    },
+    {
+      "id": 55,
+      "kategori": "kombinasi",
+      "soal": "Ditinjau dari segi investasi, pelayanan pencegahan tidak langsung menguntungkan perusahaan asuransi. Akan tetapi hal itu penting dilakukan managed care, karena peserta yang menerapkan pola hidup sehat terhindar dari penyakit, sehingga dalam jangka panjang terjadi kendali biaya akibat menurunnya tingkat pemakaian manfaat layanan kesehatan. Beberapa pelayanan pencegahan yang sepenuhnya masuk dalam pertanggungan (coverage) adalah:\nI. Pelayanan bayi sehat\nII. Program corporate social responsibility (CSR)\nIII. Pemeriksaan fisik berkala",
+      "jawaban": [
+        "I dan III saja",
+        "Modul Page 94 (PDF) menyebutkan bahwa pelayanan pencegahan yang sepenuhnya masuk dalam pertanggungan antara lain pelayanan bayi sehat, imunisasi, dan pemeriksaan fisik berkala. Program CSR (II) bukan bagian dari manfaat pertanggungan."
+      ],
+      "pengecoh": [
+        "I dan II saja",
+        "II dan III saja",
+        "I, II dan III"
+      ]
+    },
+    {
+      "id": 56,
+      "kategori": "tunggal",
+      "soal": "Dari beberapa strategi terkemuka yang digunakan untuk pelaksanaan perbaikan mutu berkelanjutan (continuous quality improvement, CQI), terdapat strategi yang fokus lebih menekankan pada proses yang tidak konsisten dan mengurangi pemborosan. Strategi ini disebut: (KUK: 4.1)",
+      "jawaban": [
+        "Lean Strategy",
+        "Modul Page 148 (PDF) menyebutkan bahwa Lean Strategy adalah strategi yang fokus pada proses yang tidak konsisten dan mengurangi pemborosan."
+      ],
+      "pengecoh": [
+        "Six Sigma Strategy",
+        "Baldrige Award Criteria Strategy",
+        "IHI Model for Improvement Strategy"
+      ]
+    },
+    {
+      "id": 57,
+      "kategori": "tunggal",
+      "soal": "Pengertian tentang mutu pelayanan kesehatan sangat bervariasi tergantung sudut pandang dari masing-masing pihak. Menurut penyelenggara asuransi, mutu pelayanan dikatakan baik, apabila: (KUK: 4.1)",
+      "jawaban": [
+        "Biaya murah untuk pertanggungan manfaat dasar",
+        "Modul Page 131 (PDF) menyebutkan bahwa bagi perusahaan asuransi, pelayanan kesehatan bermutu bisa berarti biaya yang rendah untuk pertanggungan benefit dasar."
+      ],
+      "pengecoh": [
+        "Waktu tunggu pelayanan rendah",
+        "Cakupan imunisasi peserta tinggi",
+        "Program kesehatan komprehensif"
+      ]
+    },
+    {
+      "id": 58,
+      "kategori": "tunggal",
+      "soal": "Dalam aliansi managed care, faktor risiko yang tidak boleh diperhitungkan dalam menetapkan premi adalah besaran penghasilan peserta. Faktor risiko lainnya yang dibolehkan dalam menetapkan besaran premi adalah: (KUK: 4.1)",
+      "jawaban": [
+        "Usia, tempat tinggal, paket pelayanan, dan komposisi keluarga",
+        "Modul Page 123 (PDF) menyebutkan bahwa dalam aliansi managed care, faktor risiko yang boleh diperhitungkan dalam menghitung premi hanya empat yaitu usia, tempat tinggal, paket pelayanan, dan komposisi keluarga."
+      ],
+      "pengecoh": [
+        "Jumlah peserta kumpulan dalam satu perusahaan beserta anggota keluarga",
+        "Subsidi yang diberikan pemerintah",
+        "Riwayat kesehatan dan klaim pegawai tetap"
+      ]
+    },
+    {
+      "id": 59,
+      "kategori": "tunggal",
+      "soal": "Terdapat beberapa metode yang digunakan dalam proses perbaikan mutu berkesinambungan. Salah satu metode berbentuk diskusi kelompok dan tim untuk mengeluarkan sejumlah gagasan tentang masalah, kemungkinan penyebab, solusi dan hambatan dalam memecahkan masalah. Metode ini disebut dengan: (KUK: 4.1)",
+      "jawaban": [
+        "Brainstorming",
+        "Modul Page 142 (PDF) mendefinisikan brainstorming sebagai metode diskusi kelompok dan tim untuk mengeluarkan sejumlah gagasan tentang masalah, kemungkinan penyebab, solusi dan hambatan."
+      ],
+      "pengecoh": [
+        "Analisis afinitas",
+        "Model system",
+        "Analisis sebab akibat"
+      ]
+    },
+    {
+      "id": 60,
+      "kategori": "tunggal",
+      "soal": "Bagian penting dari kajian mutu adalah identifikasi masalah, dan untuk itu harus diperoleh bukti mutu kerja klinis. Metode yang lazim digunakan untuk memperoleh bukti ini antara lain adalah: (KUK: 4.1)",
+      "jawaban": [
+        "Audit medis",
+        "Modul Page 138 (PDF) menyebutkan bahwa metode yang dapat digunakan untuk mendapatkan bukti mutu kinerja klinik di antaranya yang paling lazim adalah audit medis, mempelajari peta atau diagram, pemantauan indikator, dan uji hipotesa."
+      ],
+      "pengecoh": [
+        "Peer review",
+        "Uji kredensialing",
+        "Verifikasi klaim"
+      ]
+    },
+    {
+      "id": 61,
+      "kategori": "tunggal",
+      "soal": "Peningkatan mutu provider dapat dilakukan dengan mengembangkan pedoman praktis. Di Indonesia pedoman praktis ini disusun dan dikembangkan oleh: (KUK: 4.1)",
+      "jawaban": [
+        "Organisasi dokter spesialis sesuai bidang masing-masing",
+        "Modul Page 136 (PDF) menyebutkan bahwa di Indonesia pedoman praktis disusun dan dikembangkan oleh organisasi dokter spesialis, sesuai bidangnya masing-masing."
+      ],
+      "pengecoh": [
+        "Kementerian Kesehatan RI",
+        "Majelis Kehormatan Etik Kedokteran (MKEK)",
+        "Konsil Kedokteran Indonesia"
+      ]
+    },
+    {
+      "id": 62,
+      "kategori": "tunggal",
+      "soal": "Pengertian tentang mutu pelayanan kesehatan sangat bervariasi di antara para pihak yang terkait dalam proses pelayanan kesehatan. Bagi tenaga medis, pelayanan kesehatan bermutu apabila: (KUK: 4.1)",
+      "jawaban": [
+        "Tingkat imunisasi yang tinggi atau tingkat mortalitas yang rendah",
+        "Modul Page 131 (PDF) menyebutkan bahwa bagi tenaga medis, pelayanan kesehatan bermutu berarti tingkat imunisasi yang tinggi atau tingkat mortalitas yang rendah."
+      ],
+      "pengecoh": [
+        "Cepat sembuh dengan biaya murah",
+        "Waktu tunggu yang singkat dan pelayanan yang ramah",
+        "Tingkat imunisasi yang rendah atau tingkat mortalitas yang tinggi"
+      ]
+    },
+    {
+      "id": 63,
+      "kategori": "tunggal",
+      "soal": "Salah satu unsur yang dapat diukur dalam proses atau hasil keluaran pelayanan yang nilainya menunjukkan mutu pelayanan. Secara teoritis mutu pelayanan yang dapat diubah oleh penyelenggara pelayanan adalah: (KUK: 4.1)",
+      "jawaban": [
+        "Indikator klinik",
+        "Modul Page 133 (PDF) mendefinisikan indikator klinik sebagai unsur yang dapat diukur dalam proses atau keluaran pelayanan yang nilainya menunjukkan satu atau lebih dimensi mutu pelayanan dan secara teoritis dapat diubah oleh provider."
+      ],
+      "pengecoh": [
+        "Standard operating procedure",
+        "Standar pelayanan medik",
+        "Pedoman praktis"
+      ]
+    },
+    {
+      "id": 64,
+      "kategori": "tunggal",
+      "soal": "Ada perbedaan pengertian mutu pelayanan kesehatan bagi pemberi pelayanan kesehatan (provider), perusahaan asuransi dan pasien. Menurut pasien, salah satu mutu pelayanan yang baik berarti: (KUK: 4.1)",
+      "jawaban": [
+        "Tidak lama mengantri di klinik",
+        "Modul Page 131 (PDF) menyebutkan bahwa bagi pasien, pelayanan kesehatan bermutu bisa berarti waktu tunggu yang singkat di klinik, pelayanan yang ramah, informasi yang jelas, keluhan/penyakit cepat sembuh."
+      ],
+      "pengecoh": [
+        "Premi murah",
+        "Banyak balita yang diimunisasi",
+        "Banyak program pencegahan"
+      ]
+    },
+    {
+      "id": 65,
+      "kategori": "kombinasi",
+      "soal": "Profil setiap provider yang membentuk suatu jaringan pelayanan perlu dibuat. Unsur data yang digunakan dalam membangun profil provider, meliputi:\nI. Jumlah orang yang masuk rumah sakit (admission rate)\nII. Tingkat kunjungan peserta secara spesifik\nIII. Indikator klinik (misal: tingkat infeksi, tingkat imunisasi)",
+      "jawaban": [
+        "I, II dan III",
+        "Modul Page 161 (PDF) menyebutkan unsur data dalam membangun profil meliputi angka admission dan readmission, tingkat kunjungan peserta spesifik, dan indikator klinik."
+      ],
+      "pengecoh": [
+        "I dan II saja",
+        "I dan III saja",
+        "II dan III saja"
+      ]
+    },
+    {
+      "id": 66,
+      "kategori": "tunggal",
+      "soal": "PMPY (per member per year) adalah angka pemanfaatan peserta terhadap fasilitas pelayanan baik ke praktik dokter atau klinik yang dihitung per tahun. PMPY berguna untuk membandingkan tingkat utilisasi pelayanan. Bila jumlah peserta managed care sekitar 12.000 orang, terdapat 4 kali kunjungan per peserta per tahun, maka angka PMPY untuk pemanfaatan tersebut adalah: (KUK: 4.2)",
+      "jawaban": [
+        "4,00",
+        "Modul Page 159 (PDF) menyebutkan bahwa PMPY = jumlah pelayanan x 12 / CMM. Jika terdapat 4 kunjungan per peserta per tahun, maka PMPY = 4. (Pilihan jawaban yang tersedia tidak ada yang tepat, namun 4,00 adalah nilai yang benar berdasarkan rumus)."
+      ],
+      "pengecoh": [
+        "4,80",
+        "0,004",
+        "48,00"
+      ]
+    },
+    {
+      "id": 67,
+      "kategori": "tunggal",
+      "soal": "Dalam proses kredensialisasi provider, penyelenggara asuransi atau MCO mengumpulkan data untuk menentukan apakah provider telah memenuhi kriteria untuk dipilih masuk dalam jaringan pelayanan. Data yang dikumpulkan antara lain: (KUK: 4.2)",
+      "jawaban": [
+        "Pendidikan, dan sertifikasi Konsil Kedokteran",
+        "Modul Page 135 (PDF) menyebutkan bahwa proses kredensialisasi meliputi verifikasi pendidikan profesional, pengujian Konsil Kedokteran, dan riwayat kerjanya."
+      ],
+      "pengecoh": [
+        "Lokasi praktek",
+        "Riwayat penyakit",
+        "Jumlah peserta asuransi di wilayah praktek"
+      ]
+    },
+    {
+      "id": 68,
+      "kategori": "kombinasi",
+      "soal": "Untuk menilai kondisi keuangan organisasi managed care adalah margin keuntungan (profit margin). Penilaian perlu dilakukan untuk:\nI. Menunjukkan kepada pihak regulator, lembaga akreditasi, dan pembayar bahwa organisasi tersebut efisien dan mampu memecahkan persoalan\nII. Mengambil keputusan manajemen maupun klinis\nIII. Menunjukkan tidak adanya penyelewengan keuangan",
+      "jawaban": [
+        "I dan II saja",
+        "Modul Page 160 (PDF) menyebutkan bahwa penilaian kinerja keuangan penting dalam mengambil keputusan manajemen maupun klinis serta untuk menunjukkan kepada regulator, lembaga akreditasi, dan pembayar bahwa organisasi efisien. Pilihan III tidak disebutkan secara eksplisit."
+      ],
+      "pengecoh": [
+        "I dan III saja",
+        "II dan III saja",
+        "I, II dan III"
+      ]
+    },
+    {
+      "id": 69,
+      "kategori": "tunggal",
+      "soal": "Organisasi managed care senantiasa memperketat pengendalian kecurangan dan penyalahgunaan (fraud and abuse). Upaya yang dilakukan untuk memberantas kecurangan farmasi adalah: (KUK: 4.2)",
+      "jawaban": [
+        "Persyaratan agar menggunakan obat generik",
+        "Modul Page 167 (PDF) menyebutkan bahwa upaya memberantas kecurangan farmasi meliputi persyaratan menggunakan obat generik, red flag bagi resep mahal, dan red flag bagi notasi meragukan."
+      ],
+      "pengecoh": [
+        "Resep yang tidak jelas penulisannya diloloskan untuk efisiensi waktu",
+        "Menahan rujukan",
+        "Semua klaim obat dibayar"
+      ]
+    },
+    {
+      "id": 70,
+      "kategori": "tunggal",
+      "soal": "Dalam managed care sistem informasi sangatlah penting. Pada dasarnya secara umum ada tiga tipe sistem informasi manajemen (SIM) ini yaitu: (KUK: 4.2)",
+      "jawaban": [
+        "Sistem pelaporan, sistem manajemen database dan sistem pendukung keputusan",
+        "Modul Page 163 (PDF) menyebutkan bahwa SIM secara umum ada tiga tipe yaitu aplikasi sistem pelaporan, sistem manajemen database, dan sistem pendukung keputusan (Decision Support System / DSS)."
+      ],
+      "pengecoh": [
+        "Sistem informasi perencanaan, pelaksanaan dan evaluasi",
+        "Sistem administrasi, sistem klaim dan sistem pembayaran",
+        "Sistem informasi makro, meso dan mikro"
+      ]
+    },
+    {
+      "id": 71,
+      "kategori": "tunggal",
+      "soal": "Sistem informasi manajemen digunakan juga dalam menganalisis data kecurangan di pelayanan kesehatan. Analisis secara retrospektif, biasanya meliputi: (KUK: 4.2)",
+      "jawaban": [
+        "Penilaian informasi historis pola perilaku",
+        "Modul Page 165 (PDF) menyebutkan bahwa analisis data retrospektif mencakup penilaian sejumlah informasi historis dalam rangka mengidentifikasi pola-pola perilaku kecurangan."
+      ],
+      "pengecoh": [
+        "Analisis data terbaru (current data)",
+        "Analisis data klinis",
+        "Analisis utilisasi setiap hari"
+      ]
+    },
+    {
+      "id": 72,
+      "kategori": "tunggal",
+      "soal": "Efektivitas sebuah MCO diukur dengan menggunakan angka ratio dan statistik tertentu, antara lain per member per year (PMPY). Sebuah HMO ABC memiliki peserta yang berfluktuasi setiap bulannya, dan setelah dihitung dalam setahun rata-rata peserta per bulan 100 orang. Selama masa setahun kasus rawat inap ada 50 orang dengan total biaya sebesar Rp. 300 juta, maka dapat dikatakan biaya rawat inap PMPY pada HMO ABC tersebut adalah: (KUK: 4.2)",
+      "jawaban": [
+        "Rp. 3 juta",
+        "Modul Page 159 (PDF) menjelaskan bahwa PMPY = total biaya / jumlah peserta per tahun. Jika total biaya Rp 300 juta dan jumlah peserta 100, maka PMPY = 300.000.000 / 100 = Rp 3.000.000."
+      ],
+      "pengecoh": [
+        "Rp. 15 juta",
+        "Rp. 6 juta",
+        "Rp. 300 juta"
+      ]
+    },
+    {
+      "id": 73,
+      "kategori": "kombinasi",
+      "soal": "Data merupakan elemen penting dalam pengukuran mutu. Sumber data yang paling sering digunakan untuk mengukur mutu, biaya dan utilisasi pelayanan antara lain:\nI. Data klaim\nII. Catatan medis\nIII. Kuesioner dan wawancara terhadap tenaga dokter",
+      "jawaban": [
+        "I dan II saja",
+        "Modul Page 157 (PDF) menyebutkan sumber data yang paling sering digunakan adalah catatan medis, contoh kasus, profil dokter, kuesioner dan wawancara terhadap pasien, hasil utilization review, data klaim, dll. Pilihan III salah karena kuesioner ditujukan kepada pasien, bukan tenaga dokter."
+      ],
+      "pengecoh": [
+        "I dan III saja",
+        "II dan III saja",
+        "I, II dan III"
+      ]
+    },
+    {
+      "id": 74,
+      "kategori": "tunggal",
+      "soal": "Tanpa pengendalian yang baik, program managed care dengan sistem kapitasi cenderung mendorong provider untuk memberi pelayanan yang kurang memadai. Oleh karena itu data pengelolaan pelayanan kesehatan perilaku dalam managed care memberi penekanan kepada: (KUK: 4.3)",
+      "jawaban": [
+        "Pengendalian pelayanan yang kurang memadai (underuse)",
+        "Modul Page 168 (PDF) menyebutkan bahwa tanpa pengendalian yang baik, program managed care dengan sistem kapitasi cenderung mendorong provider untuk memberi pelayanan yang kurang memadai (underutilization)."
+      ],
+      "pengecoh": [
+        "Pengenalan pelayanan yang keliru (misuse)",
+        "Pengendalian pelayanan yang berlebihan (overuse)",
+        "Pengendalian pelayanan yang overuse maupun underuse"
+      ]
+    },
+    {
+      "id": 75,
+      "kategori": "kombinasi",
+      "soal": "Kebutuhan otomatisasi dalam pelayanan kesehatan dirasakan oleh dokter, rumah sakit, ahli farmasi, laboratorium, dokter gigi, pembayar, bank, dan pembeli jasa pelayanan kesehatan. Sistem otomatisasi klinis memberikan pelayanan untuk fungsi-fungsi seperti:\nI. Pemeriksaan laboratorium\nII. Penjadwalan konsultasi\nIII. Pemeriksaan radiologi (sinar-x)",
+      "jawaban": [
+        "I dan III saja",
+        "Modul Page 162 (PDF) menyebutkan bahwa sistem klinis memberikan pelayanan untuk fungsi-fungsi seperti pemeriksaan laboratorium, radiologi, dan instruksi bagi prosedur medis dan tes bagi pasien. Penjadwalan konsultasi (II) termasuk sistem administratif."
+      ],
+      "pengecoh": [
+        "I dan II saja",
+        "II dan III saja",
+        "I, II dan III"
+      ]
+    }
+  ]
+}
