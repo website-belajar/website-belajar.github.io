@@ -1,0 +1,829 @@
+{
+  "bank_soal": [
+    {
+      "id": 1,
+      "kategori": "kombinasi",
+      "soal": "Di bawah ini adalah prinsip-prinsip sebagai pra kondisi agar asuransi dapat berfungsi dengan baik\nI. Adanya ketidakpastian akan terjadinya kerugian\nII. Hal yang diasuransikan bisa diukur dalam bentuk uang\nIII. jumlah peserta cukup besar\nJawaban yang benar adalah:",
+      "jawaban": ["I, II dan III", "dari modul Page 34–38 (PDF) — Karakteristik risiko yang dapat diasuransikan mencakup: uncertainty of loss (I), measurability of loss (II), dan large number of similar exposure units (III). Ketiganya adalah prasyarat agar sistem asuransi berfungsi"],
+      "pengecoh": [
+        "I dan II saja",
+        "I dan III saja",
+        "II dan III saja"
+      ]
+    },
+    {
+      "id": 2,
+      "kategori": "tunggal",
+      "soal": "Setiap orang mempunyai respons yang berbeda-beda dalam menghadapi risiko. Salah satu respons adalah dengan membayar premi kepada perusahaan asuransi untuk mendapatkan jaminan. Dalam manajemen risiko cara ini disebut:",
+      "jawaban": ["Mengalihkan risiko", "dari modul Page 30 (PDF) — Mengalihkan risiko (risk transfer): memindahkan atau mengalihkan sebagian atau seluruh risiko tersebut kepada pihak lain, misalnya kepada perusahaan asuransi, dengan cara membayar premi sebagai imbalan dari pertanggungan asuransi"],
+      "pengecoh": [
+        "Menerima risiko",
+        "Mengurangi risiko",
+        "Menghindari risiko"
+      ]
+    },
+    {
+      "id": 3,
+      "kategori": "tunggal",
+      "soal": "Dalam hal risiko murni, tidak ada kemungkinan untung atau memperoleh sesuatu. Yang ada hanya dua kemungkinan, yaitu:",
+      "jawaban": ["tidak terjadi kerugian atau terjadi kerugian akibat suatu kejadian di luar kendali orang yang menghadapi risiko tersebut", "dari modul Page 28 (PDF) — Dalam hal risiko murni, tidak ada kemungkinan untung. Yang ada hanya dua kemungkinan, yaitu tidak terjadi kerugian atau terjadi kerugian akibat suatu kejadian di luar kendali orang yang menghadapi risiko tersebut"],
+      "pengecoh": [
+        "terjadi atau tidak terjadi kerugian",
+        "terjadi kerugian atau tidak terjadi kerugian akibat suatu kejadian di luar kendali orang yang menghadapi risiko tersebut",
+        "tidak terjadi keuntungan atau terjadi keuntungan"
+      ]
+    },
+    {
+      "id": 4,
+      "kategori": "tunggal",
+      "soal": "Ada berbagai jenis risiko, dan tidak semua risiko bisa diasuransikan. Salah satu risiko yang tidak bisa diasuransikan yaitu risiko spekulatif mempunyai sifat sebagai berikut:",
+      "jawaban": ["memberi kemungkinan untung bagi yang terkena risiko", "dari modul Page 28 (PDF) — Risiko spekulatif memiliki tiga kemungkinan hasil, yakni rugi, untung atau impas. Karena ada kemungkinan untung, risiko spekulatif tidak dapat diasuransikan (asuransi hanya untuk risiko murni)"],
+      "pengecoh": [
+        "masih dapat ditanggung oleh perusahaan asuransi walaupun sulit",
+        "kejadiannya merupakan hal yang di luar kendali penerima risiko",
+        "hanya memberi kemungkinan rugi pada orang yang menghadapi risiko itu"
+      ]
+    },
+    {
+      "id": 5,
+      "kategori": "tunggal",
+      "soal": "Seseorang membeli baju baru seharga Rp.250.000 dari sebuah department store. Selanjutnya orang tersebut pergi ke perusahaan asuransi untuk mengasuransikan baju baru tersebut. Namun permohonan asuransi tersebut ditolak karena tidak memenuhi prinsip asuransi, yaitu:",
+      "jawaban": ["A significant size of potential loss", "dari modul Page 35 (PDF) — kerugian yang mungkin timbul harus cukup besar (a significant size of potential loss). Tidak ada orang yang mau membeli asuransi untuk melindungi dirinya dari kehilangan barang bernilai kecil seperti ballpoint atau baju seharga Rp 250.000"],
+      "pengecoh": [
+        "a large number of the insured",
+        "An equitable method of sharing the risk",
+        "Uncertainty of loss"
+      ]
+    },
+    {
+      "id": 6,
+      "kategori": "tunggal",
+      "soal": "Milky Way Enterprise, sebuah perusahaan yang bergerak dalam bidang jasa konstruksi dengan jumlah karyawan 5.000 (lima ribu) yang tersebar di seluruh wilayah Indonesia. Saat ini Milky Way Enterprise ingin membeli produk asuransi kesehatan dari Hanacaraka Health Insurance. Menghadapi calon nasabah sebesar Milky Way Enterprise, kebijakan underwriting yang akan ditempuh Hanacaraka Health Insurance biasanya:",
+      "jawaban": ["tidak akan melakukan underwriting kelompok yang sangat besar berdasarkan tabel tarif standar", "dari modul Page 202 (PDF) — Untuk menjaga terhadap terjadinya penyimpangan, sebagian besar penanggung tidak melakukan underwriting kumpulan yang sangat besar berdasarkan tabel tarif standar. Penanggung membutuhkan informasi pengalaman sebelumnya dan membuat tarif premi yang disesuaikan"],
+      "pengecoh": [
+        "menolak penutupan dengan jumlah peserta yang terlalu besar hanya dari satu perusahaan, karena penyebaran hukum bilangan besar yang tidak merata",
+        "menunda menerima risiko hingga kondisi keuangan perusahaan mampu untuk mendukung risiko tersebut",
+        "mengajak perusahaan asuransi lain untuk bersama-sama menanggung risiko besar tersebut"
+      ]
+    },
+    {
+      "id": 7,
+      "kategori": "tunggal",
+      "soal": "Keinginan memperbaiki aliran kas dan mengurangi kewajiban pembayaran pajak telah mendorong banyak pengusaha untuk mengelola sendiri, seluruhnya atau sebagian, program kesejahteraan dan kesehatan para karyawannya. Oleh karena itu ada peluang bisnis perusahaan:",
+      "jawaban": ["ASO (Administrative Service Only)", "dari modul Page 66 (PDF) — Keinginan untuk memperbaiki arus kas dan mengurangi kewajiban perpajakan telah menyebabkan banyak pengusaha melakukan pendekatan asuransi mandiri. Dengan demikian, banyak perusahaan asuransi swasta hanya mengembangkan jasa layanan administrasi (ASO) untuk program asuransi mandiri"],
+      "pengecoh": [
+        "ISO (Insurance Service Only)",
+        "ASO (Assurance Service Only)",
+        "ISO (Insurance Staff Officer)"
+      ]
+    },
+    {
+      "id": 8,
+      "kategori": "kombinasi",
+      "soal": "Asuransi harta benda dan kecelakaan bertujuan untuk memberikan perlindungan terhadap:\nI. kerugian yang bersifat fisik\nII. kerugian yang bersifat immaterial\nIII. kerugian yang terjadi karena keadaan tertentu\nJawaban yang benar adalah:",
+      "jawaban": ["I dan III saja", "dari modul Page 52 (PDF) — Asuransi harta benda dan kecelakaan bertujuan untuk memberikan perlindungan terhadap kerugian yang bersifat fisik (I) dan kerugian yang terjadi karena keadaan tertentu (III). Kerugian immaterial (II) tidak dapat diasuransikan karena tidak bisa diukur dengan uang"],
+      "pengecoh": [
+        "I dan II saja",
+        "II dan III saja",
+        "I, II dan III"
+      ]
+    },
+    {
+      "id": 9,
+      "kategori": "kombinasi",
+      "soal": "Setiap orang membutuhkan asuransi untuk mempermudah beban finansial yang disebabkan oleh perubahan status kesehatan. Asuransi kesehatan memenuhi kebutuhan tersebut melalui:\nI. Menyediakan perlindungan terhadap biaya perawatan medis\nII. Menyediakan sejumlah uang sebagai pengganti pendapatan\nIII. Menyediakan pembayaran atas kerugian yang terjadi\nJawaban yang benar adalah:",
+      "jawaban": ["I, II dan III", "dari modul Page 9 (PDF) — Asuransi kesehatan membantu memenuhi kebutuhan dengan: memberikan perlindungan terhadap biaya perawatan medis (I); menyediakan sejumlah pengganti pendapatan (II); dan/atau memberikan pembayaran lump sum untuk kerugian (III)"],
+      "pengecoh": [
+        "I dan II saja",
+        "I dan III saja",
+        "II dan III saja"
+      ]
+    },
+    {
+      "id": 10,
+      "kategori": "tunggal",
+      "soal": "Perusahaan asuransi persero bertujuan memberikan keuntungan bagi:",
+      "jawaban": ["Pemegang sahamnya", "dari modul Page 63 (PDF) — Perusahaan asuransi saham (persero) dibentuk untuk menjual berbagai jenis asuransi dengan harapan keuntungan bagi pemegang saham yang memiliki dan mengendalikan perusahaan asuransi"],
+      "pengecoh": [
+        "Pemegang polisnya",
+        "Masyarakat umum",
+        "Pemerintah sebagai regulator"
+      ]
+    },
+    {
+      "id": 11,
+      "kategori": "tunggal",
+      "soal": "Bentuk perusahaan asuransi persero dan mutual pun mengalami perubahan dari waktu ke waktu. Yang dimaksud dengan demutualisasi dalam perusahaan asuransi adalah:",
+      "jawaban": ["perubahan perusahaan asuransi mutual menjadi perusahaan persero", "dari modul Page 65 (PDF) — Penanggung mutual dikonversi ke bentuk persero dengan proses yang disebut demutualisasi"],
+      "pengecoh": [
+        "penyerahan seluruh saham dari perusahaan persero kepada tertanggung",
+        "pengambil-alihan seluruh saham pemegang polis oleh beberapa pemegang polis terbesar",
+        "perusahaan asuransi persero diubah kepemilikannya menjadi perusahaan asuransi mutual"
+      ]
+    },
+    {
+      "id": 12,
+      "kategori": "tunggal",
+      "soal": "Dalam sebuah perusahaan mutual tidak ada organ kelengkapan organisasi berikut ini:",
+      "jawaban": ["Pemegang saham", "dari modul Page 60 (PDF) — Perusahaan bersama (mutual) tidak memiliki pemegang saham. Kepemilikan dan pengendalian perusahaan asuransi mutual diberikan kepada pemegang polisnya"],
+      "pengecoh": [
+        "Dewan direksi",
+        "Departemen marketing",
+        "Dewan pengawas atau komisaris"
+      ]
+    },
+    {
+      "id": 13,
+      "kategori": "tunggal",
+      "soal": "Model managed care di mana pesertanya dapat memperoleh pelayanan dari PPK yang tidak dikontrak akan tetapi ia mendapat penalti finansial biasanya dengan membayar coinsurance lebih besar adalah:",
+      "jawaban": ["Produk Point of Service", "dari pengetahuan umum (tidak ada di modul) — Point of Service (POS) adalah model managed care yang menggabungkan HMO dan PPO. Peserta bisa memilih provider di luar jaringan, tetapi akan dikenakan penalti finansial (biaya sendiri/coinsurance lebih besar)"],
+      "pengecoh": [
+        "Health Maintenance Organization",
+        "Preferred Provider Organization",
+        "Managed Care Specialist"
+      ]
+    },
+    {
+      "id": 14,
+      "kategori": "tunggal",
+      "soal": "Asuransi syariah berbeda dengan asuransi konvensional terutama dalam hal pengelolaan biaya operasional. Pada asuransi syariah biaya operasional perusahaan (termasuk komisi agen) diperoleh dengan cara:",
+      "jawaban": ["Diambil dari hasil investasi perusahaan asuransi", "dari modul Page 82 (PDF) — kontribusi pada asuransi syariah dikelola melalui akad wakalah bil ujrah, mudharabah, dan mudharabah musytarakah. Perusahaan mengelola dana investasi peserta dengan imbalan berupa ujrah (fee) atau bagi hasil (nisbah) yang digunakan untuk biaya operasional"],
+      "pengecoh": [
+        "Dibebankan kepada pemegang polis",
+        "Diambil dari keuntungan bersih perusahaan asuransi",
+        "Memasukkan unsur biaya operasional ke dalam premi"
+      ]
+    },
+    {
+      "id": 15,
+      "kategori": "tunggal",
+      "soal": "Dalam industri asuransi jiwa dan kesehatan, dikenal istilah RBC sebagai indikator tingkat solvabilitas. RBC adalah singkatan dari:",
+      "jawaban": ["Risk Based Capital", "dari pengetahuan umum — Risk Based Capital (RBC) adalah indikator tingkat solvabilitas perusahaan asuransi yang mengukur kecukupan modal berdasarkan profil risiko perusahaan"],
+      "pengecoh": [
+        "Reserve Based Capital",
+        "Risk Building Capital",
+        "Ratio Between Capital"
+      ]
+    },
+    {
+      "id": 16,
+      "kategori": "tunggal",
+      "soal": "Kegiatan mentransfer risiko dari sebuah perusahaan reasuransi kepada perusahaan lainnya dikenal dengan istilah:",
+      "jawaban": ["retrocession", "dari modul Page 49 (PDF) — Transaksi mentransfer risiko dari perusahaan reasuransi kepada perusahaan reasuransi lain disebut retrosesi (retrocession)"],
+      "pengecoh": [
+        "reinsuring",
+        "ceding",
+        "coinsurance"
+      ]
+    },
+    {
+      "id": 17,
+      "kategori": "tunggal",
+      "soal": "Ada dua jenis kepemilikan asuransi komersial yang utama, yaitu:",
+      "jawaban": ["Perusahaan persero dan perusahaan mutual", "dari modul Page 60 (PDF) — Dua jenis paling umum dari perusahaan asuransi komersial adalah perusahaan perseroan (stock company) dan perusahaan bersama (mutual company)"],
+      "pengecoh": [
+        "Perusahaan joint venture dan perusahaan unshielded",
+        "Perusahaan publik dan perusahaan jawatan",
+        "Perusahaan perorangan dan perusahaan twister pair"
+      ]
+    },
+    {
+      "id": 18,
+      "kategori": "tunggal",
+      "soal": "Reasuransi adalah cara yang dipergunakan oleh pihak penanggung untuk mengurangi beban tanggung jawabnya dengan cara:",
+      "jawaban": ["Mentransfer sebagian dari santunan yang dijanjikannya kepada penanggung lain", "dari modul Page 46 (PDF) — Reasuransi adalah cara yang dipergunakan oleh pihak penanggung untuk mengurangi beban tanggung jawabnya dengan cara mentransfer sebagian dari manfaat yang dijanjikannya kepada penanggung lain"],
+      "pengecoh": [
+        "Mentransfer seluruh kewajiban aktuaria penanggung kepada pihak lain",
+        "Mentransfer sebagian dari cadangan yang membebani pihak penanggung kepada pihak lain",
+        "Mentransfer seluruh santunan yang dijanjikannya kepada penanggung lain"
+      ]
+    },
+    {
+      "id": 19,
+      "kategori": "tunggal",
+      "soal": "Suatu dental plan biasanya tidak menerapkan ketentuan deductible pada:",
+      "jawaban": ["Diagnostic services", "dari modul Page 93 (PDF) — Untuk mendorong perawatan pencegahan, deductible bahkan tidak diterapkan untuk layanan pencegahan dan diagnostik (preventive and diagnostic services)"],
+      "pengecoh": [
+        "Oral surgery",
+        "Periodontics",
+        "Orthodontics"
+      ]
+    },
+    {
+      "id": 20,
+      "kategori": "kombinasi",
+      "soal": "Asuradur menjual paket bedah rumah sakit (hospital-surgical insurance) yang bermacam-macam yang bervariasi pada jaminan pembiayaan dan tingkat jaminan yang diberikan oleh asuransi. Polis yang lengkap termasuk:\nI. Biaya kamar dan biaya yang berkaitan dengannya\nII. Pasien rawat jalan, diagnostik sinar X dan biaya laboratorium\nIII. Biaya bedah kosmetik\nJawaban yang benar adalah:",
+      "jawaban": ["I dan II saja", "dari modul Page 88 (PDF) — Polis bedah rumah sakit yang lengkap meliputi: biaya kamar dan makan harian (I), biaya rawat jalan, diagnostik sinar-X, dan laboratorium (II). Bedah kosmetik (III) biasanya dikecualikan (exclusion) dalam asuransi kesehatan"],
+      "pengecoh": [
+        "I dan III saja",
+        "II dan III saja",
+        "I, II dan III"
+      ]
+    },
+    {
+      "id": 21,
+      "kategori": "tunggal",
+      "soal": "Tagihan untuk perawatan kesehatan yang konsisten dengan tarif atau tagihan rata-rata untuk pelayanan yang identik atau mirip dalam daerah geografis tertentu dikenal dengan istilah:",
+      "jawaban": ["Reasonable and customary charge", "dari modul Page 91 (PDF) — Polis bedah rumah sakit berisi definisi biaya yang memenuhi syarat dan biaya umum dan biasa (usual and customary). Reasonable and customary charge adalah tarif yang wajar dan umum di daerah geografis tertentu"],
+      "pengecoh": [
+        "Resonance and causally Charge",
+        "Custodial and excise charge",
+        "Additional and complete Charge"
+      ]
+    },
+    {
+      "id": 22,
+      "kategori": "tunggal",
+      "soal": "Biaya utama dari jasa rumah sakit adalah:",
+      "jawaban": ["biaya kamar dan biaya yang berkaitan dengannya dan biaya perawatan", "dari modul Page 89 (PDF) — Biaya terbesar rawat inap di rumah sakit adalah kamar dan makan (daily room and board) harian, dan perawatan umum"],
+      "pengecoh": [
+        "biaya paramedis dan dokter umum",
+        "biaya rumah perawatan atau ambulatory",
+        "biaya surgical dressing dan ophthalmologist"
+      ]
+    },
+    {
+      "id": 23,
+      "kategori": "tunggal",
+      "soal": "Paket manfaat fleksibel disebut paket kafetaria yaitu mengizinkan pegawai untuk memilih sejumlah atau semua manfaat dari yang ditawarkan oleh perusahaan, ada 3 dasar pendekatan untuk merancang paket manfaat fleksibel, salah satu bentuk yang mengizinkan pegawai untuk memilih dari paket atau kelompok manfaat yang ditawarkan oleh perusahaan yang dirancang untuk memenuhi kebutuhan pegawai dengan perbedaan karakteristik juga menurunkan kemungkinan potensi risiko adverse selection, disebut:",
+      "jawaban": ["bentuk modular", "dari modul Page 112 (PDF) — Format modular memungkinkan karyawan untuk memilih dari paket atau kelompok manfaat yang ditawarkan oleh pemberi kerja. Setiap paket dirancang untuk memenuhi kebutuhan karyawan dengan karakteristik yang berbeda sekaligus mengurangi potensi bahaya adverse selection"],
+      "pengecoh": [
+        "bentuk core plus",
+        "bentuk full flexible",
+        "bentuk semi-flexible"
+      ]
+    },
+    {
+      "id": 24,
+      "kategori": "tunggal",
+      "soal": "Bentuk deductible yang sekali dibayar akan mendapatkan jaminan seluruh biaya yang terjadi, tanpa memperhatikan jumlah kesakitan atau kecelakaan yang terakumulasi selama periode tertentu, disebut dengan:",
+      "jawaban": ["all cause deductible", "dari modul Page 86 (PDF) — All cause deductible mencakup semua biaya yang dikeluarkan, terlepas dari jumlah penyakit atau kecelakaan, yang terakumulasi untuk memenuhi deductible"],
+      "pengecoh": [
+        "per cause deductible",
+        "corridor deductible",
+        "integration type deductible"
+      ]
+    },
+    {
+      "id": 25,
+      "kategori": "tunggal",
+      "soal": "Asuransi obat resep menjamin pembiayaan obat melalui resep yang dibuat oleh dokter, sangat kecil atau tanpa biaya dari peserta. Hampir semua paket ditawarkan melalui perusahaan pada basis kumpulan, yang terdiri dari dua buah paket dasar:",
+      "jawaban": ["Paket penggantian biaya dan paket jasa", "dari modul Page 95 (PDF) — Ada dua paket dasar pada asuransi obat resep: program penggantian biaya (reimbursement) dan paket layanan (service)"],
+      "pengecoh": [
+        "Paket lengkap dan paket sebagian (partial)",
+        "Paket tahunan dan paket bulanan",
+        "Paket sederhana dan paket keseluruhan (overall)"
+      ]
+    },
+    {
+      "id": 26,
+      "kategori": "tunggal",
+      "soal": "Asuransi kesehatan umumnya menyediakan manfaat-manfaat dengan basis:",
+      "jawaban": ["Nonoccupational", "dari modul Page 204 (PDF) — Asuransi kesehatan umumnya menyediakan manfaat dengan basis non-occupational (tidak dalam hubungan kerja), karena bahaya atau risiko pekerjaan biasanya ditanggung oleh aturan kompensasi pekerja (workers' compensation)"],
+      "pengecoh": [
+        "Occupational",
+        "Physical",
+        "Nonphysical"
+      ]
+    },
+    {
+      "id": 27,
+      "kategori": "tunggal",
+      "soal": "Palliative care yang menjadi salah satu pilihan layanan long-term care coverage, adalah istilah lain untuk:",
+      "jawaban": ["pengurangan rasa sakit dan bukan pengobatan atau penyembuhan", "dari modul Page 101 (PDF) — Hospice care / palliative care adalah jenis perawatan yang fokus kepada pengobatan paliatif (meringankan rasa nyeri) bagi penderita terminal ill"],
+      "pengecoh": [
+        "perawatan darurat yang tidak membutuhkan rujukan awal",
+        "evakuasi medis",
+        "rehabilitasi dan repatriasi medis"
+      ]
+    },
+    {
+      "id": 28,
+      "kategori": "tunggal",
+      "soal": "Penggantian biaya jasa ahli anestesi di dalam asuransi biaya medis masuk dalam:",
+      "jawaban": ["Biaya Operasi", "dari modul Page 90 (PDF) — Biaya rumah sakit untuk layanan dan persediaan yang diperlukan (selain kamar dan makan harian) yang disediakan selama masa rawat inap, termasuk biaya untuk layanan khusus yang diberikan oleh profesional di rumah sakit, seperti ahli patologi, ahli radiologi, dan ahli anestesi. Biaya ini bagian dari biaya operasi"],
+      "pengecoh": [
+        "Biaya Aneka Perawatan",
+        "Biaya Perawatan Intensif",
+        "Biaya Obat-obatan"
+      ]
+    },
+    {
+      "id": 29,
+      "kategori": "tunggal",
+      "soal": "Ny Sari mempunyai polis asuransi kesehatan biaya medis rawat inap dengan jumlah manfaat maksimum sebesar Rp. 1.000.000 per hari. Apabila Ny Sari dirawat inap di rumah sakit selama 7 hari dengan biaya rawat inap yang telah dikeluarkan sebesar Rp. 3.500.000. Maka santunan yang diterima adalah:",
+      "jawaban": ["Rp. 7.000.000", "= 7 hari × Rp 1.000.000 = Rp 7.000.000. Karena ini adalah santunan harian tetap (hospital cash plan/indemnity), maka penggantian dihitung dari jumlah hari rawat inap dikali santunan harian, bukan berdasarkan biaya aktual yang lebih kecil"],
+      "pengecoh": [
+        "Rp. 5.000.000",
+        "Rp. 3.500.000",
+        "Rp. 2.000.000"
+      ]
+    },
+    {
+      "id": 30,
+      "kategori": "tunggal",
+      "soal": "Berkepanjangannya disabilitas pemilik bisnis tanpa kecukupan proteksi terhadap bisnisnya menyebabkan kebangkrutan. Salah satu cara mengatasi ini asurudar mengembangkan jaminan dengan memberikan dana segar untuk membeli business interest dari mitra kerja atau pemegang saham yang mengalami disabilitas. Polis untuk jaminan ini dikenal dengan:",
+      "jawaban": ["polis disability buyout", "dari modul Page 106 (PDF) — Disability Buyout memberikan uang tunai untuk pembelian kepentingan bisnis (business interest) dari mitra atau pemegang saham yang mengalami disabilitas"],
+      "pengecoh": [
+        "polis business overhead expenses",
+        "polis personal accident",
+        "polis key person disability"
+      ]
+    },
+    {
+      "id": 31,
+      "kategori": "tunggal",
+      "soal": "Setiap polis medis utama mempunyai batas pembayaran manfaat maksimum oleh asuradur. Pembayaran maksimum dapat tertulis sebagai:",
+      "jawaban": ["All cause atau per cause", "dari modul Page 93 (PDF) — Setiap polis medis utama memiliki batas manfaat maksimal. Maksimum bisa sebagai seumur hidup (all cause) atau per cause"],
+      "pengecoh": [
+        "All case atau per case",
+        "All solvent atau per solvent",
+        "All reserve atau per reserve"
+      ]
+    },
+    {
+      "id": 32,
+      "kategori": "tunggal",
+      "soal": "Diberlakukannya exclusions dan limitations pada pertanggungan disability income plan dimaksudkan untuk mengurangi:",
+      "jawaban": ["Risiko yang dikendalikan sendiri oleh tertanggung misalnya: bunuh diri, luka yang disebabkan oleh diri sendiri, kehamilan; risiko yang berupa bencana katastropik seperti perang, atau risiko yang sudah diketahui sebelumnya (preexisting conditions)", "dari modul Page 106 (PDF) — Polis disabilitas pendapatan berisi pengecualian dan pembatasan umum untuk kondisi yang sudah ada sebelumnya, kehamilan, cedera yang disebabkan diri sendiri atau percobaan bunuh diri, tugas aktif militer, dan perang"],
+      "pengecoh": [
+        "Kepesertaan kelompok orang tertentu yang karena jenis pekerjaannya digolongkan menjadi risiko kelas 3 dan 4",
+        "Jaminan tertentu (misalnya jaminan pengganti asuransi sosial atau opsi asuransi terjamin/guaranteed insurability option) yang tidak sesuai bagi pemegang polis pada kelas tertentu",
+        "Karena merupakan risiko yang akan menjadi penyebab paling umum dari cacat tubuh (physical disability) seperti luka pada punggung, leher atau kepala"
+      ]
+    },
+    {
+      "id": 33,
+      "kategori": "tunggal",
+      "soal": "Suatu pengaturan di mana asuradur dan peserta berbagi persentase pembiayaan cakupan setelah dipenuhinya deductible disebut dengan:",
+      "jawaban": ["coinsurance", "dari modul Page 86 (PDF) — Coinsurance adalah pengaturan di mana penanggung dan tertanggung berbagi persentase kerugian yang ditanggung setelah deductible dipenuhi"],
+      "pengecoh": [
+        "copayment",
+        "capitation",
+        "discount"
+      ]
+    },
+    {
+      "id": 34,
+      "kategori": "tunggal",
+      "soal": "Provisi bebas periksa (free look provision) adalah ketentuan yang memberikan hak pemohon untuk:",
+      "jawaban": ["Menilai polis dan mengembalikannya", "dari modul Page 156 (PDF) — Catatan hak untuk menilai polis dan mengembalikannya harus tampak pada halaman muka polis. Ini juga dikenal dengan 10 hari provisi bebas periksa (free look)"],
+      "pengecoh": [
+        "Merubah polis dan mengurangi premi",
+        "Tidak melakukan pembayaran premi dalam jangka waktu tertentu",
+        "Memperoleh pembebasan biaya pemeriksaan kesehatan"
+      ]
+    },
+    {
+      "id": 35,
+      "kategori": "kombinasi",
+      "soal": "Formulir aplikasi permohonan asuransi biaya medis perorangan mempunyai beberapa bagian sebagai berikut:\nI. Bagian yang berisi informasi tentang cakupan termasuk tipe polis, besaran dan periode manfaat\nII. Bagian yang berisi identifikasi nama, alamat dan tanggal lahir pemohon\nIII. Bagian yang berisi informasi untuk underwriting yang berkaitan dengan riwayat kesehatan\nJawaban yang benar adalah:",
+      "jawaban": ["I, II dan III", "dari modul Page 147 (PDF) — Aplikasi asuransi biaya medis perorangan terdiri dari: Bagian pertama (identitas), Bagian kedua (manfaat/cakupan), Bagian ketiga (riwayat kesehatan untuk underwriting). Jadi I, II, dan III benar"],
+      "pengecoh": [
+        "I dan II saja",
+        "I dan III saja",
+        "II dan III saja"
+      ]
+    },
+    {
+      "id": 36,
+      "kategori": "tunggal",
+      "soal": "Ketentuan yang mewajibkan bahwa asuradur menyetujui untuk membayar manfaat yang dijelaskan di dalam polis untuk setiap individu yang dijamin dan kepada siapa benefit diberikan sesuai dengan ketentuan polis, dikenal dengan istilah:",
+      "jawaban": ["Ketentuan insuring", "dari modul Page 156 (PDF) — Ketentuan insuring (insuring clause) mewajibkan bahwa penanggung menyetujui untuk membayar manfaat yang dijabarkan di dalam polis untuk setiap individu yang dijamin"],
+      "pengecoh": [
+        "Ketentuan surety bond",
+        "Ketentuan investing",
+        "Ketentuan issuing"
+      ]
+    },
+    {
+      "id": 37,
+      "kategori": "tunggal",
+      "soal": "Cakupan perawatan kesehatan mata dirancang sedemikian rupa untuk memberikan manfaat berupa jasa perawatan mata:",
+      "jawaban": ["Preventive dan corrective", "dari modul Page 97 (PDF) — Asuransi perawatan penglihatan dirancang untuk memberikan manfaat untuk perawatan mata pencegahan (preventive) dan korektif (corrective) rutin"],
+      "pengecoh": [
+        "Curative dan refractive",
+        "Operative dan diffractive",
+        "Periodic dan tentative"
+      ]
+    },
+    {
+      "id": 38,
+      "kategori": "kombinasi",
+      "soal": "Conversion privilege diberikan agar karyawan dapat melanjutkan jaminan asuransinya ketika cakupan polisnya berakhir tanpa diuji lagi kondisi kesehatannya. Karyawan tersebut bisa melanjutkan baik dengan polis perorangan maupun polis kumpulan lainnya. Hak tersebut diberikan jika:\nI. telah dijamin dalam kontrak asuransi kumpulan minimal beberapa bulan\nII. peserta sudah mempunyai asuransi kesehatan perorangan sebelumnya\nIII. pernah memutuskan keanggotaan dengan asuransi kumpulan sebelumnya\nJawaban yang benar adalah:",
+      "jawaban": ["I dan III", "dari modul Page 154 (PDF) — Conversion privilege diberikan untuk peserta yang telah dijamin minimal 3 bulan (I) dan peserta yang memutuskan keanggotaan kelompok (III). Persyaratan II (sudah punya asuransi perorangan sebelumnya) tidak relevan"],
+      "pengecoh": [
+        "I dan II saja",
+        "II dan III saja",
+        "I, II dan III"
+      ]
+    },
+    {
+      "id": 39,
+      "kategori": "tunggal",
+      "soal": "Periode waktu tertentu (biasanya 31 hari) setelah tanggal pembayaran premi di mana asuransi tetap berlaku dan seorang pemegang polis boleh membayar premi tanpa penalti disebut:",
+      "jawaban": ["Grace period", "dari modul Page 146 (PDF) — Kontrak kumpulan memberikan masa tenggang (grace period) yang umumnya 31 hari setelah tanggal jatuh tempo, di mana pemegang polis dapat membayar premi tanpa dikenakan penalti atau denda"],
+      "pengecoh": [
+        "Waiting period",
+        "Contestable period",
+        "Elimination period"
+      ]
+    },
+    {
+      "id": 40,
+      "kategori": "tunggal",
+      "soal": "Kontrak di mana salah satu pihak mungkin mendapatkan nilai yang lebih besar daripada nilai yang hilang, tergantung pada contingency di masa depan, disebut:",
+      "jawaban": ["aleatory contract", "dari modul Page 139 (PDF) — Kontrak aleatory adalah kontrak di mana pada satu pihak akan mungkin mendapatkan keuntungan secara finansial yang besar dibandingkan pihak lain tergantung daripada kejadian yang terjadi di masa depan"],
+      "pengecoh": [
+        "unilateral contract",
+        "adhesion contract",
+        "commutative contract"
+      ]
+    },
+    {
+      "id": 41,
+      "kategori": "tunggal",
+      "soal": "Dalam hukum perjanjian dikenal beberapa azas penting sistem terbuka. Yang dimaksud dengan sistem terbuka adalah:",
+      "jawaban": ["objek perjanjian bisa berupa apa saja sepanjang tidak melanggar ketertiban umum dan kesusilaan dalam masyarakat", "dari modul Page 121 (PDF) — Sistem terbuka (open system): hukum perjanjian memberikan kebebasan seluas-luasnya kepada masyarakat untuk mengadakan perjanjian mengenai apa saja, selama tidak melanggar ketertiban umum dan kesusilaan"],
+      "pengecoh": [
+        "para pihak tidak dapat menetapkan ketentuan sendiri dan menyingkirkan undang-undang",
+        "perjanjian dan perikatan timbul sejak detik tercapainya sepakat antar pihak",
+        "perjanjian belum menimbulkan pemindahan hak milik"
+      ]
+    },
+    {
+      "id": 42,
+      "kategori": "tunggal",
+      "soal": "Definisi dari anggota keluarga sedikit bervariasi di antara perusahaan asuransi, anggota keluarga (dependent) biasanya didefinisikan sebagai berikut:",
+      "jawaban": ["Pasangan yang tidak sedang aktif berdinas pada angkatan bersenjata atau angkatan laut", "dari modul Page 144 (PDF) — Anggota keluarga biasanya didefinisikan sebagai: Pasangan pegawai yang tidak berpisah secara legal dan pasangan tidak sedang aktif berdinas pada angkatan bersenjata atau angkatan laut"],
+      "pengecoh": [
+        "Pasangan pegawai yang berpisah secara tidak legal",
+        "Pasangan sedang aktif berdinas pada angkatan bersenjata atau angkatan laut",
+        "Anak pegawai yang sudah menikah dan masih terdaftar sebagai mahasiswa reguler"
+      ]
+    },
+    {
+      "id": 43,
+      "kategori": "tunggal",
+      "soal": "Pada polis yang bagaimanakah asuradur tidak dapat membatalkan, menolak untuk memperbarui atau meningkatkan tingkat premi yang lebih tinggi dibandingkan dengan yang sudah ditentukan pada polis yang berlaku pada periode waktu tertentu, bila peserta membayar premi tepat waktu?",
+      "jawaban": ["Noncancellable", "dari modul Page 157 (PDF) — Polis noncancellable memberikan peserta hak untuk melanjutkan asuransi dengan pembayaran premi yang tepat waktu. Penanggung tidak mempunyai hak untuk membuat perubahan sepihak pada setiap provisi polis ketika polis dalam keadaan berlaku (in-force)"],
+      "pengecoh": [
+        "Guaranteed renewable",
+        "Nonrenewable",
+        "Optional renewable"
+      ]
+    },
+    {
+      "id": 44,
+      "kategori": "tunggal",
+      "soal": "Provisi polis dapat dimodifikasi hanya dengan persetujuan antara:",
+      "jawaban": ["pemegang polis dan asuradur", "dari modul Page 151 (PDF) — Provisi polis dimodifikasi hanya dengan persetujuan antara pemegang polis dan penanggung"],
+      "pengecoh": [
+        "tertanggung dan penerima manfaat",
+        "penerima manfaat dan asuradur",
+        "tertanggung dan penerima manfaat"
+      ]
+    },
+    {
+      "id": 45,
+      "kategori": "kombinasi",
+      "soal": "Ada sejumlah kondisi di mana kesalahan pernyataan terjadi pada polis asuransi biaya medis kumpulan. Asuradur telah menegakkan metode untuk menangani kesalahan pernyataan ini yang meliputi kategori-kategori:\nI. Kesalahan pernyataan tentang umur\nII. Kesalahan perhitungan aktuaria\nIII. Kesalahan juru tulis (clerical error)\nJawaban yang benar adalah:",
+      "jawaban": ["I dan III saja", "dari modul Page 149 (PDF) — kesalahan pernyataan yang ditangani: (1) Kesalahan pernyataan tentang umur (I), (2) Kesalahan juru tulis/clerical error (III). Kesalahan perhitungan aktuaria (II) bukan kategori kesalahan pernyataan"],
+      "pengecoh": [
+        "I dan II saja",
+        "II dan III saja",
+        "I, II dan III"
+      ]
+    },
+    {
+      "id": 46,
+      "kategori": "kombinasi",
+      "soal": "Ada sejumlah provisi opsional lain yang dapat dimasukkan atau tidak oleh asurudar pada polis perorangan yaitu:\nI. Penyesuaian premi jika peserta merubah pekerjaan yang lebih berbahaya dibandingkan pekerjaan pada waktu polis diterbitkan\nII. Pengurangan premi yang belum dibayar dari pembayaran klaim\nIII. Pada kasus kesalahan pernyataan umur, penyesuaian besar manfaat terhadap premi yang dibayar jika umur yang sebenarnya dari peserta telah disampaikan\nJawaban yang benar adalah:",
+      "jawaban": ["I, II dan III", "dari modul Page 160 (PDF) — Provisi pilihan (optional provision) meliputi: penyesuaian premi jika pekerjaan berubah lebih berbahaya (I), pengurangan premi belum dibayar dari klaim (II), dan penyesuaian manfaat karena kesalahan umur (III)"],
+      "pengecoh": [
+        "I dan II saja",
+        "I dan III saja",
+        "II dan III saja"
+      ]
+    },
+    {
+      "id": 47,
+      "kategori": "tunggal",
+      "soal": "Pada tipe kontrak apakah di mana hanya satu pihak yang terlibat dalam kontrak yang membuat janji-janji?",
+      "jawaban": ["Unilateral", "dari modul Page 138 (PDF) — Kontrak unilateral atau kontrak sepihak adalah apabila hanya satu pihak yang terlibat kontrak membuat janji-janji"],
+      "pengecoh": [
+        "Conditional",
+        "Promissory",
+        "Adhesion"
+      ]
+    },
+    {
+      "id": 48,
+      "kategori": "tunggal",
+      "soal": "Merovingian, seorang laki-laki dengan 2 orang anak baru saja memperoleh harta warisan dari ayahnya. Merovingian ingin menjadi pemegang polis asuransi bagi kedua orang anaknya. Dua bulan yang lalu Merovingian mengalami kecelakaan lalu lintas saat mengendarai mobilnya dalam badai salju. Dokter yang merawat Merovingian menyatakan bahwa sebagai akibat luka-luka yang dideritanya, saat ini Merovingian mengalami kelemahan mental. Permohonan Merovingian sebagai pemegang polis kemungkinan dapat ditolak oleh perusahaan asuransi karena:",
+      "jawaban": ["Merovingianmempunyai kelemahan mental", "dari modul Page 123 (PDF) — Syarat kecakapan untuk membuat perjanjian mengharuskan subjek perjanjian mempunyai kewenangan bertindak dalam hukum. Orang yang mempunyai kelemahan mental tidak mempunyai kapasitas untuk membuat kontrak"],
+      "pengecoh": [
+        "status perkawinan Merovingian tidak jelas",
+        "uang warisan milikMerovingian tidak cukup untuk membeli asuransi bagi kedua orang anaknya",
+        "Merovingianmempunyai sifat yang tidak berhati-hati"
+      ]
+    },
+    {
+      "id": 49,
+      "kategori": "tunggal",
+      "soal": "Ketentuan assignment of benefits dalam asuransi kesehatan umumnya berarti ketentuan pengaturan:",
+      "jawaban": ["Membayar manfaat langsung kepada penyedia perawatan kesehatan", "dari modul Page 150 (PDF) — Sebagian besar kontrak dapat membayarkan manfaat langsung kepada penyedia pelayanan kesehatan (PPK) dengan assignment of benefit"],
+      "pengecoh": [
+        "Mengembalikan pasien kepada dokter yang memberi rujukan",
+        "Merujuk kepada spesialis yang tepat untuk evaluasi yang lebih lanjut",
+        "Menolak menerima pasien tanpa mengenakan biaya tambahan apapun"
+      ]
+    },
+    {
+      "id": 50,
+      "kategori": "tunggal",
+      "soal": "Untuk membuat kontrak yang sah, kedua pihak harus mempunyai kemampuan untuk mengerti tentang istilah-istilah kontrak. Tanpa kapasitas ini tidak dapat dicapai kesepahaman. Umumnya, Seseorang yang mencapai umur dewasa mempunyai kapasitas legal untuk melakukan kontrak asuransi kesehatan Namun berapapun umumnya, orang-orang ...........tidak mempunyai kapasitas untuk membuat kontrak kepada perusahaan",
+      "jawaban": ["Yang mempunyai kelemahan mental", "dari modul Page 138 (PDF) — Orang-orang yang mempunyai kelemahan mental tidak mempunyai kapasitas untuk membuat kontrak kepada perusahaan"],
+      "pengecoh": [
+        "Yang tidak memiliki kewarganegaraan",
+        "Yang sedang menjalani masa hukuman",
+        "Yang tidak memiliki social security number"
+      ]
+    },
+    {
+      "id": 51,
+      "kategori": "kombinasi",
+      "soal": "Semua kontrak membutuhkan beberapa elemen esensial tertentu untuk membuat mereka terikat. Elemen esensial tersebut meliputi:\nI. penawaran dan penerimaan (offer and acceptance)\nII. pertimbangan (consideration)\nIII. kapasitas dan pihak-pihak yang terlibat kontrak (capacity of contract)\nJawaban yang benar adalah:",
+      "jawaban": ["I, II dan III", "dari modul Page 135 (PDF) — Semua kontrak membutuhkan elemen esensial: penawaran dan penerimaan (I), pertimbangan/konsiderasi (II), kesepahaman, dan kapasitas dari pihak-pihak untuk berkontrak (III)"],
+      "pengecoh": [
+        "I dan II saja",
+        "I dan III saja",
+        "II dan III saja"
+      ]
+    },
+    {
+      "id": 52,
+      "kategori": "kombinasi",
+      "soal": "Provisi macam-macam biaya rumah sakit menjamin pembiayaan rumah sakit untuk jasa spesialistis yang diberikan oleh tenaga profesional rumah sakit seperti:\nI. Ahli patologi\nII. Ahli radiologi\nIII. Ahli pengobatan tradisional atau tabib\nJawaban yang benar adalah:",
+      "jawaban": ["I dan II saja", "dari modul Page 90 (PDF) — Ketentuan biaya rumah sakit lainnya mencakup biaya untuk layanan khusus yang diberikan oleh profesional di rumah sakit, seperti ahli patologi (I), ahli radiologi (II), dan ahli anestesi. Ahli pengobatan tradisional (III) tidak termasuk"],
+      "pengecoh": [
+        "I dan III saja",
+        "II dan III saja",
+        "I, II dan III"
+      ]
+    },
+    {
+      "id": 53,
+      "kategori": "tunggal",
+      "soal": "Kombinasi polis yang menjamin seluruh pelayanan kesehatan kumpulan bisa dibentuk dalam satu kontrak saja. Metode ini mencegah terjadinya:",
+      "jawaban": ["duplikasi provisi polis yang mungkin bisa terjadi bila dilakukan multiple kontrak asuransi kesehatan", "dari modul Page 141 (PDF) — Kombinasi Polis yang menjamin seluruh pelayanan kesehatan dalam satu kontrak. Metode ini mencegah terjadi duplikasi provisi polis yang mungkin bisa terjadi bila dilakukan multiple kontrak asuransi kesehatan"],
+      "pengecoh": [
+        "duplikasi premi yang mungkin bisa terjadi bila dilakukan multiple kontrak asuransi kesehatan",
+        "over insurance yang mungkin bisa terjadi bila dilakukan multiple kontrak asuransi kesehatan",
+        "over utilization yang mungkin bisa terjadi bila dilakukan multiple kontrak asuransi kesehatan"
+      ]
+    },
+    {
+      "id": 54,
+      "kategori": "tunggal",
+      "soal": "Pada asuransi kesehatan kumpulan faktor eligibilitas apakah yang dilarang di Amerika Serikat oleh HIPAA Act 1996?",
+      "jawaban": ["Health status", "dari modul Page 208 (PDF) — Di AS, HIPAA 1996 melarang membuat faktor yang berhubungan dengan status kesehatan (health status) apapun bagi karyawan sebagai persyaratan eligibilitas"],
+      "pengecoh": [
+        "Gender",
+        "Age",
+        "Employment status"
+      ]
+    },
+    {
+      "id": 55,
+      "kategori": "tunggal",
+      "soal": "Perusahaan asuransi yang menawarkan asuransi kesehatan kumpulan biasanya mendapat komisi atas dasar penjualan dan jasa yang berhasil mereka jual. Ada dua jenis komisi yang digunakan, yaitu:",
+      "jawaban": ["Komisi tinggi-rendah dan komisi tetap", "dari modul Page 177 (PDF) — Ada dua jenis komisi yang digunakan yaitu (1) komisi tinggi-rendah dan (2) komisi tetap"],
+      "pengecoh": [
+        "Komisi tahun pertama dan komisi lanjutan",
+        "Komisi penuh dan komisi sebagian",
+        "Komisi penjualan dan komisi penutupan"
+      ]
+    },
+    {
+      "id": 56,
+      "kategori": "kombinasi",
+      "soal": "Agar sebuah produk dapat lebih benar-benar bermanfaat bagi perusahaan asuransi maka diperlukan kegiatan penelitian dan pengembangan produk. Berikut ini adalah kegiatan-kegiatan yang termasuk dalam merancang dan mengembangkan produk:\nI. Mengembangkan tarif dan skala komisi\nII. Membuat program pelatihan petugas lapangan\nIII. Menerbitkan brosur pemasaran\nJawaban yang benar adalah:",
+      "jawaban": ["I, II dan III", "dari modul Page 168 (PDF) — Rancangan dan pengembangan produk termasuk: menetapkan skala tarif dan komisi (I), menyusun pedoman underwriting program latihan lapangan (II) dan brosur pemasaran (III)"],
+      "pengecoh": [
+        "I dan II saja",
+        "I dan III saja",
+        "II dan III saja"
+      ]
+    },
+    {
+      "id": 57,
+      "kategori": "tunggal",
+      "soal": "Perusahaan asuransi juga memberikan apresiasi untuk agen yang berprestasi. Agen asuransi kesehatan kumpulan yang memberikan bimbingan kepada agen yang mengerjakan field underwriting diberikan:",
+      "jawaban": ["overriding commission", "dari modul Page 177 (PDF) — Agen umum atau manajer perusahaan agen umumnya berpengalaman. Mereka dapat memberikan nasihat kepada agen yang mengerjakan underwriting. Perusahaan asuransi bersedia memberikan komisi override, yang merupakan tambahan di atas komisi yang dibayarkan kepada agen penjualan"],
+      "pengecoh": [
+        "vesting commission",
+        "level commission",
+        "high-low commission"
+      ]
+    },
+    {
+      "id": 58,
+      "kategori": "tunggal",
+      "soal": "Perusahaan asuransi memasarkan asuransi perorangan kepada beberapa jenis kelompok peserta. Salah satunya adalah pasar tambahan (suplementer), yang terdiri dari:",
+      "jawaban": ["Rumah tangga-rumah tangga yang telah dicakup oleh asuransi primer, akan tetapi ingin menambah jaminan yang belum dicakup oleh asuransi primer", "dari modul Page 166 (PDF) — Pasar tambahan (supplemental market) terdiri dari rumah tangga-rumah tangga yang telah dicakup oleh asuransi primer tersebut di atas, akan tetapi ingin menambah manfaat yang belum dicakup oleh asuransi primer"],
+      "pengecoh": [
+        "Orang-orang yang membeli asuransi secara perorangan",
+        "Orang-orang yang memerlukan asuransi untuk sementara",
+        "Rumah tangga-rumah tangga yang belum dicakup oleh asuransi primer, dan ingin membeli jaminan asuransi primer"
+      ]
+    },
+    {
+      "id": 59,
+      "kategori": "tunggal",
+      "soal": "Beberapa teknik penjualan seperti cold calls, pre-approach letters dan police holder referrals digunakan di dalam tahap penjualan dan dikenal sebagai:",
+      "jawaban": ["Prospecting", "dari modul Page 185 (PDF) — Pengembangan prospek (prospecting) adalah langkah untuk merubah daftar nama menjadi prospek. Pendekatan yang dilakukan antara lain: cold call, pre-approach telephone call, pre-approach letter, dan policyholder referral"],
+      "pengecoh": [
+        "Planning",
+        "Closing",
+        "Follow up"
+      ]
+    },
+    {
+      "id": 60,
+      "kategori": "tunggal",
+      "soal": "Komisi kompensasi agen untuk polis lanjutan atau renewal dibayarkan pada agen apakah agen tersebut masih atau tidak bergabung lagi dengan perusahaan asuransinya akan dialokasikan sebagai:",
+      "jawaban": ["Vested commission", "dari modul Page 178 (PDF) — Vesting adalah hak agen untuk menerima semua atau sebagian komisi dari penjualan asuransi, meskipun kontraknya dengan perusahaan asuransi sudah berakhir"],
+      "pengecoh": [
+        "Unearned commission",
+        "Advanced commission",
+        "Annualized commission"
+      ]
+    },
+    {
+      "id": 61,
+      "kategori": "tunggal",
+      "soal": "Agen full-time. yang kinerjanya mencapai target minimum perusahaan asuransi biasanya mendapat asuransi kesehatan dan asuransi jiwa, yang diponsori oleh perusahaan asuransi tempat is bekerja. Sering juga agen tersebut mendapat asuransi hari tua, Dalam hal ini:",
+      "jawaban": ["Baik perusahaan asuransi maupun agen tersebut memberi kontribusi premi asuransi hari tuanya secara bersama-sama", "dari modul Page 179 (PDF) — Agen tersebut mendapat asuransi hari tua. Dalam hal ini, baik perusahaan asuransi maupun agen tersebut memberi kontribusi premi asuransi hari tuanya secara bersama-sama"],
+      "pengecoh": [
+        "Hanya perusahaan asuransi yang memberi kontribusi premi asuransi hari tua",
+        "Hanya agen tersebut yang memberi kontribusi premi asuransi hari tuanya",
+        "Premi asuransi dibayar oleh pihak ketiga, misalnya oleh kantor keagenan (agency)"
+      ]
+    },
+    {
+      "id": 62,
+      "kategori": "kombinasi",
+      "soal": "Fungsi - fungsi atau peran seorang underwriter pada asuransi kesehatan kumpulan adalah:\nI. Menganalisa pengalaman yang lalu\nII. Mengakulasi cadangan klaim\nIII. Memperkirakan laba bersih perusahaan\nJawaban yang benar adalah:",
+      "jawaban": ["I dan II saja", "dari modul Page 197 (PDF) — Fungsi underwriter asuransi kesehatan kumpulan: mengidentifikasi pengecualian, menganalisis pengalaman yang lalu (I), memperkirakan jumlah klaim, menghitung cadangan klaim (II). Memperkirakan laba bersih (III) biasanya bukan tugas underwriter"],
+      "pengecoh": [
+        "I dan III saja",
+        "II dan III saja",
+        "I, II dan III"
+      ]
+    },
+    {
+      "id": 63,
+      "kategori": "kombinasi",
+      "soal": "Yang bertindak sebagai pemegang polis dalam asuransi kumpulan adalah:\nI. serikat pekerja (labor unions)\nII. pengusaha (majikan, pemberi kerja)\nIII. pekerja atau karyawan (employee)\nJawaban yang benar adalah:",
+      "jawaban": ["I dan II saja", "dari modul Page 164 (PDF) — Pemberi kerja tunggal (II) dan Serikat pekerja (I) dapat bertindak sebagai pemegang polis. Karyawan (III) berstatus sebagai tertanggung (insured), bukan pemegang polis"],
+      "pengecoh": [
+        "I dan III saja",
+        "II dan III saja",
+        "I, II dan III"
+      ]
+    },
+    {
+      "id": 64,
+      "kategori": "tunggal",
+      "soal": "Informasi yang lengkap dan akurat sangat penting dalam melakukan underwritting. Sumber informasi yang sangat baik untuk digital dalam asuransi kesehatan perorangan adalah:",
+      "jawaban": ["pernyataan agen", "dari modul Page 224 (PDF) — Pernyataan agen (agent's statement) adalah sumber informasi penting dalam asuransi kesehatan perorangan, berisi penjelasan dan komentar agen mengenai pemohon"],
+      "pengecoh": [
+        "kertas kerja perhitungan premi",
+        "laporan broker",
+        "putusan pengadilan"
+      ]
+    },
+    {
+      "id": 65,
+      "kategori": "tunggal",
+      "soal": "Premi yang dibayarkan oleh pengusaha atau pemberi kerja tidak dihitung sebagai ...... kecuali pada kondisi khusus untuk sejumlah pertanggungan tertentu asuransi jiwa.",
+      "jawaban": ["Pendapatan kena pajak bagi karyawannya", "dari modul Page 22 (PDF) — Premi yang dibayarkan oleh pemberi kerja untuk asuransi kelompok karyawan diperlakukan sebagai biaya perusahaan. Premi yang dibayarkan oleh pemberi kerja bukan merupakan penghasilan kena pajak bagi karyawan kecuali dalam kondisi tertentu untuk sejumlah asuransi jiwa"],
+      "pengecoh": [
+        "Bagian keuntungan yang dapat dibagikan kepada karyawan",
+        "Pendapatan tidak kena pajak bagi karyawannya",
+        "Laba yang ditahan (retain earning)"
+      ]
+    },
+    {
+      "id": 66,
+      "kategori": "tunggal",
+      "soal": "Faktor kompetitif lain yang juga mempunyai peranan penting dalam mendukung daya saing di pasar asuransi kesehatan adalah kemampuan penanggung dalam melakukan:",
+      "jawaban": ["kontrak dengan tarif diskon dengan rumah sakit dan dokter", "dari modul Page 27 (PDF) — Faktor kompetitif lainnya adalah kemampuan perusahaan asuransi untuk menegosiasikan kontrak diskon dengan rumah sakit dan dokter. Konsesi ini menciptakan keuntungan biaya"],
+      "pengecoh": [
+        "pengelolaan premi melalui investasi yang lebih agresif",
+        "perhitungan tarif premi secara lebih liberal",
+        "penolakan jaminan asuransi kumpulan atas dasar kondisi kesehatan peserta"
+      ]
+    },
+    {
+      "id": 67,
+      "kategori": "tunggal",
+      "soal": "Dalam melakukan tugas dan tanggung jawabnya underwriter terhadap kumpulan baru adalah melakukan salah satu langkah sebagai berikut:",
+      "jawaban": ["menganalisis karakteristik kelompok", "dari modul Page 198 (PDF) — Proses seleksi melibatkan sejumlah langkah, termasuk menganalisis setiap karakteristik kelompok, seperti tipe kelompok, jenis industri, ukuran kelompok, mereka yang memenuhi syarat, partisipasi, dan pertimbangan finansial"],
+      "pengecoh": [
+        "menilai hasil pemeriksaan kesehatan anggota kelompok",
+        "menghitung ulang premi standar yang tidak sesuai dengan kelas risiko calon tertanggung",
+        "menilai klaim paket jaminan dari asuransi kumpulan terdahulu"
+      ]
+    },
+    {
+      "id": 68,
+      "kategori": "kombinasi",
+      "soal": "Ketika mengevaluasi kelompok yang baru (seringkali sebuah kasus ditransfer dari perusahaan asuransi lain), underwriter mempertimbangkan semua informasi yang relevan. Faktor-faktor yang paling penting diperhatikan adalah:\nI. Paket asuransi\nII. Pembagian biaya\nIII. Persistensi yang diperkirakan\nJawaban yang benar adalah:",
+      "jawaban": ["I, II dan III", "dari modul Page 201–202 (PDF) — Faktor-faktor terpenting dalam mengevaluasi kelompok baru: ukuran kelompok, industri, komposisi kelompok, lokasi, paket asuransi (I), pembagian biaya (II), fasilitas administrasi, pengalaman klaim, perjanjian komisi, persistensi yang diperkirakan (III)"],
+      "pengecoh": [
+        "I dan II saja",
+        "I dan III saja",
+        "II dan III saja"
+      ]
+    },
+    {
+      "id": 69,
+      "kategori": "tunggal",
+      "soal": "Premi yang dibayarkan oleh pengusaha atau pemberi kerja untuk karyawan mereka diperlukan sebagai:",
+      "jawaban": ["Biaya operasional perusahaan", "dari modul Page 22 (PDF) — Premi yang dibayarkan oleh pemberi kerja untuk asuransi kelompok karyawan diperlakukan sebagai biaya perusahaan"],
+      "pengecoh": [
+        "Biaya tidak rutin perusahaan",
+        "Biaya belanja modal perusahaan",
+        "Cadangan umum perusahaan"
+      ]
+    },
+    {
+      "id": 70,
+      "kategori": "tunggal",
+      "soal": "Meskipun secara hukum pengusaha tidak wajib memberikan jaminan kepada karyawan di luar serikat pekerja, kebanyakan pengusaha memperluas jaminan hingga mencakup:",
+      "jawaban": ["Karyawan bukan anggota serikat pekerja", "dari modul Page 22 (PDF) — Meskipun mereka tidak diharuskan untuk melakukannya, sebagian besar pengusaha memperluas manfaat yang dirundingkan untuk karyawan anggota serikat kepada pegawai yang bukan anggota serikat"],
+      "pengecoh": [
+        "Karyawan kantor cabang",
+        "Karyawan dinas luar",
+        "Karyawan outsourcing"
+      ]
+    },
+    {
+      "id": 71,
+      "kategori": "kombinasi",
+      "soal": "Underwriter asuransi kesehatan perorangan lebih memberi perhatian pada morbiditas, yakni merupakan pertimbangan faktor-faktor berikut atas risiko pemohon baik karena kecelakaan ataupun penyakit:\nI. Frekuensi\nII. Determinasi\nIII. Severitas\nJawaban yang benar adalah:",
+      "jawaban": ["I dan III saja", "dari modul Page 200 (PDF) — Underwriter asuransi kesehatan perorangan lebih memberi perhatian pada morbiditas — frekuensi (I), durasi, dan tingkat keparahan/severitas (III) kecelakaan atau penyakit"],
+      "pengecoh": [
+        "I dan II saja",
+        "II dan III saja",
+        "I, II dan III"
+      ]
+    },
+    {
+      "id": 72,
+      "kategori": "tunggal",
+      "soal": "Underwriter biasanya memberikan perhatian khusus pada paket apapun yang manfaatnya entah itu manfaat minimal atau manfaat sangat liberal. Manfaat-manfaat minimal mungkin menunjukkan adanya:",
+      "jawaban": ["Masalah keuangan pemegang polis", "dari modul Page 209 (PDF) — Manfaat minimum bisa menunjukkan adanya masalah keuangan pemegang polis"],
+      "pengecoh": [
+        "Ketidakseriusan pemegang polis mengikuti program asuransi",
+        "Kemungkinan putus asuransi sebelum masanya berakhir",
+        "Kemungkinan terjadinya klaim yang besar"
+      ]
+    },
+    {
+      "id": 73,
+      "kategori": "tunggal",
+      "soal": "Pengertian proses underwritting dalam operasional sebuah perusahaan asuransi adalah:",
+      "jawaban": ["suatu proses untuk menentukan apakah sebuah permohonan asuransi dari calon tertanggung dapat diterima atau ditolak", "dari modul Page 192 (PDF) — Underwriting adalah suatu proses untuk menentukan apakah sebuah permohonan asuransi calon tertanggung diterima atau ditolak"],
+      "pengecoh": [
+        "suatu proses di mana petugas asuransi menganalisis risiko tertanggung untuk memperhitungkan besaran premi yang sesuai",
+        "suatu proses di mana petugas asuransi menganalisis suatu kejadian dan memperkirakan biaya yang harus dibayar asuradur",
+        "suatu proses di mana petugas asuransi menilai dan memeriksa adanya indikasi abuse ataupun fraud pada permohonan asuransi calon tertanggung"
+      ]
+    },
+    {
+      "id": 74,
+      "kategori": "tunggal",
+      "soal": "Sumber informasi yang paling baik untuk deskripsi riwayat kesehatan yang akurat bagi underwriter asuransi kesehatan perorangan adalah:",
+      "jawaban": ["Pernyataan dokter yang bertugas", "dari modul Page 228 (PDF) — Pernyataan dokter yang bertugas (attending physician statement, APS) adalah sumber informasi terbaik sebagai deskripsi yang akurat tentang riwayat kesehatan"],
+      "pengecoh": [
+        "Pemeriksaan para medis",
+        "Laporan inspeksi",
+        "Informasi MIB"
+      ]
+    },
+    {
+      "id": 75,
+      "kategori": "tunggal",
+      "soal": "Salah satu pendekatan yang digunakan oleh perusahaan asuransi dalam menentukan initial premium rate pada kelompok besar adalah:",
+      "jawaban": ["Experience rate premium dari perusahaan itu sendiri", "dari modul Page 202 (PDF) — Pengalaman paket yang besar merupakan peramal yang paling baik untuk klaim-klaim di masa depan. Penanggung membutuhkan informasi pengalaman sebelumnya dan membuat tarif premi yang disesuaikan (experience rate) dengan pengalaman penyimpangan sebelumnya"],
+      "pengecoh": [
+        "Extra loading yang proporsional sesuai besarnya kelompok pada rate manual",
+        "Experience rate premium dari perusahaan sejenis",
+        "Specific loading misalnya 10% dari manual rate"
+      ]
+    }
+  ]
+}
