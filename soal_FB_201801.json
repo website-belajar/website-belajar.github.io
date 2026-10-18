@@ -1,0 +1,529 @@
+{
+  "bank_soal": [
+    {
+      "id": 1,
+      "kategori": "tunggal",
+      "soal": "Biaya kesehatan tahunan di Indonesia mencapai 36 persen selama 10 tahun terakhir, angka ini lebih tinggi daripada tingkat inflasi secara umum. Tidak hanya di Indonesia, masalah biaya kesehatan di berbagai negara dapat digambarkan sebagai berikut:",
+      "jawaban": ["Negara maju maupun negara berkembang sama-sama menghadapi ketimpangan akses dan peningkatan biaya pelayanan kesehatan", "Modul menyatakan negara maju menghadapi persoalan biaya kesehatan yang terus meningkat (inflasi) dan juga masalah ketimpangan akses, sementara negara berkembang menghadapi kurangnya dana, ketimpangan antar daerah, serta peningkatan biaya pelayanan kesehatan. Jadi keduanya sama-sama menghadapi ketimpangan akses dan peningkatan biaya. dari modul Page 29 (PDF)"],
+      "pengecoh": ["Negara berkembang kekurangan dana pelayanan kesehatan, sementara negara maju menghadapi kelebihan dana pelayanan kesehatan", "Negara maju menghadapi kelebihan penyediaan fasilitas pelayanan kesehatan, sementara negara berkembang menghadapi kekurangan fasilitas pelayanan kesehatan", "Negara berkembang dan negara maju sama-sama memaksimalkan penggunaan teknologi kedokteran"]
+    },
+    {
+      "id": 2,
+      "kategori": "tunggal",
+      "soal": "Anggaran kesehatan di Indonesia terutama yang bersumber dari pemerintah relatif rendah. Salah satu alasannya adalah:",
+      "jawaban": ["Persepsi aparat pemerintah non-kesehatan yang belum memandang kesehatan sebagai investasi bagi masyarakat agar masyarakat lebih produktif", "Modul menyebut alasan rendahnya anggaran kesehatan: keterbatasan dana pemerintah, persepsi aparat pemerintah non-kesehatan yang belum memandang kesehatan sebagai investasi (masyarakat sehat lebih produktif), dan keterbatasan advokasi profesional kesehatan. dari modul Page 30 (PDF)"],
+      "pengecoh": ["Sumber dari non pemerintah dianggap sudah mencukupi sehingga kontribusi pemerintah tidak dijadikan sumber utama", "Terkendalinya pemanfaatan biaya kesehatan sehingga kontribusi pemerintah menjadi seakan memiliki rasio yang kecil dibandingkan sumber lain", "Lobi para pebisnis telah mampu meyakinkan penentu kebijakan khususnya kebijakan alokasi anggaran serta mampu meyakinkan anggota legislatif untuk memprioritaskan infrastruktur fisik"]
+    },
+    {
+      "id": 3,
+      "kategori": "tunggal",
+      "soal": "Ada beberapa cara untuk mengendalikan biaya-biaya pelayanan yang semakin tinggi melalui desain produk yang ditawarkan. Di antara beberapa metode pengendalian tersebut adalah:",
+      "jawaban": ["cost sharing dan coordination of benefit", "Modul Bab 2 menyebut cara pengendalian biaya melalui perancangan program manfaat (plan design): (1) urun biaya/cost sharing (deductible, coinsurance, copayment), (2) tingkat penggantian maksimum, (3) kontribusi karyawan, (4) insentif keuangan, dan (5) koordinasi manfaat (COB). dari modul Page 32 (PDF)"],
+      "pengecoh": ["limit maximum dan concurrent review", "prospective review dan employee contribution", "concurrent review dan prospective review"]
+    },
+    {
+      "id": 4,
+      "kategori": "tunggal",
+      "soal": "Tuan Polan memiliki Polis Asuransi Kesehatan dengan ketentuan jika mengalami sakit sehingga harus dirawat di rumah sakit diharuskan membayar nilai yang ditetapkan yaitu sampai dengan 5 juta rupiah terlebih dahulu dan selebihnya baru dibayar oleh asuransi. Ketentuan tersebut terkenal dengan istilah:",
+      "jawaban": ["flat deductible", "Deductible adalah jumlah biaya pelayanan yang harus dibayar tertanggung sebelum penanggung membayar manfaat. Flat deductible adalah deductible dengan jumlah tetap yang harus dibayar setiap orang/keluarga (mis. Rp 1 juta/orang/tahun). Contoh Rp 5 juta lebih dulu sesuai dengan flat deductible. dari modul Page 32-33 (PDF)"],
+      "pengecoh": ["life reserve", "sliding deductible", "percentage coinsurance"]
+    },
+    {
+      "id": 5,
+      "kategori": "tunggal",
+      "soal": "Asumsi risiko yang dipikul bersama antara perusahaan asuransi dan tertanggung adalah lazim dalam polis asuransi kesehatan. Asumsi risiko dalam bentuk persentase biaya yang harus dibayar pihak perusahaan asuransi setelah deductible dibayarkan, disebut dengan:",
+      "jawaban": ["Coinsurance", "Coinsurance mengharuskan tertanggung membayar persentase tertentu dari biaya pelayanan setelah deductible dipenuhi; penanggung menanggung sisanya. Besarnya coinsurance sekitar 20-30%. dari modul Page 33 (PDF)"],
+      "pengecoh": ["Copayment", "Coordination of benefit", "Over limitation"]
+    },
+    {
+      "id": 6,
+      "kategori": "tunggal",
+      "soal": "Tuan Badu menjadi peserta asuransi kesehatan PT ABC. Setiap memerlukan pelayanan kesehatan di klinik yang menjadi mitra PT ABC, Tuan Badu diminta membayar 3 ribu rupiah. Pembayaran tersebut dikenal dengan istilah:",
+      "jawaban": ["Copayment", "Copayment adalah sejumlah dana tertentu yang harus dikeluarkan pada setiap jenis pelayanan, misalnya setiap berkunjung ke praktek dokter atau ke ruang gawat darurat. Cara ini biasanya digunakan dalam paket managed care. dari modul Page 34 (PDF)"],
+      "pengecoh": ["coinsurance", "cost sharing", "flat deductible"]
+    },
+    {
+      "id": 7,
+      "kategori": "tunggal",
+      "soal": "Asuransi kumpulan diperuntukkan bagi sekelompok karyawan perusahaan atau lembaga, dengan tujuan untuk menyebarkan risiko klaim ke kelompok orang yang lebih luas. Keikutsertaan karyawan dalam membayar premi program asuransi kesehatan kumpulan dikenal dengan istilah:",
+      "jawaban": ["contributory", "Program kumpulan di mana karyawan ikut membayar kontribusi premi disebut contributory; bila tidak ikut membayar disebut non-contributory. Modul menyebut program contributory dan non-contributory pada administrasi polis kumpulan. dari modul Page 76 (PDF)"],
+      "pengecoh": ["cost sharing", "non-contributory", "risk sharing"]
+    },
+    {
+      "id": 8,
+      "kategori": "tunggal",
+      "soal": "Jumlah maksimum perusahaan asuransi dapat membayar manfaat atau klaim per periode tertentu, bisa per minggu, per bulan atau per tahun. Jika biaya perawatan sangat mahal sehingga bisa mencapai jumlah ini, maka tertanggung harus membayar selisihnya. Cara pengendalian biaya semacam ini disebut:",
+      "jawaban": ["maximum benefit", "Modul Bab 2 membahas tingkat penggantian maksimum (maximum reimbursement level): banyak paket membatasi pembayaran maksimum untuk beberapa jenis manfaat, dan tertanggung membayar sendiri sisa biaya tersebut. dari modul Page 34 (PDF)"],
+      "pengecoh": ["deductible", "coordination of benefit", "coinsurance"]
+    },
+    {
+      "id": 9,
+      "kategori": "tunggal",
+      "soal": "Seorang tertanggung bisa memiliki lebih dari satu polis asuransi. Agar tertanggung ini tidak memperoleh manfaat atau penggantian lebih dari biaya berobat yang dikeluarkan maka perlu diatur dengan metode:",
+      "jawaban": ["coordination of benefit", "COB adalah proses di mana dua atau lebih penanggung menanggung orang yang sama untuk membatasi total manfaat agar tidak melebihi biaya pelayanan kesehatan yang diperbolehkan. COB dikembangkan karena overinsurance. dari modul Page 36 dan Page 127 (PDF)"],
+      "pengecoh": ["deductible", "coinsurance", "copayment"]
+    },
+    {
+      "id": 10,
+      "kategori": "tunggal",
+      "soal": "Sertifikasi yang bertujuan untuk membantu pengendalian biaya perawatan di rumah sakit. Salah satunya adalah melalui pengurangan jumlah hari rawat dengan menggunakan sarana penunjang diagnostik pemeriksaan rawat jalan, sebelum rawat inap dilaksanakan disebut:",
+      "jawaban": ["sertifikasi pra-admisi", "Sertifikasi pra-admisi (preadmission certification) mewajibkan tertanggung memperoleh otorisasi lebih dulu sebelum rawat inap, dan dapat menggunakan fasilitas rawat jalan untuk pemeriksaan sebelum rawat inap (preadmission testing) guna mengurangi lama hari rawat. dari modul Page 47 (PDF)"],
+      "pengecoh": ["sertifikasi rawat jalan", "akreditasi rumah sakit", "akreditasi fasilitas pelayanan kesehatan tingkat pertama"]
+    },
+    {
+      "id": 11,
+      "kategori": "tunggal",
+      "soal": "Tuan Polan dan Tuan Amir mempunyai penyakit yang sama dirawat pada rumah sakit yang sama dengan jumlah hari rawat inap yang sama. Tuan Polan mulai dirawat di rumah sakit pada hari Sabtu, sedang Tuan Amir mulai dirawat pada hari Selasa. Dalam hal biaya perawatan, pernyataan di bawah ini yang benar adalah:",
+      "jawaban": ["total biaya perawatan Tuan Amir lebih kecil dari total biaya Tuan Polan", "Modul menjelaskan admisi akhir pekan (weekend admission): pasien yang masuk Jumat/Sabtu untuk kasus elektif sering tidak mendapat manfaat atau dikenakan deductible besar karena rumah sakit mengurangi kegiatan di akhir pekan, sehingga total biaya lebih besar. Tuan Polan masuk Sabtu (akhir pekan) sehingga biayanya lebih besar; Tuan Amir masuk Selasa (hari kerja) sehingga biayanya lebih kecil. dari modul Page 38 (PDF)"],
+      "pengecoh": ["total biaya perawatan antara Tuan Polan dan Tuan Amir sama", "total biaya perawatan Tuan Amir lebih besar dari total biaya Tuan Polan", "tidak bisa dibandingkan tentang besarnya biaya antara Tuan Polan dan Tuan Amir"]
+    },
+    {
+      "id": 12,
+      "kategori": "tunggal",
+      "soal": "Ada layanan kesehatan berupa fasilitas khusus atau bagian dari rumah sakit, yang menyediakan layanan profesional yang diperlukan secara medis yang dilakukan oleh perawat terampil, atau terapis fisik (physical and occupational therapists), ataupun ahli patologi wicara (speech pathologists and audiologists). Layanan khusus ini disebut:",
+      "jawaban": ["skilled nursing care", "Asuhan keperawatan terampil (skilled nursing care) disediakan fasilitas perawatan terampil (SNF), dilakukan oleh atau di bawah supervisi perawat terdaftar atau dokter, mencakup terapi fisik, obat resep, dan perlengkapan medis. dari modul Page 39-40 (PDF)"],
+      "pengecoh": ["pediatric intensive care", "ambulatory care", "chiropratic care"]
+    },
+    {
+      "id": 13,
+      "kategori": "tunggal",
+      "soal": "Pelayanan untuk perawatan kesehatan bagi pasien di rumah disediakan agen pemberi jasa perawatan kesehatan di rumah (home health care). Pasien yang bisa menerima perawatan di rumah (home health care), adalah:",
+      "jawaban": ["signal cord injury (cedera sumsum tulang belakang)", "Modul menyebut pasien yang tepat menerima home health care: penderita sakit kronis atau cacat, pasien pasca serangan jantung atau stroke, kasus ortopedik, pasien yang membutuhkan terapi oksigen, penyakit sumsum tulang belakang atau penyakit pernapasan, dan pasien terminal. Cedera sumsum tulang belakang termasuk yang disebut. dari modul Page 40-41 (PDF)"],
+      "pengecoh": ["pasien yang membutuhkan terapi kemoterapi", "perawatan intensive care", "perawatan pasca bedah (misalnya laparotomy)"]
+    },
+    {
+      "id": 14,
+      "kategori": "kombinasi",
+      "soal": "Fokus layanan hospice care berbeda dengan orientasi layanan kesehatan tradisional. Ada beberapa prinsip dasar yang membedakan hospice care dan sistem perawatan kesehatan tradisional antara lain yaitu: I. Unit perawatan adalah pasien dan keluarga, bukan hanya pasien. II. Tim yang menangani merupakan tim multi disiplin. III. Rasa sakit dan gejala dikendalikan tanpa upaya keras menyembuhkan pasien.",
+      "jawaban": ["I, II dan III", "Modul menyebut 4 prinsip hospice care: (1) unit perawatan adalah pasien dan keluarga; (2) tim multi disiplin (dokter, perawat, psikiater, psikolog, tenaga terlatih, anggota keluarga); (3) rasa sakit dan gejala dikendalikan tanpa upaya keras menyembuhkan; (4) bimbingan berkabung kepada keluarga. Pernyataan I, II, III semuanya benar. dari modul Page 42 (PDF)"],
+      "pengecoh": ["I dan II saja", "I dan III saja", "II dan III saja"]
+    },
+    {
+      "id": 15,
+      "kategori": "tunggal",
+      "soal": "Ada beberapa cara menghemat biaya pelayanan kesehatan melalui pengendalian pembayaran. Salah satu di antaranya adalah hospital billing audit, suatu prosedur:",
+      "jawaban": ["Menentukan apakah pelayanan telah dilakukan dengan benar oleh rumah sakit dengan biaya yang tepat", "Audit tagihan rumah sakit dilakukan untuk menentukan apakah pelayanan telah dilakukan dengan benar dan biaya yang dikenakan juga tepat. Laporan audit mencantumkan kelebihan atau kekurangan biaya yang dikenakan setiap unit rumah sakit. dari modul Page 43 (PDF)"],
+      "pengecoh": ["Meneliti pemberlakuan deductible atau coinsurance untuk rawat inap di rumah sakit", "Memeriksa penetapan tarif rumah sakit dan dokter agar tidak melebihi tarif yang berlaku di suatu wilayah", "Melakukan audit keuangan on site di rumah sakit, sebagai external auditing"]
+    },
+    {
+      "id": 16,
+      "kategori": "tunggal",
+      "soal": "Besarnya pembayaran klaim oleh perusahaan asuransi perlu tertuang dalam polis. Dalam suatu polis asuransi dapat dinyatakan batas pembayaran yang dibenarkan yaitu nilai terkecil atau lebih kecil dari tiga perhitungan berikut ini:",
+      "jawaban": ["tarif aktual dokter, tarif normal dokter dan tarif yang layak dan umum", "Modul menyebut batas pembayaran yang dibenarkan adalah yang lebih kecil dari tiga perhitungan: (1) tarif dokter yang sebenarnya (actual charge), (2) tarif dokter yang lazim (usual charge), dan (3) tarif yang wajar dan umum (reasonable and customary charge) di wilayah tertentu. dari modul Page 44 (PDF)"],
+      "pengecoh": ["tarif normal dokter, batas maksimum manfaat asuransi dan biaya yang layak", "batas maksimum manfaat asuransi, batasan maksimum premi dan tarif dokter", "besarnya manfaat asuransi, tarif rumah sakit dan tarif yang layak dan umum"]
+    },
+    {
+      "id": 17,
+      "kategori": "kombinasi",
+      "soal": "Biaya administrasi merupakan salah satu unsur pembentuk premi asuransi kesehatan. Pihak asuransi menginginkan biaya-biaya tersebut diupayakan sekecil mungkin karena: I. Pemegang polis sangat menolak terhadap premi yang tinggi. II. Persaingan di antara para penanggung untuk memberikan premi terendah. III. Kebijakan pemerintah atau otoritas asuransi yang selalu berubah.",
+      "jawaban": ["I dan II saja", "Modul menyebut alasan penanggung menginginkan biaya administrasi serendah mungkin: (1) pemegang polis resisten terhadap premi tinggi, (2) persaingan antar penanggung untuk premi rendah, (3) tekanan dari pemerintah/pembuat kebijakan. Pernyataan III menyebut 'kebijakan yang selalu berubah' — ini tidak tepat; modul menyebut 'tekanan dari pemerintah, pembuat kebijakan', bukan 'kebijakan yang selalu berubah'. Jadi I dan II saja. dari modul Page 45 (PDF)"],
+      "pengecoh": ["I dan III saja", "II dan III saja", "I, II dan III"]
+    },
+    {
+      "id": 18,
+      "kategori": "kombinasi",
+      "soal": "Upaya untuk mengendalikan biaya pelayanan di rumah sakit dilakukan antara lain dengan melakukan telaah utilisasi (utilization review). Yang termasuk dalam telaah utilisasi yaitu: I. telaah utilisasi rawat inap (inpatient utilization review). II. telaah utilisasi saat dirawat (concurrent review). III. perencanaan pulang pasien (discharge planning).",
+      "jawaban": ["I, II dan III", "Modul menjelaskan utilization review mencakup telaah prospektif (preadmission certification), telaah utilisasi rawat inap (IUR), telaah saat dirawat (concurrent review), telaah inap berlanjut (continued-stay review), dan perencanaan pemulangan (discharge planning). Ketiganya termasuk. dari modul Page 46-49 (PDF)"],
+      "pengecoh": ["I dan II saja", "I dan III saja", "II dan III saja"]
+    },
+    {
+      "id": 19,
+      "kategori": "tunggal",
+      "soal": "Extended Care Facility Review mengatur dan mengurangi biaya perawatan kesehatan untuk jangka panjang. Salah satu caranya adalah:",
+      "jawaban": ["dengan menyediakan preadmission review dan continued stay review untuk admisi ke skilled nursing home", "Modul menyebut fasilitas perawatan tingkat lanjut mengatur biaya jangka panjang melalui: (1) kerja sama dengan discharge planning untuk mengidentifikasi pasien yang dipindahkan ke SNF yang lebih murah, dan (2) menyediakan telaah pra-admisi (preadmission review) dan telaah inap berlanjut (continued-stay review) untuk admisi ke fasilitas keperawatan terampil (SNF/skilled nursing home). dari modul Page 49-50 (PDF)"],
+      "pengecoh": ["dengan menyediakan ambulatory care", "dengan menyediakan preadmission review dan concurrent review untuk admisi ke skilled nursing home", "dengan menyediakan preadmission review dan concurrent review untuk admisi ke home health care"]
+    },
+    {
+      "id": 20,
+      "kategori": "kombinasi",
+      "soal": "Untuk tindakan suatu operasi perlu adanya opini pihak kedua. Potensi penghematan biaya karena adanya opini kedua tergantung pada hal-hal sebagai berikut: I. Operasi yang tidak dikonfirmasi atau tidak dianjurkan oleh opini kedua maka operasi tidak dilakukan. II. Operasi dilakukan tetapi dengan rawat jalan bukan rawat inap seperti rekomendasi awal. III. Pengurangan klaim bedah secara umum karena adanya efek sentinel bagi dokter.",
+      "jawaban": ["I, II dan III", "Modul menyebut potensi penghematan biaya karena opini kedua tergantung pada: (1) operasi tidak dikonfirmasi/dianjurkan opini kedua dan tidak dilakukan; (2) operasi dilakukan tetapi rawat jalan bukan rawat inap; (3) pengurangan klaim bedah secara umum karena efek sentinel. Ketiganya benar. dari modul Page 50 (PDF)"],
+      "pengecoh": ["I dan II saja", "I dan III saja", "II dan III saja"]
+    },
+    {
+      "id": 21,
+      "kategori": "tunggal",
+      "soal": "Terdapat dua jenis pelayanan rehabilitasi, yakni rehabilitasi medis dan rehabilitasi keterampilan. Pada rehabilitasi medis dikonsentrasikan pada:",
+      "jawaban": ["pengobatan dan prosedur yang dirancang untuk mengurangi rasa efek fisik dari ketidakmampuan melakukan aktifitas", "Modul menyebut rehabilitasi medis (medical rehabilitation) dikonsentrasikan pada pengobatan dan prosedur yang dirancang untuk mengurangi efek fisik dari ketidakmampuan melakukan aktivitas. dari modul Page 55 (PDF)"],
+      "pengecoh": ["tersedianya pelayanan yang dirancang untuk membantu pasien agar mandiri dan kembali bekerja", "tersedianya pelayanan yang dirancang untuk membantu pasien agar mandiri dan tidak akan menderita sakit lagi", "pengobatan dan prosedur yang dirancang untuk menghilangkan rasa sakit dan efek fisik dan mencarikan jenis pekerjaan yang tidak berbahaya dari jenis penyakitnya"]
+    },
+    {
+      "id": 22,
+      "kategori": "tunggal",
+      "soal": "Gatekeeper merupakan orang yang menjadi kontak pertama pasien dengan pelayanan kesehatan. Yang dimaksud dengan konsep gatekeeper adalah:",
+      "jawaban": ["optimalisasi pelayanan di fasilitas kesehatan primer, secara selektif merujuk pasien ke dokter spesialis", "Gatekeeper (PCP) adalah dokter perawatan primer yang menjadi kontak pertama dengan HMO; bila perawatan tambahan diperlukan, PCP merujuk peserta ke dokter ahli dalam jaringan setelah memberikan otorisasi. Konsep ini mengoptimalkan pelayanan di fasilitas primer dan merujuk secara selektif ke spesialis. dari modul Page 14 (PDF)"],
+      "pengecoh": ["pemberian rujukan ke dokter spesialis tanpa didasari atas kebutuhan medis", "perawatan komprehensif pasien dengan penyakit tahap terminal", "konsep perawatan dasar oleh dokter spesialis sesuai indikasi medis"]
+    },
+    {
+      "id": 23,
+      "kategori": "tunggal",
+      "soal": "Bentuk model dasar Health Maintenance Organization (HMO) antara lain adalah bentuk kontrak yang dilakukan oleh perusahaan asuransi dengan dokter perorangan untuk memberikan pelayanan. Bentuk ini disebut:",
+      "jawaban": ["IPA model HMO", "Modul menyebut open panel HMO terdiri dari Individual practice association (IPA) atau independent practice association dan direct contract. IPA adalah himpunan/asosiasi dokter yang setuju memberikan layanan kepada peserta HMO; dokter-dokter tersebut umumnya praktisi independen mandiri yang memiliki kantor sendiri. dari modul Page 14 (PDF)"],
+      "pengecoh": ["Network model HMO", "Group model HMO", "Staff model HMO"]
+    },
+    {
+      "id": 24,
+      "kategori": "tunggal",
+      "soal": "Point of Service (POS) Plan disebut juga sebagai open-ended HMO yang menggabungkan karakteristik dari HMO dan PPO. Konsep ini antara lain menerapkan ketentuan:",
+      "jawaban": ["tertanggung dapat mencari dokter lain yang tidak tergabung dalam jaringan yang dikontrak perusahaan asuransi untuk melayaninya dengan membayar coinsurance yang besar", "Modul menjelaskan open-ended HMO/POS plan: peserta dapat menggunakan PPK seperti HMO tradisional, tetapi dapat juga memilih PPK di luar jaringan HMO; HMO membayar peserta atas biaya perawatan, tetapi peserta biasanya membayar deductible dan coinsurance yang lebih tinggi. dari modul Page 18 (PDF)"],
+      "pengecoh": ["dokter yang memberikan pelayanan kesehatan hanya dokter yang menjalin kontrak dengan perusahaan asuransi", "perusahaan asuransi tidak menggantikan biaya pelayanan kesehatan yang diberikan oleh dokter yang tidak mempunyai kontrak", "pelayanan hanya diberikan oleh rumah sakit dan tidak melalui dokter keluarga"]
+    },
+    {
+      "id": 25,
+      "kategori": "kombinasi",
+      "soal": "Dengan berkembangnya managed care, beberapa penyedia pelayanan kesehatan telah di carve out (terpisah) untuk dikelola tersendiri. Yang termasuk dalam kriteria carve out adalah: I. kesehatan mental atau perilaku (behavioral health). II. obat yang diresepkan (prescription drugs). III. pelayanan kesehatan gigi (dental service).",
+      "jawaban": ["I, II dan III", "Modul menyebut setidaknya tiga bidang yang sering dikelola sebagai carve-out: (1) kesehatan perilaku (behavioral health), (2) obat resep (prescription drug), dan (3) layanan gigi (dental service). Ketiganya benar. dari modul Page 19 (PDF)"],
+      "pengecoh": ["I dan II saja", "I dan III saja", "II dan III saja"]
+    },
+    {
+      "id": 26,
+      "kategori": "tunggal",
+      "soal": "Model asuransi dengan fee for services (traditional) bisa mengadopsi beberapa teknik managed care untuk pengendalian biaya. Bentuk managed care yang paling umum pada asuransi fee for service adalah:",
+      "jawaban": ["Menggunakan telaah utilisasi dan manajemen kasus yang berbiaya tinggi serta kasus katastropik", "Modul menyebut fitur managed care yang paling umum dalam paket fee-for-service: (1) telaah pemanfaatan (utilization review, UR), (2) penggunaan organisasi khusus untuk mengelola pemanfaatan layanan, dan (3) manajemen kasus (case management) terhadap kasus berbiaya tinggi kronis atau katastropik. dari modul Page 22-23 (PDF)"],
+      "pengecoh": ["Memanfaatkan jaringan khusus untuk mengorganisasi provider yang bersedia untuk diajak bekerja sama dalam pola pembayaran kapitalis", "Menerapkan penerapan underwriting yang ketat sehingga diperoleh klaim yang rendah dan akhirnya mendapatkan keuntungan yang memadai", "Menggunakan teknik perhitungan premi yang menggunakan angka utilisasi dan analisis biaya"]
+    },
+    {
+      "id": 27,
+      "kategori": "tunggal",
+      "soal": "Program hidup sehat (wellness) merupakan program yang dikembangkan oleh perusahaan asuransi. Contoh program hidup sehat ini adalah:",
+      "jawaban": ["perawatan mandiri (self-care)", "Modul mencantumkan komponen program wellness: pelarangan merokok, pemantauan hipertensi, manajemen stress, gizi dan berat badan, olahraga, pemantauan ketergantungan obat/alkohol, pengurangan risiko kanker, pelatihan CPR, pengurangan risiko kecelakaan, pemantauan tekanan darah, pengobatan gawat darurat, pemeriksaan glaukoma, penggunaan manfaat secara bijaksana, konseling gaya hidup, pelatihan perawatan mandiri (self-care), konsultasi keluarga. dari modul Page 56 (PDF)"],
+      "pengecoh": ["mengurangi, dan mengobati hipertensi", "manajemen penyakit kritis", "fisioterapi akibat cedera"]
+    },
+    {
+      "id": 28,
+      "kategori": "kombinasi",
+      "soal": "Dokumen lain yang dibutuhkan dalam proses penerbitan polis untuk asuransi kumpulan adalah data peserta. Data peserta ini digunakan untuk: I. Menghitung premi akhir menggantikan premi indikatif yang diperkirakan awal. II. Sebagai sumber informasi distribusi peserta dalam strategi perluasan jaringan provider. III. Untuk memperoleh referensi dalam hal mencari prospek baru bagi bagian marketing.",
+      "jawaban": ["I dan II saja", "Modul menyebut formulir pendaftaran menyediakan data untuk menghitung premi yang sebenarnya, menghitung premi awal, menerbitkan sertifikat, dan menyiapkan catatan cakupan setiap peserta. Data ini juga menjadi sumber informasi distribusi peserta. Pernyataan III (mencari prospek baru bagi marketing) tidak disebut dalam modul sebagai penggunaan data peserta. dari modul Page 70 (PDF)"],
+      "pengecoh": ["I dan III saja", "II dan III saja", "I, II dan III"]
+    },
+    {
+      "id": 29,
+      "kategori": "tunggal",
+      "soal": "Kadang kala ada saja pegawai yang terlambat didaftarkan ke program asuransi kumpulan. Jika pemegang polis terlambat mendaftarkan seorang karyawan atau anggota keluarga lebih dari waktu yang ditentukan dalam kontrak asuransi, maka:",
+      "jawaban": ["diperlukan bukti insurability", "Modul menyebut jika karyawan mendaftar lebih dari 31 hari setelah ia memenuhi syarat, ia adalah peserta baru yang terlambat (late entrant) dan harus memberikan bukti insurability yang dapat diterima perusahaan asuransi. dari modul Page 76 (PDF)"],
+      "pengecoh": ["dikenakan diskon premi", "dikenakan extra premi", "kepesertaan ditolak"]
+    },
+    {
+      "id": 30,
+      "kategori": "tunggal",
+      "soal": "Sering terjadi pemegang polis lupa atau terlambat membayar premi asuransi, sehingga polis asuransi menjadi lapse. Salah satu pilihan menghadapi masalah tersebut adalah melakukan reinstatement. Proses reinstatement yang dilakukan adalah merupakan:",
+      "jawaban": ["Tindakan menerima kembali polis yang sudah dibatalkan", "Reinstatement adalah ketentuan pemulihan polis yang menetapkan prosedur mengembalikan polis yang sudah tidak berlaku (lapse). Modul menjelaskan prosedur reinstatement untuk polis perorangan dan kumpulan. dari modul Page 82 dan Page 90 (PDF)"],
+      "pengecoh": ["Tindakan underwriting ulang bagi peserta dengan risiko substandard", "Tindakan menghitung ulang premi akibat kesalahan underwriting", "Tindakan membuat ulang polis akibat kesalahan perhitungan premi"]
+    },
+    {
+      "id": 31,
+      "kategori": "tunggal",
+      "soal": "Sebuah pertanggungan yang harus diperpanjang hingga umur tertentu dengan premi tertentu pula, seperti yang tercantum dalam polis. Satu-satunya cara yang dapat dilakukan oleh asuransi untuk menghindari kerugian atas produk ini adalah hanya dengan menghentikan penjualan produk ini. Polis semacam ini disebut sebagai:",
+      "jawaban": ["Non-cancelable policy", "Modul menyebut polis tidak dapat dibatalkan (noncancellable policy) adalah polis yang tidak dapat dibatalkan oleh perusahaan asuransi, menaikkan premi atau mengurangi manfaat selama pemegang polis membayar premi. Karena pertanggungan harus diperbarui hingga usia tertentu dengan premi yang ditentukan, satu-satunya tindakan penanggung adalah menghentikan penjualan produk ini. dari modul Page 97 (PDF)"],
+      "pengecoh": ["Non-renewal for stated reasons only policy", "Optionally renewable policy", "Guaranteed renewable policy"]
+    },
+    {
+      "id": 32,
+      "kategori": "kombinasi",
+      "soal": "Umumnya perusahaan asuransi yang menawarkan pelayanan administrasi saja (ASO) membebani biaya para nasabahnya. Pembebanan biaya ini berdasarkan cara-cara perhitungan berdasar: I. Biaya untuk setiap klaim yang diproses. II. Biaya setiap pegawai dalam produk persentase premi. III. Persentase dari klaim yang dibayar.",
+      "jawaban": ["I dan III saja", "Modul menyebut angka biaya ASO dinyatakan kepada nasabah sebagai: (1) biaya tetap per klaim yang diproses, (2) biaya per karyawan, (3) persentase dari klaim yang dibayarkan, atau (4) kombinasi dari metode tersebut. Pernyataan II menyebut 'biaya setiap pegawai dalam produk persentase premi' — ini mencampur dua hal; modul memisahkan 'biaya per karyawan' dan 'persentase dari klaim', bukan 'persentase premi'. Jadi yang paling sesuai: I dan III. dari modul Page 99 (PDF)"],
+      "pengecoh": ["I dan II saja", "II dan III saja", "I, II dan III"]
+    },
+    {
+      "id": 33,
+      "kategori": "tunggal",
+      "soal": "Kantor cabang perusahaan asuransi meminta persetujuan proposal atas penutupan asuransi kesehatan kumpulan yang telah diajukan ke kantor pusat. Informasi secara tertulis yang telah disampaikan meliputi produk yang telah dipilih oleh calon pemegang polis, tipe produk, jenis manfaat serta data daftar karyawan. Namun proposal tersebut belum diterima karena masih ada informasi yang belum lengkap. Data dan informasi yang belum disampaikan ke kantor pusat antara lain adalah:",
+      "jawaban": ["data dan informasi calon pemegang polis", "Modul menyebut informasi pemegang polis yang diperlukan untuk pertanggungan meliputi: jenis cakupan, jumlah manfaat, data pemegang polis/pemberi kerja (nama, alamat, akta pendirian, NPWP, contact person, bidang usaha), lokasi, tanggal efektif, kelas karyawan, tanggungan, metode pembayaran premi, jenis administrasi klaim, dan komisi. Data pemegang polis adalah informasi penting yang harus lengkap. dari modul Page 68 (PDF)"],
+      "pengecoh": ["data agen yang mengajukan proposal", "data manajer asuransi kumpulan kantor cabang", "data dan informasi status kesehatan setiap tertanggung"]
+    },
+    {
+      "id": 34,
+      "kategori": "tunggal",
+      "soal": "Pada hasil pemeriksaan kesehatan kepada calon tertanggung asuransi perorangan ternyata ditemukan kondisi kesehatan yang dapat menimbulkan risiko. Namun calon tertanggung dapat diterima dengan ketentuan:",
+      "jawaban": ["tertanggung harus membayar iuran tambahan (extra premium)", "Modul menyebut hasil pemeriksaan kesehatan dapat berakhir pada diterima atau ditolaknya pengajuan, atau diterima dengan catatan. Diterima dengan catatan dapat berarti adanya penambahan premi (extra premium) dan/atau adanya penyakit yang dikecualikan dalam masa pertanggungan. dari modul Page 87 (PDF)"],
+      "pengecoh": ["tertanggung hanya boleh mendapatkan pelayanan pada dokter yang ditunjuk", "tertanggung harus diberikan waiting period yang singkat", "tertanggung harus terdaftar bersama seluruh anggota keluarganya"]
+    },
+    {
+      "id": 35,
+      "kategori": "tunggal",
+      "soal": "Produk asuransi kesehatan di Indonesia sering ditemukan dilengkapi dengan fasilitas kartu cashless. Cashless facility pada asuransi kesehatan ini adalah:",
+      "jawaban": ["Produk yang memberikan fasilitas penggunaan jaringan pelayanan kesehatan secara bebas biaya", "Modul menyebut kartu peserta digunakan pada saat mendapatkan layanan kesehatan pada jaringan PPK dari penanggung, dan hal ini berlaku jika produk yang dipilih memberikan fasilitas penggunaan jaringan PPK secara non-tunai (cashless facility). dari modul Page 73 (PDF)"],
+      "pengecoh": ["Produk yang memberikan fasilitas manfaat pertanggungan tanpa masa tunggu", "Produk yang memberikan fasilitas pelayanan klaim dalam satu hari", "Produk yang memberikan manfaatnya berdasarkan jumlah hari tanpa memperhatikan biaya pelayanan kesehatan yang terjadi"]
+    },
+    {
+      "id": 36,
+      "kategori": "tunggal",
+      "soal": "Pada asuransi perorangan, proses penerbitan polis lebih sederhana dibandingkan proses penerbitan polis asuransi kesehatan kumpulan. Hal ini dikarenakan:",
+      "jawaban": ["Produk dan manfaat pada polis asuransi perorangan relatif lebih baku", "Modul menyatakan pada asuransi kesehatan perorangan, karena produk dan manfaatnya relatif lebih standar, proses penerbitan polis lebih ringkas dibandingkan proses penerbitan polis asuransi kesehatan kumpulan. dari modul Page 87 (PDF)"],
+      "pengecoh": ["Polis asuransi kumpulan banyak pengecualiannya", "Polis asuransi kumpulan, produk dan manfaatnya relatif lebih baku", "Polis asuransi perorangan lebih murah dan rumit"]
+    },
+    {
+      "id": 37,
+      "kategori": "tunggal",
+      "soal": "Membina hubungan baik dengan pemegang polis bagi perusahaan asuransi sangatlah penting, oleh karenanya dilakukan evaluasi berkala terhadap jalannya pertanggungan dengan nasabah utama (prime customer). Pihak yang biasanya melakukan hal tersebut adalah:",
+      "jawaban": ["Customer Relation", "Modul menyebut bagian khusus yang menangani pembinaan hubungan baik dengan pemegang polis disebut Hubungan Nasabah (customer relations). Bagian ini melakukan evaluasi berkala dengan pemegang polis, terutama nasabah utama (prime customer). dari modul Page 82 (PDF)"],
+      "pengecoh": ["Agent", "Call Center", "Adjuster"]
+    },
+    {
+      "id": 38,
+      "kategori": "tunggal",
+      "soal": "Para underwriter, bagian klaim dan aktuaria PT Asuransi Maju Pesat pada bulan Agustus sibuk melakukan valuasi atas polis yang telah berusia 9 bulan di mana para pesertanya sebanyak 10 ribu. Bagian aktuaria memprediksi tentang besarnya klaim. Kegiatan-kegiatan tersebut berkaitan dengan:",
+      "jawaban": ["persiapan perpanjangan polis", "Modul menyebut sekitar 2-3 bulan sebelum habisnya periode pertanggungan, penanggung menyiapkan proposal pembaruan/perpanjangan polis; bagian proposal membutuhkan data riwayat klaim, premi terdahulu, data peserta terakhir, dan komisi; underwriting pembaruan dan prediksi klaim aktuaria dilakukan untuk perpanjangan. dari modul Page 94 (PDF)"],
+      "pengecoh": ["adanya penutupan calon pemegang polis yang baru", "melakukan koordinasi manfaat dengan polis dari asuransi lain", "menghitung keuntungan perusahaan"]
+    },
+    {
+      "id": 39,
+      "kategori": "tunggal",
+      "soal": "Untuk polis optionally renewable policies, penanggung dapat melakukan perubahan dalam periode polis. Salah satu perubahan polis tersebut adalah:",
+      "jawaban": ["perubahan premi dasar karena adanya kelemahan fisik", "Modul menyebut pada polis opsional yang dapat diperbarui, modifikasi dapat berupa: endorsement pengecualian atau premi kelas khusus karena gangguan fisik tertentu; peningkatan premi dasar karena perubahan ke pekerjaan yang lebih berbahaya; atau peningkatan periode eliminasi. Opsi 'perubahan premi dasar karena adanya kelemahan fisik' paling mendekati 'premi kelas khusus karena gangguan fisik tertentu'. ⚠️ Modul menyebut 'premi kelas khusus (special class premium) karena gangguan fisik', bukan persis 'perubahan premi dasar'. dari modul Page 96 (PDF)"],
+      "pengecoh": ["peningkatan premi dasar karena adanya anak yang baru lahir", "perubahan metode telaah utilisasi dan rasio klaim", "perubahan profitabilitas dan solvabilitas perusahaan asuransi"]
+    },
+    {
+      "id": 40,
+      "kategori": "tunggal",
+      "soal": "Ada bermacam-macam jenis audit. Pemeriksaan oleh pegawai asuransi atas semua catatan penerimaan premi dari pemegang polis di kantor cabang asuransi dikenal sebagai:",
+      "jawaban": ["internal audit", "Modul menyebut audit internal melibatkan pemeriksaan semua pernyataan premi yang diterima dari pemegang polis yang mengelola sendiri administrasinya, dilakukan di kantor pusat asuransi oleh petugas administrasi kumpulan. dari modul Page 100 (PDF)"],
+      "pengecoh": ["review audit", "external audit", "marketing audit"]
+    },
+    {
+      "id": 41,
+      "kategori": "kombinasi",
+      "soal": "Pada asuransi kesehatan kumpulan, perusahaan asuransi kesehatan dapat menggunakan berbagai tipe tagihan premi yang dikirimkan ke pemegang polis. Macam-macam bentuk cara penagihan itu adalah: I. list billing. II. exception billing. III. level billing.",
+      "jawaban": ["I, II dan III", "Modul menyebut tiga jenis penagihan untuk kasus kumpulan: (1) penagihan daftar (list billing), (2) penagihan pengecualian (exception billing), dan (3) penagihan tetap (level billing). Ketiganya benar. dari modul Page 79 (PDF)"],
+      "pengecoh": ["I dan II saja", "I dan III saja", "II dan III saja"]
+    },
+    {
+      "id": 42,
+      "kategori": "tunggal",
+      "soal": "Tuan Amin bekerja pada PT asuransi Aman Sentosa. Kegiatan beliau setiap hari antara lain adalah mengumpulkan bukti atau fakta yang berkaitan dengan sakit dan cedera, membandingkan fakta-fakta tersebut dengan kontrak asuransi. Tugas Pak Amin pada bagian:",
+      "jawaban": ["bagian administrasi klaim", "Modul mendefinisikan administrasi klaim sebagai proses: (1) mengumpulkan bukti atau fakta yang berkaitan dengan penyakit atau cedera; (2) membandingkan fakta tersebut dengan kontrak asuransi; dan (3) menentukan manfaat yang dibayarkan. dari modul Page 106 (PDF)"],
+      "pengecoh": ["bagian administrasi polis", "bagian aktuaria", "bagian underwriting"]
+    },
+    {
+      "id": 43,
+      "kategori": "tunggal",
+      "soal": "PT Asuransi Umum ABC memiliki tiga direktorat, salah satunya adalah direktorat asuransi kesehatan yang dipimpin oleh seorang direktur yang membawahi pemasaran, underwriting dan klaim. Struktur organisasi yang dianut oleh perusahaan asuransi tersebut adalah organisasi berdasarkan:",
+      "jawaban": ["fungsi", "Struktur yang membawahi pemasaran, underwriting, dan klaim adalah pembagian berdasarkan fungsi. Modul membahas organisasi departemen klaim berdasarkan departemen tunggal dan lini produk, serta struktur administrasi polis; pembagian direktorat berdasarkan fungsi (pemasaran, underwriting, klaim) sesuai prinsip organisasi fungsional. dari modul Page 108-109 (PDF)"],
+      "pengecoh": ["lini produk", "wilayah", "matrix"]
+    },
+    {
+      "id": 44,
+      "kategori": "tunggal",
+      "soal": "Pengelolaan klaim dapat dilakukan secara mandiri (self-administration) oleh pemegang polis. Pernyataan mana berikut ini yang menjelaskan tentang pengelolaan klaim mandiri dengan benar?",
+      "jawaban": ["Self-administration dilakukan pemegang polis untuk asuransi kesehatan kumpulan", "Modul menyebut administrasi swa-kelola atas klaim adalah metode di mana proses klaim polis tertentu dilakukan oleh pemegang polis kumpulan daripada mengirim klaim ke perusahaan asuransi. Cara ini digunakan secara eksklusif oleh penanggung paket kumpulan. dari modul Page 110 (PDF)"],
+      "pengecoh": ["Metode administrasi klaim swakelola bisa dilakukan oleh peserta asuransi perorangan", "Self-administration dilakukan untuk produk asuransi jiwa bukan asuransi kesehatan", "Metode pengelolaan mandiri selalu dilakukan melalui pihak ketiga (TPA) untuk efisiensi biaya"]
+    },
+    {
+      "id": 45,
+      "kategori": "kombinasi",
+      "soal": "Claim examination adalah proses yang harus dilalui secara saksama. Hal-hal berikut harus dilihat sebelum membayar suatu klaim asuransi kesehatan kelompok: I. Apakah polis group masih berlaku pada saat terjadinya kerugian (loss). II. Kerugian (loss) yang terjadi sebelum tanggal berlakunya coverage akan diganti. III. Apakah asuransi karyawan atau keluarganya memang masih berlaku pada saat terjadi kerugian (loss).",
+      "jawaban": ["I dan III saja", "Modul menyebut untuk klaim kumpulan perlu ditelaah apakah polis masih berlaku saat kerugian dan apakah cakupan karyawan/keluarga masih berlaku. Pernyataan II salah karena kerugian yang terjadi sebelum tanggal efektif cakupan tidak akan diganti. dari modul Page 118-119 (PDF)"],
+      "pengecoh": ["I dan II saja", "II dan III saja", "I, II dan III"]
+    },
+    {
+      "id": 46,
+      "kategori": "tunggal",
+      "soal": "Untuk menentukan kapan seseorang mulai sakit/dapat dijamin asuransi kesehatan tidaklah mudah, oleh sebab itu penanggung biasanya berdasarkan:",
+      "jawaban": ["Sejak seseorang mencari pengobatan pertama", "Modul menyebut pengujiannya adalah ketika penyakit itu pertama kali tampak, umumnya bersamaan dengan upaya pencarian pengobatan pertama. Jika yang bersangkutan menunda pencarian pengobatan, kondisi penyakit dapat terlihat pada tingkat tertentu yang menyebabkan orang mencari diagnosis, pelayanan, atau pengobatan. dari modul Page 120 (PDF)"],
+      "pengecoh": ["Sejak seseorang merasakan gejala penyakit", "Sejak seseorang mengobati diri sendiri sebelum mencari pengobatan", "Sejak seseorang melakukan rawat inap di rumah sakit"]
+    },
+    {
+      "id": 47,
+      "kategori": "tunggal",
+      "soal": "Apabila perusahaan asuransi mengalami kerugian selama masa pengujian (contestable period) pada produk asuransi disabilitas, maka tindakan yang perlu dilakukan perusahaan asuransi tersebut adalah:",
+      "jawaban": ["melakukan penyelidikan klaim", "Modul menyebut penyelidikan klaim diperlukan untuk: kerugian yang terjadi selama masa pengujian (contestable period), klaim disabilitas pendapatan yang dipertanyakan sebagai kelanjutan atau lamanya disabilitas, dan klaim rumah sakit yang dipertanyakan. dari modul Page 129 (PDF)"],
+      "pengecoh": ["membatalkan polis dengan pengembalian premi", "membatalkan polis tanpa pengembalian premi", "menolak pembayaran atas seluruh klaim"]
+    },
+    {
+      "id": 48,
+      "kategori": "tunggal",
+      "soal": "Salah satu metode dalam mengaudit klaim adalah dengan menggunakan metode audit dalam jumlah besar. Maksud dari metode audit tersebut adalah:",
+      "jawaban": ["Nominal klaim yang melebihi jumlah tertentu harus mendapat persetujuan dari penanggung", "Modul menyebut audit jumlah besar (large amount audit): beberapa kelompok penanggung memiliki persyaratan bahwa klaim yang melebihi jumlah tertentu harus disetujui terlebih dahulu oleh penanggung sebelum dilakukan pembayaran. dari modul Page 130 (PDF)"],
+      "pengecoh": ["Proses audit dilakukan secara acak atas berkas klaim", "Berkas klaim akan diaudit apabila besar total claim ratio melebihi 100%", "Proses audit hanya dilakukan pada klaim berulang yang sering dilakukan oleh orang yang sama"]
+    },
+    {
+      "id": 49,
+      "kategori": "tunggal",
+      "soal": "Klaim asuransi kesehatan yang diajukan oleh tertanggung tidak selalu disetujui oleh penanggung, sebagian ada yang ditolak. Alasan penolakan klaim pada umumnya adalah:",
+      "jawaban": ["polis sudah tidak aktif, manfaat tidak tercakup dalam polis dan terjadinya kecurangan", "Modul menyebut alasan penolakan klaim antara lain: kerugian tidak termasuk cakupan; adanya kecurangan (fraud) dan pernyataan yang salah. Kebanyakan penolakan klaim kesehatan terjadi karena polis sudah tidak aktif atau manfaat tidak tercakup. dari modul Page 132 (PDF)"],
+      "pengecoh": ["jumlah biaya yang diajukan tidak wajar dan terjadinya baru 2 bulan sejak polis dinyatakan berlaku", "terjadi dalam kurun waktu 2 tahun, manfaat tidak tercakup dalam polis dan terjadinya kecurangan", "tinggal di rumah sakit terlalu lama, biayanya melebihi ketentuan yang diperkenankan"]
+    },
+    {
+      "id": 50,
+      "kategori": "kombinasi",
+      "soal": "Coordination of benefit dikembangkan karena terjadinya peningkatan over insurance. Sumber-sumber terjadinya over insurance antara lain: I. Seseorang profesional yang tercakup dalam asuransi kesehatan kelompok juga tercakup dalam plan asuransi kelompok asosiasi. II. Suami istri bekerja dan masing-masing mendapatkan fasilitas kesehatan termasuk pasangannya. III. Seseorang yang memiliki dua polis, satu asuransi jiwa dan satunya lagi asuransi kecelakaan.",
+      "jawaban": ["I dan II saja", "Modul menyebut sumber overinsurance: (1) suami-istri bekerja dan masing-masing paket mencakup pasangan; (2) seseorang bekerja di dua tempat yang keduanya memberi cakupan kumpulan; (3) profesional/karyawan yang tercakup asuransi kumpulan pemberi kerja juga tercakup asuransi kumpulan asosiasi; (4) seseorang memiliki dua asuransi perorangan. Pernyataan III salah karena asuransi jiwa + asuransi kecelakaan bukan dua paket kesehatan yang menanggung manfaat sama. dari modul Page 127 (PDF)"],
+      "pengecoh": ["I dan III saja", "II dan III saja", "I, II dan III"]
+    },
+    {
+      "id": 51,
+      "kategori": "tunggal",
+      "soal": "Dewasa ini pemrosesan klaim banyak menggunakan teknologi informasi berbasis komputer dan telah memberikan dampak signifikan pada administrasi klaim. Kemampuan penggunaan teknologi ini dalam membantu administrasi klaim adalah:",
+      "jawaban": ["mengolah data transaksi volume tinggi dan akurat", "Modul menyebut administrasi klaim bertujuan memproses transaksi dengan volume tinggi dan membuat keputusan berdasar aturan yang ditentukan — dua karakteristik yang berperan dalam otomasi dan penggunaan teknologi. dari modul Page 133 (PDF)"],
+      "pengecoh": ["melakukan fungsi audit dan menggantikan tenaga auditor", "mengolah kertas dokumen klaim langsung menjadi dokumen pembayaran atau kwitansi", "mencegah dan meniadakan fraud"]
+    },
+    {
+      "id": 52,
+      "kategori": "tunggal",
+      "soal": "Untuk perusahaan-perusahaan asuransi di Indonesia, formulir klaim pada dasarnya terdiri atas dua kelompok elemen penting. Elemen tersebut adalah:",
+      "jawaban": ["kelompok elemen bagian informasi umum tentang data pasien dan bagian informasi medis", "Modul menyebut elemen penting formulir klaim: A. Bagian informasi umum (nama/alamat perusahaan asuransi, petunjuk formulir, tanggal pengajuan, jenis benefit, informasi pemegang polis/tertanggung, pernyataan asuransi lain, besar klaim, otorisasi) dan B. Bagian informasi medis (identitas pasien, hubungan dengan tertanggung, tanggal perawatan, anamnesis, tanggal pertama sakit, pemeriksaan, diagnosis, tanda tangan dokter). dari modul Page 142 (PDF)"],
+      "pengecoh": ["kelompok elemen bagian informasi identitas peserta dan bagian informasi rumah sakit/fasilitas pelayanan kesehatan", "kelompok elemen bagian informasi yang terkait dengan perusahaan asuransi dan bagian informasi pemberi layanan kesehatan", "kelompok elemen bagian informasi administrasi dan bagian informasi non-administrasi"]
+    },
+    {
+      "id": 53,
+      "kategori": "tunggal",
+      "soal": "Untuk memperoleh gambaran dalam besarnya klaim yang diajukan pada periode tertentu ditetapkan 'experience period' selama 12 bulan. Jangka waktu 12 bulan dipergunakan karena:",
+      "jawaban": ["Pengalaman klaim 12 bulan menghilangkan variasi musiman dari fluktuasi besaran klaim", "Modul menyebut penanggung dapat memilih 12 bulan terakhir untuk menghilangkan variasi musiman yang normal pada klaim biaya medis; pilihan 12 bulan memastikan setiap bagian waktu dari tahun mempunyai bobot yang sama. dari modul Page 174 (PDF)"],
+      "pengecoh": ["Premi peserta diwajibkan harus mencapai 12 bulan", "Jangka waktu 12 bulan sama dengan tahun takwim", "Ketentuan anggaran perusahaan asuransi 12 bulan"]
+    },
+    {
+      "id": 54,
+      "kategori": "tunggal",
+      "soal": "Tabel Morbiditas memberikan kemudahan bagi para perusahaan asuransi dalam menentukan tarif premi standar terhadap produk yang berkaitan dengan morbiditas atau keadaan sakit yang dapat mengubah kesehatan dan kualitas hidup. Komponen yang terdapat dalam tabel morbiditas adalah:",
+      "jawaban": ["frequency", "Modul menyebut pengukuran morbiditas tergantung pada dua elemen: (1) frequency (kekerapan) dan (2) severity (keparahan). Tabel morbiditas menggunakan keduanya; pilihan yang tersedia adalah frequency. dari modul Page 152 (PDF)"],
+      "pengecoh": ["mortality", "reserve", "persistency"]
+    },
+    {
+      "id": 55,
+      "kategori": "kombinasi",
+      "soal": "Penetapan besarnya premi didasarkan pada hasil perhitungan terhadap pembayaran klaim dan biaya menjalankan bisnis asuransi. Yang mempengaruhi besarnya premi adalah: I. Ruang lingkup manfaat asuransi. II. Tingkat pendapatan dan pekerjaan.",
+      "jawaban": ["I dan II saja", "Modul menyebut faktor yang mempengaruhi besaran premi antara lain: rancangan program/produk (ruang lingkup manfaat), distribusi usia, jenis kelamin, kelas pekerjaan dan penghasilan, lokasi geografi, tren perawatan medis/ekonomi/inflasi, tingkat partisipasi kelompok, underwriting perorangan, lama jaminan tarif, regulasi, persistensi, strategi pemasaran, tujuan perusahaan. Pernyataan I dan II keduanya termasuk faktor. (Soal hanya punya dua pernyataan; opsi III tidak ada.) dari modul Page 160-166 (PDF)"],
+      "pengecoh": ["I dan III saja", "II dan III saja", "I, II dan III"]
+    },
+    {
+      "id": 56,
+      "kategori": "tunggal",
+      "soal": "PT ABC telah mengeluarkan polis sebanyak 1000 pada tahun 2012. Tahun pertama terjadi pembatalan polis sebanyak 100 dan setelah berjalan dua tahun tinggal 800 polis. Maka dikatakan bahwa tingkat persistensi polis pada akhir tahun kedua sebesar:",
+      "jawaban": ["80%", "Persistensi adalah perbandingan antara polis yang masih bertahan dengan jumlah polis yang diterbitkan pada tahun yang sama. Setelah dua tahun tersisa 800 dari 1000 polis, sehingga persistensi = 800/1000 = 80%. dari modul Page 158 (PDF)"],
+      "pengecoh": ["25%", "20%", "90%"]
+    },
+    {
+      "id": 57,
+      "kategori": "tunggal",
+      "soal": "Tarif premi harus cukup untuk menutupi santunan (manfaat) serta biaya-biaya akuisisi. Hal ini merupakan definisi dari prinsip penetapan tarif premi:",
+      "jawaban": ["kecukupan (adequacy)", "Modul menyebut prinsip kecukupan (adequacy): tarif premi harus cukup untuk menutupi santunan atau manfaat serta biaya akuisisi, administrasi, dan pajak; tarif premi harus melebihi perkiraan biaya klaim agar menguntungkan. dari modul Page 151 (PDF)"],
+      "pengecoh": ["kewajaran (reasonableness)", "keadilan (equity)", "persaingan (competitiveness)"]
+    },
+    {
+      "id": 58,
+      "kategori": "tunggal",
+      "soal": "Jika diketahui frekuensi atas suatu risiko sakit sebesar 3 per mil dan severity sebesar 120 ribu dan margin sebesar 10% dari pengharapan klaim maka besarnya premi neto sebesar:",
+      "jawaban": ["396 rupiah", "Frekuensi 3 per mil = 0,003. Severity = 120.000. Expected claim E(C) = 0,003 × 120.000 = 360. Margin 10% dari E(C) = 36. Premi neto P = E(C) + CM = 360 + 36 = 396 rupiah. dari modul Page 166-167 (PDF)"],
+      "pengecoh": ["690 rupiah", "693 rupiah", "360 rupiah"]
+    },
+    {
+      "id": 59,
+      "kategori": "tunggal",
+      "soal": "Jika diketahui bahwa frekuensi rawat inap adalah 4 per 1000 per tahun. Jika biaya per kasus rawat inap sebesar 10 juta rupiah maka besarnya biaya klaim rawat inap per orang adalah sebesar:",
+      "jawaban": ["40 ribu rupiah", "Frekuensi = 4/1000 = 0,004. Biaya per kasus (severity) = Rp 10.000.000. Biaya klaim per orang = 0,004 × 10.000.000 = Rp 40.000. dari modul Page 152 (PDF)"],
+      "pengecoh": ["50 ribu rupiah", "30 ribu rupiah", "20 ribu rupiah"]
+    },
+    {
+      "id": 60,
+      "kategori": "kombinasi",
+      "soal": "Dua komponen tambahan yang perlu dipertimbangkan dalam penetapan tarif premi adalah contingency margin dan profit margin. Berikut ini merupakan pernyataan tentang contingency margin: I. Contingency margin sebagai proteksi terhadap klaim yang lebih tinggi dari angka pengharapan klaim. II. Besaran contingency margin berbanding lurus dengan jumlah peserta asuransi. III. Contingency margin akan semakin kecil apabila jumlah peserta semakin banyak.",
+      "jawaban": ["I dan III saja", "Modul menyebut margin kontingensi adalah margin keuangan protektif bila klaim lebih besar dari yang diharapkan (I benar). Margin ini bervariasi menurut ukuran kelompok dan jenis cakupan; bila ukuran kelompok lebih besar, kemungkinan fluktuasi ekstrim menurun sehingga persentase margin yang dibutuhkan berkurang (III benar, II salah karena berbanding terbalik, bukan lurus). dari modul Page 170 (PDF)"],
+      "pengecoh": ["I dan II saja", "II dan III saja", "I, II dan III"]
+    },
+    {
+      "id": 61,
+      "kategori": "tunggal",
+      "soal": "Pada tanggal 27 Desember telah terjadi klaim yaitu sekelompok peserta asuransi kesehatan yang mengalami kecelakaan. Perusahaan asuransi melakukan penutupan pembukuan pada tanggal 31 Desember. Klaim tersebut belum sempat dilaporkan pada perusahaan sehingga perusahaan tidak tahu berapa besar klaim tersebut. Namun perusahaan dinyatakan aman yaitu telah menyediakan dana yang berupa:",
+      "jawaban": ["cadangan IBNR", "IBNR (incurred but not reported) dibentuk untuk mendanai klaim yang terjadi tetapi belum dilaporkan ke penanggung. Kasus klaim 27 Desember yang belum dilaporkan pada penutupan 31 Desember adalah contoh IBNR. dari modul Page 156 (PDF)"],
+      "pengecoh": ["cadangan premi", "pending reserve", "cadangan catastrophic"]
+    },
+    {
+      "id": 62,
+      "kategori": "tunggal",
+      "soal": "Perhitungan biaya kompensasi penjualan (sales compensation expenses) pada asuransi kumpulan atau perorangan merupakan komisi bagi para agen. Umumnya komisi ini diberikan dengan ketentuan:",
+      "jawaban": ["diluting lebih tinggi pada tahun pertama polis dibandingkan dengan perpanjangan polis", "Modul menyebut biaya kompensasi penjualan biasanya berupa komisi agen berdasarkan persentase premi kotor; tahun pertama kompensasi biasanya lebih tinggi dari kompensasi polis perpanjangan, penanggung menggunakan skala komisi tinggi-rendah (high-low commission schedule) dan membayar komisi/bonus lebih banyak pada tahun pertama. dari modul Page 157 (PDF)"],
+      "pengecoh": ["diluting berdasarkan jumlah peserta tertanggung dari kumpulan", "diluting berdasarkan persentase klaim", "diluting berdasarkan persentase rata-rata dari biaya per polis"]
+    },
+    {
+      "id": 63,
+      "kategori": "tunggal",
+      "soal": "Penetapan tarif premi kumpulan berdasarkan pengalaman klaim dan tabel manual disebut dengan:",
+      "jawaban": ["blended experience-rated", "Modul menyebut kelas penarifan premi campuran/gabungan terletak antara kelas tarif manual dan kelas tarif pengalaman, disebut gabungan (blended) dari keduanya — blended manual/experience-rated groups. dari modul Page 169-170 (PDF)"],
+      "pengecoh": ["mixed experience-rated", "fully experience-rated", "contingency experience-rated"]
+    },
+    {
+      "id": 64,
+      "kategori": "tunggal",
+      "soal": "Salah satu cara penetapan premi berdasarkan usia adalah menetapkan premi tetap seumur hidup berdasarkan usia saat seseorang menjadi peserta. Cara ini dikenal dengan:",
+      "jawaban": ["age-at entry premium", "Modul menyebut struktur penarifan kombinasi yang populer adalah struktur usia saat masuk (age-at-entry): premi awal ditetapkan menggunakan usia tertanggung saat polis diterbitkan, kemudian premi tetap dan tidak naik seiring usia. dari modul Page 171-172 (PDF)"],
+      "pengecoh": ["non proporsional premium", "attained-age premium", "level premium"]
+    },
+    {
+      "id": 65,
+      "kategori": "tunggal",
+      "soal": "Sesuai dengan Undang-Undang RI No 40 tahun 2014 Bab IV pasal 8 tentang perasuransian bahwa dalam industri asuransi penilaian kemampuan dan kepatutan (fit and proper test) diberlakukan bagi:",
+      "jawaban": ["direksi dan komisaris", "Modul menyebut anggota direksi, anggota dewan komisaris, atau yang setara, anggota dewan pengawas syariah, aktuaris perusahaan, auditor internal, dan pengendali setiap saat wajib memenuhi persyaratan kemampuan dan kepatutan (fit and proper). dari modul Page 200 (PDF)"],
+      "pengecoh": ["para pemegang saham", "pemegang saham dan direksi", "komisaris dan komisaris utama"]
+    },
+    {
+      "id": 66,
+      "kategori": "tunggal",
+      "soal": "Lini Usaha Asuransi Kesehatan menurut Undang-Undang yang terbaru No. 40 Tahun 2014 tentang Perasuransian masuk ke dalam ranah bisnis:",
+      "jawaban": ["Perusahaan Asuransi Jiwa dan Perusahaan Asuransi Umum", "Modul mengutip penjelasan Pasal 2 UU No 40 Tahun 2014: berdasarkan mekanisme pengelolaan risikonya, lini usaha asuransi kesehatan dan kecelakaan diri lebih tepat digolongkan sebagai Usaha Asuransi Umum; namun karena objek asuransinya menyangkut diri manusia, kedua lini usaha tersebut juga dapat digolongkan sebagai Usaha Asuransi Jiwa; dalam praktiknya diselenggarakan baik oleh perusahaan asuransi umum maupun asuransi jiwa. dari modul Page 194-195 (PDF)"],
+      "pengecoh": ["Perusahaan Asuransi Umum", "Perusahaan Asuransi Jiwa", "Perusahaan Reasuransi"]
+    },
+    {
+      "id": 67,
+      "kategori": "tunggal",
+      "soal": "Salah satu faktor kompetensi dalam penilaian kemampuan dan kepatutan (fit and proper test) bagi seorang calon Direksi atau Komisaris adalah:",
+      "jawaban": ["pengalaman dan keahlian di bidang perasuransian atau bidang lainnya yang relevan", "Modul menyebut pemenuhan persyaratan kemampuan dan kepatutan mencakup integritas dan kompetensi terkait tugas dan fungsi, serta pengalaman dan keahlian di bidang usaha perasuransian. dari modul Page 200 (PDF)"],
+      "pengecoh": ["memiliki track record perusahaan asuransi minimal jabatan kepala divisi atau general manager", "tidak pernah terlibat tindak pidana di bidang perasuransian dan perekonomian", "tidak memiliki track record melanggar prinsip kehati-hatian di bidang usaha perasuransian"]
+    },
+    {
+      "id": 68,
+      "kategori": "tunggal",
+      "soal": "PT XYZ Life melaporkan akan memasarkan produk baru ke OJK produk asuransi Jiwa seumur hidup dengan melampirkan semua persyaratan sesuai dengan ketentuan yang berlaku. Setelah diteliti oleh pihak OJK ketentuan tentang besarnya nilai tunai sebesar 85% dari cadangan teknik, yang tidak sesuai dengan ketentuan yang berlaku oleh karenanya diminta mengubahnya. Ketentuan besarnya nilai tunai untuk asuransi seumur hidup adalah sebesar:",
+      "jawaban": ["sekurang-kurangnya sebesar 95% dari cadangan teknik", "Ketentuan nilai tunai asuransi jiwa seumur hidup minimal 95% dari cadangan teknik merupakan ketentuan teknis asuransi jiwa di luar cakupan Modul Bagian B ini. dari pengetahuan umum (tidak ada di modul). Pengecoh 80%, maksimal 95%, dan sama dengan cadangan teknik salah karena ketentuan standar menetapkan batas minimum 95% (bukan maksimum, bukan 80%, dan bukan 100%)."],
+      "pengecoh": ["harus sebesar 80% dari besarnya cadangan teknik", "maksimal sebesar 95% dari cadangan teknik", "sama dengan besarnya cadangan teknik"]
+    },
+    {
+      "id": 69,
+      "kategori": "kombinasi",
+      "soal": "Pengalihan sebagian atau seluruh portofolio pertanggungan oleh perusahaan asuransi atau perusahaan reasuransi hanya dapat dilakukan setelah terlebih dahulu mendapat persetujuan otoritas pemerintah di bidang perasuransian, dan harus memenuhi persyaratan pengalihan dimaksud, yakni: I. tidak mengurangi hak pemegang polis, tertanggung atau ahli waris. II. dilakukan pada perusahaan asuransi atau perusahaan reasuransi sejenis. III. tidak menyebabkan perusahaan asuransi atau perusahaan reasuransi yang menerima pengalihan dimaksud melanggar ketentuan yang berlaku di bidang usaha perasuransian.",
+      "jawaban": ["I, II dan III", "Modul (UU No 40/2014) menyebut pengalihan portofolio harus memenuhi ketentuan: tidak mengurangi hak pemegang polis/tertanggung/peserta; dan kondisi keuangan perusahaan hasil penggabungan tetap memenuhi tingkat kesehatan. Untuk penggabungan/peleburan disyaratkan antar perusahaan sejenis. Ketiga pernyataan sesuai prinsip perlindungan pemegang polis dan kesesuaian jenis usaha. dari modul Page 210 dan Page 216 (PDF)"],
+      "pengecoh": ["I dan II saja", "I dan III saja", "II dan III saja"]
+    },
+    {
+      "id": 70,
+      "kategori": "kombinasi",
+      "soal": "Sebagian besar usaha di seputar dunia perasuransian diatur oleh pemerintah. Berikut ini jenis usaha diatur oleh undang-undang perasuransian adalah: I. Perusahaan asuransi jiwa. II. Perusahaan asuransi umum. III. Perusahaan reasuransi.",
+      "jawaban": ["I, II dan III", "Modul menyebut lingkup perusahaan perasuransian menurut UU No 40/2014 meliputi: perusahaan asuransi jiwa (konvensional dan syariah), perusahaan asuransi umum (konvensional dan syariah), perusahaan reasuransi (konvensional dan syariah), perusahaan pialang asuransi, dan perusahaan penilai kerugian asuransi. Ketiganya diatur UU. dari modul Page 194 (PDF)"],
+      "pengecoh": ["I dan II saja", "I dan III saja", "II dan III saja"]
+    },
+    {
+      "id": 71,
+      "kategori": "tunggal",
+      "soal": "Apabila perusahaan asuransi tidak memenuhi tingkat solvabilitas minimum dan dinyatakan sebagai perusahaan yang tidak sehat. Perusahaan asuransi dan reasuransi yang tidak memenuhi tingkat solvabilitas wajib:",
+      "jawaban": ["melaksanakan rencana penyehatan dan memenuhi tingkat solvabilitas dalam jangka waktu tertentu", "Modul menyebut OJK dapat memerintahkan penambahan modal, penggantian direksi/komisaris, penyerahan pengelolaan kepada pengelola statuter, pengalihan portofolio, dan/atau tindakan lain; perusahaan wajib melaksanakan rencana penyehatan dan memenuhi tingkat solvabilitas dalam jangka waktu tertentu. dari modul Page 223-224 (PDF)"],
+      "pengecoh": ["menambah modal dengan berbagai upaya untuk meningkatkan tingkat solvabilitas", "menghentikan penjualan produk asuransi", "menambah pertanggungan manfaat reasuransi"]
+    },
+    {
+      "id": 72,
+      "kategori": "tunggal",
+      "soal": "Saham diperbolehkan dimiliki oleh perusahaan asuransi sebagai salah satu bentuk kekayaan perusahaan. Berdasarkan ketentuan OJK, nilai saham yang diakui sebagai kekayaan yang diperkenankan dalam perhitungan solvabilitas adalah berdasarkan:",
+      "jawaban": ["Nilai Pasar", "Modul menyebut aset yang diakui (admitted asset) yang berupa investasi antara lain obligasi, pinjaman hipotek, dan saham. Penilaian aset investasi dalam perhitungan solvabilitas menggunakan nilai pasar. Ketentuan teknis penilaian saham berdasarkan nilai pasar merujuk regulasi OJK kesehatan keuangan. dari modul Page 248-249 (PDF)"],
+      "pengecoh": ["Nilai Nominal + Biaya", "Nilai Nominal", "Nilai Nominal - Biaya"]
+    },
+    {
+      "id": 73,
+      "kategori": "tunggal",
+      "soal": "Biaya operasi hysterectomy total dihitung sebagai biaya masing-masing operasi pengangkatan ovarium, tuba Fallopian, dan ovarium, bukan sebagai biaya keseluruhan. Hal ini disebut:",
+      "jawaban": ["Unbundling of charge", "Modul menyebut unbundling (pemecahan/penguraian biaya) terjadi ketika PPK menggunakan beberapa kode dan biaya daripada satu kode global, sehingga total biaya kode terurai dapat melebihi biaya global. Contoh khas: total hysterectomy abdominal dipecah menjadi pengangkatan indung telur, tuba fallopian, usus buntu, dan rahim. dari modul Page 257 (PDF)"],
+      "pengecoh": ["Underutilization", "Overutilization of service", "Penagihan jasa yang tidak diberikan"]
+    },
+    {
+      "id": 74,
+      "kategori": "tunggal",
+      "soal": "PT Asuransi TWR membuat suatu pengumuman bahwa barang siapa yang melaporkan atau menemukan adanya kecurangan sehingga uang perusahaan terselamatkan sebesar 100 juta rupiah maka diberikan hadiah tour ke luar negeri selama 3 hari. PT Asuransi TWR melakukan program yang disebut:",
+      "jawaban": ["bounty program", "Program memberikan imbalan/hadiah kepada pelapor kecurangan yang menyelamatkan dana perusahaan disebut bounty program (program hadiah). Modul menyebut partisipasi masyarakat dan whistleblower yang melaporkan fraud bisa menyelamatkan dana. dari modul Page 251 (PDF)"],
+      "pengecoh": ["leader program", "anti-fraud program", "control assessment program"]
+    },
+    {
+      "id": 75,
+      "kategori": "kombinasi",
+      "soal": "Red Flags adalah petunjuk atau indikasi akan adanya sesuatu yang tidak biasa dan merupakan tanda bahwa fraud terjadi. Dalam upaya mendeteksi fraud dilakukan audit dengan menambahkan red flags pada klaim yaitu: I. Klaim yang diajukan jauh melebihi rata-rata. II. Klaim yang diajukan berulang dalam waktu singkat. III. Klaim dengan pola yang tidak lazim.",
+      "jawaban": ["I, II dan III", "Modul menyebut red flag sebagai tanda peringatan bahaya dalam pemantauan praktik kecurangan; beberapa perusahaan menyaring klaim dengan memberi tanda (red flag) yang mungkin mengindikasikan praktik kecurangan, dan pasca-audit mengungkap tanda-tanda yang terlewat. Klaim jauh di atas rata-rata, berulang dalam waktu singkat, dan pola tidak lazim adalah indikator umum. dari modul Page 269 (PDF)"],
+      "pengecoh": ["I dan II saja", "I dan III saja", "II dan III saja"]
+    }
+  ]
+}
