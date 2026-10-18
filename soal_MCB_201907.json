@@ -1,0 +1,1054 @@
+{
+  "bank_soal": [
+    {
+      "id": 1,
+      "kategori": "tunggal",
+      "soal": "Reimbursement rumah sakit dapat dilakukan dengan banyak cara, di antaranya dengan metode DRG (diagnosis-related group). DRG adalah cara pembayaran jasa pelayanan kepada provider yang mempunyai ciri:",
+      "jawaban": [
+        "besarnya tetap dan sama untuk semua pelayanan rawat inap dengan diagnosis yang sama dalam satu episode pelayanan",
+        "Diagnosis-related group (DRG) pada program pembayaran prospektif adalah tarif yang tetap dan sama (flat fee) untuk semua pelayanan rawat inap dengan satu diagnosa dalam satu episode pelayanan. dari modul Page 23 (PDF)"
+      ],
+      "pengecoh": [
+        "besarnya bervariasi disesuaikan dengan jenis kelamin dan umur peserta walaupun diagnosisnya sejenis",
+        "besarnya berbeda sesuai dengan lamanya hari rawat walaupun dengan diagnosis yang sama",
+        "besarnya bervariasi disesuaikan dengan paket manfaat yang dipilih oleh peserta walaupun diagnosisnya sejenis"
+      ]
+    },
+    {
+      "id": 2,
+      "kategori": "tunggal",
+      "soal": "Ada berbagai cara reimbursement untuk pelayanan yang diberikan dokter pelayanan primer, salah satunya berdasarkan sekumpulan tarif yang berlaku untuk setiap jenis pelayanan yang disepakati manajemen managed care bersama provider. Cara reimbursement seperti ini disebut dengan:",
+      "jawaban": [
+        "fee-for-service dengan sistem negotiated fee",
+        "Negotiated fee adalah seperangkat tarif yang berlaku untuk setiap jenis pelayanan yang telah disepakati bersama oleh pengelola managed care dan provider. dari modul Page 20 (PDF)"
+      ],
+      "pengecoh": [
+        "gaji",
+        "kapitasi dengan sistem carve-outs",
+        "referral pool"
+      ]
+    },
+    {
+      "id": 3,
+      "kategori": "tunggal",
+      "soal": "Ada layanan kesehatan yang tidak tercakup dalam kontrak kapitasi, dan pembiayaannya diganti sesuai dengan pengaturan tersendiri berbeda dengan pengaturan kontrak kapitasi. Layanan tersebut disebut:",
+      "jawaban": [
+        "carve-out",
+        "Beberapa program kapitasi memungkinkan pelayanan tertentu yang tidak dicakup oleh kapitasi dasar PCP untuk di carve-out. dari modul Page 20 (PDF)"
+      ],
+      "pengecoh": [
+        "diagnostic-related group",
+        "discounted capitation",
+        "referral pool"
+      ]
+    },
+    {
+      "id": 4,
+      "kategori": "tunggal",
+      "soal": "Fee-for-service reimbursement merupakan metode pembayaran yang paling lemah dalam upaya melakukan pengendalian, karena dapat mendorong provider untuk memberikan pelayanan berlebihan. Untuk menghindarinya, penerapan pembayaran fee-for-services sering disertai dengan withhold arrangement. Mekanisme yang dilakukan pada withhold arrangement adalah:",
+      "jawaban": [
+        "MCO menahan sejumlah persentase dari fee-for-service, untuk kemudian dibayarkan apabila provider terbukti berkinerja baik",
+        "Untuk meningkatkan pengendalian biaya, banyak sistem pembayaran menerapkan fee-for-service dengan menahan sebagian dari pembayaran (withhold arrangement). Dengan cara ini, sejumlah persentase dari fee-for-service ditahan seperti pada program dokter pelayanan primer, untuk kemudian dibayarkan apabila kinerjanya baik. dari modul Page 22 (PDF)"
+      ],
+      "pengecoh": [
+        "Mengatur perencanaan pelayanan pada saat pasien diizinkan keluar dari rumah sakit",
+        "Meninggalkan sejumlah klaim untuk ditahan, sebagai cadangan klaim, pada saat klaim diajukan kepada MCO",
+        "Pasien menyerahkan sejumlah biaya tetap dan tertentu kepada provider sebelum layanan diterima"
+      ]
+    },
+    {
+      "id": 5,
+      "kategori": "kombinasi",
+      "soal": "Pengendalian biaya dan utilisasi dalam MCO sangat ditentukan oleh peran gatekeeper. Tenaga-tenaga medis yang termasuk dalam kategori gatekeeper pada pelayanan primer adalah:\nI. Dokter spesialis mata\nII. Dokter umum\nIII. Dokter spesialis anak\nJawaban yang benar adalah:",
+      "jawaban": [
+        "II dan III",
+        "Yang termasuk kategori gatekeeper pelayanan primer adalah para dokter umum, dokter keluarga, spesialis penyakit dalam dan spesialis anak. dari modul Page 28 (PDF)"
+      ],
+      "pengecoh": [
+        "I dan II",
+        "I dan III",
+        "I, II dan III"
+      ]
+    },
+    {
+      "id": 6,
+      "kategori": "tunggal",
+      "soal": "Salah satu tindakan yang menyebabkan menurunnya kredibilitas MCO adalah kejadian malapraktik. Karena itu tindakan malapraktik harus diberikan sanksi berat bagi pelakunya. Di Indonesia pihak yang dapat menjatuhkan sanksi profesi atas malapraktik adalah:",
+      "jawaban": [
+        "Majelis Kehormatan Disiplin Kedokteran Indonesia (MKDKI)",
+        "Di Indonesia pihak yang melakukan pengawasan dan dapat menjatuhkan sanksi terhadap malpraktek adalah Majelis Kehormatan Disiplin Kedokteran Indonesia (MKDKI). dari modul Page 28 (PDF)"
+      ],
+      "pengecoh": [
+        "Kementerian Kesehatan RI",
+        "Persatuan Rumah Sakit Seluruh Indonesia (PERSI)",
+        "Ikatan Dokter Indonesia (IDI)"
+      ]
+    },
+    {
+      "id": 7,
+      "kategori": "tunggal",
+      "soal": "Ada suatu penilaian terhadap provider dengan pendekatan sistematis dalam pengumpulan dan verifikasi kualifikasi profesional termasuk, namun tidak terbatas pada, pelatihan yang relevan, lisensi, sertifikasi dan latar belakang akademis. Penilaian provider semacam ini dikenal sebagai:",
+      "jawaban": [
+        "credentialing",
+        "Dokter yang dikontrak MCO dipilih berdasarkan hasil tinjauan tentang kualifikasi mereka... Semua proses kajian ini disebut kredensialing. dari modul Page 37 (PDF)"
+      ],
+      "pengecoh": [
+        "profiling",
+        "health technology assessment",
+        "investigation"
+      ]
+    },
+    {
+      "id": 8,
+      "kategori": "tunggal",
+      "soal": "Terdapat variasi dalam penerapan managed care pada berbagai negara. Salah satu variasi adalah diterapkannya kebijakan \"limited self-referral option\" pada pelayanan rujukan. Berikut adalah kebijakan \"limited self-referral option\", yaitu:",
+      "jawaban": [
+        "Pemeriksaan ke dokter spesialis kebidanan dan kandungan tanpa rujukan dari gatekeeper",
+        "Walaupun program kesehatan mengharuskan penggunaan gatekeeper pelayanan primer untuk pelayanan bukan darurat, sering pemeriksaan tahunan ke spesialis kebidanan dan kandungan diperkenankan tanpa rujukan dari gatekeeper. Ini disebut limited self-referral option. dari modul Page 28 (PDF)"
+      ],
+      "pengecoh": [
+        "Rujukan dari dokter umum (gate keeper) ke dokter spesialis",
+        "Rujukan dari dokter umum (gate keeper) ke rumah sakit dalam keadaan darurat",
+        "Pemeriksaan oleh dokter spesialis penyakit dalam di rumah sakit tanpa rujukan"
+      ]
+    },
+    {
+      "id": 9,
+      "kategori": "tunggal",
+      "soal": "Pada managed care, umumnya profesi tertentu yang bertanggung jawab atas telaah utilisasi (utilization review) dan manajemen kasus (case management). Jenis profesi tersebut adalah:",
+      "jawaban": [
+        "registered nurse",
+        "Biasanya, perawat (registered nurses) melakukan telaah awal (initial review) rawat inap... Manajer kasus (biasanya perawat) menangani setiap kasus secara individual. dari modul Page 30, 29 (PDF)"
+      ],
+      "pengecoh": [
+        "primary care physician",
+        "hospital administrator",
+        "appropriate specialist"
+      ]
+    },
+    {
+      "id": 10,
+      "kategori": "tunggal",
+      "soal": "Retrospective claims review digunakan untuk memeriksa ketepatan pelayanan yang telah diberikan sehingga biaya apa saja yang patut dan harus diganti dapat ditentukan. Indikator khas yang digunakan untuk melihat efektivitas pelayanan medis saat melakukan telaah klaim retrospektif adalah:",
+      "jawaban": [
+        "pasien readmission ke rumah sakit dengan diagnosa sama dalam waktu 30 hari setelah keluar dari rumah sakit",
+        "Indikator khusus yang dapat digunakan untuk melihat efektifitas pelayanan medis adalah kejadian dirawatnya kembali pasien (readmission) ke rumah sakit dengan diagnosa yang sama dalam waktu 30 hari setelah keluar dari rumah sakit. dari modul Page 31 (PDF)"
+      ],
+      "pengecoh": [
+        "lamanya hari rawat dibandingkan dengan jumlah obat-obatan yang dikonsumsi pasien",
+        "jenis tindakan dibandingkan dengan usia dan jenis kelamin pasien",
+        "besarnya biaya yang dikeluarkan selama satu periode perawatan"
+      ]
+    },
+    {
+      "id": 11,
+      "kategori": "kombinasi",
+      "soal": "Telaah utilisasi (utilization review) merupakan salah satu metode untuk menjamin mutu pelayanan dan pengendalian biaya. Telaah utilisasi mengevaluasi ketepatan pelayanan kesehatan sebelum pelayanan diberikan. Teknik-teknik yang digunakan untuk menggali informasi utilisasi, terkait dengan hal berikut ini:\nI. Memastikan bahwa pelayanan secara medis dimaksud memang diperlukan pasien\nII. Memastikan bahwa pelayanan tersebut sudah diberikan secara tepat\nIII. Memastikan bahwa keluarga dilibatkan dalam mengambil keputusan pelayanan\nJawaban yang benar adalah:",
+      "jawaban": [
+        "I dan II",
+        "Teknik-teknik UR merupakan mekanisme pengendalian biaya dengan memeriksa apakah: pelayanan secara medis memang perlu diberikan (I); dan pelayanan sudah diberikan secara tepat (II). Keterlibatan keluarga (III) bukan fokus utama UR. dari modul Page 29 (PDF)"
+      ],
+      "pengecoh": [
+        "I dan III",
+        "II dan III",
+        "I, II dan III"
+      ]
+    },
+    {
+      "id": 12,
+      "kategori": "tunggal",
+      "soal": "Case manager biasanya menangani setiap kasus yang masuk dalam kategori kondisi-kondisi serius, rumit dan berlarut-larut, menanganinya secara perorangan, mengidentifikasi pengobatan yang paling cost-effective untuk penyakit-penyakit yang sangat membutuhkan banyak sumber daya. Beberapa kategori penyakit tersebut yang ditangani oleh seorang manajer kasus, adalah:",
+      "jawaban": [
+        "Prematurity, trauma hebat, kanker dan AIDS",
+        "Manajemen kasus digunakan untuk kondisi-kondisi serius, rumit dan berlarut-larut seperti prematuritas, trauma hebat, kanker, dan AIDS. dari modul Page 29 (PDF)"
+      ],
+      "pengecoh": [
+        "Terjadinya wabah penyakit yang meluas",
+        "Penyakit akut yang perlu dirujuk",
+        "Kejadian luka-luka dan cacat akibat perang"
+      ]
+    },
+    {
+      "id": 13,
+      "kategori": "tunggal",
+      "soal": "Seorang pasien dengan diagnosa typhoid sudah dirawat selama 7 hari, dan dokter yang merawat menyatakan bahwa pasien belum dapat dipulangkan karena kondisinya yang belum mengizinkan. Dalam kasus ini telaah utilisasi yang cocok dilakukan adalah:",
+      "jawaban": [
+        "concurrent review",
+        "Concurrent review (telaah peserta yang sedang dirawat) adalah melakukan verifikasi kebutuhan kelanjutan perawatan di rumah sakit dan menentukan ketepatan pengobatan di rumah sakit tersebut. dari modul Page 31 (PDF)"
+      ],
+      "pengecoh": [
+        "prospective review",
+        "discharge planning",
+        "referral authorization"
+      ]
+    },
+    {
+      "id": 14,
+      "kategori": "tunggal",
+      "soal": "Salah satu tantangan MCO dalam melakukan kontrak provider adalah keseimbangan antara kebutuhan MCO dan kebutuhan pesertanya. Oleh sebab itu pemilihan provider menjadi penting, karena:",
+      "jawaban": [
+        "Peserta harus yakin bahwa provider yang dikontrak MCO telah memenuhi standar perizinan dan standar kualitas pelayanan yang dibutuhkan peserta",
+        "Peserta perlu diyakinkan bahwa provider yang dikontrak oleh sebuah MCO memenuhi standar perizinan dan pelayanan yang bermutu. dari modul Page 35 (PDF)"
+      ],
+      "pengecoh": [
+        "Peserta harus yakin bahwa pelayanan yang diberikan provider dipastikan lebih murah dibanding provider lain",
+        "MCO harus mampu bersaing, provider yang dikontrak harus mampu memberikan pengobatan berstandar internasional, dan dapat memenuhi semua keinginan pasien",
+        "Peserta MCO menjadi memiliki kebebasan dalam memilih provider, baik di dalam ataupun di luar jaringan, tanpa dikenakan iur biaya"
+      ]
+    },
+    {
+      "id": 15,
+      "kategori": "tunggal",
+      "soal": "Kontrak tertulis membantu mencegah kesalahpahaman kedua pihak tentang tanggung jawab, dan berbagai hal lain yang tercantum dalam kontrak. Kontrak tertulis antara MCO dan fasilitas kesehatan memberikan perlindungan hukum kepada MCO dalam hal:",
+      "jawaban": [
+        "fasilitas kesehatan tidak boleh menarik biaya ekstra selain copayment yang telah ditetapkan, meskipun MCO belum membayarkan kewajibannya kepada fasilitas kesehatan",
+        "Umumnya regulasi mengharuskan adanya klausula bahwa provider HMO tidak boleh menarik biaya ekstra selain copayment yang telah ditetapkan meskipun sebuah HMO belum membayar kewajibannya kepada provider. dari modul Page 37 (PDF)"
+      ],
+      "pengecoh": [
+        "fasilitas kesehatan dapat meminta pembayaran kepada pasien MCO atas pelayanan yang diberikan apabila MCO belum membayarkan kewajibannya",
+        "fasilitas kesehatan tidak dapat dituntut apabila terjadi malapraktik atau kecelakaan medis yang tidak disengaja",
+        "peserta tidak dapat menuntut fasilitas kesehatan jika tidak memberikan pelayanan yang berkualitas"
+      ]
+    },
+    {
+      "id": 16,
+      "kategori": "kombinasi",
+      "soal": "Keputusan tentang pemilihan provider di dalam suatu MCO mempunyai pengaruh terhadap pilihan seseorang terhadap manfaat yang ditawarkan MCO tersebut, sehingga pemilihan provider untuk setiap model sistem managed care sangat penting. Alasan utamanya adalah:\nI. agar sebuah MCO mampu mengembangkan bisnisnya, provider yang dipilih merupakan representasi dari visi misinya\nII. agar sebuah MCO mampu bersaing, provider yang dikontraknya harus memberikan pengobatan tepat guna dengan pelayanan yang efektif dan biaya yang efisien\nIII. peserta perlu diyakinkan bahwa provider yang dikontrak oleh sebuah MCO memenuhi standar perizinan dan pelayanan yang bermutu\nJawaban yang benar adalah:",
+      "jawaban": [
+        "II dan III",
+        "Pemilihan provider sangat penting karena dua hal utama: 1) Peserta perlu diyakinkan bahwa provider yang dikontrak memenuhi standar perizinan dan pelayanan bermutu (III), 2) Agar MCO mampu bersaing, provider harus memberikan pengobatan efektif dan efisien (II). Pernyataan I tidak disebutkan secara eksplisit sebagai alasan utama. dari modul Page 35 (PDF)"
+      ],
+      "pengecoh": [
+        "I dan II",
+        "I dan III",
+        "I, II dan III"
+      ]
+    },
+    {
+      "id": 17,
+      "kategori": "tunggal",
+      "soal": "Pelayanan provider merupakan pelayanan kesehatan yang termasuk di dalam paket manfaat dan tercantum di dalam kontrak khusus dengan MCO. Dalam kondisi tertentu, MCO dapat memutus hubungan kontrak dengan provider apabila provider gagal:",
+      "jawaban": [
+        "Melaksanakan manajemen utilisasi dan juga mutu",
+        "Kebanyakan kontrak MCO mengharuskan provider melakukan manajemen utilisasi atau program jaga mutu yang telah ditetapkan. Jika MCO menemukan bahwa provider gagal memenuhi persyaratan tersebut, maka MCO dapat memutuskan hubungan kontrak dengan provider. dari modul Page 44 (PDF)"
+      ],
+      "pengecoh": [
+        "Menekan angka kunjungan serendah mungkin",
+        "Menekan angka rujukan hingga di bawah 10%",
+        "Mempertahankan tarif negosiasi (negotiated rate)"
+      ]
+    },
+    {
+      "id": 18,
+      "kategori": "tunggal",
+      "soal": "MCO menggunakan kredensialing untuk memudahkan pemilihan fasilitas kesehatan yang efisien dan berkualitas tinggi. Kualitas merupakan elemen yang amat penting dalam kredensialing fasilitas kesehatan. Indikator yang digunakan MCO untuk menjawab bahwa pelayanan di provider adalah berkualitas, yaitu:",
+      "jawaban": [
+        "Morbidity/mortality index",
+        "Kualitas dianalisis melalui beberapa indikator, yaitu: Laporan pelayanan, Perizinan, Akreditasi, Wilayah yang dilayani, Indeks mortalitas, Spesialisasi fasilitas. dari modul Page 40 (PDF)"
+      ],
+      "pengecoh": [
+        "Consumer survey",
+        "Solvability",
+        "Loss ratio"
+      ]
+    },
+    {
+      "id": 19,
+      "kategori": "tunggal",
+      "soal": "Credentialing menetapkan kemampuan provider untuk memenuhi persyaratan program jaga mutu yang dilaksanakan oleh MCO dalam memberikan pelayanan kepada pesertanya. Salah satu hal yang ditinjau pada proses kredensialing adalah profil dokter atau provider. Untuk memperoleh informasi tentang kinerja praktek seorang dokter, MCO melakukan profiling dengan cara:",
+      "jawaban": [
+        "membandingkan pola praktek dokter dengan pola praktek normal seluruh populasi provider atau data nasional/regional",
+        "Seringkali MCO melakukan tinjauan terhadap profil praktek seorang dokter berdasarkan informasi dari data klaim. Pola praktek seorang dokter ini dibandingkan dengan pola praktek normal seluruh populasi provider atau data nasional/regional. dari modul Page 39 (PDF)"
+      ],
+      "pengecoh": [
+        "membandingkan biaya pelayanan yang dikeluarkan dengan kapitasi yang diterima seorang dokter",
+        "membandingkan jumlah dokter pelayanan primer dengan dokter spesialis di satu wilayah",
+        "membandingkan jumlah keluhan peserta dari beberapa periode tertentu terhadap jumlah peserta yang puas terhadap layanan dokter"
+      ]
+    },
+    {
+      "id": 20,
+      "kategori": "tunggal",
+      "soal": "Kontrak antara seorang dokter dengan sebuah MCO, terdapat beberapa elemen yang dijelaskan dalam kontrak, salah satunya adalah provisi hold harmless. Pengertian provisi hold harmless, yaitu:",
+      "jawaban": [
+        "Perlindungan terhadap peserta dari keharusan membayar paket pelayanan jika MCO mengalami kerugian",
+        "Kontrak harus mencantumkan provisi hold harmless, yaitu perlindungan peserta dari keharusan membayar paket pelayanan jika MCO merugi. dari modul Page 41 (PDF)"
+      ],
+      "pengecoh": [
+        "Keharusan fasilitas kesehatan untuk melaksanakan program jaga mutu dan prosedur pengendalian",
+        "Keharusan fasilitas kesehatan menyediakan informasi medis dan administratif",
+        "Keharusan memberitahu kepada MCO jika seorang peserta dirawat di fasilitas kesehatan fasilitas kesehatan dengan kasus darurat"
+      ]
+    },
+    {
+      "id": 21,
+      "kategori": "tunggal",
+      "soal": "Asuransi malapraktek adalah jenis asuransi liabilitas profesional yang dibeli oleh profesional medis (dan oleh jenis profesional lain, seperti pengacara). Dalam melakukan credentialing, asuransi malapraktik yang dimiliki dokter di fasilitas kesehatan penting dijadikan persyaratan bagi MCO, karena asuransi malapraktik dapat digunakan sebagai:",
+      "jawaban": [
+        "Jaminan bagi pasien jika terjadi komplikasi medis atau tanggung jawab hukum",
+        "Informasi ini dikaji untuk menentukan apakah seorang pasien terjamin jika terjadi komplikasi medik atau tanggung jawab hukum. Perlindungan ini berupa asuransi malpraktek atau asuransi profesi. dari modul Page 38 (PDF)"
+      ],
+      "pengecoh": [
+        "Jaminan bahwa dokter belum pernah melakukan malapraktik",
+        "Jaminan kepastian jika terjadi gugatan hutang piutang",
+        "Jaminan kepastian penanganan keluhan pasien terhadap jam praktek dokter"
+      ]
+    },
+    {
+      "id": 22,
+      "kategori": "kombinasi",
+      "soal": "Kontrak antara MCO dengan fasilitas pelayanan kesehatan harus mencantumkan rincian hak dan tanggung jawab masing-masing pihak. Hal-hal yang harus tercantum dalam kontrak tersebut adalah:\nI. prosedur yang diperlukan untuk penerimaan pendaftaran peserta baru di provider\nII. kesediaan fasilitas pelayanan kesehatan untuk mengikuti program penanganan keluhan, program jaga mutu, dan pengendalian utilisasi\nIII. jenis-jenis pelayanan yang dapat diberikan oleh fasilitas pelayanan kesehatan dan tarif yang harus dibayar oleh MCO\nJawaban yang benar adalah:",
+      "jawaban": [
+        "II dan III",
+        "Hal-hal khusus yang harus tercantum dalam kontrak fasilitas kesehatan: Prosedur penerimaan peserta MCO (bukan pendaftaran peserta baru), Komitmen memberikan pelayanan yang sama, Prosedur pemberitahuan status kepesertaan, Jenis-jenis pelayanan dan tarif (III), Jadwal penagihan, Persetujuan menerima pembayaran penuh, Klausula hold harmless, Kesediaan mengikuti program penanganan keluhan/jaga mutu/utilisasi (II). Pernyataan I kurang tepat konteksnya. dari modul Page 42 (PDF)"
+      ],
+      "pengecoh": [
+        "I dan II",
+        "I dan III",
+        "I, II dan III"
+      ]
+    },
+    {
+      "id": 23,
+      "kategori": "tunggal",
+      "soal": "Apabila MCO ingin memilih organisasi antara (intermediary), maka MCO perlu melakukan seleksi yang menekankan pada beberapa elemen penting dari organisasi tersebut. Salah satu elemen di antaranya adalah:",
+      "jawaban": [
+        "Luasnya jaringan yang tersedia",
+        "Seleksi ditekankan pada elemen berikut: Jaringan provider yang tersedia di organisasi intermediari (jumlah dokter, variasi spesialisasi, distribusi geografis); Tarif yang bersaing; Kemampuan administratif. dari modul Page 54 (PDF)"
+      ],
+      "pengecoh": [
+        "Komposisi gender para tenaga medis yang dimiliki",
+        "Jumlah modal awal dalam pendirian organisasi",
+        "Lama berdirinya organisasi intermediary"
+      ]
+    },
+    {
+      "id": 24,
+      "kategori": "tunggal",
+      "soal": "Berbagai cara digunakan untuk menilai kinerja provider sebuah MCO secara berkala. Berikut ini adalah salah satu indikator yang digunakan untuk mengukur kinerja provider berdasarkan kualitas layanan dan kepuasan peserta.",
+      "jawaban": [
+        "angka keluhan peserta (complaint rate)",
+        "Penilaian berbasis kualitas layanan dan kepuasan peserta mencakup: Akses terhadap pendaftaran, Lama waktu menunggu, Angka keluhan peserta, Angka peserta lapse/drop out, Tingkat kepuasan peserta, Angka imunisasi, dll. dari modul Page 58 (PDF)"
+      ],
+      "pengecoh": [
+        "angka rata-rata kematian (mortality rate)",
+        "angka utilisasi (utilization rate)",
+        "angka kelahiran (birth rate)"
+      ]
+    },
+    {
+      "id": 25,
+      "kategori": "tunggal",
+      "soal": "Berbagai cara digunakan untuk menilai kinerja provider secara berkala, termasuk dengan menggunakan kriteria yang dipakai saat dilakukan seleksi provider. Salah satu bentuk penilaian kinerja provider berbasis biaya adalah:",
+      "jawaban": [
+        "Biaya per peserta per bulan",
+        "Penilaian kinerja berbasis biaya mencakup: Biaya per kunjungan, Biaya per hari rawat, Biaya per perawatan, Biaya per kasus operasi, Biaya per peserta per bulan. dari modul Page 57 (PDF)"
+      ],
+      "pengecoh": [
+        "Biaya akses terhadap pendaftaran pasien",
+        "Biaya peserta lapse",
+        "Biaya survei tingkat kepuasan peserta"
+      ]
+    },
+    {
+      "id": 26,
+      "kategori": "tunggal",
+      "soal": "Agar penilaian dan pemantauan kinerja provider dapat berjalan efektif, maka penilaian tersebut harus diikuti dengan insentif finansial dan non-finansial. Salah satu contoh insentif finansial yang diberikan MCO kepada provider yang memiliki kinerja dan kepuasan peserta yang tinggi, adalah dalam bentuk:",
+      "jawaban": [
+        "Pembayaran yang lebih tinggi",
+        "Penghargaan itu antara lain berupa pembayaran yang lebih tinggi bagi seluruh pelayanan yang diberikan atau pemberian bonus secara berkala kepada provider yang memenuhi atau melampaui standar mutu yang ditetapkan. dari modul Page 58 (PDF)"
+      ],
+      "pengecoh": [
+        "Memperpanjang masa kontrak",
+        "Penambahan jumlah peserta",
+        "Mempercepat pembayaran"
+      ]
+    },
+    {
+      "id": 27,
+      "kategori": "tunggal",
+      "soal": "Jaringan provider sebuah PPO dapat dibentuk dengan melakukan kontrak langsung dengan provider atau menyerahkan (outsourcing) pengembangan jaringan provider kepada organisasi intermediary. Kontrak PPO dengan provider melalui intermediary ini memberikan keuntungan antara lain:",
+      "jawaban": [
+        "MCO tidak membutuhkan modal yang cukup besar dalam bentuk infrastruktur dan tenaga yang mampu melakukan kontrak, kredensialing, dan memelihara jaringan provider",
+        "Kerugian kontrak langsung adalah membutuhkan modal besar, pengetahuan pasar, dan waktu lama. Maka keuntungan menggunakan intermediary adalah MCO tidak membutuhkan modal besar tersebut. dari modul Page 51 (PDF)"
+      ],
+      "pengecoh": [
+        "MCO memiliki keleluasaan kendali tentang besarnya pembayaran, cara pembayaran dan kemampuan MCO untuk memilih atau tidak memilih seorang dokter untuk memenuhi permintaan konsumen",
+        "paling memungkinkan MCO memiliki jaringan provider dengan kinerja tinggi yang mampu menarik pasar dan bersaing dengan MCO lainnya",
+        "bisa mendapatkan tarif yang paling murah, sehingga memaksimalkan margin laba usaha pada organisasi managed care tersebut"
+      ]
+    },
+    {
+      "id": 28,
+      "kategori": "kombinasi",
+      "soal": "Pembentukan dan besarnya jaringan provider sebuah MCO sangat dipengaruhi oleh beberapa faktor. Faktor-faktor tersebut yang menentukan bagaimana sebuah jaringan fasilitas kesehatan dikembangkan adalah:\nI. selera konsumen\nII. rancangan produk\nIII. karakteristik provider\nJawaban yang benar adalah:",
+      "jawaban": [
+        "I, II dan III",
+        "Pembentukan dan besarnya jaringan provider sebuah MCO sangat dipengaruhi oleh rancangan produk (II), selera konsumen (I), dan karakteristik provider di dalam suatu komunitas (III). dari modul Page 48 (PDF)"
+      ],
+      "pengecoh": [
+        "I dan II",
+        "I dan III",
+        "II dan III"
+      ]
+    },
+    {
+      "id": 29,
+      "kategori": "tunggal",
+      "soal": "Rekrutmen provider bisa dilakukan secara tatap muka atau melalui surat menyurat. Rekrutmen provider melalui tatap muka perlu dilakukan terutama bila:",
+      "jawaban": [
+        "kontrak menyangkut pembagian risiko (risk sharing)",
+        "Kontrak HMO, khususnya yang mengandung persyaratan administratif yang besar atau menyangkut kontrak risiko (seperti kapitasi, pool dana spesialis, berbagi risiko (risk-sharing) dengan rumah sakit, atau insentif lainnya) hampir selalu memerlukan tatap muka, presentasi, dan diskusi. dari modul Page 55 (PDF)"
+      ],
+      "pengecoh": [
+        "persyaratan administrasi sederhana",
+        "tarif sudah ditentukan sebelumnya melalui intermediary",
+        "jumlah peserta relatif besar"
+      ]
+    },
+    {
+      "id": 30,
+      "kategori": "tunggal",
+      "soal": "Risk sharing antara HMO dan provider sangat diperlukan. Tujuan utama risk-sharing dalam merekrut jaringan provider pada HMO adalah:",
+      "jawaban": [
+        "adanya korelasi antara keputusan dokter dalam memberikan pelayanan dengan biaya yang ditimbulkannya",
+        "Tujuan utama berbagai-risiko (risk-sharing) adalah menghubungkan keputusan dokter dalam memberikan pelayanan dengan biaya yang ditimbulkannya melalui pemberian perhatian yang lebih besar terhadap biaya satuan (unit cost) dan perawatan/pengobatan klinis yang paling efisien. dari modul Page 51 (PDF)"
+      ],
+      "pengecoh": [
+        "mendistribusikan pembayaran dokter sedemikian rupa untuk mendorong penggunaan pelayanan primer",
+        "mencari alternatif pelayanan rawat inap yang paling layak dan cost-effective",
+        "meningkatkan kesadaran dan tanggung jawab pasien terhadap biaya"
+      ]
+    },
+    {
+      "id": 31,
+      "kategori": "kombinasi",
+      "soal": "Pak Robert sebagai pimpinan yang bekerja di bagian pemasaran pada perusahaan asuransi kesehatan, dalam melaksanakan fungsi pemasaran, maka Pak Robert bersama stafnya harus melakukan hal-hal sebagai berikut antara lain:\nI. Penelitian pasar (market research) dan perencanaan pemasaran\nII. Mengidentifikasi pasar untuk mengetahui segmen pasar yang potensial\nIII. Menetapkan tarif premi yang sesuai dengan rancangan manfaat\nJawaban yang benar adalah:",
+      "jawaban": [
+        "I dan II",
+        "Fungsi pemasaran meliputi: Perencanaan dan pengendalian, Identifikasi pasar (II), Pengembangan produk, Distribusi, Promosi, Penelitian pasar (I). Penetapan tarif premi adalah fungsi aktuaria/underwriting, bukan pemasaran. dari modul Page 62 (PDF)"
+      ],
+      "pengecoh": [
+        "I dan III",
+        "II dan III",
+        "I, II dan III"
+      ]
+    },
+    {
+      "id": 32,
+      "kategori": "tunggal",
+      "soal": "Ada perbedaan strategi pemasaran, penjualan dan pelayanan peserta antara asuransi kesehatan tradisional dengan managed care. Salah satu ciri pada asuransi tradisional adalah:",
+      "jawaban": [
+        "perusahaan asuransi umumnya berinteraksi dengan peserta hanya pada waktu terjadinya klaim",
+        "Asuransi kesehatan indemnitas sering dikenal dengan asuransi sakit, karena perusahaan asuransi berinteraksi dengan peserta atau tertanggung hanya pada waktu terjadinya klaim penggantian biaya karena jatuh sakit atau mengalami ruda paksa dan berobat. dari modul Page 60 (PDF)"
+      ],
+      "pengecoh": [
+        "selalu ada interaksi antara bagian pemasaran dan bagian pelayanan di perusahaan asuransi ganti rugi",
+        "berinteraksi dengan peserta lebih sering yaitu pada saat sebelum, selama dan sesudah terjadinya penyakit",
+        "selalu menggunakan jasa outsourcing pihak ketiga untuk penanganan keluhan dan klaim"
+      ]
+    },
+    {
+      "id": 33,
+      "kategori": "tunggal",
+      "soal": "Riset pasar merupakan kegiatan penelitian di bidang pemasaran yang dilakukan secara sistematis mulai dari perumusan masalah sampai dengan interpretasi hasil penelitian. Salah satu jenis riset pasar yang ditujukan untuk mengetahui kebutuhan jumlah provider yang diperlukan, adalah:",
+      "jawaban": [
+        "Analisis demografi peserta",
+        "Penggunaan riset pasar untuk menetapkan kebutuhan provider berdasarkan gambaran demografis peserta, kini semakin mendapat perhatian... Salah satu instrumen yang kini semakin populer untuk memenuhi kebutuhan di atas adalah pemetaan geografis melalui perangkat komputer. dari modul Page 70 (PDF)"
+      ],
+      "pengecoh": [
+        "Analisis persaingan pasar",
+        "Survei kepuasan peserta",
+        "Survei kepuasan provider"
+      ]
+    },
+    {
+      "id": 34,
+      "kategori": "kombinasi",
+      "soal": "Penggunaan riset pasar untuk menetapkan kebutuhan provider perlu mendapat perhatian MCO. Salah satu instrumen yang semakin popular adalah pemetaan geografis dengan komputer. Keuntungan instrumen ini bagi MCO adalah:\nI. Dapat menganalisis kemudahan akses peserta terhadap lokasi provider\nII. Dapat menghitung persentase peserta dalam jarak tertentu dari provider\nIII. Dapat mengetahui profil MCO dibanding para pesaing\nJawaban yang benar adalah:",
+      "jawaban": [
+        "I dan II",
+        "Analisis dapat menghitung aksesibilitas provider... Analisis juga dapat menghitung persentase peserta dalam jarak tertentu dari provider (I, II). Mengetahui profil MCO dibanding pesaing adalah fungsi analisis persaingan, bukan pemetaan geografis. dari modul Page 70 (PDF)"
+      ],
+      "pengecoh": [
+        "I dan III",
+        "II dan III",
+        "I, II dan III"
+      ]
+    },
+    {
+      "id": 35,
+      "kategori": "tunggal",
+      "soal": "Kegiatan utama bagian pelayanan peserta adalah mengusahakan agar setiap peserta memperpanjang kontraknya setiap tahun. Kegiatan ini dikenal dengan \"watching the back door.\" Salah satu fungsi staf pelayanan peserta dalam rangka “watching the back door” adalah:",
+      "jawaban": [
+        "melakukan penelitian dan penyelesaian terhadap keluhan peserta",
+        "Pelayanan peserta mencakup berbagai fungsi/kegiatan seperti: Pemberian informasi dan klarifikasi tentang paket/manfaat, Penjelasan tentang Status klaim, Penelitian dan penyelesaian keluhan, Mengadakan pendidikan untuk peserta, dll. dari modul Page 64 (PDF)"
+      ],
+      "pengecoh": [
+        "memberikan evaluasi atau perbaikan produk-produk sesuai kebutuhan peserta",
+        "memastikan jalur distribusi pelayanan kesehatan mudah diakses peserta yang dilayani",
+        "mempengaruhi masyarakat yang masih belum menjadi peserta untuk membeli produk"
+      ]
+    },
+    {
+      "id": 36,
+      "kategori": "tunggal",
+      "soal": "MCO besar cenderung menggunakan pihak ketiga untuk melakukan survei kepuasan peserta. Salah satu keuntungan survei dengan menggunakan pihak ketiga adalah:",
+      "jawaban": [
+        "hasil survei tidak bias dan independen",
+        "Dengan cara outsourcing ini, hasil survei menjadi netral, tidak bias, dan tidak memihak. dari modul Page 73 (PDF)"
+      ],
+      "pengecoh": [
+        "butuh data lebih sedikit",
+        "biaya jauh lebih murah",
+        "waktu yang dibutuhkan lebih cepat"
+      ]
+    },
+    {
+      "id": 37,
+      "kategori": "tunggal",
+      "soal": "Administrasi klaim pada asuransi ganti rugi berbeda dengan managed care. Administrasi klaim pada managed care relatif lebih sederhana karena:",
+      "jawaban": [
+        "umumnya pelayanan telah mendapat persetujuan di muka",
+        "Di dalam MCO lebih banyak pelayanan atau cakupan pelayanan yang membutuhkan persetujuan di muka sebelum dilaksanakan oleh provider. Oleh karenanya di dalam MCO lebih sedikit klaim yang harus diputuskan sendiri oleh bagian administrasi klaim. dari modul Page 80 (PDF)"
+      ],
+      "pengecoh": [
+        "pelayanan yang ditanggung dan tidak ditanggung belum jelas",
+        "ruang lingkup pelayanan yang diberikan pada peserta lebih sederhana",
+        "produk managed care kompleks menyebabkan klaim tidak dapat diputuskan"
+      ]
+    },
+    {
+      "id": 38,
+      "kategori": "tunggal",
+      "soal": "Kebutuhan administrasi klaim sebuah MCO sangat terkait erat dengan rancangan produk. Produk MCO yang membutuhkan administrasi klaim yang paling sederhana adalah:",
+      "jawaban": [
+        "produk HMO closed panel",
+        "Produk MCO tradisional (panel provider tertutup) menekankan pada pelayanan preventif... Untuk produk jenis ini administrasi klaim adalah yang paling sederhana. dari modul Page 81 (PDF)"
+      ],
+      "pengecoh": [
+        "produk POS",
+        "produk PPO",
+        "produk DHMO"
+      ]
+    },
+    {
+      "id": 39,
+      "kategori": "kombinasi",
+      "soal": "Penggunaan pelayanan gawat darurat tidak bisa dihindari dalam asuransi kesehatan. Peserta MCO sebelum mencari pelayanan gawat darurat (emergency) diwajibkan:\nI. Menghubungi dokter primer melalui telepon\nII. Menghubungi MCO melalui telepon\nIII. Membayar uang jaminan di UGD\nJawaban yang benar adalah:",
+      "jawaban": [
+        "I dan II",
+        "Peserta diwajibkan menghubungi dokter primer atau MCO sebelum mencari pelayanan gawat darurat. dari modul Page 69 (PDF)"
+      ],
+      "pengecoh": [
+        "I dan III",
+        "II dan III",
+        "I, II dan III"
+      ]
+    },
+    {
+      "id": 40,
+      "kategori": "tunggal",
+      "soal": "Bagi MCO tidak perlu lagi ada klaim yang harus dikumpulkan dari para provider. Walaupun provider tidak perlu mengajukan klaim karena pelayanan sudah dibayar secara kapitasi, provider tetap harus menyampaikan laporan tentang rincian layanan kepada MCO dengan alasan:",
+      "jawaban": [
+        "informasi diperlukan untuk analisis utilisasi dan pola pelayanan provider",
+        "Pengumpulan data dan 'kontak' sangat penting meskipun provider dibayar kapitasi, untuk menelusuri pola praktek dokter dan pola utilisasi oleh peserta. dari modul Page 84 (PDF)"
+      ],
+      "pengecoh": [
+        "sebagai pembayar MCO berhak mengetahui tentang kondisi pasien",
+        "pelaporan merupakan kewajiban yang ditetapkan oleh pemerintah",
+        "informasi diperlukan untuk mengukur kepuasan peserta"
+      ]
+    },
+    {
+      "id": 41,
+      "kategori": "tunggal",
+      "soal": "Di Amerika Serikat, NAIC membuat model regulasi yang mengatur kebijakan coordination of benefit (COB). Pedoman \"urutan penjamin\" yang ditetapkan NAIC dalam COB adalah:",
+      "jawaban": [
+        "penjamin utama (primer) adalah penanggung peserta yang berstatus karyawan, penjamin sekunder adalah penanggung peserta yang berstatus sebagai dependent (anggota keluarga)",
+        "Asuransi utama/primer adalah asuransi yang menanggung peserta berstatus karyawan, atau pembeli (bukan yang menjadi anggota keluarga). Asuransi sekunder adalah asuransi yang menjamin peserta yang berstatus sebagai dependen/anggota keluarga. dari modul Page 70 (PDF)"
+      ],
+      "pengecoh": [
+        "penjamin primer adalah penanggung yang menerima premi lebih besar, penjamin sekunder adalah penanggung yang menerima premi lebih kecil",
+        "penjamin primer adalah penanggung yang lebih dulu mengadakan kontrak dengan peserta, penjamin sekunder adalah penanggung yang mengikat kontrak kemudian",
+        "penjamin primer adalah penanggung yang menerapkan model kapitasi kepada fasilitas pelayanan kesehatan"
+      ]
+    },
+    {
+      "id": 42,
+      "kategori": "tunggal",
+      "soal": "Subrogasi bisa dikatakan sebagai upaya mencegah terjadinya unjust enrichment (memperkaya diri sendiri secara tidak adil). Oleh karena pada kontrak MCO perlu adanya provisi yang memuat subrogasi, yakni jika peserta menjadi korban kecelakaan kendaraan bermotor di jalan raya, maka COB akan dilakukan sebagai berikut:",
+      "jawaban": [
+        "MCO berhak mendapatkan sebagian atau seluruh pembayaran klaim dari perusahaan asuransi liabilitas",
+        "Subrogasi adalah provisi kontrak yang memungkinkan MCO memperoleh seluruh atau sebagian pembayaran klaim jika peserta mendapatkan pembayaran klaim dari pihak ketiga. Sumber subrogasi yang umum adalah asuransi kendaraan bermotor. dari modul Page 71 (PDF)"
+      ],
+      "pengecoh": [
+        "fasilitas kesehatan berhak sepenuhnya atas pembayaran klaim dari perusahaan asuransi liabilitas",
+        "MCO tidak berhak membayarkan klaim dari fasilitas kesehatan, karena sudah dijamin oleh asuransi liabilitas",
+        "peserta berhak sepenuhnya atas pembayaran klaim dari perusahaan asuransi liabilitas"
+      ]
+    },
+    {
+      "id": 43,
+      "kategori": "tunggal",
+      "soal": "Bila pasangan suami istri sama-sama bekerja dan diberi jaminan asuransi kesehatan untuk keluarganya oleh perusahaan mereka bekerja. Maka COB merupakan cara untuk membatasi manfaat dari dua atau lebih jaminan asuransi sehingga tidak melebihi 100% dari biaya pelayanan. Menurut model regulasi NAIC, asuransi dari kantor suami merupakan:",
+      "jawaban": [
+        "Penjamin utama untuk suami",
+        "Sebagai contoh, jika kedua suami-istri bekerja dan masing-masing memiliki asuransi kesehatan kumpulan dari perusahaan, maka jaminan dari suami menjadi utama/primer untuk suami dan sekunder untuk istri. dari modul Page 70 (PDF)"
+      ],
+      "pengecoh": [
+        "Penjamin kedua untuk suami",
+        "Penjamin utama untuk istri dan keluarganya",
+        "Penjamin utama untuk istri"
+      ]
+    },
+    {
+      "id": 44,
+      "kategori": "kombinasi",
+      "soal": "Dalam proses administrasi klaim, berkas klaim diverifikasi oleh staff verifikasi MCO. Apabila hasilnya layak untuk dibayarkan, maka informasi lain yang dibutuhkan selanjutnya adalah:\nI. Jumlah pembayaran manfaat\nII. Waktu pembayaran diberikan\nIII. Pihak penerima pembayaran manfaat\nJawaban yang benar adalah:",
+      "jawaban": [
+        "I dan III",
+        "Untuk membayar sebuah manfaat, dua jenis informasi dibutuhkan yaitu jumlah pembayaran (I) dan kepada pihak mana pembayaran itu dilakukan (III). Waktu pembayaran (II) tidak termasuk dalam dua informasi utama yang disebutkan. dari modul Page 92 (PDF)"
+      ],
+      "pengecoh": [
+        "I dan II",
+        "II dan III",
+        "I, II dan III"
+      ]
+    },
+    {
+      "id": 45,
+      "kategori": "tunggal",
+      "soal": "Pada proses verifikasi klaim, kecurangan (fraud) yang sering ditemukan, adalah menuliskan penagihan dengan kode penyakit yang tidak tepat. Bila ini unsur kesengajaan dari provider untuk menuliskan ketidaktepatan kode penyakit, maka contoh kasus seperti ini disebut dengan istilah:",
+      "jawaban": [
+        "Code gaming",
+        "Ketidaktepatan kode sering dikenal dengan istilah code gaming, dapat berbentuk pemisahan pelayanan yang seharusnya ditagih dalam satu paket, penagihan atas pengobatan yang seharusnya tidak ditagih, atau prosedur yang tidak tepat untuk usia atau gender peserta. dari modul Page 93 (PDF)"
+      ],
+      "pengecoh": [
+        "Unbundling",
+        "Phantom billing",
+        "Twisting"
+      ]
+    },
+    {
+      "id": 46,
+      "kategori": "tunggal",
+      "soal": "Jika administrasi klaim MCO menemukan klaim dengan kode diagnostik dan kode perawatan yang tidak konsisten pada dokumen klaim, maka bagian administrasi klaim harus melakukan suatu tindakan, yakni:",
+      "jawaban": [
+        "menghubungi provider dan/atau peserta untuk melakukan verifikasi dan klarifikasi",
+        "Dalam situasi demikian, karena kode-kode tersebut tidak konsisten satu sama lainnya, maka administrator klaim akan menghubungi provider dan peserta yang bersangkutan untuk melakukan verifikasi atas diagnosis dan perawatan tersebut serta mendapatkan klarifikasi. dari modul Page 91 (PDF)"
+      ],
+      "pengecoh": [
+        "menyesuaikan kode diagnostik dan kode perawatan tersebut berdasarkan daftar kode yang ada",
+        "menyatakan bahwa klaim yang diajukan adalah fraud perlu disampaikan ke bagian SIU",
+        "langsung menolak klaim tersebut karena kode diagnostik dan kode perawatan tidak konsisten"
+      ]
+    },
+    {
+      "id": 47,
+      "kategori": "tunggal",
+      "soal": "Dari hasil proses sebuah dokumen klaim, petugas klaim akan menyatakan apakah klaim tersebut dicakup atau tidak di dalam polis. Peserta selalu diinformasikan dengan surat dalam suatu formulir standar yang disebut explanation of benefit (EOB). Dokumen EOB ini berisi tentang:",
+      "jawaban": [
+        "surat pemberitahuan kepada peserta apakah klaimnya diterima atau ditolak",
+        "Apakah manfaat itu dibayarkan atau klaim ditolak, peserta selalu diinformasikan dengan surat. Ia dikirimi sebuah formulir standar atau surat yang disebut explanation of benefits. dari modul Page 92 (PDF)"
+      ],
+      "pengecoh": [
+        "penjelasan tentang manfaat yang diperoleh dalam suatu rancangan paket manfaat",
+        "surat pemberitahuan bahwa premi belum dibayarkan sehingga manfaat tidak dapat diberikan",
+        "penjelasan tentang hal-hal yang tidak dicakup dalam polis"
+      ]
+    },
+    {
+      "id": 48,
+      "kategori": "kombinasi",
+      "soal": "Proyeksi pendapatan sangat bergantung pada proyeksi kepesertaan, dan pendapatan MCO bisa berasal dari beberapa sumber utama. Setiap sumber tersebut diproyeksikan berdasarkan PMPM dan kemudian dikalikan dengan proyeksi member-month untuk menghasilkan pendapatan total. Sumber sumber pendapatan MCO tersebut adalah:\nI. koordinasi manfaat (COB)\nII. premi atau iuran\nIII. pendapatan investasi\nJawaban yang benar adalah:",
+      "jawaban": [
+        "I, II dan III",
+        "Pendapatan sebuah MCO berasal dari tiga sumber utama yaitu: Premi (II), Koordinasi manfaat (COB) (I), Pendapatan investasi (III). dari modul Page 81 (PDF)"
+      ],
+      "pengecoh": [
+        "I dan II",
+        "I dan III",
+        "II dan III"
+      ]
+    },
+    {
+      "id": 49,
+      "kategori": "tunggal",
+      "soal": "Manajemen kinerja sangat penting bagi administrasi klaim sebuah MCO. Efisiensi dan kualitas harus terus dievaluasi dengan ukuran yang setara, penelusuran data dan laporan secara rinci mutlak diperlukan. Indikator turnaround time dalam administrasi klaim diukur dengan cara:",
+      "jawaban": [
+        "menghitung jumlah hari kerja sejak penerimaan sampai pembayaran klaim",
+        "Turnaround time diukur dengan menghitung jumlah hari kerja mulai klaim diterima oleh MCO sampai pembayaran dilakukan. dari modul Page 93 (PDF)"
+      ],
+      "pengecoh": [
+        "menghitung jangka waktu pengajuan klaim dari hari pemberitahuan klaim",
+        "menghitung jumlah hari perbaikan data dalam pengajuan klaim",
+        "persentase klaim yang dibayar pada periode waktu tertentu"
+      ]
+    },
+    {
+      "id": 50,
+      "kategori": "tunggal",
+      "soal": "Anggaran operasional merupakan landasan kegiatan MCO di mana pembiayaan dan penyediaan pelayanan dipadukan atau digabungkan. Perkiraan ini dilakukan melalui perencanaan keuangan yang baik dimulai dengan menentukan:",
+      "jawaban": [
+        "jumlah peserta",
+        "Langkah pertama dalam menetapkan biaya operasional adalah proyeksi kepesertaan. dari modul Page 81 (PDF)"
+      ],
+      "pengecoh": [
+        "jumlah provider",
+        "jumlah hasil investasi",
+        "jumlah biaya layanan medis"
+      ]
+    },
+    {
+      "id": 51,
+      "kategori": "tunggal",
+      "soal": "Potongan harga obat merupakan pembayaran dari perusahaan farmasi atas dasar penggunaan obat atau formularium, yang sudah diperhitungkan untuk mencapai target pangsa pasar yang telah ditetapkan. Jumlah angka potongan harga obat tersebut diperhitungkan dan dicatat oleh MCO dalam pos:",
+      "jawaban": [
+        "pendapatan pada mata anggaran operasional",
+        "Di dalam beberapa MCO, potongan harga obat diperhitungkan PMPM dan dimasukkan dalam pendapatan untuk membiayai pelayanan medis di dalam anggaran operasional. dari modul Page 84 (PDF)"
+      ],
+      "pengecoh": [
+        "pengeluaran sebagai penerimaan pribadi dokter",
+        "pengeluaran untuk insentif bagi provider",
+        "pendapatan untuk biaya pelayanan obat"
+      ]
+    },
+    {
+      "id": 52,
+      "kategori": "tunggal",
+      "soal": "MCO perlu mempertimbangkan beberapa faktor di dalam menetapkan strategi underwriting dan penetapan premi. Faktor demografi selalu diperhitungkan dalam menetapkan strategi underwriting dan penarifan premi adalah:",
+      "jawaban": [
+        "umur dan jenis kelamin",
+        "Umur dan gender. Umur dan gender sebuah kumpulan merupakan faktor risiko yang penting dalam menilai risiko kumpulan. dari modul Page 89 (PDF)"
+      ],
+      "pengecoh": [
+        "kewarganegaraan atau suku",
+        "hobby",
+        "domisili populasi"
+      ]
+    },
+    {
+      "id": 53,
+      "kategori": "tunggal",
+      "soal": "Salah satu faktor kunci untuk menjaga agar MCO tetap berkelanjutan, harus ada strategi yang tepat untuk penetapan premi, sehingga harga asuransi menjadi rasional dan mampu bersaing. Pertimbangan yang sering digunakan dalam menghitung besaran premi kumpulan produk PPO dan POS untuk pemberi kerja yang pernah dikelola pesaing adalah:",
+      "jawaban": [
+        "Tarif pengalaman",
+        "Jika sebuah perusahaan/MCO produk PPO dan POS menggantikan asuradur lainnya, maka pengalaman dari asuradur sebelumnya sering dipertimbangkan dalam penetapan premi. Jika data pengalaman cukup baik, maka digunakan tarif pengalaman. dari modul Page 91 (PDF)"
+      ],
+      "pengecoh": [
+        "Tarif prospektif",
+        "Tarif komunitas",
+        "Adjusted community rating"
+      ]
+    },
+    {
+      "id": 54,
+      "kategori": "tunggal",
+      "soal": "Populasi masyarakat miskin mempunyai tantangan risiko dan manajemen tersendiri bagi MCO dibandingkan populasi komersial. Program kesehatan masyarakat miskin seperti Medicaid di Amerika Serikat atau JKN PBI di Indonesia biasanya mempunyai fitur sebagai berikut:",
+      "jawaban": [
+        "memiliki angka morbiditas yang lebih buruk dibandingkan populasi komersial",
+        "Populasi Medicaid, yang terdiri dari penduduk miskin atau mendekati miskin, memiliki angka morbiditas yang lebih jelek dibandingkan dengan populasi komersial. dari modul Page 88 (PDF)"
+      ],
+      "pengecoh": [
+        "membutuhkan biaya administrasi yang lebih sedikit dibandingkan populasi komersial",
+        "membutuhkan underwriting yang lebih rumit dibandingkan populasi komersial",
+        "memiliki angka morbiditas yang lebih baik dibandingkan populasi komersial"
+      ]
+    },
+    {
+      "id": 55,
+      "kategori": "tunggal",
+      "soal": "Sebagai salah satu indikator kesehatan keuangan sebuah perusahaan asuransi, digunakan indikator RBC (risk-based capital). Yang dimaksud dengan indikator RBC, adalah:",
+      "jawaban": [
+        "jumlah modal minimum yang dibutuhkan untuk menanggung potensi risiko yang dihadapi penanggung",
+        "Regulator/pemerintah menggunakan konsep modal berdasarkan risiko (risk based capital, RBC) untuk menilai tingkat solvabilitas perusahaan asuransi. Formula RBC menetapkan jumlah modal minimum yang dibutuhkan untuk menanggung potensi risiko yang dihadapi sebuah perusahaan asuransi. dari modul Page 93 (PDF)"
+      ],
+      "pengecoh": [
+        "kecukupan modal penanggung untuk menanggulangi ekses klaim yang mungkin terjadi",
+        "jumlah cadangan klaim minimum yang perlu ada untuk pembayaran klaim yang tidak diharapkan",
+        "jumlah modal minimum penanggung untuk memenuhi kewajiban jangka pendeknya"
+      ]
+    },
+    {
+      "id": 56,
+      "kategori": "tunggal",
+      "soal": "Formula RBC menggunakan berbagai faktor risiko seperti jenis aset, premi, dan atau liabilitas untuk mendapatkan jumlah modal yang dibutuhkan penanggung. Salah satu risiko yang diperhitungkan untuk pemenuhan tingkat solvabilitas dari perusahaan asuransi adalah risiko harga, yaitu:",
+      "jawaban": [
+        "potensi morbiditas atau mortalitas yang lebih jelek dari perkiraan",
+        "C2= risiko harga: potensi pengalaman (karena morbiditas atau mortalitas) yang lebih jelek dari yang diperkirakan. dari modul Page 93 (PDF)"
+      ],
+      "pengecoh": [
+        "potensi nilai asset yang akan turun atau liabilitas yang jatuh tempo",
+        "potensi perubahan tingkat bunga yang mengurangi laba akibat perubahan nilai asset dan liabilitas",
+        "risiko persaingan antar perusahaan asuransi sejenis"
+      ]
+    },
+    {
+      "id": 57,
+      "kategori": "kombinasi",
+      "soal": "Alasan suatu MCO dinyatakan bertanggung jawab terhadap peserta managed care adalah adanya kelalaian. Untuk memenangkan tuntutan kelalaian terhadap MCO, peserta harus menunjukkan bukti sebagai berikut:\nI. MCO tidak atau gagal memenuhi standar pelayanan\nII. tidak ada hubungan antara kelalaian dengan cedera\nIII. peserta mengalami kerugian atau kerusakan yang nyata\nJawaban yang benar adalah:",
+      "jawaban": [
+        "I dan III",
+        "Untuk memenangkan tuntutan suatu kelalaian terhadap suatu MCO, seorang peserta harus menunjukkan/membuktikan hal-hal berikut: 1) MCO berada dalam 'duty of care', 2) MCO tidak/gagal memenuhi standar pelayanan (I), 3) Terdapat hubungan yang dekat antara kelalaian dengan cedera (II salah), 4) Peserta/tertanggung mengalami kerugian atau kerusakan nyata (III). dari modul Page 98 (PDF)"
+      ],
+      "pengecoh": [
+        "I dan II",
+        "II dan III",
+        "I, II dan III"
+      ]
+    },
+    {
+      "id": 58,
+      "kategori": "tunggal",
+      "soal": "Dalam hal terjadi malapraktek yang dilakukan jaringan provider yang dikontraknya, MCO bisa juga dianggap bertanggung jawab. Tanggung jawab ini merupakan contoh dari:",
+      "jawaban": [
+        "liabilitas derivatif",
+        "Liabilitas derivatif adalah liabilitas atas kesalahan tindakan oleh jaringan provider yang dikontrak MCO. dari modul Page 97 (PDF)"
+      ],
+      "pengecoh": [
+        "liabilitas langsung",
+        "liabilitas bersama",
+        "proximate cause"
+      ]
+    },
+    {
+      "id": 59,
+      "kategori": "tunggal",
+      "soal": "Liabilitas substitusi mengacu pada situasi di mana seseorang atau sebuah entitas dianggap bertanggung jawab atas tindakan atau kelalaian pihak lain. Satu sumber liabilitas potensial bagi MCO bersumber dari doktrin liabilitas substitusi (doctrine of vicarious liability) yang didasarkan pemikiran bahwa:",
+      "jawaban": [
+        "MCO seolah-olah dianggap sebagai wakil",
+        "Doktrin liabilitas substitusi (Doctrine of Vicarious Liability) didasarkan pemikiran MCO 'seolah olah/dianggap sebagai wakil'. dari modul Page 101 (PDF)"
+      ],
+      "pengecoh": [
+        "MCO yang paling bertanggung jawab",
+        "MCO telah memilih provider sesuai prosedur",
+        "MCO yang telah melakukan kontrak dengan provider"
+      ]
+    },
+    {
+      "id": 60,
+      "kategori": "kombinasi",
+      "soal": "Dalam sebuah sengketa hukum antara MCO dengan peserta, sebuah MCO dapat ditetapkan oleh pengadilan mempunyai posisi duty of care terhadap peserta. Duty of care yang ditetapkan oleh pengadilan adalah dalam hal-hal:\nI. Utilization reviews\nII. Medical necessity determination\nIII. Payment method for the provider\nJawaban yang benar adalah:",
+      "jawaban": [
+        "I dan II",
+        "Situasi lain di mana pengadilan dapat menetapkan bahwa MCO mempunyai duty of care terhadap peserta adalah dalam hal manajemen utilisasi (Utilization Review) (I) dan penetapan kebutuhan medis (Medical Necessity Determination) (II). dari modul Page 100 (PDF)"
+      ],
+      "pengecoh": [
+        "I dan III",
+        "II dan III",
+        "I, II dan III"
+      ]
+    },
+    {
+      "id": 61,
+      "kategori": "tunggal",
+      "soal": "Setidaknya ada tiga undang-undang federal yang membentuk hukum anti-monopoli di Amerika Serikat, yakni Sherman Act, Clayton Act, dan Federal Trade Commission Act. Larangan Praktek Monopoli dan Persaingan Usaha Tidak Sehat di Indonesia diatur melalui UU No 5 tahun 1999. Tujuan utama dari undang-undang anti-monopoli tersebut adalah untuk:",
+      "jawaban": [
+        "melindungi konsumen",
+        "Tujuan utama undang-undang antimonopoli adalah untuk melindungi konsumen (agar mendapatkan manfaat dengan harga dan kualitas terbaik dari suatu persaingan pasar), bukan untuk melindungi pelaku persaingan. dari modul Page 104 (PDF)"
+      ],
+      "pengecoh": [
+        "melindungi pemilik modal",
+        "melindungi kestabilan harga",
+        "melindungi penanggung"
+      ]
+    },
+    {
+      "id": 62,
+      "kategori": "tunggal",
+      "soal": "Analisis hukum perlu dilakukan dan digunakan untuk menilai keseimbangan dampak anti-kompetitif dan dampak pro-kompetitif dalam pembentukan jaringan agar tidak melanggar UU anti-monopoli usaha. Salah satu masalah anti-monopoli adalah provisi eksklusif, jika suatu jaringan provider menggunakan kontrak eksklusif, maka:",
+      "jawaban": [
+        "gugatan dapat juga diajukan oleh provider yang tidak dikontrak oleh MCO karena MCO sudah menjalin kontrak eksklusif dengan jaringan provider tertentu",
+        "Jika jaringan provider menggunakan kontrak eksklusif yang menyingkirkan jaringan pesaing, maka gugatan antimonopoli dapat datang tidak hanya dari provider yang tidak dikontrak oleh suatu MCO akan tetapi juga dari MCO atau perusahaan asuransi yang hendak menjalin kerja sama dengan provider. dari modul Page 106 (PDF)"
+      ],
+      "pengecoh": [
+        "gugatan anti monopoli hanya dapat diajukan oleh MCO atau asuransi lain yang ingin bekerja sama",
+        "persaingan yang terjadi adalah persaingan sehat dengan mengedepankan mutu pelayanan",
+        "kontrak eksklusif sangat berpeluang menang dalam pembelaannya di pengadilan karena provider bebas melakukan kerjasama dengan MCO atau asuransi yang dianggap mudah bekerja sama"
+      ]
+    },
+    {
+      "id": 63,
+      "kategori": "tunggal",
+      "soal": "Dalam menetapkan apakah tuntutan suatu kasus merugikan persaingan usaha, pengadilan akan melakukan dengan analisis fakta-fakta dan kondisi pasar secara cermat dan lengkap (antitrust analysis). Salah satu kasusnya adalah apa yang disebut sebagai group boycott, yakni:",
+      "jawaban": [
+        "Usaha bersama oleh pesaing untuk memperkuat posisi persaingannya dengan cara menyingkirkan pesaing lainnya",
+        "Suatu group-boycott biasanya didefinisikan sebagai usaha bersama oleh pesaing untuk memperkuat posisi persaingannya dengan cara menyingkirkan pesaing lainnya. dari modul Page 106 (PDF)"
+      ],
+      "pengecoh": [
+        "MCO hanya mengontrak jaringan fasilitas kesehatan tertentu saja dengan alasan kebutuhan penyebaran peserta",
+        "Usaha fasilitas kesehatan untuk dapat melakukan kontrak dengan berbagai MCO",
+        "MCO dikendalikan oleh perusahaan asuransi"
+      ]
+    },
+    {
+      "id": 64,
+      "kategori": "tunggal",
+      "soal": "Dengan alasan pengelolaan pelayanan, MCO memerlukan akses kepada rekam medik pasien. Sifat dari rekam medik di provider adalah sebagai berikut:",
+      "jawaban": [
+        "berkas rekam medis adalah milik provider namun informasi yang dikandungnya adalah milik pasien",
+        "Hukum yang umum berlaku adalah bahwa catatan medik merupakan milik provider. Namun demikian, pasien juga memiliki hak menggunakan catatan medis tersebut. dari modul Page 109 (PDF)"
+      ],
+      "pengecoh": [
+        "hukum umum menyatakan bahwa bagi peserta MCO, rekam medik adalah milik MCO",
+        "rekam medis pasien selama dirawat inap sampai dengan pasien keluar adalah tanggung jawab dokter yang merawat",
+        "dokter yang akan memberikan second opinion berhak memperoleh rekam medik pasien"
+      ]
+    },
+    {
+      "id": 65,
+      "kategori": "kombinasi",
+      "soal": "Rekam medis dan rahasia kedokteran diatur dalam UU Nomor 29 tahun 2004 tentang Praktik Kedokteran, dan lebih lanjut diatur dengan Peraturan Menteri Kesehatan Nomor 269 tahun 2008. Menurut UU No tersebut rekam medis hanya dapat dibuka untuk:\nI. atas permintaan aparat penegak hukum\nII. kepentingan perusahaan asuransi\nIII. atas permintaan pasien sendiri\nJawaban yang benar adalah:",
+      "jawaban": [
+        "I dan III",
+        "Pasal 48 khusus mengatur mengenai Rahasia Kedokteran yang wajib dilaksanakan oleh semua dokter... dan hanya dapat dibuka untuk kepentingan kesehatan pasien sendiri (III), atas permintaan aparat penegak hukum dalam rangka penegakan hukum (I) dan atas permintaan pasien sendiri atau berdasarkan ketentuan perundang-undangan. Kepentingan asuransi (II) memerlukan izin tertulis dari pasien. dari modul Page 110 (PDF)"
+      ],
+      "pengecoh": [
+        "I dan II",
+        "II dan III",
+        "I, II dan III"
+      ]
+    },
+    {
+      "id": 66,
+      "kategori": "tunggal",
+      "soal": "Hukum yang umum berlaku menyatakan catatan medis adalah milik provider, namun pasien juga memiliki hak menggunakan catatan medis tersebut. Pernyataan yang benar terkait dengan catatan medis adalah:",
+      "jawaban": [
+        "perusahaan di mana peserta bekerja, sama sekali tidak dapat melihat catatan medis karyawannya",
+        "Informasi medis tidak dapat diberikan kepada pihak lain tanpa adanya persetujuan pasien. Perusahaan tempat peserta bekerja tidak memiliki hak untuk melihat catatan medis karyawannya tanpa izin. dari modul Page 109 (PDF)"
+      ],
+      "pengecoh": [
+        "MCO mempunyai akses untuk melihat catatan medis pesertanya, tanpa izin peserta",
+        "catatan medis dapat diberikan kepada siapapun tanpa persetujuan pasien",
+        "seseorang pada waktu mendaftar menjadi peserta MCO harus bersedia berkompromi tentang rahasia medisnya"
+      ]
+    },
+    {
+      "id": 67,
+      "kategori": "tunggal",
+      "soal": "Managed care secara mendasar telah mengubah hubungan antara tertanggung dengan penanggung. Masalah-masalah hukum, termasuk liabilitas malapraktek, anti-monopoli, kerahasiaan catatan medik, dan berbagai kontrak provider mewarnai hubungan antara tertanggung dan penanggung (MCO). Dalam hal liabilitas malapraktik, alasan utama MCO dinyatakan liable atau bertanggung jawab terhadap kerugian yang diderita peserta, apabila terjadi:",
+      "jawaban": [
+        "negligence",
+        "Alasan utama sebuah MCO dapat dinyatakan liable, bertanggung jawab, terhadap seorang peserta managed care adalah kelalaian (negligence). dari modul Page 98 (PDF)"
+      ],
+      "pengecoh": [
+        "overutilization",
+        "careless",
+        "defamation"
+      ]
+    },
+    {
+      "id": 68,
+      "kategori": "tunggal",
+      "soal": "Hukum any willing provider di Amerika Serikat pada fasilitas kesehatan merupakan salah satu reaksi industri kesehatan terhadap managed care. Pada dasarnya hukum ini mengatur bahwa:",
+      "jawaban": [
+        "MCO harus menerima setiap fasilitas kesehatan yang bersedia memenuhi persyaratan MCO sebagai peserta jaringan",
+        "Hukum 'any willing provider' mengharuskan MCO untuk menerima setiap provider yang bersedia menerima persyaratan MCO sebagai peserta jaringan. dari modul Page 111 (PDF)"
+      ],
+      "pengecoh": [
+        "MCO tidak boleh menolak setiap fasilitas kesehatan yang ingin membuat kontrak eksklusif",
+        "fasilitas kesehatan boleh memilih model reimbursement yang akan digunakan oleh MCO",
+        "MCO tidak boleh menolak setiap fasilitas kesehatan yang ingin masuk ke dalam jaringan MCO"
+      ]
+    },
+    {
+      "id": 69,
+      "kategori": "tunggal",
+      "soal": "Mendapatkan akreditasi merupakan salah satu cara pengelola program managed care untuk menunjukkan kepatuhannya terhadap standar-standar yang telah dibakukan atau ditetapkan oleh peraturan perundang-undangan. MCO memerlukan akreditasi karena berbagai alasan, antara lain:",
+      "jawaban": [
+        "Akreditasi dipandang sebagai “stempel” pengakuan bahwa organisasi yang terakreditasi telah memenuhi standar",
+        "MCO memerlukan akreditasi karena: 1) Pengguna pelayanan kesehatan semakin disadarkan untuk menggunakan akreditasi sebagai indikator; 2) Akreditasi dipandang sebagai suatu stempel pengakuan yang menyatakan bahwa organisasi yang terakreditasi telah memenuhi standar yang ditetapkan. dari modul Page 113 (PDF)"
+      ],
+      "pengecoh": [
+        "Pelanggan MCO harus dididik bahwa akreditasi itu bermanfaat untuk meningkatkan prestise bagi mereka",
+        "Akreditasi akan membantu MCO dalam menaikkan tarif premi atas produk yang ditawarkan kepada perusahaan",
+        "Akreditasi tidak dibutuhkan pada daerah yang tidak memiliki persaingan usaha yang tinggi"
+      ]
+    },
+    {
+      "id": 70,
+      "kategori": "kombinasi",
+      "soal": "Upaya-upaya beberapa misi yang ada dalam program SDG (Sustainable Development Goals), harus dijalankan rumah sakit sesuai dengan buku pedoman akreditasi rumah sakit di Indonesia. Dalam standar akreditasi tersebut ada muatan lokal terkait SDG yang ditambahkan, seperti:\nI. upaya mengurangi angka kematian anak\nII. upaya meningkatkan kesehatan ibu\nIII. upaya memerangi HIV AIDS, TB dan penyakit menular lainnya\nJawaban yang benar adalah:",
+      "jawaban": [
+        "I, II dan III",
+        "Tiga tambahan point MDGs (Millennium Development Goals) yang meliputi Penurunan angka kematian bayi dan peningkatan kesehatan ibu (I, II), Penurunan angka kesakitan HIV/AIDS dan Penurunan angka kesakitan TB (III). dari modul Page 126 (PDF)"
+      ],
+      "pengecoh": [
+        "I dan II",
+        "I dan III",
+        "II dan III"
+      ]
+    },
+    {
+      "id": 71,
+      "kategori": "tunggal",
+      "soal": "Dalam rangka peningkatan mutu rumah sakit diperlukan standar yang dijadikan acuan bagi seluruh rumah sakit dan stake holder dalam melaksanakan pelayanan di rumah sakit melalui proses akreditasi. Akreditasi rumah sakit di Indonesia didasarkan pada SK Menteri Kesehatan RI No 436 tahun 1993 dan UU Nomor 44 tahun 2009 tentang Rumah Sakit, dan dilaksanakan oleh:",
+      "jawaban": [
+        "KARS (Komisi Akreditasi Rumah Sakit)",
+        "Akreditasi RS dilaksanakan KARS (Komisi Akreditasi Rumah Sakit), suatu lembaga independen dalam negeri sebagai pelaksana akreditasi RS yang bersifat fungsional dan non-struktural. dari modul Page 125 (PDF)"
+      ],
+      "pengecoh": [
+        "PERSI (Persatuan Rumah Sakit Seluruh Indonesia)",
+        "IDI (Ikatan Dokter Indonesia)",
+        "JCI (Joint Commission International)"
+      ]
+    },
+    {
+      "id": 72,
+      "kategori": "tunggal",
+      "soal": "UU No 44 tahun 2009 tentang Rumah Sakit menyatakan bahwa dalam upaya peningkatan mutu pelayanan Rumah Sakit wajib dilakukan akreditasi secara berkala minimal 3 tahun sekali. Akreditasi rumah sakit bertujuan untuk:",
+      "jawaban": [
+        "Memberikan jaminan, kepuasan serta perlindungan kepada masyarakat",
+        "Tujuan Manfaat Akreditasi Rumah Sakit diantaranya: Memberikan jaminan, kepuasan serta perlindungan kepada masyarakat atas pemberian pelayanan kesehatan. dari modul Page 125 (PDF)"
+      ],
+      "pengecoh": [
+        "Meningkatkan kunjungan pasien rawat inap di rumah sakit",
+        "Menjamin keikutsertaan rumah sakit dalam program jaminan/asuransi",
+        "Mempermudah prosedur pelayanan kepada peserta"
+      ]
+    },
+    {
+      "id": 73,
+      "kategori": "tunggal",
+      "soal": "Sesuai dengan bunyi UU No 40 tahun 2004 tentang SJSN, untuk jenis pelayanan yang dapat menimbulkan penyalahgunaan pelayanan, atau pelayanan yang membuka peluang moral hazard, peserta dikenakan urun biaya. Urun biaya harus menjadi bagian upaya pengendalian, terutama upaya pengendalian dalam menerima pelayanan kesehatan. Urun biaya dibayarkan kepada fasilitas kesehatan pada saat peserta memperoleh pelayanan kesehatan. Penetapan urun biaya dapat berupa:",
+      "jawaban": [
+        "copayment (nilai nominal)",
+        "Penetapan urun biaya dapat berupa copayment (nilai nominal) atau coinsurance (persentase). First dollar coverage adalah kebalikan dari urun biaya. dari pengetahuan umum (tidak ada di modul)"
+      ],
+      "pengecoh": [
+        "first dollar coverage (ditanggung seluruhnya)",
+        "coinsurance (sebesar 20:80)",
+        "fee-for-service (bayar biaya seluruhnya)"
+      ]
+    },
+    {
+      "id": 74,
+      "kategori": "tunggal",
+      "soal": "Keluhan peserta asuransi kesehatan sosial merupakan hal yang menjadi perhatian BPJS Kesehatan. Di dalam UU No 24 tahun 2011 tentang BPJS Kesehatan difasilitasi juga mengenai hal tersebut, antara lain memuat pasal pada pernyataan di bawah ini yang menjelaskan penanganan keluhan (complain) dan pengaduan (grievance) peserta. Pernyataan yang tepat tentang hal ini adalah:",
+      "jawaban": [
+        "BPJS wajib membentuk unit pengendali mutu pelayanan dan penanganan pengaduan peserta",
+        "dari pengetahuan umum (tidak ada di modul). UU No 24 Tahun 2011 tentang BPJS mengamanatkan pembentukan unit pengendali mutu pelayanan dan penanganan pengaduan peserta. Opsi B salah karena batas waktu 30 hari adalah untuk klaim, bukan pengaduan. Opsi C kurang tepat karena penyelesaian sengketa dapat melalui berbagai jalur. Opsi D salah karena malpraktek bukan ranah pengadilan negeri secara langsung untuk pengaduan administrasi."
+      ],
+      "pengecoh": [
+        "BPJS wajib menangani pengaduan paling lama 30 hari kerja sejak diterimanya pengaduan",
+        "Peserta yang merasa pengaduannya belum dapat diselesaikan BPJS, penyelesaiannya dapat dilakukan melalui lembaga perlindungan konsumen bidang kesehatan",
+        "Pengaduan peserta tentang tindak malapraktik kedokteran harus diajukan ke pengadilan negeri"
+      ]
+    },
+    {
+      "id": 75,
+      "kategori": "kombinasi",
+      "soal": "Penyelenggara pelayanan kesehatan dalam program JKN adalah semua fasilitas kesehatan yang bekerja sama dengan BPJS Kesehatan, terdiri dari fasilitas kesehatan tingkat pertama (FKTP) dan fasilitas kesehatan rujukan tingkat lanjutan (FKTL). Yang termasuk dalam kategori FKTP dalam program JKN adalah:\nI. Puskesmas atau klinik yang setara\nII. praktik dokter\nIII. praktik bersama dokter spesialis\nJawaban yang benar adalah:",
+      "jawaban": [
+        "I dan II",
+        "Fasilitas kesehatan tingkat pertama dapat berupa: a. Puskesmas atau yang setara (I); b. praktik dokter (II); c. praktik dokter gigi; d. klinik pratama atau yang setara; dan e. Rumah Sakit Kelas D Pratama atau yang setara. Praktik bersama dokter spesialis adalah fasilitas tingkat lanjutan. dari modul Page 142 (PDF)"
+      ],
+      "pengecoh": [
+        "I dan III",
+        "II dan III",
+        "I, II dan III"
+      ]
+    }
+  ]
+}
