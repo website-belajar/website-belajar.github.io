@@ -1,0 +1,1054 @@
+{
+  "bank_soal": [
+    {
+      "id": 1,
+      "kategori": "kombinasi",
+      "soal": "Dekrit Kerajaan 17 November 1881 oleh Kaisar Wilhelm I Raja Prusia dan Kaisar Jerman yang pertama, resmi meluncurkan pengembangan sistem asuransi untuk pekerja di Jerman atas prakarsa dari Kanselir Jerman Otto von Bismarck, dan dianggap sebagai awal sejarah asuransi sosial modern di dunia. Konsep asuransi sosial yang berkembang awalnya di Jerman ini, terkenal dengan kebijakannya antara lain:\nI. Asuransi kesehatan (1883)\nII. Asuransi kecelakaan (1884)\nIII. Asuransi hari tua dan disabilitas (1889)",
+      "jawaban": [
+        "I, II dan III",
+        "Modul menjelaskan bahwa pada masa Otto von Bismarck, Jerman memberlakukan Undang-Undang Asuransi Kesehatan (1883), diperluas dengan asuransi kecelakaan (1884), asuransi cacat (1889), dan asuransi pengangguran (1927) (dari modul Page 14 (PDF))."
+      ],
+      "pengecoh": [
+        "I dan II saja",
+        "I dan III saja",
+        "II dan III saja"
+      ]
+    },
+    {
+      "id": 2,
+      "kategori": "tunggal",
+      "soal": "Pada sekitar tahun 1990-2014, program JPK Jamsostek yang diatur dalam UU No. 3 tahun 1992, melalui PP No. 14 tahun 1993 diberi opsi keluar (opt out) yaitu:",
+      "jawaban": [
+        "perusahaan yang dapat memberikan jaminan yang lebih baik, boleh tidak ikut JPK Jamsostek",
+        "Modul menjelaskan bahwa Peraturan Pemerintah Nomor 14 Tahun 1993 membolehkan firma tertentu keluar atau tidak ikut JPK Jamsostek (opt out) apabila perusahaan tersebut telah atau akan memberikan jaminan yang lebih baik dari program JPK Jamsostek (dari modul Page 75 (PDF))."
+      ],
+      "pengecoh": [
+        "peserta wanita yang sudah berkeluarga boleh mengikutsertakan anaknya sebagai tanggungan",
+        "layanan kesehatan yang mahal, seperti cacat bawaan, pengobatan kanker, pengobatan jantung, dan cuci darah (hemodialisa) tidak dijamin",
+        "karyawan yang sudah keluar dari pekerjaannya dapat tetap menjadi peserta sepanjang dia membayar premi"
+      ]
+    },
+    {
+      "id": 3,
+      "kategori": "tunggal",
+      "soal": "AKN di Thailand sudah hampir mencakup 100% penduduknya, yang sampai sekarang dikelola oleh:",
+      "jawaban": [
+        "satu Badan Penyelenggara",
+        "Modul menjelaskan bahwa Asuransi Kesehatan Nasional di Thailand saat ini diselenggarakan oleh National Health Security Office (NHSO), sebuah lembaga pemerintah yang bertanggung jawab atas pengelolaan sistem asuransi kesehatan universal (dari modul Page 33 (PDF))."
+      ],
+      "pengecoh": [
+        "lebih dari tiga Badan Penyelenggara",
+        "tiga Badan Penyelenggara seperti di Indonesia sebelum tahun 2014 (PT Askes untuk pegawai negeri, PT Jamsostek untuk pegawai formal, dan sisanya oleh satu Badan tersendiri yaitu NHSO)",
+        "kurang dari tiga Badan Penyelenggara"
+      ]
+    },
+    {
+      "id": 4,
+      "kategori": "tunggal",
+      "soal": "Selain sistem asuransi sosial, ada sistem pembiayaan yang lain yang memberikan layanan gratis kepada semua penduduk, yang dikembangkan oleh reformis sosial Inggris - William Beveridge, sering disebut sebagai:",
+      "jawaban": [
+        "Tax Based Health Financing (NHS)",
+        "Modul menjelaskan bahwa National Health Service (NHS) di Inggris beroperasi berdasarkan model Beveridge, di mana layanan kesehatan didanai dari pajak dan diberikan secara gratis kepada seluruh warga (dari modul Page 13 (PDF))."
+      ],
+      "pengecoh": [
+        "Medicare",
+        "Medicaid",
+        "Asuransi Wajib"
+      ]
+    },
+    {
+      "id": 5,
+      "kategori": "tunggal",
+      "soal": "Reformasi sistem AKN di Australia terjadi pada tahun 1990an yang berupa:",
+      "jawaban": [
+        "penduduk dirangsang untuk membeli asuransi kesehatan komersial",
+        "Modul menyebutkan bahwa reformasi sistem Asuransi Kesehatan Nasional Australia terjadi pada tahun 1990an dengan merangsang penduduk untuk membeli asuransi kesehatan komersial (dari modul Page 31 (PDF))."
+      ],
+      "pengecoh": [
+        "pasien yang tidak mampu membayar biaya kesehatan di rumah sakit ditanggung pemerintah",
+        "pasien yang mempunyai pengharapan hidup kurang dari 6 bulan dibebaskan dari semua biaya",
+        "keluarga yang mempunyai tanggungan lebih dari 5 orang dibantu pemerintah untuk membayar premi sebesar 50%"
+      ]
+    },
+    {
+      "id": 6,
+      "kategori": "tunggal",
+      "soal": "Konsep asuransi sosial yang diwajibkan oleh negara mulai berkembang di Eropa sejak Otto von Bismarck mewajibkan seluruh pekerja di Jerman untuk bergabung dalam:",
+      "jawaban": [
+        "AOK Die Gesundheitskasse",
+        "Modul menyebutkan bahwa di Jerman terdapat badan penyelenggara asuransi kesehatan sosial yang disebut 'sickness funds', dan kini asuransi kesehatan sosial terbesar dipegang oleh badan yang bernama AOK (dari modul Page 26 (PDF))."
+      ],
+      "pengecoh": [
+        "Zieken Fond",
+        "Medicaid",
+        "Medicare"
+      ]
+    },
+    {
+      "id": 7,
+      "kategori": "tunggal",
+      "soal": "Pembiayaan asuransi kesehatan sosial di Jerman diperoleh dari:",
+      "jawaban": [
+        "kontribusi premi penduduk yang berpendapatan tertentu",
+        "Modul menjelaskan bahwa di Jerman, semua penduduk dengan penghasilan di bawah EUR 3.375 per bulan wajib membayar kontribusi untuk asuransi kesehatan yang mencapai 14% dari upah sebulan. Ini merupakan kontribusi dari pekerja dan pemberi kerja (dari modul Page 27 (PDF))."
+      ],
+      "pengecoh": [
+        "anggaran belanja negara yang dialokasikan khusus",
+        "pajak penghasilan ketika mereka masih aktif bekerja",
+        "tabungan wajib penduduk seperti halnya pembayaran pajak umum"
+      ]
+    },
+    {
+      "id": 8,
+      "kategori": "tunggal",
+      "soal": "Amerika Serikat sejak tahun 1966 telah memiliki asuransi kesehatan sosial yang dikenal dengan Medicare part A, yaitu:",
+      "jawaban": [
+        "jaminan rawat inap untuk penduduk pensiun atau lanjut usia, atau berusia di atas 65 tahun",
+        "Modul menjelaskan bahwa Medicare Part A di Amerika Serikat merupakan asuransi kesehatan rawat inap untuk penduduk di atas 65 tahun (lansia) (dari modul Page 25 (PDF))."
+      ],
+      "pengecoh": [
+        "jaminan rawat jalan bagi para pensiunan pekerja pemerintah sipil dan keluarganya",
+        "jaminan rawat inap bagi seluruh penduduk yang masuk dalam kategori miskin",
+        "jaminan rawat inap dan rawat jalan bagi pekerja formal dan keluarganya"
+      ]
+    },
+    {
+      "id": 9,
+      "kategori": "tunggal",
+      "soal": "Obyek asuransi kesehatan berbeda dengan asuransi umum maupun asuransi jiwa. Obyek asuransi kesehatan sangat luas mencakup:",
+      "jawaban": [
+        "kejadian sakit, kecelakaan, kehilangan penghasilan dan pembayaran cicilan hutang ketika tertanggung menderita sakit",
+        "Modul menjelaskan bahwa obyek asuransi kesehatan sangat luas mencakup kejadian sakit, kecelakaan, kehilangan penghasilan, pembayaran cicilan hutang ketika tertanggung menderita sakit (dari modul Page 40 (PDF))."
+      ],
+      "pengecoh": [
+        "tabungan dana sehat, unit link kesehatan, ketidakmampuan kerja akibat sakit dan pelunasan hutang akibat tertanggung meninggal dunia",
+        "pelayanan kesehatan sebaik-baiknya melalui cara-cara tertentu agar pelayanan kesehatan dapat tersedia dengan efisien dan berkualitas",
+        "bagaimana mengendalikan biaya pelayanan kesehatan sebaik-baiknya melalui cara-cara tertentu agar pelayanan kesehatan dapat tersedia efisien dengan biaya murah"
+      ]
+    },
+    {
+      "id": 10,
+      "kategori": "tunggal",
+      "soal": "Kanada memulai Asuransi Kesehatan Nasionalnya dengan hanya mencakup:",
+      "jawaban": [
+        "rawat inap",
+        "Modul menjelaskan bahwa usaha menyediakan jaminan kesehatan kepada semua penduduk dimulai tahun 1947 ketika provinsi Saskatchewan memulai penyelenggaraan asuransi kesehatan wajib/sosial untuk pelayanan rumah sakit saja. Pada awalnya, hanya rawat inap yang dijamin oleh AKN (dari modul Page 29 (PDF))."
+      ],
+      "pengecoh": [
+        "rawat jalan",
+        "obat-obatan",
+        "kasus katastrofik"
+      ]
+    },
+    {
+      "id": 11,
+      "kategori": "tunggal",
+      "soal": "Asuransi kesehatan mempunyai arti luas, di dalamnya termasuk asuransi biaya medis, asuransi disabilitas pendapatan serta asuransi perawatan jangka panjang. Asuransi kesehatan tersebut bisa saja dikelola oleh perusahaan asuransi komersial, badan penyelenggara asuransi sosial, ataupun asuransi mandiri atau swakelola (self-insured). Asuransi kesehatan di Indonesia sudah dimulai sejak 1947 dengan diberlakukannya peraturan atau perundangan tentang:",
+      "jawaban": [
+        "Pembayaran ganti-kerugian kepada buruh yang mendapat kecelakaan berhubung dengan hubungan kerja",
+        "Modul menyebutkan bahwa Pemerintah Indonesia mulai memperkenalkan prinsip asuransi sejak tahun 1947, di mana pada waktu itu Pemerintah mewajibkan semua perusahaan untuk mengasuransikan karyawannya terhadap kecelakaan dan penyakit akibat kerja (dari modul Page 72 (PDF))."
+      ],
+      "pengecoh": [
+        "Program asuransi sosial bagi anggota angkatan bersenjata dan keluarganya",
+        "Program pemeliharaan kesehatan bagi pegawai negeri sipil dan keluarganya",
+        "Asuransi kecelakaan alat angkutan umum dan lalu lintas jalan"
+      ]
+    },
+    {
+      "id": 12,
+      "kategori": "tunggal",
+      "soal": "Jamkesda sebagai Program Jaminan Kesehatan Daerah yang dikembangkan oleh banyak daerah seperti di Yogyakarta, DKI, Kaltim dan lain-lain lebih berkembang ketika Kemenkes meminta daerah menjamin yang di luar kuota program:",
+      "jawaban": [
+        "Jamkesmas",
+        "Modul menjelaskan bahwa untuk menjaga kecukupan dana Jamkesmas, Kemenkes menerapkan aturan ketat. Kemenkes meminta Pemerintah Daerah menjamin penduduk di luar kuota Jamkesmas, yang biasa dengan SKTM. Maka berkembanglah program Jaminan Kesehatan Daerah (Jamkesda) (dari modul Page 91 (PDF))."
+      ],
+      "pengecoh": [
+        "PKM",
+        "AKN",
+        "JKN"
+      ]
+    },
+    {
+      "id": 13,
+      "kategori": "tunggal",
+      "soal": "Sesuai dengan UU No 40 tahun 2014 tentang Perasuransian, produk asuransi kesehatan dapat dipasarkan oleh:",
+      "jawaban": [
+        "perusahaan asuransi jiwa dan asuransi umum",
+        "Berdasarkan UU No 40 Tahun 2014 tentang Perasuransian, produk asuransi kesehatan dapat dipasarkan oleh perusahaan asuransi jiwa dan perusahaan asuransi umum (dari pengetahuan umum (tidak ada di modul)). Opsi B, C, dan D salah karena tidak lengkap atau tidak sesuai dengan ketentuan UU tersebut."
+      ],
+      "pengecoh": [
+        "perusahaan asuransi jiwa saja",
+        "perusahaan asuransi umum saja",
+        "perusahaan asuransi sosial"
+      ]
+    },
+    {
+      "id": 14,
+      "kategori": "kombinasi",
+      "soal": "Kanada memperkenalkan AKN yang disebut Canadian Medicare dengan prinsip:\nI. menjamin akses universal\nII. portabel\nIII. paket jaminan yang sama bagi semua penduduk dan dilaksanakan secara otonom di tiap provinsi",
+      "jawaban": [
+        "I, II dan III",
+        "Modul menjelaskan bahwa Kanada memperkenalkan AKN yang kini disebut Canadian Medicare dengan prinsip dasar menjamin akses universal, portabel, paket jaminan yang sama bagi semua penduduk dan dilaksanakan secara otonom di tiap provinsi (dari modul Page 29 (PDF))."
+      ],
+      "pengecoh": [
+        "I dan II saja",
+        "I dan III saja",
+        "II dan III saja"
+      ]
+    },
+    {
+      "id": 15,
+      "kategori": "tunggal",
+      "soal": "Jika diketahui probabilitas sakit penduduk sebesar 0,05. Jika rata-rata biaya pengobatan untuk setiap kasus sakit sebesar 5 juta rupiah. Jika dalam suatu kota jumlah penduduknya sebanyak 3 juta maka dana kesehatan yang dibutuhkan sebesar:",
+      "jawaban": [
+        "Rp. 750 milyar",
+        "Perhitungan: Jumlah penduduk sakit = 0,05 x 3.000.000 = 150.000 orang. Total biaya = 150.000 x Rp 5.000.000 = Rp 750.000.000.000 (Rp 750 Milyar). Ini adalah aplikasi dari perhitungan risk pooling (dari modul Page 48 (PDF))."
+      ],
+      "pengecoh": [
+        "Rp. 300 milyar",
+        "Rp. 600 milyar",
+        "Rp. 150 milyar"
+      ]
+    },
+    {
+      "id": 16,
+      "kategori": "kombinasi",
+      "soal": "Indonesia menganut kerangka kerja ILO pengaturan sistem jaminan sosial dengan beberapa pilar, sesuai tingkat pendapatan kelas masyarakat yang berbeda. Maka berdasar pilar-pilar dalam kerangka kerja ILO tersebut, maka:\nI. pilar pertama dibiayai oleh pemerintah untuk melayani kelas masyarakat yang tidak mampu membeli layanan jaminan sosial\nII. pilar kedua melayani mereka yang bisa memberikan kontribusi dan wajib serta diawasi oleh pemerintah\nIII. pilar ketiga melayani mereka yang mampu untuk melengkapi pilar kedua dengan membeli manfaat asuransi komersial, di mana pilar ini bersifat sukarela dan dikelola swasta",
+      "jawaban": [
+        "I, II dan III",
+        "Modul menjelaskan bahwa sistem jaminan sosial dibangun di atas tiga pilar: Pilar Bantuan Sosial (social assistance) bagi yang miskin (I), Pilar Asuransi Sosial yang wajib (II), dan Pilar Suplemen (III) (dari modul Page 84 (PDF) dan Page 85 (PDF))."
+      ],
+      "pengecoh": [
+        "I dan II saja",
+        "I dan III saja",
+        "II dan III saja"
+      ]
+    },
+    {
+      "id": 17,
+      "kategori": "kombinasi",
+      "soal": "Tidak semua penderita gagal ginjal memerlukan hemodialisa. Bu Rita, salah seorang penderita gagal ginjal memerlukan tindakan ini seminggu 2 kali. Ada perusahaan asuransi yang tertarik memasarkan produk dengan manfaat ini karena alasan:\nI. Premi asuransi yang ditawarkan bisa murah\nII. Probabilitas penderita gagal ginjal yang perlu hemodialisa relatif kecil\nIII. Cakupan tersebut layak untuk diasuransikan",
+      "jawaban": [
+        "I, II dan III",
+        "Syarat risiko dapat diasuransikan antara lain probabilitas kejadiannya relatif kecil. Kejadian gagal ginjal yang membutuhkan hemodialisis memiliki probabilitas sangat kecil, sehingga premi yang dihasilkan juga kecil/murah (I, II) dan menarik untuk diasuransikan (III) (dari modul Page 57 (PDF))."
+      ],
+      "pengecoh": [
+        "I dan II saja",
+        "I dan III saja",
+        "II dan III saja"
+      ]
+    },
+    {
+      "id": 18,
+      "kategori": "tunggal",
+      "soal": "Asuransi kesehatan sosial di Indonesia cenderung menjamin pelayanan kesehatan secara komprehensif karena ada kaitan antara risiko berbiaya rendah dengan risiko berbiaya mahal. Jaminan pelayanan kesehatan komprehensif merupakan kombinasi teknik pengendalian risiko yaitu:",
+      "jawaban": [
+        "risk transfer dan risk assumption",
+        "Jaminan kesehatan komprehensif menggabungkan risiko biaya rendah dan tinggi. Peserta mentransfer risiko finansialnya (risk transfer) ke badan penyelenggara, dan pada saat yang sama menerima/mengambil risiko bahwa ia harus membayar iuran meskipun tidak sakit (risk assumption) (dari modul Page 52 (PDF) dan Page 53 (PDF))."
+      ],
+      "pengecoh": [
+        "risk reduction dan risk transfer",
+        "risk avoidance dan risk assumption",
+        "risk transfer dan risk avoidance"
+      ]
+    },
+    {
+      "id": 19,
+      "kategori": "tunggal",
+      "soal": "Yang dimaksud dengan informasi asimetri antara penyelenggara jaminan atau asuransi dengan konsumen adalah:",
+      "jawaban": [
+        "konsumen tidak mengetahui dengan tepat tingkat risiko yang dihadapi sehingga tidak mengetahui apakah premi yang dibayar sudah pas atau terlalu mahal",
+        "Asimetri informasi adalah kondisi ketidakseimbangan informasi di mana asuradur memiliki informasi lebih banyak tentang probabilitas risiko dan biaya, sementara peserta tidak. Akibatnya peserta sulit menilai kewajaran premi (dari modul Page 51 (PDF) dan Page 104 (PDF))."
+      ],
+      "pengecoh": [
+        "konsumen lebih mengetahui haknya dibanding kewajiban kepada asuradur",
+        "konsumen sangat paham terhadap hak dan kewajiban yang disampaikan oleh asuradur",
+        "informasi dari asuradur kepada konsumen sangat jelas"
+      ]
+    },
+    {
+      "id": 20,
+      "kategori": "kombinasi",
+      "soal": "Untuk mengatasi ketidakpuasan segolongan masyarakat terhadap asuransi sosial, pemerintah biasanya bersikap:\nI. memberikan kesempatan kepada mereka untuk membeli asuransi suplemen/tambahan\nII. mereka dapat membeli asuransi komersial\nIII. penduduk kelas atas dibiarkan tidak menggunakan haknya dalam asuransi sosial",
+      "jawaban": [
+        "I, II dan III",
+        "Modul menjelaskan bahwa untuk mengatasi ketidakpuasan peserta asuransi sosial (terutama kelas menengah ke atas), pemerintah biasanya memberikan kesempatan membeli asuransi suplemen (I), membeli asuransi komersial (II), atau membiarkan mereka tidak menggunakan haknya dalam asuransi sosial (III) (dari modul Page 66 (PDF))."
+      ],
+      "pengecoh": [
+        "I dan II saja",
+        "I dan III saja",
+        "II dan III saja"
+      ]
+    },
+    {
+      "id": 21,
+      "kategori": "tunggal",
+      "soal": "Definisi biaya medis katastropik untuk rumah tangga menurut WHO adalah:",
+      "jawaban": [
+        "jika rumah tangga menghabiskan lebih dari 40% penghasilan rumah tangga tersebut untuk biaya pengobatan atau perawatan",
+        "Modul menyebutkan bahwa WHO memberikan definisi biaya medis katastropik bagi rumah tangga jika biaya pengobatan atau perawatan menghabiskan lebih dari 40% penghasilan rumah tangga (WHO, 2000) (dari modul Page 58 (PDF))."
+      ],
+      "pengecoh": [
+        "biaya yang dikeluarkan oleh pemerintah untuk pengobatan atau perawatan keluarga yang sakit akibat bencana alam",
+        "biaya yang dikeluarkan oleh pemerintah untuk pengobatan keluarga yang ditimpa bencana wabah penyakit menular",
+        "biaya yang dikeluarkan oleh anggota keluarga untuk pengobatan atau perawatan penyakit kanker dan penyakit mahal lainnya"
+      ]
+    },
+    {
+      "id": 22,
+      "kategori": "tunggal",
+      "soal": "Pengelola asuransi sosial haruslah lembaga not-for-profit, salah satu implementasinya adalah:",
+      "jawaban": [
+        "keuntungan yang diperoleh dikembalikan untuk mensejahterakan masyarakat atau anggota",
+        "Prinsip nirlaba (not-for-profit) menyatakan bahwa hasil pengembangan pengelolaan dana dimanfaatkan sebesar-besarnya untuk kepentingan peserta. Sisa hasil usaha digunakan untuk perbaikan pelayanan, perluasan paket jaminan, atau dikembalikan dalam bentuk potongan iuran (dari modul Page 18 (PDF) dan Page 60 (PDF))."
+      ],
+      "pengecoh": [
+        "bila lembaga tersebut merupakan perseroan terbatas, ia harus membayar dividen kepada peserta",
+        "lembaga tersebut boleh mencari untung asal membayar pajak pada negara",
+        "pegawainya berstatus sebagai pekerja sosial"
+      ]
+    },
+    {
+      "id": 23,
+      "kategori": "tunggal",
+      "soal": "Peserta JKN secara langsung memperoleh hak untuk menyertakan anggota keluarga inti maksimal 5 orang dalam satu keluarga. Untuk penambahan anggota keluarga lainnya contoh orang tua peserta, maka peserta dikenakan premi tambahan persentase dari upahnya sejumlah:",
+      "jawaban": [
+        "1% per jiwa",
+        "Berdasarkan Perpres 82/2018 dan perubahannya, anggota keluarga tambahan (selain suami/istri dan maksimal 3 anak) didaftarkan sebagai peserta PBPU (mandiri) dengan iuran nominal, atau dalam konteks tertentu dikenakan tambahan 1% dari upah per jiwa (dari pengetahuan umum (tidak ada di modul)). Opsi A, B, dan D salah karena bukan ketentuan yang berlaku."
+      ],
+      "pengecoh": [
+        "senilai premi yang menjadi hak peserta",
+        "senilai premi yang menjadi pilihan peserta tambahan",
+        "2% per jiwa"
+      ]
+    },
+    {
+      "id": 24,
+      "kategori": "kombinasi",
+      "soal": "Yang terkait dengan prinsip equity egaliter dalam asuransi kesehatan adalah:\nI. menjamin seseorang untuk mendapatkan pelayanan kesehatan sesuai kebutuhan\nII. membayar premi sesuai persentase upah atau kemampuan ekonominya\nIII. umumnya diselenggarakan oleh pemerintah dalam suatu negara",
+      "jawaban": [
+        "I, II dan III",
+        "Equity egaliter berarti you get what you need (I) dan membayar kontribusi sesuai kemampuan ekonomi (II). Prinsip ini umumnya diselenggarakan oleh pemerintah melalui asuransi sosial (III) (dari modul Page 56 (PDF) dan Page 57 (PDF))."
+      ],
+      "pengecoh": [
+        "I dan II saja",
+        "I dan III saja",
+        "II dan III saja"
+      ]
+    },
+    {
+      "id": 25,
+      "kategori": "tunggal",
+      "soal": "Pak Adi, seorang direktur sebuah perusahaan, menjadi peserta asuransi kesehatan dari perusahaan asuransi komersial dengan membayar premi yang lebih mahal maka bila sakit dan perlu perawatan dapat dirawat di kelas VIP. Pak Burhan, seorang direktur perusahaan baru dengan sedikit karyawan, hanya mampu membayar premi yang lebih murah dari perusahaan asuransi komersial yang sama dan bila pak Burhan sakit serta perlu perawatan dapat dirawat di kelas 2. Ini merupakan contoh dari:",
+      "jawaban": [
+        "Equity liberter",
+        "Equity liberter (you get what you pay for) menggambarkan pelayanan kesehatan yang diberikan sesuai dengan besaran premi yang dibayarkan. Peserta yang membayar lebih mahal mendapat fasilitas yang lebih baik (dari modul Page 57 (PDF))."
+      ],
+      "pengecoh": [
+        "Adverse selection",
+        "Equity egaliter",
+        "Adhesion"
+      ]
+    },
+    {
+      "id": 26,
+      "kategori": "tunggal",
+      "soal": "Dari data yang ada, negara-negara yang menggunakan asuransi kesehatan sosial menghasilkan:",
+      "jawaban": [
+        "cakupan lebih luas, biaya lebih rendah, IMR lebih rendah",
+        "Tabel 1 di modul menunjukkan bahwa negara-negara dengan asuransi kesehatan sosial (seperti Australia, Austria, Belanda, Inggris) memiliki cakupan mendekati 100% (lebih luas), biaya kesehatan per kapita lebih rendah dibanding Amerika yang menggunakan asuransi komersial, dan IMR (Infant Mortality Rate) yang lebih rendah (dari modul Page 35 (PDF))."
+      ],
+      "pengecoh": [
+        "cakupan lebih terbatas, biaya lebih rendah, IMR (infant mortality rate) lebih rendah",
+        "cakupan lebih luas, biaya lebih tinggi, IMR lebih rendah",
+        "cakupan lebih terbatas, biaya lebih rendah, IMR lebih tinggi"
+      ]
+    },
+    {
+      "id": 27,
+      "kategori": "kombinasi",
+      "soal": "Indikator status kesehatan yang lazim digunakan adalah:\nI. status kesehatan penduduk pra sekolah\nII. umur harapan hidup\nIII. angka kematian bayi",
+      "jawaban": [
+        "II dan III saja",
+        "Modul menjelaskan bahwa pengukuran status kesehatan yang lazim digunakan adalah angka kematian bayi (AKB) (III) dan umur harapan hidup (II) (dari modul Page 35 (PDF))."
+      ],
+      "pengecoh": [
+        "I dan II saja",
+        "I dan III saja",
+        "I, II dan III"
+      ]
+    },
+    {
+      "id": 28,
+      "kategori": "kombinasi",
+      "soal": "Konsumen sulit untuk memilih produk asuransi dengan harga yang sesuai kebutuhannya, karena:\nI. risiko yang dihadapi konsumen berfluktuasi\nII. asimetri informasi antara asuradur dan konsumen (pembeli asuransi)\nIII. konsumen tidak mengetahui dengan tepat tingkat risiko yang dihadapinya",
+      "jawaban": [
+        "II dan III saja",
+        "Kesulitan konsumen memilih produk asuransi disebabkan oleh asimetri informasi (II) dan ketidaktahuan konsumen akan tingkat risikonya sendiri (III). Fluktuasi risiko (I) bukan penyebab utama kesulitan memilih produk (dari modul Page 51 (PDF))."
+      ],
+      "pengecoh": [
+        "I dan II saja",
+        "I dan III saja",
+        "I, II dan III"
+      ]
+    },
+    {
+      "id": 29,
+      "kategori": "kombinasi",
+      "soal": "Indeks Makro Kesehatan menggambarkan tingkat kesehatan secara nasional sehingga dapat dibandingkan dengan negara-negara lain, dan juga sering digunakan untuk menghitung indeks kualitas hidup fisik (physical quality of life index, PQLI). Indeks Makro Kesehatan yang dimaksud adalah:\nI. Angka Melek Huruf (Literacy Rate)\nII. Angka Harapan Hidup (Life Expectancy)\nIII. Angka Kematian Bayi (Infant Mortality Rate)",
+      "jawaban": [
+        "I, II dan III",
+        "PQLI (Physical Quality of Life Index) dihitung berdasarkan tiga indikator: Angka Melek Huruf (I), Angka Harapan Hidup (II), dan Angka Kematian Bayi (III). Modul menyebutkan bahwa pengukuran status kesehatan yang lazim digunakan adalah AKB dan umur harapan hidup, dan keduanya berkorelasi kuat dengan status kesehatan (dari modul Page 35 (PDF) dan pengetahuan umum)."
+      ],
+      "pengecoh": [
+        "I dan II saja",
+        "I dan III saja",
+        "II dan III saja"
+      ]
+    },
+    {
+      "id": 30,
+      "kategori": "tunggal",
+      "soal": "Beda premi asuransi sosial dengan pajak adalah pada asuransi sosial:",
+      "jawaban": [
+        "pajak bersifat progresif, iuran cenderung bersifat regresif",
+        "Modul menjelaskan bahwa pada prinsipnya premi asuransi sosial mirip pajak, bedanya pajak umumnya progresif (persentase naik seiring kenaikan penghasilan), sedangkan premi asuransi sosial tidak progresif, bahkan cenderung regresif karena seringkali diberlakukan batas maksimum (dari modul Page 59 (PDF))."
+      ],
+      "pengecoh": [
+        "pajak bersifat regresif, iuran bersifat progresif",
+        "pajak bersifat tetap, premi bersifat progresif",
+        "pajak bersifat regresif, iuran cenderung tetap"
+      ]
+    },
+    {
+      "id": 31,
+      "kategori": "tunggal",
+      "soal": "Pilar asuransi sosial pada jaminan sosial Indonesia adalah:",
+      "jawaban": [
+        "merupakan sistem pengumpulan dana dengan mekanisme asuransi wajib diikuti semua penduduk yang mempunyai penghasilan di atas garis kemiskinan dengan membayar iuran proporsional dengan penghasilannya",
+        "Modul menjelaskan bahwa Pilar Asuransi Sosial adalah sistem pengumpulan dana (pooling of risk) dengan mekanisme asuransi yang wajib diikuti oleh semua penduduk yang mempunyai penghasilan (di atas garis kemiskinan) dengan membayar iuran yang proporsional terhadap penghasilannya/upahnya (dari modul Page 84 (PDF))."
+      ],
+      "pengecoh": [
+        "merupakan pembayaran iuran berdasarkan keinginan perorangan atau lembaga usaha sebagai bagian dari tunjangan pegawai",
+        "merupakan sistem bantuan premi oleh pemerintah bagi masyarakat miskin, tidak mampu atau tidak berpenghasilan tetap untuk ikut serta dalam asuransi sosial",
+        "merupakan sistem pengumpulan dana yang wajib diikuti oleh semua penduduk yang mempunyai penghasilan tetap berapapun besarannya dengan membayar iuran yang proporsional terhadap upahnya"
+      ]
+    },
+    {
+      "id": 32,
+      "kategori": "tunggal",
+      "soal": "Program jaminan kesehatan nasional sebagaimana dimaksud dalam UU No. 40 tahun 2004 memberikan paket jaminan dasar yaitu:",
+      "jawaban": [
+        "kebutuhan dasar kesehatan sesuai indikasi medis",
+        "Modul menjelaskan bahwa JKN menjamin paket layanan dasar/standar yang diterjemahkan lebih rinci dalam Peraturan Presiden. Paket dasar adalah paket jaminan asuransi kesehatan yang dijamin program publik untuk memenuhi kebutuhan dasar kesehatan. Manfaat medis diberikan sesuai dengan indikasi medis (dari modul Page 155 (PDF) dan Page 179 (PDF))."
+      ],
+      "pengecoh": [
+        "kebutuhan minimum seseorang untuk bisa berfungsi secara normal",
+        "semua kebutuhan medis yang dapat dipenuhi teknologi kedokteran di dalam negeri",
+        "layanan di Puskesmas, klinik Pratama, dan dokter/dokter gigi praktik umum"
+      ]
+    },
+    {
+      "id": 33,
+      "kategori": "tunggal",
+      "soal": "JKN dilaksanakan dengan menganut sistem:",
+      "jawaban": [
+        "single payer system",
+        "Modul menjelaskan bahwa awal tahun 2014, jaminan kesehatan nasional mulai dilaksanakan dengan sistem satu pembayar (single payer system) untuk menjamin kebutuhan dasar seluruh penduduk (dari modul Page 154 (PDF))."
+      ],
+      "pengecoh": [
+        "monopsony system",
+        "multi payer system",
+        "bi payer system"
+      ]
+    },
+    {
+      "id": 34,
+      "kategori": "tunggal",
+      "soal": "Dalam UU SJSN no. 40 tahun 2004, bantuan sosial diwujudkan dalam bentuk:",
+      "jawaban": [
+        "iuran/premi JKN bagi penduduk miskin dan tidak mampu",
+        "Modul menjelaskan bahwa dalam UU SJSN, bantuan sosial diwujudkan dengan bantuan iuran oleh Pemerintah (Pusat) agar mereka yang miskin dan tidak mampu dapat tetap menjadi peserta jaminan kesehatan nasional. Penerima subsidi iuran disebut Penerima Bantuan Iuran (PBI) (dari modul Page 84 (PDF))."
+      ],
+      "pengecoh": [
+        "dana kesehatan yang diberikan ke masing-masing dinas kesehatan provinsi/kabupaten",
+        "modal kerja untuk pendirian pembangunan ruang inap RS",
+        "uang tunai yang diberikan langsung"
+      ]
+    },
+    {
+      "id": 35,
+      "kategori": "tunggal",
+      "soal": "Fasilitas kesehatan yang bisa melayani peserta program JKN bisa milik pemerintah baik pusat atau daerah, dan bisa juga milik swasta. Fasilitas kesehatan yang wajib menjalin kerja sama dengan BPJS? Kesehatan untuk melayani peserta jaminan kesehatan nasional (JKN) adalah:",
+      "jawaban": [
+        "Fasilitas kesehatan milik pemerintah meskipun belum terakreditasi",
+        "Modul menjelaskan bahwa Fasilitas Kesehatan milik Pemerintah Pusat dan Pemerintah Daerah yang memenuhi persyaratan wajib bekerja sama dengan BPJS Kesehatan, sedangkan fasilitas kesehatan swasta tidak diwajibkan (dari modul Page 184 (PDF)). Opsi A, B, dan D salah karena kepemilikan pemerintah yang menjadi dasar kewajiban, bukan status akreditasi atau swasta."
+      ],
+      "pengecoh": [
+        "Fasilitas swasta yang sudah mempunyai izin",
+        "Fasilitas kesehatan milik pemerintah harus yang sudah terakreditasi",
+        "Fasilitas kesehatan swasta terakreditasi"
+      ]
+    },
+    {
+      "id": 36,
+      "kategori": "tunggal",
+      "soal": "Dalam JKN penggunaan obat suplemen diatur sebagai berikut:",
+      "jawaban": [
+        "Tidak ditanggung karena bukan kebutuhan medis",
+        "Modul menjelaskan bahwa pelayanan kesehatan yang tidak dijamin dalam program JKN antara lain adalah pelayanan yang tidak sesuai dengan indikasi medis, termasuk obat-obatan suplemen yang bukan merupakan kebutuhan medis (dari modul Page 181 (PDF))."
+      ],
+      "pengecoh": [
+        "Ditanggung kecuali jenis non-herbal (kimia)",
+        "Ditanggung untuk jenis tertentu yang sudah terdaftar di Departemen Kesehatan",
+        "Ditanggung, dengan urun bayar dari peserta"
+      ]
+    },
+    {
+      "id": 37,
+      "kategori": "tunggal",
+      "soal": "Dalam PerPres diatur bahwa pemberi kerja wajib membayar iuran kepada BPJS paling lambat tanggal 10 setiap bulan berjalan. Atas keterlambatan pembayaran, akan dikenakan denda sebesar:",
+      "jawaban": [
+        "2 persen per bulan",
+        "Berdasarkan Perpres 82/2018 dan perubahannya, keterlambatan pembayaran iuran dikenakan denda sebesar 2% per bulan dari jumlah iuran yang tertunggak (dari pengetahuan umum (tidak ada di modul)). Opsi A, C, dan D salah karena tidak sesuai dengan ketentuan denda yang berlaku."
+      ],
+      "pengecoh": [
+        "1 permil per hari",
+        "1 persen per bulan",
+        "1 permil per bulan"
+      ]
+    },
+    {
+      "id": 38,
+      "kategori": "tunggal",
+      "soal": "Jika seorang pekerja formal peserta BPJS berhak rawat inap di kelas 1, kemudian terkena PHK dan sampai dengan 6 bulan berikutnya belum memperoleh pekerjaan kembali, maka hak perawatannya menjadi:",
+      "jawaban": [
+        "turun menjadi rawat inap kelas 3",
+        "Berdasarkan aturan JKN, peserta yang terkena PHK tetap memiliki hak atas jaminan kesehatan selama masa tenggang 6 bulan, namun hak kelas rawat inapnya diturunkan menjadi kelas 3 (dari pengetahuan umum (tidak ada di modul)). Opsi A, B, dan C salah karena tidak sesuai dengan ketentuan penurunan kelas rawat inap pasca-PHK."
+      ],
+      "pengecoh": [
+        "tetap rawat inap di kelas 1",
+        "tidak mendapatkan hak apapun sampai suatu saat memperoleh pekerjaan kembali",
+        "turun menjadi rawat inap di kelas 2"
+      ]
+    },
+    {
+      "id": 39,
+      "kategori": "tunggal",
+      "soal": "Untuk membantu fasilitas kesehatan membeli obat dengan harga yang lebih murah, program e-catalog dikembangkan Pemerintah yang merupakan:",
+      "jawaban": [
+        "suatu instrumen untuk menjamin mutu dan harga obat memenuhi standar Kemenkes",
+        "E-catalog adalah sistem pengadaan obat secara elektronik yang dikembangkan pemerintah untuk menjamin transparansi, mutu, dan harga obat yang sesuai standar Kemenkes (dari pengetahuan umum (tidak ada di modul)). Opsi A, B, dan C salah karena e-catalog bukan keharusan obat generik, bukan tender khusus RS pemerintah, dan tidak membatasi hanya pada RS kontrak BPJS."
+      ],
+      "pengecoh": [
+        "keharusan menggunakan obat generik untuk seluruh peserta JKN",
+        "sebuah instrumen tender fasilitas kesehatan milik pemerintah agar tidak perlu melakukan tender di masing-masing fasilitas kesehatan",
+        "keharusan bagi semua RS yang kontrak dengan BPJS Kesehatan untuk membeli obat melalui proses e-catalog"
+      ]
+    },
+    {
+      "id": 40,
+      "kategori": "tunggal",
+      "soal": "Inggris sudah lebih dari 50 tahun menerapkan kebijakan 'first dollar coverage and the sky is the limit' dan negara ini tidak bangkrut. Pada tahun 2009 negara ini hanya menghabiskan 9,8% PDB untuk kesehatan, bandingkan dengan Amerika Serikat yang menghabiskan 17,6% PDB. Kebijakan first dollar coverage ini berupa:",
+      "jawaban": [
+        "Badan penyelenggara menanggung semua layanan kesehatan atas indikasi medis",
+        "First dollar coverage berarti tidak ada deductible atau co-payment di awal; badan penyelenggara (NHS) menanggung semua layanan kesehatan yang dibutuhkan sesuai indikasi medis sejak dari rupiah pertama (dari pengetahuan umum (tidak ada di modul)). Opsi A, C, dan D salah karena bukan definisi first dollar coverage."
+      ],
+      "pengecoh": [
+        "Peserta hanya membayar $1 setiap berobat ke fasilitas kesehatan",
+        "Peserta membayar biaya pengobatan lalu diganti oleh badan penyelenggara",
+        "Peserta membayar lebih dulu layanan kesehatan sampai batas tertentu baru ditanggung badan penyelenggara"
+      ]
+    },
+    {
+      "id": 41,
+      "kategori": "tunggal",
+      "soal": "Dalam merumuskan paket layanan asuransi, sering digunakan istilah negative list, maksudnya adalah:",
+      "jawaban": [
+        "jenis pelayanan yang tidak ditanggung",
+        "Negative list adalah daftar jenis pelayanan kesehatan yang secara eksplisit tidak dijamin atau dikecualikan dalam paket asuransi (dari pengetahuan umum (tidak ada di modul)). Opsi B, C, dan D salah karena bukan definisi negative list."
+      ],
+      "pengecoh": [
+        "daftar provider yang sudah tidak bekerja sama dengan asuradur",
+        "daftar perusahaan yang keluar dan tidak direkomendasikan pada asuradur lain",
+        "daftar provider yang sering melakukan fraud atau abuse"
+      ]
+    },
+    {
+      "id": 42,
+      "kategori": "kombinasi",
+      "soal": "Menurut Perpres No. 12 tahun 2013 pelayanan kesehatan yang tidak dijamin dalam program Jaminan Kesehatan adalah:\nI. pelayanan operasi jantung dan cuci darah\nII. pelayanan yang dilakukan tidak sesuai prosedur yang ditentukan peraturan\nIII. alat kontrasepsi",
+      "jawaban": [
+        "II dan III saja",
+        "Perpres No. 12 Tahun 2013 mengecualikan pelayanan yang tidak sesuai prosedur peraturan (II) dan alat kontrasepsi (III). Operasi jantung dan cuci darah (I) justru dijamin sebagai kasus katastropik (dari modul Page 181 (PDF))."
+      ],
+      "pengecoh": [
+        "I dan II saja",
+        "I dan III saja",
+        "I, II dan III"
+      ]
+    },
+    {
+      "id": 43,
+      "kategori": "tunggal",
+      "soal": "Jumlah tanggungan yang dijamin untuk satu pekerja penerima upah dalam JKN ini adalah keluarga yang terdiri dari 1 istri/suami dengan maksimum:",
+      "jawaban": [
+        "3 anak",
+        "Berdasarkan Perpres 82/2018, anggota keluarga peserta PPU yang dijamin meliputi 1 istri/suami dan maksimal 3 anak (dari pengetahuan umum (tidak ada di modul)). Opsi A, B, dan D salah karena tidak sesuai dengan batas maksimal tanggungan yang diatur."
+      ],
+      "pengecoh": [
+        "4 anak",
+        "tidak ada batas maksimum",
+        "2 anak"
+      ]
+    },
+    {
+      "id": 44,
+      "kategori": "tunggal",
+      "soal": "Untuk peserta yang dirawat di RS yang tidak menjalin kontrak dengan BPJS karena keadaan gawat darurat, program JKN mengatur sebagai berikut:",
+      "jawaban": [
+        "peserta membayar terlebih dulu dan kemudian mendapat penggantian penuh atau sebagian dari BPJS",
+        "Modul menjelaskan bahwa pelayanan kesehatan yang dilakukan di Fasilitas Kesehatan yang tidak bekerja sama dengan BPJS Kesehatan tidak dijamin, kecuali dalam keadaan darurat. Dalam keadaan darurat, peserta dapat dilayani dan biaya dapat diganti sesuai ketentuan (dari modul Page 181 (PDF) dan pengetahuan umum)."
+      ],
+      "pengecoh": [
+        "RS harus melayani dan biayanya ditagihkan oleh RS kepada BPJS sesuai standar tarif yang ditentukan Menkes",
+        "RS harus melayani dan biayanya ditagihkan oleh RS kepada Pemda setempat sesuai standar tarif yang berlaku di wilayah tersebut",
+        "RS harus melayani dan biayanya ditagihkan oleh RS kepada BPJS sesuai standar tarif yang berlaku di RS tersebut"
+      ]
+    },
+    {
+      "id": 45,
+      "kategori": "tunggal",
+      "soal": "Menurut Perpres No. 12 tahun 2013 tentang Jaminan Kesehatan Nasional (JKN), pengembangan penggunaan teknologi dalam manfaat JKN harus sesuai dengan:",
+      "jawaban": [
+        "hasil penilaian teknologi kesehatan",
+        "Modul menjelaskan bahwa teknologi baru hanya dijamin jika telah dibuktikan dengan Health Technology Assessment (HTA) bahwa layanan teknologi baru tersebut memang layak dijamin (dari modul Page 107 (PDF))."
+      ],
+      "pengecoh": [
+        "rekomendasi dari persatuan dokter ahli di bidang yang bersangkutan",
+        "hasil uji coba di fasilitas yang ditunjuk pemerintah",
+        "rekomendasi sekurang-kurangnya 3 (tiga) rumah sakit type A"
+      ]
+    },
+    {
+      "id": 46,
+      "kategori": "tunggal",
+      "soal": "Pembayaran oleh BPJS kepada fasilitas pelayanan diatur sebagai berikut:",
+      "jawaban": [
+        "Sistem kapitas untuk pelayanan primer dan Case Base Group (CBG) untuk pelayanan sekunder dan tersier",
+        "Modul menjelaskan bahwa BPJS Kesehatan membayar rawat jalan rujukan dan rawat inap dengan cara Casemix Based Group (CBG), sedangkan untuk layanan primer menggunakan kapitasi (dari modul Page 106 (PDF) dan Page 185 (PDF))."
+      ],
+      "pengecoh": [
+        "Sistem kapitas untuk Puskesmas dan dokter umum, fee for service berdasarkan fee schedule untuk spesialis dan rumah sakit",
+        "Sistem kapitas untuk pelayanan primer, paket per hari untuk pelayanan rawat inap dan fee for service untuk pelayanan canggih",
+        "Sistem kapitas untuk pelayanan di fasilitas tingkat pertama dan, sistem budget untuk rumah sakit"
+      ]
+    },
+    {
+      "id": 47,
+      "kategori": "kombinasi",
+      "soal": "Berikut adalah cara-cara kendali biaya dari sisi supply yang sering dilakukan:\nI. standarisasi alat medik\nII. penggunaan obat generik\nIII. penggunaan e-catalog untuk pembelian obat",
+      "jawaban": [
+        "I, II dan III",
+        "Kendali biaya dari sisi supply meliputi standarisasi alat medik (I), penggunaan obat generik (II), dan e-catalog untuk pengadaan obat (III) (dari modul Page 105 (PDF) dan pengetahuan umum)."
+      ],
+      "pengecoh": [
+        "I dan II saja",
+        "I dan III saja",
+        "II dan III saja"
+      ]
+    },
+    {
+      "id": 48,
+      "kategori": "tunggal",
+      "soal": "BPJS Kesehatan membayar selisih biaya pengobatan akibat kecelakaan lalu lintas yang telah dibayarkan oleh program jaminan kecelakaan lalu lintas sesuai dengan tarif yang diberlakukan BPJS Kesehatan. Mekanisme di atas disebut:",
+      "jawaban": [
+        "coordination of benefit",
+        "Coordination of Benefit (CoB) adalah mekanisme koordinasi antar program jaminan untuk menghindari pembayaran ganda, di mana BPJS membayar selisih biaya yang tidak ditanggung oleh program lain (dari pengetahuan umum (tidak ada di modul)). Opsi A, C, dan D salah karena bukan istilah yang tepat untuk mekanisme ini."
+      ],
+      "pengecoh": [
+        "cost sharing",
+        "deductible",
+        "pelayanan yang tidak dijamin"
+      ]
+    },
+    {
+      "id": 49,
+      "kategori": "tunggal",
+      "soal": "Obat X adalah obat me too. Ini berarti obat itu merupakan:",
+      "jawaban": [
+        "Obat yang diproduksi setelah habis masa paten produk originatornya",
+        "Obat me too (generik) adalah obat yang diproduksi setelah masa paten obat originator (obat inovator) habis, sehingga bahan aktifnya sama (dari pengetahuan umum (tidak ada di modul)). Opsi A, C, dan D salah karena tidak sesuai definisi obat me too."
+      ],
+      "pengecoh": [
+        "Obat yang masih dalam percobaan di laboratorium pabrik obat",
+        "Obat yang belum memperoleh izin beredar dari otoritas farmasi lokal",
+        "Obat generik yang diresepkan untuk pasien tertentu"
+      ]
+    },
+    {
+      "id": 50,
+      "kategori": "tunggal",
+      "soal": "Sebenarnya konsep urun biaya tercantum dalam UU No 40 Tahun 2004 tentang Sistem Jaminan Sosial Nasional. Pengaturan iur biaya tersebut dalam pelayanan kesehatan program JKN adalah:",
+      "jawaban": [
+        "Hanya untuk jenis pelayanan yang dapat menimbulkan penyalahgunaan pelayanan",
+        "Urun biaya (co-payment) dalam JKN diterapkan hanya untuk jenis pelayanan tertentu yang berpotensi menimbulkan penyalahgunaan (moral hazard), seperti pelayanan yang tidak sesuai indikasi medis (dari pengetahuan umum (tidak ada di modul)). Opsi B, C, dan D salah karena tidak sesuai ketentuan iur biaya."
+      ],
+      "pengecoh": [
+        "Diperkenankan dalam nilai nominal maksimal berdasarkan kesepakatan dengan asosiasi fasilitas kesehatan",
+        "Tidak diperkenankan sama sekali",
+        "Diperkenankan maksimal 2,5% dari total biaya pelayanan"
+      ]
+    },
+    {
+      "id": 51,
+      "kategori": "kombinasi",
+      "soal": "Penyebaran populasi penduduk di setiap daerah di Indonesia tidak merata. Di kabupaten Asmat, Papua, karena jumlah peserta yang sedikit maka pembayaran yang dilakukan JKN ke rumah sakit sebaiknya dengan cara di bawah ini:\nI. Per kasus\nII. Per diem\nIII. CBG",
+      "jawaban": [
+        "I dan II saja",
+        "Modul menjelaskan bahwa pembayaran prospektif (CBG) menjadi tidak efektif di daerah terpencil dengan volume peserta kecil. Untuk kondisi ini, pembayaran per kasus (I) atau per diem (II) lebih sesuai (dari modul Page 111 (PDF)). Opsi III salah karena CBG membutuhkan volume besar."
+      ],
+      "pengecoh": [
+        "I dan III saja",
+        "II dan III saja",
+        "I, II dan III"
+      ]
+    },
+    {
+      "id": 52,
+      "kategori": "tunggal",
+      "soal": "Kelas perawatan rawat inap untuk peserta program JKN diatur sebagai berikut:",
+      "jawaban": [
+        "kelas perawatan disesuaikan menurut jenis peserta dan besaran premi yang dibayar",
+        "Modul menjelaskan bahwa manfaat nonmedis berupa akomodasi layanan rawat inap terdiri dari ruang perawatan kelas III, II dan I. Peserta dapat meningkatkan perawatan yang lebih tinggi dari haknya dengan membayar selisih. Hak kelas ini terkait dengan besaran iuran yang dibayar (dari modul Page 180 (PDF))."
+      ],
+      "pengecoh": [
+        "semua peserta dirawat di kelas 3 sesuai standar program nasional",
+        "peserta yang dirawat di rumah sakit pemerintah berhak menempati kelas setingkat lebih tinggi dari pada di rumah sakit swasta",
+        "kelas rawat inap disesuaikan kondisi daerah dan ditetapkan oleh pemerintah daerah setempat"
+      ]
+    },
+    {
+      "id": 53,
+      "kategori": "tunggal",
+      "soal": "Bagi peserta yang tinggal berdekatan/berbatasan dengan negara tetangga dan ingin berobat di fasilitas negara tetangga tersebut, JKN mengatur sebagai berikut:",
+      "jawaban": [
+        "tidak dijamin, sepenuhnya menjadi tanggungan peserta",
+        "Modul menyebutkan bahwa pelayanan kesehatan yang dilakukan di luar negeri tidak dijamin dalam program JKN (dari modul Page 181 (PDF)). Opsi A, B, dan C salah karena tidak sesuai dengan ketentuan pengecualian pelayanan luar negeri."
+      ],
+      "pengecoh": [
+        "dijamin sebagian biayanya bila kasus gawat darurat",
+        "dijamin bila biayanya lebih rendah dari biaya di fasilitas dalam negeri",
+        "dapat dijamin biayanya sebesar biaya pelayanan di fasilitas dalam negeri"
+      ]
+    },
+    {
+      "id": 54,
+      "kategori": "tunggal",
+      "soal": "Istilah lain kendali biaya disebut rationing. Rationing sisi supply yang paling banyak digunakan antara lain adalah:",
+      "jawaban": [
+        "kapitasi dan sistem paket",
+        "Rationing dari sisi supply dilakukan dengan membatasi atau mengendalikan penyedia layanan, antara lain melalui sistem pembayaran kapitasi dan sistem paket (CBG/DRG) yang menempatkan provider pada risiko finansial (dari modul Page 111 (PDF) dan Page 113 (PDF))."
+      ],
+      "pengecoh": [
+        "budget system dan discount fee",
+        "bedah rawat jalan dan one-day care",
+        "menggunakan obat generik dan alat medis standar"
+      ]
+    },
+    {
+      "id": 55,
+      "kategori": "tunggal",
+      "soal": "Salah satu tujuan dari kontribusi karyawan dalam membayar iuran JKN selain pembayaran oleh pemberi kerja adalah:",
+      "jawaban": [
+        "Memiliki daya tawar peserta dalam mengawasi BPJS",
+        "Kontribusi karyawan (1% dari upah) memberikan rasa kepemilikan dan daya tawar peserta untuk ikut mengawasi pengelolaan dana BPJS (dari pengetahuan umum (tidak ada di modul)). Opsi A, C, dan D salah karena bukan tujuan kontribusi karyawan."
+      ],
+      "pengecoh": [
+        "Memperoleh pelayanan kesehatan tanpa mengiur lagi jika terkena PHK tanpa batas waktu",
+        "Menambah keuntungan BPJS",
+        "Menambah beban pemberi kerja"
+      ]
+    },
+    {
+      "id": 56,
+      "kategori": "tunggal",
+      "soal": "UU dan peraturan pelaksanaan SJSN telah menetapkan besaran pembayaran kepada fasilitas kesehatan sebagai berikut:",
+      "jawaban": [
+        "ditetapkan oleh Kementerian Kesehatan berdasar usulan fasilitas kesehatan",
+        "Modul menjelaskan bahwa standar tarif pelayanan kesehatan di FKTP dan FKRTL ditetapkan dan ditinjau oleh Pemerintah melalui Menteri Kesehatan dengan mendapatkan masukan dari BPJS Kesehatan dan asosiasi fasilitas kesehatan (dari modul Page 186 (PDF))."
+      ],
+      "pengecoh": [
+        "disepakati antara masing-masing fasilitas dengan BPJS di wilayahnya",
+        "hasil negosiasi asosiasi fasilitas kesehatan dengan BPJS di suatu wilayah",
+        "ditetapkan oleh BPJS berdasar usulan perwakilan RS dalam tim yang ditunjuk oleh Kementerian Kesehatan"
+      ]
+    },
+    {
+      "id": 57,
+      "kategori": "tunggal",
+      "soal": "Pernyataan yang tepat tentang pelayanan kesehatan orang miskin dan tidak mampu pada SJSN bidang kesehatan:",
+      "jawaban": [
+        "iuran dibayar pemerintah",
+        "Modul menjelaskan bahwa Penerima Bantuan Iuran (PBI) adalah fakir miskin dan orang tidak mampu yang iurannya dibayar oleh Pemerintah Pusat atau Pemerintah Daerah (dari modul Page 84 (PDF) dan Page 169 (PDF))."
+      ],
+      "pengecoh": [
+        "besarnya iuran 50% dari orang mampu",
+        "orang miskin dan tidak mampu mendapat pengobatan gratis",
+        "tidak memperoleh pelayanan dengan biaya tinggi misalnya operasi jantung"
+      ]
+    },
+    {
+      "id": 58,
+      "kategori": "tunggal",
+      "soal": "Besaran pembayaran BPJS ke fasilitas kesehatan menurut ketentuan harus ditinjau secara berkala untuk mengikuti perkembangan kebutuhan, yaitu;",
+      "jawaban": [
+        "setiap dua tahun",
+        "Standar tarif pelayanan kesehatan ditetapkan dan ditinjau paling cepat setiap 2 (dua) tahun oleh Pemerintah melalui Menteri Kesehatan (dari modul Page 186 (PDF))."
+      ],
+      "pengecoh": [
+        "tiga tahun sekali",
+        "setiap lima tahun",
+        "tidak ditentukan waktunya kecuali emergency gangguan stabilitas ekonomi"
+      ]
+    },
+    {
+      "id": 59,
+      "kategori": "tunggal",
+      "soal": "Utilization review mutlak diperlukan dalam sistem pembayaran kapitas antara lain dengan:",
+      "jawaban": [
+        "mengukur kepuasan peserta terhadap kualitas pelayanan",
+        "Modul menjelaskan bahwa telaah utilisasi (utilization review) sangat penting untuk mengukur tingkat kepuasan/keluhan peserta terhadap kualitas layanan di fasilitas kesehatan primer (dari modul Page 121 (PDF))."
+      ],
+      "pengecoh": [
+        "menetapkan standar pelayanan medik",
+        "memberikan guideline pelayanan untuk peserta",
+        "sebagai dasar dalam seleksi provider"
+      ]
+    },
+    {
+      "id": 60,
+      "kategori": "tunggal",
+      "soal": "Peningkatan biaya pelayanan medis bersumber dari dua kelompok utama yaitu:",
+      "jawaban": [
+        "inflasi dan teknologi baru",
+        "Modul menjelaskan bahwa menurut Donald F Beck (1984) dan Feldstein (2012), peningkatan biaya pelayanan medis bersumber dari dua kelompok utama yaitu inflasi biaya normal dan biaya pelayanan yang baru (teknologi baru) yang lebih baik (dari modul Page 105 (PDF))."
+      ],
+      "pengecoh": [
+        "besaran tarif dan metode penggantian dari perusahaan asuransi",
+        "fraud dan abuse",
+        "inflasi dan peningkatan utilisasi"
+      ]
+    },
+    {
+      "id": 61,
+      "kategori": "tunggal",
+      "soal": "Mekanisme stop loss dalam kapitasi penuh (full capitation) bisa dilakukan jika ternyata jumlah orang yang berobat:",
+      "jawaban": [
+        "jauh lebih tinggi dari yang diperhitungkan atau disepakati di muka, maka HMO tetap bertanggung jawab membayar klaim yang lebih tinggi",
+        "Modul menjelaskan bahwa dalam kapitasi penuh ada mekanisme stop loss, artinya jika jumlah orang yang berobat jauh lebih tinggi dari tingkat yang disepakati di muka, maka HMO/asuradur yang menanggung risiko tersebut (dari modul Page 113 (PDF))."
+      ],
+      "pengecoh": [
+        "jauh lebih tinggi dari yang diperhitungkan atau disepakati di muka, maka HMO tidak bertanggung jawab terhadap kekurangan dana",
+        "jauh rendah tinggi dari yang diperhitungkan atau disepakati di muka, maka fasilitas kesehatan harus mengembalikan dana tersebut kepada HMO",
+        "jauh lebih rendah dari yang diperhitungkan atau disepakati di muka, maka untuk periode berikutnya jumlah dana kapitasi akan dikurangi"
+      ]
+    },
+    {
+      "id": 62,
+      "kategori": "tunggal",
+      "soal": "Reaksi negatif dari fasilitas kesehatan dalam sistem kapitasi yang perlu diwaspadai adalah:",
+      "jawaban": [
+        "mengurangi mutu pelayanan dengan maksud mengurangi kunjungan pasien",
+        "Modul menjelaskan reaksi negatif pembayaran kapitasi antara lain fasilitas kesehatan menekan jumlah kunjungan pasien dan mengorbankan mutu pelayanan untuk menghemat biaya (dari modul Page 120 (PDF))."
+      ],
+      "pengecoh": [
+        "memberikan pelayanan promotif dan preventif untuk mencegah insiden kesakitan",
+        "memberikan pelayanan yang pas dan memperlakukan pasien sebagai income security",
+        "meningkatkan jumlah kunjungan dengan meminta pasien datang berulang-ulang"
+      ]
+    },
+    {
+      "id": 63,
+      "kategori": "tunggal",
+      "soal": "Pembayaran CBG yang dijalankan dengan konsisten memiliki beberapa keutamaan, namun kelemahan pembayaran CBG adalah:",
+      "jawaban": [
+        "Kesulitan pada manajemen rekam medik yang lengkap dan tertata bila tidak didukung oleh sistem informasi",
+        "Modul menjelaskan kelemahan pembayaran CBG antara lain penerapannya membutuhkan sistem informasi kesehatan, khususnya rekam medik yang akurat dan komprehensif (dari modul Page 135 (PDF))."
+      ],
+      "pengecoh": [
+        "Pasien sulit untuk memahami besaran biaya pelayanan kesehatan yang dihabiskan",
+        "Rumah sakit kesulitan menghitung revenue",
+        "Administrasi pembayaran sulit bagi rumah sakit dan BPJS"
+      ]
+    },
+    {
+      "id": 64,
+      "kategori": "tunggal",
+      "soal": "Kecurangan yang dapat dilakukan fasilitas kesehatan dalam sistem pembayaran dengan CBG antara lain:",
+      "jawaban": [
+        "merubah kode diagnosa (up coding)",
+        "Modul menjelaskan bahwa dalam praktiknya sebuah RS dapat mengubah kode CBG agar uang yang diterimanya lebih besar (up coding). Tindakan ini merupakan kecurangan (fraud) (dari modul Page 132 (PDF))."
+      ],
+      "pengecoh": [
+        "menggunakan alat penunjang diagnosa secara berlebihan",
+        "menggunakan jenis obat-obatan yang mahal",
+        "memperpanjang hari rawat"
+      ]
+    },
+    {
+      "id": 65,
+      "kategori": "tunggal",
+      "soal": "Risk adjusted capitation yaitu penyesuaian besaran kapitasi dengan besarnya risiko perlu dilakukan untuk:",
+      "jawaban": [
+        "menjamin keadilan di antara fasilitas kesehatan yang menerima pembayaran kapitasi",
+        "Modul menjelaskan bahwa penyesuaian risiko (risk-adjusted capitation) dilakukan untuk lebih menjamin keadilan di antara fasilitas kesehatan, misalnya jika satu klinik lebih banyak menerima peserta lansia dibanding klinik lain (dari modul Page 118 (PDF))."
+      ],
+      "pengecoh": [
+        "mengendalikan utilisasi pelayanan di dalam suatu fasilitas kesehatan",
+        "melindungi kelompok peserta berisiko tinggi",
+        "melindungi asuradur dari kenaikan tarif di fasilitas kesehatan"
+      ]
+    },
+    {
+      "id": 66,
+      "kategori": "tunggal",
+      "soal": "Pembayaran ke pemberi pelayanan kesehatan hanya dapat ditetapkan setelah pelayanan diberikan. Model pembayaran tersebut dikenal dengan istilah:",
+      "jawaban": [
+        "sistem pembayaran retrospektif",
+        "Modul menjelaskan bahwa pembayaran retrospektif berarti besaran biaya yang harus dibayar ditetapkan setelah pelayanan diberikan (dari modul Page 109 (PDF))."
+      ],
+      "pengecoh": [
+        "fee for services",
+        "global budget",
+        "sistem pembayaran prospektif"
+      ]
+    },
+    {
+      "id": 67,
+      "kategori": "kombinasi",
+      "soal": "Secara umum sistem pembayaran ke rumah sakit antara lain:\nI. per diem\nII. global budget\nIII. diagnostic related group",
+      "jawaban": [
+        "I, II dan III",
+        "Modul menjelaskan bahwa sistem pembayaran pelayanan rumah sakit dapat berbentuk antara lain: Diagnostic Related Group (DRG) (III), per diem (I), dan Global budget (II) (dari modul Page 108 (PDF))."
+      ],
+      "pengecoh": [
+        "I dan II saja",
+        "I dan III saja",
+        "II dan III saja"
+      ]
+    },
+    {
+      "id": 68,
+      "kategori": "tunggal",
+      "soal": "Data paling penting yang dibutuhkan dalam perhitungan biaya per kapita atau kapitasi adalah:",
+      "jawaban": [
+        "angka utilisasi per 1000 populasi dan rerata biaya pelayanan/unit cost",
+        "Modul menjelaskan bahwa langkah menghitung biaya kapitasi memerlukan data angka utilisasi (rate) per 1000 populasi dan rata-rata biaya per jenis layanan (unit cost) (dari modul Page 115 (PDF))."
+      ],
+      "pengecoh": [
+        "tarif yang berlaku saat ini",
+        "total biaya klaim periode sebelumnya",
+        "angka utilisasi per 1000 populasi dan rerata biaya klaim per tahun"
+      ]
+    },
+    {
+      "id": 69,
+      "kategori": "tunggal",
+      "soal": "Karakteristik penerapan tarif CBG di Indonesia adalah:",
+      "jawaban": [
+        "tarif INA CBG tidak sama untuk setiap tipe rumah sakit",
+        "Modul menjelaskan bahwa besaran tarif CBG yang berlaku di Indonesia bervariasi menurut tipe RS (tipe A, B, C, D) (dari modul Page 134 (PDF))."
+      ],
+      "pengecoh": [
+        "tarif INA CBG sama untuk setiap rumah sakit yang ada dalam provinsi yang sama",
+        "tarif INA CBG berlaku seragam untuk seluruh wilayah Indonesia",
+        "tarif INA CBG dibedakan menurut komposisi tenaga kerja yang dimiliki"
+      ]
+    },
+    {
+      "id": 70,
+      "kategori": "tunggal",
+      "soal": "Asuransi Kesehatan Nasional di dunia pada umumnya membayar provider dengan model prospective payment system (PPS), kecuali pada pelayanan tertentu masih dibayar dengan model retrospektif, yaitu:",
+      "jawaban": [
+        "layanan gawat darurat",
+        "Modul menjelaskan bahwa untuk sebagian manfaat, pembayaran retrospektif JPP masih digunakan seperti pada layanan gawat darurat (dari modul Page 110 (PDF))."
+      ],
+      "pengecoh": [
+        "layanan home care",
+        "pelayanan rawat jalan",
+        "pelayanan rawat inap"
+      ]
+    },
+    {
+      "id": 71,
+      "kategori": "tunggal",
+      "soal": "Cara lain untuk membayar rumah sakit adalah global budget, yaitu:",
+      "jawaban": [
+        "rumah sakit mendapat dana untuk membiayai seluruh kegiatannya untuk masa satu tahun",
+        "Global budget adalah cara pendanaan rumah sakit di mana RS mendapat dana untuk membiayai seluruh kegiatannya untuk masa satu tahun (dari modul Page 138 (PDF))."
+      ],
+      "pengecoh": [
+        "rumah sakit dibayar dengan tarif yang mengelompokkan berbagai jenis pelayanan menjadi satu kesatuan",
+        "pembayaran didasarkan pada jumlah orang yang terdaftar di suatu fasilitas kesehatan",
+        "rumah sakit akan dibayar dengan tarif per hari yang lebih tinggi pada beberapa hari pertama dan lebih rendah pada beberapa hari berikutnya"
+      ]
+    },
+    {
+      "id": 72,
+      "kategori": "tunggal",
+      "soal": "Di dalam mengembangkan tarif INA-CBG, salah satu elemen pembentuk tarif adalah faktor penyesuaian (adjusting factor) yang dimaksud untuk:",
+      "jawaban": [
+        "menutup biaya-biaya yang tidak ada di INA-CBG, seperti misalnya biaya riset pada rumah sakit pendidikan",
+        "Modul menjelaskan bahwa faktor penyesuaian (adjustment factor) bertujuan antara lain untuk menutup biaya-biaya yang tidak termasuk dalam CBG, yaitu biaya pendidikan dan biaya riset pada RS pendidikan (dari modul Page 130 (PDF))."
+      ],
+      "pengecoh": [
+        "mendorong pengobatan rawat jalan dari pada pengobatan rawat inap",
+        "memisahkan penyakit perawatan jangka panjang, seperti misalnya kasus obat tertentu yang mahal",
+        "menimbang penggunaan sumber daya rumah sakit yang berdampak kepada seperti biaya pelayanan"
+      ]
+    },
+    {
+      "id": 73,
+      "kategori": "tunggal",
+      "soal": "Kapitasi adalah salah satu cara JKN membayar biaya pelayanan kesehatan pada fasilitas pelayanan tingkat pertama. Langkah pertama dalam menghitung biaya kapitasi adalah:",
+      "jawaban": [
+        "Menetapkan jenis pelayanan yang akan dicakup dalam pembayaran kapitasi",
+        "Langkah pertama menghitung kapitasi adalah menetapkan jenis-jenis layanan yang akan dibayar secara kapitasi sesuai kompetensi dokter dan layanan penunjang (dari modul Page 115 (PDF))."
+      ],
+      "pengecoh": [
+        "Menghitung angka utilisasi dalam satuan jumlah pengguna per 1000 populasi",
+        "Mendapatkan angka anggaran pelayanan kesehatan tingkat pertama",
+        "Menjumlahkan biaya per kapita per bulan untuk seluruh pelayanan"
+      ]
+    },
+    {
+      "id": 74,
+      "kategori": "kombinasi",
+      "soal": "Faktor adjustment dalam penetapan tarif CBG bertujuan untuk:\nI. mengurangi biaya kerugian RS\nII. mendorong efisiensi\nIII. mengoreksi perbedaan biaya antar wilayah yang berbeda",
+      "jawaban": [
+        "II dan III saja",
+        "Modul menjelaskan bahwa faktor penyesuaian (adjustment factor) bertujuan untuk mendorong efisiensi (II) dan mengoreksi perbedaan biaya di wilayah berbeda (III), serta menutup biaya khusus. Mengurangi kerugian RS (I) bukan tujuan utama (dari modul Page 130 (PDF))."
+      ],
+      "pengecoh": [
+        "I dan II saja",
+        "I dan III saja",
+        "I, II dan III"
+      ]
+    },
+    {
+      "id": 75,
+      "kategori": "kombinasi",
+      "soal": "Cara mengendalikan mutu pada cara pembayaran kapitasi atau INA-CBG adalah:\nI. telaah utilisasi oleh tenaga profesional\nII. memberikan peringatan atau denda\nIII. memutuskan kerja sama jika terbukti banyak ditemukan moral hazard",
+      "jawaban": [
+        "I, II dan III",
+        "Modul menjelaskan bahwa kendali mutu dilakukan melalui telaah utilisasi oleh tenaga profesional (I), pemberian insentif/sanksi berupa peringatan atau denda (II), dan pemutusan kerja sama jika terbukti melakukan kecurangan/moral hazard (III) (dari modul Page 121 (PDF) dan Page 135 (PDF))."
+      ],
+      "pengecoh": [
+        "I dan II saja",
+        "I dan III saja",
+        "II dan III saja"
+      ]
+    }
+  ]
+}
