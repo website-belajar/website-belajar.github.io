@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Latihan Soal & Belajar Asuransi Kesehatan (FA)</title>
+<title>Latihan Soal Asuransi Kesehatan (FA / FB / MCA / MCB / AKN)</title>
 <style>
     * { box-sizing: border-box; margin: 0; padding: 0; }
     body {
@@ -80,6 +80,12 @@
         border: 1px solid #a0aec0;
         font-size: 1em;
         width: 100%;
+        background: #fff;
+    }
+    .landing-controls select:disabled {
+        background: #edf2f7;
+        color: #a0aec0;
+        cursor: not-allowed;
     }
     .landing-btn {
         padding: 14px;
@@ -94,13 +100,19 @@
     .landing-btn:disabled { background: #a0aec0; cursor: not-allowed; }
     .btn-ujian { background: #2b6cb0; }
     .btn-ujian:hover:not(:disabled) { background: #2c5282; }
-    .btn-belajar { background: #38a169; }
-    .btn-belajar:hover:not(:disabled) { background: #2f855a; }
     .btn-note {
         text-align: center;
         font-size: 0.85em;
         color: #718096;
         margin-top: 5px;
+        white-space: pre-line;
+    }
+    .load-status {
+        font-size: 0.9em;
+        color: #2b6cb0;
+        font-weight: 600;
+        text-align: center;
+        min-height: 1.4em;
     }
 
     /* ============ EXAM ============ */
@@ -224,10 +236,8 @@
     }
     .btn-save { background: #2b6cb0; color: white; }
     .btn-save:hover { background: #2c5282; }
-    .btn-save:disabled { background: #a0aec0; cursor: not-allowed; }
     .btn-finish { background: #38a169; color: white; }
     .btn-finish:hover { background: #2f855a; }
-    .btn-finish:disabled { background: #a0aec0; cursor: not-allowed; }
     .btn-restart { background: #ed8936; color: white; }
     .btn-restart:hover { background: #dd6b20; }
 
@@ -406,183 +416,41 @@
         flex: 1;
         font-size: 0.9em;
     }
+    .rev-badges {
+        display: flex;
+        gap: 5px;
+        flex-wrap: wrap;
+        align-items: center;
+    }
+    .periode-badge {
+        display: inline-block;
+        font-size: 0.7em;
+        font-weight: 700;
+        padding: 2px 8px;
+        border-radius: 10px;
+        background: #e2e8f0;
+        color: #4a5568;
+        letter-spacing: 0.5px;
+        white-space: nowrap;
+    }
     .review-item .rev-answer { margin: 4px 0; font-size: 0.85em; }
     .review-item .rev-answer.user-correct { color: #276749; }
     .review-item .rev-answer.user-wrong { color: #c53030; }
     .review-item .rev-answer.correct-answer { color: #2b6cb0; font-weight: 600; }
-    .review-item .rev-answer.rev-catatan {
-        color: #744210;
-        background: #fffbeb;
-        border-left: 3px solid #f6ad55;
-        padding: 6px 10px;
-        border-radius: 4px;
-        font-style: italic;
-        margin-top: 6px;
-        white-space: pre-line;
-        font-size: 0.85em;
-    }
-
-    /* ============ BELAJAR ============ */
-    .belajar-header {
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        margin-bottom: 20px;
-        gap: 10px;
-    }
-    .belajar-btn {
-        padding: 8px 16px;
-        border: none;
-        border-radius: 6px;
-        background: #4a5568;
-        color: white;
-        font-weight: 600;
-        cursor: pointer;
-        font-size: 0.9em;
-        transition: background 0.2s;
-    }
-    .belajar-btn:hover { background: #2d3748; }
-    .belajar-btn.back { background: #718096; }
-    .belajar-btn.back:hover { background: #4a5568; }
-    .belajar-card {
-        background: #f7fafc;
-        border: 1px solid #e2e8f0;
-        border-radius: 10px;
-        padding: 25px;
-        margin-bottom: 20px;
-        min-height: 250px;
-    }
-    .belajar-nomor {
-        display: inline-block;
-        font-size: 0.85em;
-        font-weight: 700;
-        padding: 4px 12px;
-        border-radius: 12px;
-        background: #bee3f8;
-        color: #2c5282;
-        margin-bottom: 12px;
-    }
-    .belajar-istilah {
-        font-size: 1.5em;
-        font-weight: 800;
-        color: #2b6cb0;
-        margin-bottom: 15px;
-        line-height: 1.3;
-    }
-    .belajar-penjelasan {
-        font-size: 1em;
-        color: #2d3748;
-        margin-bottom: 20px;
-        line-height: 1.7;
-        white-space: pre-line;
-    }
-    .belajar-contoh-title {
-        font-weight: 700;
-        color: #744210;
-        font-size: 0.95em;
-        margin-bottom: 8px;
-    }
-    .belajar-contoh-list {
-        list-style: none;
-        padding: 0;
-    }
-    .belajar-contoh-list li {
-        background: #fffbeb;
-        border-left: 4px solid #f6ad55;
-        padding: 10px 15px;
-        margin-bottom: 8px;
-        border-radius: 4px;
-        font-size: 0.9em;
-        color: #744210;
-    }
-    .belajar-nav {
-        display: flex;
-        gap: 10px;
+    .rev-penjelasan {
         margin-top: 10px;
+        padding: 10px 14px;
+        background: #ebf8ff;
+        border-left: 4px solid #4299e1;
+        border-radius: 4px;
+        font-size: 0.85em;
+        color: #2c5282;
+        white-space: pre-line;
     }
-    .belajar-nav button {
-        flex: 1;
-        padding: 14px;
-        border: none;
-        border-radius: 8px;
-        background: #2b6cb0;
-        color: white;
+    .rev-penjelasan .rev-penjelasan-label {
         font-weight: 700;
-        font-size: 1em;
-        cursor: pointer;
-        transition: background 0.2s;
-    }
-    .belajar-nav button:hover { background: #2c5282; }
-
-    /* ============ SEARCH OVERLAY ============ */
-    .search-overlay {
-        display: none;
-        position: fixed;
-        top: 0; left: 0; right: 0; bottom: 0;
-        background: rgba(0, 0, 0, 0.5);
-        z-index: 1100;
-        justify-content: center;
-        align-items: flex-start;
-        padding: 20px;
-        overflow-y: auto;
-    }
-    .search-overlay.active { display: flex; }
-    .search-content {
-        background: #fff;
-        border-radius: 12px;
-        padding: 20px;
-        max-width: 500px;
-        width: 100%;
-        margin-top: 40px;
-        max-height: 80vh;
-        display: flex;
-        flex-direction: column;
-    }
-    .search-header {
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        margin-bottom: 12px;
-        padding-bottom: 10px;
-        border-bottom: 2px solid #e2e8f0;
-    }
-    .search-header h3 { font-size: 1.1em; color: #2d3748; }
-    .search-input {
-        width: 100%;
-        padding: 12px 15px;
-        font-size: 1em;
-        border: 2px solid #a0aec0;
-        border-radius: 8px;
-        margin-bottom: 12px;
-        outline: none;
-    }
-    .search-input:focus { border-color: #2b6cb0; }
-    .search-results {
-        overflow-y: auto;
-        flex: 1;
-        max-height: 50vh;
-    }
-    .search-result-item {
-        padding: 12px 15px;
-        background: #f7fafc;
-        border: 1px solid #e2e8f0;
-        border-radius: 6px;
-        margin-bottom: 6px;
-        cursor: pointer;
-        font-size: 0.95em;
-        font-weight: 600;
-        color: #2d3748;
-        transition: background 0.2s;
-    }
-    .search-result-item:hover {
-        background: #bee3f8;
-        border-color: #63b3ed;
-    }
-    .search-empty {
-        text-align: center;
-        padding: 20px;
-        color: #718096;
-        font-style: italic;
+        display: block;
+        margin-bottom: 4px;
     }
 
     /* ============ MISC ============ */
@@ -597,6 +465,7 @@
         white-space: pre-line;
         font-size: 0.9em;
         margin-bottom: 15px;
+        text-align: left;
     }
 
     @media (max-width: 600px) {
@@ -606,8 +475,6 @@
         .panel-toggle-btn { font-size: 0.85em; padding: 7px 12px; }
         .timer-box { font-size: 0.9em; padding: 7px 12px; }
         .score-big { font-size: 2.8em; }
-        .belajar-istilah { font-size: 1.3em; }
-        .belajar-card { padding: 18px; }
     }
 </style>
 </head>
@@ -615,29 +482,36 @@
 <div class="container">
 
     <!-- ================= LOADING ================= -->
-    <div id="loading-view" class="loading-screen">
+    <div id="loading-view" class="loading-screen hidden">
         <div class="spinner"></div>
-        <div class="loading-text">Memuat data...</div>
+        <div class="loading-text">Memuat...</div>
     </div>
 
     <!-- ================= LANDING ================= -->
     <div id="landing-view" class="hidden">
-        <h1>Latihan Soal & Belajar Asuransi Kesehatan (FA)</h1>
+        <h1>Latihan Soal Asuransi Kesehatan</h1>
 
         <div id="landing-error" class="error hidden"></div>
 
         <div class="landing-controls">
-            <label for="mode-soal">Pilih Mode Ujian:</label>
-            <select id="mode-soal">
-                <option value="bebas-5">Latihan Bebas — 5 Soal Campuran (5 menit)</option>
-                <option value="bebas-10">Latihan Bebas — 10 Soal Campuran (10 menit)</option>
-                <option value="bebas-25" selected>Latihan Bebas — 25 Soal Campuran (25 menit)</option>
-                <option value="ujian-1">Ujian Bagian 1 — 50 Soal Pilihan Tunggal (50 menit)</option>
-                <option value="ujian-2">Ujian Bagian 2 — 25 Soal Kombinasi (25 menit)</option>
-                <option value="ujian-penuh">Ujian Penuh — 75 Soal (75 menit)</option>
+            <label for="kategori-soal">1. Pilih Kategori:</label>
+            <select id="kategori-soal">
+                <option value="">— Pilih Kategori —</option>
+                <option value="FA">FA - Fundamental bagian A</option>
+                <option value="FB">FB - Fundamental bagian B</option>
+                <option value="MCA">MCA - Managed Care bagian A</option>
+                <option value="MCB">MCB - Managed Care bagian B</option>
+                <option value="AKN">AKN - Asuransi Kesehatan Nasional</option>
             </select>
+
+            <div id="load-status" class="load-status"></div>
+
+            <label for="mode-soal">2. Pilih Mode Ujian:</label>
+            <select id="mode-soal" disabled>
+                <option value="">— Pilih kategori terlebih dahulu —</option>
+            </select>
+
             <button type="button" id="mulai-ujian-btn" class="landing-btn btn-ujian" disabled>Mulai Ujian</button>
-            <button type="button" id="belajar-btn" class="landing-btn btn-belajar" disabled>📖 Belajar Dulu</button>
             <div id="landing-note" class="btn-note"></div>
         </div>
     </div>
@@ -676,21 +550,6 @@
             <div id="review-container"></div>
         </div>
     </div>
-
-    <!-- ================= BELAJAR ================= -->
-    <div id="belajar-view" class="hidden">
-        <div class="belajar-header">
-            <button type="button" class="belajar-btn" id="search-open-btn">🔍 Cari Istilah</button>
-            <button type="button" class="belajar-btn back" id="belajar-back-btn">← Kembali</button>
-        </div>
-
-        <div class="belajar-card" id="belajar-card"></div>
-
-        <div class="belajar-nav">
-            <button type="button" id="belajar-prev-btn">← Sebelumnya</button>
-            <button type="button" id="belajar-next-btn">Berikutnya →</button>
-        </div>
-    </div>
 </div>
 
 <!-- ================= PANEL OVERLAY ================= -->
@@ -709,18 +568,6 @@
     </div>
 </div>
 
-<!-- ================= SEARCH OVERLAY ================= -->
-<div class="search-overlay" id="search-overlay">
-    <div class="search-content">
-        <div class="search-header">
-            <h3>Cari Istilah</h3>
-            <button type="button" class="panel-close" id="search-close">✕</button>
-        </div>
-        <input type="text" class="search-input" id="search-input" placeholder="Ketik istilah yang dicari..." autocomplete="off">
-        <div class="search-results" id="search-results"></div>
-    </div>
-</div>
-
 <!-- ================= CONFIRM OVERLAY ================= -->
 <div class="panel-overlay" id="confirm-overlay">
     <div class="panel-content" style="max-width:400px; text-align:center;">
@@ -734,11 +581,75 @@
 </div>
 
 <script>
+    // ================= PEMETAAN FILE → KATEGORI =================
+    // Menambah file baru: cukup tambah 1 baris di sini.
+    // periode: 'YYYYMM' — label: nama bulan + (opsional) varian.
+    const FILE_MAP = [
+        // FA - Fundamental bagian A
+        { kode: 'FA', periode: '201803', label: '2018 Maret',    file: 'soal_FA_201803.json' },
+        { kode: 'FA', periode: '201805', label: '2018 Mei',      file: 'soal_FA_201805.json' },
+        { kode: 'FA', periode: '201807', label: '2018 Juli',     file: 'soal_FA_201807.json' },
+        { kode: 'FA', periode: '201809', label: '2018 September',file: 'soal_FA_201809.json' },
+        { kode: 'FA', periode: '201811', label: '2018 November', file: 'soal_FA_201811.json' },
+        { kode: 'FA', periode: '201903', label: '2019 Maret',    file: 'soal_FA_201903.json' },
+        { kode: 'FA', periode: '201907', label: '2019 Juli',     file: 'soal_FA_201907.json' },
+        { kode: 'FA', periode: '201909', label: '2019 September',file: 'soal_FA_201909.json' },
+        { kode: 'FA', periode: '201911', label: '2019 November', file: 'soal_FA_201911.json' },
+        // FB - Fundamental bagian B
+        { kode: 'FB', periode: '201801', label: '2018 Januari',  file: 'soal_FB_201801.json' },
+        { kode: 'FB', periode: '201803', label: '2018 Maret',    file: 'soal_FB_201803.json' },
+        { kode: 'FB', periode: '201805', label: '2018 Mei',      file: 'soal_FB_201805.json' },
+        { kode: 'FB', periode: '201807', label: '2018 Juli',     file: 'soal_FB_201807.json' },
+        { kode: 'FB', periode: '201809', label: '2018 September',file: 'soal_FB_201809.json' },
+        { kode: 'FB', periode: '201903', label: '2019 Maret',    file: 'soal_FB_201903.json' },
+        { kode: 'FB', periode: '201907', label: '2019 Juli',     file: 'soal_FB_201907.json' },
+        { kode: 'FB', periode: '201909', label: '2019 September',file: 'soal_FB_201909.json' },
+        { kode: 'FB', periode: '201911', label: '2019 November', file: 'soal_FB_201911.json' },
+        // MCA - Managed Care bagian A
+        { kode: 'MCA', periode: '201801',  label: '2018 Januari',  file: 'soal_MCA_201801.json' },
+        { kode: 'MCA', periode: '201803',  label: '2018 Maret',    file: 'soal_MCA_201803.json' },
+        { kode: 'MCA', periode: '201803B', label: '2018 Maret B',  file: 'soal_MCA_201803B.json' },
+        { kode: 'MCA', periode: '201805',  label: '2018 Mei',      file: 'soal_MCA_201805.json' },
+        { kode: 'MCA', periode: '201807',  label: '2018 Juli',     file: 'soal_MCA_201807.json' },
+        { kode: 'MCA', periode: '201809',  label: '2018 September',file: 'soal_MCA_201809.json' },
+        { kode: 'MCA', periode: '201903',  label: '2019 Maret',    file: 'soal_MCA_201903.json' },
+        { kode: 'MCA', periode: '201907',  label: '2019 Juli',     file: 'soal_MCA_201907.json' },
+        { kode: 'MCA', periode: '201909',  label: '2019 September',file: 'soal_MCA_201909.json' },
+        // MCB - Managed Care bagian B
+        { kode: 'MCB', periode: '201801', label: '2018 Januari',  file: 'soal_MCB_201801.json' },
+        { kode: 'MCB', periode: '201805', label: '2018 Mei',      file: 'soal_MCB_201805.json' },
+        { kode: 'MCB', periode: '201807', label: '2018 Juli',     file: 'soal_MCB_201807.json' },
+        { kode: 'MCB', periode: '201809', label: '2018 September',file: 'soal_MCB_201809.json' },
+        { kode: 'MCB', periode: '201903', label: '2019 Maret',    file: 'soal_MCB_201903.json' },
+        { kode: 'MCB', periode: '201907', label: '2019 Juli',     file: 'soal_MCB_201907.json' },
+        { kode: 'MCB', periode: '201909', label: '2019 September',file: 'soal_MCB_201909.json' },
+        { kode: 'MCB', periode: '201911', label: '2019 November', file: 'soal_MCB_201911.json' },
+        // AKN - Asuransi Kesehatan Nasional
+        { kode: 'AKN', periode: '201801', label: '2018 Januari',  file: 'soal_AKN_201801.json' },
+        { kode: 'AKN', periode: '201803', label: '2018 Maret',    file: 'soal_AKN_201803.json' },
+        { kode: 'AKN', periode: '201805', label: '2018 Mei',      file: 'soal_AKN_201805.json' },
+        { kode: 'AKN', periode: '201807', label: '2018 Juli',     file: 'soal_AKN_201807.json' },
+        { kode: 'AKN', periode: '201809', label: '2018 September',file: 'soal_AKN_201809.json' },
+        { kode: 'AKN', periode: '201903', label: '2019 Maret',    file: 'soal_AKN_201903.json' },
+        { kode: 'AKN', periode: '201907', label: '2019 Juli',     file: 'soal_AKN_201907.json' },
+        { kode: 'AKN', periode: '201909', label: '2019 September',file: 'soal_AKN_201909.json' },
+        { kode: 'AKN', periode: '201911', label: '2019 November', file: 'soal_AKN_201911.json' }
+    ];
+
+    const KODE_LABEL = {
+        FA: 'Fundamental bagian A',
+        FB: 'Fundamental bagian B',
+        MCA: 'Managed Care bagian A',
+        MCB: 'Managed Care bagian B',
+        AKN: 'Asuransi Kesehatan Nasional'
+    };
+
     // ================= STATE =================
-    let bankSoal = [];
-    let pelajaran = [];
-    let bankSoalLoaded = false;
-    let pelajaranLoaded = false;
+    let cacheKategori = {};      // { FA: [soal...], FB: [...] }
+    let statusKategori = {};     // 'loading' | 'ready' | 'error'
+    let kategoriAktif = '';
+    let modeAktif = '';
+    let modePeriodeAktif = null; // FILE_MAP entry jika mode = periode
 
     // Ujian
     let currentQuestions = [];
@@ -747,25 +658,20 @@
     let timerInterval = null;
     let waktuTersisa = 0;
     let totalWaktu = 0;
-    let modeAktif = '';
     let ujianSelesai = false;
-
-    // Belajar
-    let urutanBelajar = [];
-    let posisiBelajar = 0;
 
     // ================= ELEMENTS =================
     const loadingView = document.getElementById('loading-view');
     const landingView = document.getElementById('landing-view');
     const examView = document.getElementById('exam-view');
     const resultView = document.getElementById('result-view');
-    const belajarView = document.getElementById('belajar-view');
 
     const landingError = document.getElementById('landing-error');
     const landingNote = document.getElementById('landing-note');
+    const kategoriSelect = document.getElementById('kategori-soal');
     const modeSelect = document.getElementById('mode-soal');
+    const loadStatus = document.getElementById('load-status');
     const mulaiUjianBtn = document.getElementById('mulai-ujian-btn');
-    const belajarBtn = document.getElementById('belajar-btn');
 
     const panelToggleBtn = document.getElementById('panel-toggle-btn');
     const timerBox = document.getElementById('timer-box');
@@ -791,69 +697,6 @@
     const reviewContainer = document.getElementById('review-container');
     const restartBtn = document.getElementById('restart-btn');
 
-    const belajarCard = document.getElementById('belajar-card');
-    const belajarPrevBtn = document.getElementById('belajar-prev-btn');
-    const belajarNextBtn = document.getElementById('belajar-next-btn');
-    const belajarBackBtn = document.getElementById('belajar-back-btn');
-    const searchOpenBtn = document.getElementById('search-open-btn');
-
-    const searchOverlay = document.getElementById('search-overlay');
-    const searchClose = document.getElementById('search-close');
-    const searchInput = document.getElementById('search-input');
-    const searchResults = document.getElementById('search-results');
-
-    // ================= LOAD JSON =================
-    async function loadAllData() {
-        const errors = [];
-
-        try {
-            const r = await fetch('bank_soal_FA.json');
-            if (!r.ok) throw new Error('bank_soal_FA.json tidak ditemukan (HTTP ' + r.status + ')');
-            const d = await r.json();
-            bankSoal = d.bank_soal || [];
-            if (!Array.isArray(bankSoal) || bankSoal.length === 0) throw new Error('bank_soal_FA.json kosong');
-            bankSoalLoaded = true;
-        } catch (e) {
-            errors.push('• ' + e.message);
-        }
-
-        try {
-            const r = await fetch('pelajaran_FA.json');
-            if (!r.ok) throw new Error('pelajaran_FA.json tidak ditemukan (HTTP ' + r.status + ')');
-            const d = await r.json();
-            pelajaran = d.pelajaran || [];
-            if (!Array.isArray(pelajaran) || pelajaran.length === 0) throw new Error('pelajaran_FA.json kosong');
-            pelajaranLoaded = true;
-        } catch (e) {
-            errors.push('• ' + e.message);
-        }
-
-        loadingView.classList.add('hidden');
-        landingView.classList.remove('hidden');
-
-        if (errors.length > 0) {
-            landingError.classList.remove('hidden');
-            landingError.innerHTML = '<strong>Sebagian data gagal dimuat:</strong>\n' + errors.join('\n') +
-                '\n\nPastikan kedua file JSON berada di folder yang sama dan diakses melalui server lokal (bukan file://).';
-        }
-
-        if (bankSoalLoaded) {
-            mulaiUjianBtn.disabled = false;
-        } else {
-            mulaiUjianBtn.textContent = 'Bank Soal Tidak Tersedia';
-        }
-        if (pelajaranLoaded) {
-            belajarBtn.disabled = false;
-        } else {
-            belajarBtn.textContent = '📖 Pelajaran Tidak Tersedia';
-        }
-
-        const loadedInfo = [];
-        if (bankSoalLoaded) loadedInfo.push('Bank soal: ' + bankSoal.length + ' soal');
-        if (pelajaranLoaded) loadedInfo.push('Pelajaran: ' + pelajaran.length + ' istilah');
-        landingNote.textContent = loadedInfo.join(' • ');
-    }
-
     // ================= UTILITAS =================
     function shuffleArray(arr) {
         const a = [...arr];
@@ -863,7 +706,6 @@
         }
         return a;
     }
-
     function escapeHtml(str) {
         if (str === null || str === undefined) return '';
         return String(str)
@@ -874,42 +716,152 @@
             .replace(/'/g, '&#39;');
     }
 
-    // Helper untuk format baru: jawaban berupa array
-    // - elemen [0]  = jawaban benar
-    // - elemen [1+] = catatan / penjelasan modul
-    function getJawabanBenar(q) {
-        if (Array.isArray(q.jawaban)) return q.jawaban[0] || '';
-        return q.jawaban || '';
-    }
-    function getCatatanJawaban(q) {
-        if (Array.isArray(q.jawaban) && q.jawaban.length > 1) {
-            return q.jawaban.slice(1).filter(Boolean).join('\n');
-        }
-        return '';
+    // ================= NORMALISASI SOAL =================
+    // JSON: jawaban = [jawabanBenar, penjelasan]
+    function normalisasiSoal(raw, fileMeta) {
+        const jw = Array.isArray(raw.jawaban) ? raw.jawaban : [String(raw.jawaban || ''), ''];
+        return {
+            idAsli: raw.id,
+            kategoriSoal: raw.kategori === 'kombinasi' ? 'kombinasi' : 'tunggal',
+            soal: raw.soal || '',
+            jawabanBenar: jw[0] || '',
+            penjelasan: jw[1] || '',
+            pengecoh: Array.isArray(raw.pengecoh) ? raw.pengecoh : [],
+            meta: {
+                kode: fileMeta.kode,
+                periode: fileMeta.periode,
+                labelPeriode: fileMeta.label
+            }
+        };
     }
 
-    // ================= MODE UJIAN =================
-    function ambilSoal(kategori, jumlah) {
-        const pool = bankSoal.filter(q => q.kategori === kategori);
-        return shuffleArray(pool).slice(0, jumlah);
-    }
-    function ambilCampuran(jumlah) {
-        return shuffleArray(bankSoal).slice(0, jumlah);
-    }
-    function pilihSoalSesuaiMode(mode) {
-        switch (mode) {
-            case 'bebas-5':    return ambilCampuran(5);
-            case 'bebas-10':   return ambilCampuran(10);
-            case 'bebas-25':   return ambilCampuran(25);
-            case 'ujian-1':    return ambilSoal('tunggal', 50);
-            case 'ujian-2':    return ambilSoal('kombinasi', 25);
-            case 'ujian-penuh': {
-                const t = ambilSoal('tunggal', 50);
-                const k = ambilSoal('kombinasi', 25);
-                return shuffleArray([...t, ...k]);
-            }
-            default: return ambilCampuran(25);
+    // ================= LOAD KATEGORI =================
+    async function muatKategori(kode) {
+        if (statusKategori[kode] === 'ready') return cacheKategori[kode];
+        if (statusKategori[kode] === 'loading') {
+            // tunggu sampai selesai
+            return new Promise((resolve, reject) => {
+                const iv = setInterval(() => {
+                    if (statusKategori[kode] === 'ready') { clearInterval(iv); resolve(cacheKategori[kode]); }
+                    else if (statusKategori[kode] === 'error') { clearInterval(iv); reject(new Error('gagal')); }
+                }, 100);
+            });
         }
+
+        statusKategori[kode] = 'loading';
+        const files = FILE_MAP.filter(f => f.kode === kode);
+        const errors = [];
+
+        const results = await Promise.all(files.map(async (f) => {
+            try {
+                const r = await fetch(f.file, { cache: 'no-store' });
+                if (!r.ok) throw new Error(f.file + ' — HTTP ' + r.status);
+                const d = await r.json();
+                const arr = d.bank_soal || [];
+                if (!Array.isArray(arr) || arr.length === 0) throw new Error(f.file + ' — kosong / bukan array bank_soal');
+                return { meta: f, soal: arr.map(s => normalisasiSoal(s, f)) };
+            } catch (e) {
+                errors.push(e.message);
+                return null;
+            }
+        }));
+
+        if (errors.length > 0) {
+            statusKategori[kode] = 'error';
+            throw new Error(errors.join('\n'));
+        }
+
+        const gabungan = [];
+        results.forEach(r => { if (r) gabungan.push(...r.soal); });
+        cacheKategori[kode] = gabungan;
+        statusKategori[kode] = 'ready';
+        return gabungan;
+    }
+
+    // ================= LANDING: PILIH KATEGORI =================
+    kategoriSelect.addEventListener('change', async function () {
+        const kode = kategoriSelect.value;
+        kategoriAktif = kode;
+        modeAktif = '';
+        modePeriodeAktif = null;
+        landingError.classList.add('hidden');
+        landingError.textContent = '';
+        landingNote.textContent = '';
+        loadStatus.textContent = '';
+        modeSelect.innerHTML = '';
+        modeSelect.disabled = true;
+        mulaiUjianBtn.disabled = true;
+
+        if (!kode) {
+            modeSelect.innerHTML = '<option value="">— Pilih kategori terlebih dahulu —</option>';
+            return;
+        }
+
+        loadStatus.textContent = 'Memuat soal ' + kode + '...';
+        try {
+            const soalKategori = await muatKategori(kode);
+
+            // Bangun opsi mode
+            let opts = '';
+            opts += '<option value="">— Pilih Mode Ujian —</option>';
+            opts += '<option value="random-5">5 Soal Random (Campuran)</option>';
+            opts += '<option value="penuh-random">Ujian Penuh Random (50 Tunggal + 25 Kombinasi)</option>';
+
+            const filesKategori = FILE_MAP.filter(f => f.kode === kode);
+            filesKategori.forEach(f => {
+                const val = 'periode::' + f.periode;
+                opts += '<option value="' + val + '">Ujian ' + kode + ' ' + f.label + '</option>';
+            });
+            modeSelect.innerHTML = opts;
+            modeSelect.disabled = false;
+
+            // Hitung ringkasan
+            const jmlFile = filesKategori.length;
+            const jmlSoal = soalKategori.length;
+            const jmlTunggal = soalKategori.filter(q => q.kategoriSoal === 'tunggal').length;
+            const jmlKombinasi = soalKategori.filter(q => q.kategoriSoal === 'kombinasi').length;
+            landingNote.textContent = kode + ' (' + KODE_LABEL[kode] + '): ' + jmlFile + ' file • ' +
+                jmlSoal + ' soal (' + jmlTunggal + ' tunggal + ' + jmlKombinasi + ' kombinasi)';
+            loadStatus.textContent = 'Selesai memuat ' + kode + '.';
+        } catch (e) {
+            loadStatus.textContent = '';
+            landingError.classList.remove('hidden');
+            landingError.innerHTML = '<strong>Gagal memuat kategori ' + kode + ':</strong>\n' + e.message +
+                '\n\nPastikan file-file JSON tersedia di folder yang sama dan diakses melalui server lokal (bukan file://).';
+            modeSelect.innerHTML = '<option value="">— Kategori gagal dimuat —</option>';
+            modeSelect.disabled = true;
+            mulaiUjianBtn.disabled = true;
+        }
+    });
+
+    // ================= LANDING: PILIH MODE =================
+    modeSelect.addEventListener('change', function () {
+        modeAktif = modeSelect.value;
+        modePeriodeAktif = null;
+        if (modeAktif && modeAktif.indexOf('periode::') === 0) {
+            const per = modeAktif.split('::')[1];
+            modePeriodeAktif = FILE_MAP.find(f => f.kode === kategoriAktif && f.periode === per) || null;
+        }
+        mulaiUjianBtn.disabled = !(modeAktif && kategoriAktif);
+    });
+
+    // ================= BENTUK SOAL SESUAI MODE =================
+    function pilihSoalSesuaiMode() {
+        const pool = cacheKategori[kategoriAktif] || [];
+        if (modeAktif === 'random-5') {
+            return shuffleArray(pool).slice(0, 5);
+        }
+        if (modeAktif === 'penuh-random') {
+            const tunggal = pool.filter(q => q.kategoriSoal === 'tunggal');
+            const kombinasi = pool.filter(q => q.kategoriSoal === 'kombinasi');
+            const t = shuffleArray(tunggal).slice(0, 50);
+            const k = shuffleArray(kombinasi).slice(0, 25);
+            return shuffleArray([...t, ...k]);
+        }
+        if (modePeriodeAktif) {
+            return pool.filter(q => q.meta.periode === modePeriodeAktif.periode);
+        }
+        return [];
     }
 
     // ================= TIMER =================
@@ -942,10 +894,7 @@
         }, 1000);
     }
     function stopTimer() {
-        if (timerInterval) {
-            clearInterval(timerInterval);
-            timerInterval = null;
-        }
+        if (timerInterval) { clearInterval(timerInterval); timerInterval = null; }
     }
 
     // ================= RENDER SOAL =================
@@ -956,18 +905,16 @@
         const jawabanTerpilih = tersimpan.jawaban || '';
         const ragu = tersimpan.ragu || false;
 
-        const jawabanBenar = getJawabanBenar(q);
-
         let html = '';
         html += '<div class="question-header">';
         html += '<div class="question-number">Soal ' + (currentIndex + 1) + ' dari ' + total + '</div>';
-        html += '<span class="kategori-badge ' + (q.kategori === 'kombinasi' ? 'kombinasi' : 'tunggal') + '">' +
-                (q.kategori === 'kombinasi' ? 'Kombinasi — 2 poin' : 'Tunggal — 1 poin') + '</span>';
+        html += '<span class="kategori-badge ' + (q.kategoriSoal === 'kombinasi' ? 'kombinasi' : 'tunggal') + '">' +
+                (q.kategoriSoal === 'kombinasi' ? 'Kombinasi — 2 poin' : 'Tunggal — 1 poin') + '</span>';
         html += '</div>';
 
         html += '<div class="question-text">' + escapeHtml(q.soal) + '</div>';
 
-        const allOptions = shuffleArray([jawabanBenar, ...q.pengecoh]);
+        const allOptions = shuffleArray([q.jawabanBenar, ...q.pengecoh]);
         html += '<div class="options">';
         allOptions.forEach(function (opt) {
             const checked = (opt === jawabanTerpilih) ? 'checked' : '';
@@ -998,10 +945,7 @@
             return;
         }
         const ragu = document.getElementById('ragu-check').checked;
-        jawabanUser[currentIndex] = {
-            jawaban: radioTerpilih.value,
-            ragu: ragu
-        };
+        jawabanUser[currentIndex] = { jawaban: radioTerpilih.value, ragu: ragu };
         renderPanelGrid();
 
         if (currentIndex < currentQuestions.length - 1) {
@@ -1022,14 +966,12 @@
             btn.type = 'button';
             btn.className = 'panel-num';
             btn.textContent = idx + 1;
-
             const data = jawabanUser[idx];
             if (data) {
                 if (data.ragu) btn.classList.add('ragu');
                 else btn.classList.add('sudah');
             }
             if (idx === currentIndex) btn.classList.add('aktif');
-
             btn.addEventListener('click', function () { pindahKeSoal(idx); });
             panelGrid.appendChild(btn);
         });
@@ -1043,10 +985,7 @@
         window.scrollTo({ top: 0, behavior: 'smooth' });
     }
 
-    function openPanel() {
-        renderPanelGrid();
-        panelOverlay.classList.add('active');
-    }
+    function openPanel() { renderPanelGrid(); panelOverlay.classList.add('active'); }
     function closePanel() { panelOverlay.classList.remove('active'); }
 
     function updateFinishButton() {
@@ -1067,15 +1006,16 @@
         hitungDanTampilkanHasil();
     }
 
+    // ================= HASIL & REVIEW =================
     function hitungDanTampilkanHasil() {
         let benarTunggal = 0, benarKombinasi = 0;
         let totalTunggal = 0, totalKombinasi = 0;
 
         currentQuestions.forEach(function (q, idx) {
-            const isKombinasi = q.kategori === 'kombinasi';
+            const isKombinasi = q.kategoriSoal === 'kombinasi';
             if (isKombinasi) totalKombinasi++; else totalTunggal++;
             const data = jawabanUser[idx];
-            if (data && data.jawaban === getJawabanBenar(q)) {
+            if (data && data.jawaban === q.jawabanBenar) {
                 if (isKombinasi) benarKombinasi++; else benarTunggal++;
             }
         });
@@ -1086,7 +1026,7 @@
 
         scoreBig.textContent = nilaiAkhir;
 
-        const isLatihan = modeAktif.indexOf('bebas') === 0;
+        const isLatihan = modeAktif === 'random-5';
         let statusLabel, statusCls;
         if (isLatihan) {
             if (nilaiAkhir >= 90) { statusLabel = 'Latihan — Sangat Baik'; statusCls = 'lulus-memuaskan'; }
@@ -1111,10 +1051,8 @@
         currentQuestions.forEach(function (q, i) {
             const data = jawabanUser[i];
             const userAnswer = data ? data.jawaban : null;
-            const jawabanBenar = getJawabanBenar(q);
-            const catatan = getCatatanJawaban(q);
-            const isCorrect = userAnswer === jawabanBenar;
-            const isKombinasi = q.kategori === 'kombinasi';
+            const isCorrect = userAnswer === q.jawabanBenar;
+            const isKombinasi = q.kategoriSoal === 'kombinasi';
 
             const item = document.createElement('div');
             item.className = 'review-item ' + (isCorrect ? 'correct' : 'incorrect');
@@ -1126,12 +1064,22 @@
             qText.className = 'rev-question';
             qText.textContent = 'Soal ' + (i + 1) + ': ' + q.soal;
 
-            const badge = document.createElement('span');
-            badge.className = 'kategori-badge ' + (isKombinasi ? 'kombinasi' : 'tunggal');
-            badge.textContent = isKombinasi ? 'Kombinasi (2 poin)' : 'Tunggal (1 poin)';
+            const badges = document.createElement('div');
+            badges.className = 'rev-badges';
+
+            const badgePeriode = document.createElement('span');
+            badgePeriode.className = 'periode-badge';
+            badgePeriode.textContent = q.meta.kode + ' · ' + q.meta.labelPeriode;
+
+            const badgeKat = document.createElement('span');
+            badgeKat.className = 'kategori-badge ' + (isKombinasi ? 'kombinasi' : 'tunggal');
+            badgeKat.textContent = isKombinasi ? 'Kombinasi (2 poin)' : 'Tunggal (1 poin)';
+
+            badges.appendChild(badgePeriode);
+            badges.appendChild(badgeKat);
 
             header.appendChild(qText);
-            header.appendChild(badge);
+            header.appendChild(badges);
             item.appendChild(header);
 
             const userAns = document.createElement('div');
@@ -1139,18 +1087,25 @@
             userAns.textContent = 'Jawaban Anda: ' + (userAnswer || '(tidak dijawab)');
             item.appendChild(userAns);
 
-            // Jawaban benar — selalu ditampilkan (konfirmasi kalau benar, koreksi kalau salah)
-            const correctAns = document.createElement('div');
-            correctAns.className = 'rev-answer correct-answer';
-            correctAns.textContent = 'Jawaban Benar: ' + jawabanBenar;
-            item.appendChild(correctAns);
+            if (!isCorrect) {
+                const correctAns = document.createElement('div');
+                correctAns.className = 'rev-answer correct-answer';
+                correctAns.textContent = 'Jawaban Benar: ' + q.jawabanBenar;
+                item.appendChild(correctAns);
+            }
 
-            // Catatan modul — selalu ditampilkan (benar maupun salah)
-            if (catatan) {
-                const note = document.createElement('div');
-                note.className = 'rev-answer rev-catatan';
-                note.textContent = '📝 Catatan: ' + catatan;
-                item.appendChild(note);
+            // Penjelasan (tampil baik benar maupun salah)
+            if (q.penjelasan && q.penjelasan.trim() !== '') {
+                const penj = document.createElement('div');
+                penj.className = 'rev-penjelasan';
+                const label = document.createElement('span');
+                label.className = 'rev-penjelasan-label';
+                label.textContent = '📘 Penjelasan:';
+                const isi = document.createElement('span');
+                isi.textContent = q.penjelasan;
+                penj.appendChild(label);
+                penj.appendChild(isi);
+                item.appendChild(penj);
             }
 
             reviewContainer.appendChild(item);
@@ -1161,13 +1116,24 @@
         window.scrollTo({ top: 0, behavior: 'smooth' });
     }
 
+    // ================= MULAI UJIAN =================
     function mulaiUjian() {
-        modeAktif = modeSelect.value;
-        currentQuestions = pilihSoalSesuaiMode(modeAktif);
-        if (currentQuestions.length === 0) {
+        if (!kategoriAktif || !modeAktif) {
+            alert('Pilih kategori dan mode ujian terlebih dahulu.');
+            return;
+        }
+        if (statusKategori[kategoriAktif] !== 'ready') {
+            alert('Data kategori belum siap. Silakan pilih kategori lagi.');
+            return;
+        }
+
+        const soal = pilihSoalSesuaiMode();
+        if (soal.length === 0) {
             alert('Tidak ada soal yang tersedia untuk mode ini.');
             return;
         }
+
+        currentQuestions = soal;
         jawabanUser = {};
         currentIndex = 0;
         ujianSelesai = false;
@@ -1176,7 +1142,6 @@
 
         landingView.classList.add('hidden');
         resultView.classList.add('hidden');
-        belajarView.classList.add('hidden');
         examView.classList.remove('hidden');
 
         renderSoal();
@@ -1192,120 +1157,15 @@
         jawabanUser = {};
         currentIndex = 0;
         currentQuestions = [];
-        resultView.classList.add('hidden');
         examView.classList.add('hidden');
-        belajarView.classList.add('hidden');
+        resultView.classList.add('hidden');
         landingView.classList.remove('hidden');
         closePanel();
         confirmOverlay.classList.remove('active');
         window.scrollTo({ top: 0, behavior: 'smooth' });
     }
 
-    // ================= MODE BELAJAR =================
-    function mulaiBelajar() {
-        urutanBelajar = shuffleArray([...pelajaran]);
-        posisiBelajar = 0;
-        landingView.classList.add('hidden');
-        examView.classList.add('hidden');
-        resultView.classList.add('hidden');
-        belajarView.classList.remove('hidden');
-        tampilkanPelajaran();
-        window.scrollTo({ top: 0, behavior: 'smooth' });
-    }
-
-    function tampilkanPelajaran() {
-        if (urutanBelajar.length === 0) {
-            belajarCard.innerHTML = '<div style="text-align:center;padding:20px;color:#718096;">Tidak ada pelajaran tersedia.</div>';
-            return;
-        }
-        const p = urutanBelajar[posisiBelajar];
-        let html = '';
-        html += '<span class="belajar-nomor">Nomor ' + escapeHtml(p.nomor) + '</span>';
-        html += '<div class="belajar-istilah">' + escapeHtml(p.istilah) + '</div>';
-        html += '<div class="belajar-penjelasan">' + escapeHtml(p.penjelasan) + '</div>';
-        if (Array.isArray(p.contoh) && p.contoh.length > 0) {
-            html += '<div class="belajar-contoh-title">📌 Contoh:</div>';
-            html += '<ul class="belajar-contoh-list">';
-            p.contoh.forEach(function (c) {
-                html += '<li>' + escapeHtml(c) + '</li>';
-            });
-            html += '</ul>';
-        }
-        belajarCard.innerHTML = html;
-        window.scrollTo({ top: 0, behavior: 'smooth' });
-    }
-
-    function pelajaranSebelumnya() {
-        if (urutanBelajar.length === 0) return;
-        posisiBelajar--;
-        if (posisiBelajar < 0) posisiBelajar = urutanBelajar.length - 1;
-        tampilkanPelajaran();
-    }
-    function pelajaranBerikutnya() {
-        if (urutanBelajar.length === 0) return;
-        posisiBelajar++;
-        if (posisiBelajar >= urutanBelajar.length) posisiBelajar = 0;
-        tampilkanPelajaran();
-    }
-
-    function openSearch() {
-        searchOverlay.classList.add('active');
-        searchInput.value = '';
-        searchResults.innerHTML = '';
-        setTimeout(function () { searchInput.focus(); }, 100);
-    }
-    function closeSearch() { searchOverlay.classList.remove('active'); }
-
-    function lakukanPencarian(keyword) {
-        const kw = keyword.trim().toLowerCase();
-        if (kw === '') {
-            searchResults.innerHTML = '';
-            return;
-        }
-        const hasilIstilah = [];
-        const hasilPenjelasan = [];
-        pelajaran.forEach(function (p, idx) {
-            const istilah = (p.istilah || '').toLowerCase();
-            const penjelasan = (p.penjelasan || '').toLowerCase();
-            if (istilah.indexOf(kw) !== -1) {
-                hasilIstilah.push(p);
-            } else if (penjelasan.indexOf(kw) !== -1) {
-                hasilPenjelasan.push(p);
-            }
-        });
-        const gabungan = [...hasilIstilah, ...hasilPenjelasan];
-
-        if (gabungan.length === 0) {
-            searchResults.innerHTML = '<div class="search-empty">Istilah tidak ditemukan</div>';
-            return;
-        }
-
-        searchResults.innerHTML = '';
-        gabungan.forEach(function (p) {
-            const item = document.createElement('div');
-            item.className = 'search-result-item';
-            item.textContent = p.istilah;
-            item.addEventListener('click', function () {
-                pindahKePelajaran(p);
-                closeSearch();
-            });
-            searchResults.appendChild(item);
-        });
-    }
-
-    function pindahKePelajaran(p) {
-        const idx = urutanBelajar.findIndex(function (x) { return x.nomor === p.nomor; });
-        if (idx !== -1) {
-            posisiBelajar = idx;
-        } else {
-            urutanBelajar = [p, ...urutanBelajar];
-            posisiBelajar = 0;
-        }
-        tampilkanPelajaran();
-    }
-
     // ================= EVENT LISTENERS =================
-    // Ujian
     panelToggleBtn.addEventListener('click', openPanel);
     panelClose.addEventListener('click', closePanel);
     panelOverlay.addEventListener('click', function (e) {
@@ -1318,30 +1178,12 @@
     confirmYes.addEventListener('click', function () { selesaikanUjian(false); });
     confirmNo.addEventListener('click', function () { confirmOverlay.classList.remove('active'); });
     restartBtn.addEventListener('click', resetKeLanding);
-    mulaiUjianBtn.addEventListener('click', function () {
-        if (!bankSoalLoaded) { alert('Bank soal belum berhasil dimuat.'); return; }
-        mulaiUjian();
-    });
-
-    // Belajar
-    belajarBtn.addEventListener('click', function () {
-        if (!pelajaranLoaded) { alert('Data pelajaran belum berhasil dimuat.'); return; }
-        mulaiBelajar();
-    });
-    belajarPrevBtn.addEventListener('click', pelajaranSebelumnya);
-    belajarNextBtn.addEventListener('click', pelajaranBerikutnya);
-    belajarBackBtn.addEventListener('click', resetKeLanding);
-    searchOpenBtn.addEventListener('click', openSearch);
-    searchClose.addEventListener('click', closeSearch);
-    searchOverlay.addEventListener('click', function (e) {
-        if (e.target === searchOverlay) closeSearch();
-    });
-    searchInput.addEventListener('input', function (e) {
-        lakukanPencarian(e.target.value);
-    });
+    mulaiUjianBtn.addEventListener('click', mulaiUjian);
 
     // ================= INISIALISASI =================
-    loadAllData();
+    // Landing langsung tampil. Tidak fetch apa pun sampai kategori dipilih.
+    loadingView.classList.add('hidden');
+    landingView.classList.remove('hidden');
 </script>
 </body>
 </html>
