@@ -455,11 +455,11 @@
       "id": 42,
       "kategori": "kombinasi",
       "soal": "Pada asuransi kumpulan dikenal adanya provisi profit sharing yang berupa experience refund. Experience refund ini baru dapat dibayarkan kepada pemegang polis apabila:\nI. claim ratio di bawah dari yang diperkirakan\nII. kontrak dalam keadaan aktif (in force)\nIII. premi perpanjangan sudah dibayar\nJawaban yang benar adalah:",
-      "jawaban": ["II dan III saja", "dari modul hal 146 — kontrak dapat mempunyai spesifik provisi untuk mengembalikan sebagian premi kepada pemegang polis dalam bentuk experience refunds yang ditentukan pada tanggal ulang tahun polis jika kontrak aktif dan premi dibayar. Jadi syaratnya: kontrak aktif (II) dan premi sudah dibayar (III). Claim ratio di bawah perkiraan BUKAN syarat eksplisit — refund diberikan berdasarkan ketentuan kontrak"],
+      "jawaban": ["I, II dan III", "Pengembalian Premi (Experience Refund): Pengembalian sebagian premi ke pemegang polis jika klaim lebih kecil dari perkiraan. Diberikan pada tanggal ulang tahun polis jika polis aktif dan premi dibayar."],
       "pengecoh": [
         "I dan II saja",
         "I dan III saja",
-        "I, II dan III"
+        "II dan III saja"
       ]
     },
     {
