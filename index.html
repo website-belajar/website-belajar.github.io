@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>dr.Hesti Herlinawati, AAAKN</title>
+<title>Latihan Soal Asuransi Kesehatan (FA / FB / MCA / MCB / AKN)</title>
 <style>
     * { box-sizing: border-box; margin: 0; padding: 0; }
     body {
@@ -240,6 +240,8 @@
     .btn-finish:hover { background: #2f855a; }
     .btn-restart { background: #ed8936; color: white; }
     .btn-restart:hover { background: #dd6b20; }
+    .btn-download { background: #6b46c1; color: white; }
+    .btn-download:hover { background: #553c9a; }
 
     /* ============ PANEL OVERLAY ============ */
     .panel-overlay {
@@ -489,7 +491,7 @@
 
     <!-- ================= LANDING ================= -->
     <div id="landing-view" class="hidden">
-        <h1>Latihan Soal Asuransi Kesehatan dr.Hesti Herlinawati</h1>
+        <h1>Latihan Soal Asuransi Kesehatan</h1>
 
         <div id="landing-error" class="error hidden"></div>
 
@@ -549,6 +551,7 @@
             <h2>Review Jawaban</h2>
             <div id="review-container"></div>
         </div>
+        <button type="button" class="btn btn-download hidden" id="download-btn">Download</button>
     </div>
 </div>
 
@@ -582,8 +585,6 @@
 
 <script>
     // ================= PEMETAAN FILE → KATEGORI =================
-    // Menambah file baru: cukup tambah 1 baris di sini.
-    // periode: 'YYYYMM' — label: nama bulan + (opsional) varian.
     const FILE_MAP = [
         // FA - Fundamental bagian A
         { kode: 'FA', periode: '201803', label: '2018 Maret',    file: 'soal_FA_201803.json' },
@@ -645,13 +646,12 @@
     };
 
     // ================= STATE =================
-    let cacheKategori = {};      // { FA: [soal...], FB: [...] }
-    let statusKategori = {};     // 'loading' | 'ready' | 'error'
+    let cacheKategori = {};
+    let statusKategori = {};
     let kategoriAktif = '';
     let modeAktif = '';
-    let modePeriodeAktif = null; // FILE_MAP entry jika mode = periode
+    let modePeriodeAktif = null;
 
-    // Ujian
     let currentQuestions = [];
     let jawabanUser = {};
     let currentIndex = 0;
@@ -659,6 +659,7 @@
     let waktuTersisa = 0;
     let totalWaktu = 0;
     let ujianSelesai = false;
+    let nilaiAkhirGlobal = 0;
 
     // ================= ELEMENTS =================
     const loadingView = document.getElementById('loading-view');
@@ -696,6 +697,7 @@
     const dMax = document.getElementById('d-max');
     const reviewContainer = document.getElementById('review-container');
     const restartBtn = document.getElementById('restart-btn');
+    const downloadBtn = document.getElementById('download-btn');
 
     // ================= UTILITAS =================
     function shuffleArray(arr) {
@@ -717,7 +719,6 @@
     }
 
     // ================= NORMALISASI SOAL =================
-    // JSON: jawaban = [jawabanBenar, penjelasan]
     function normalisasiSoal(raw, fileMeta) {
         const jw = Array.isArray(raw.jawaban) ? raw.jawaban : [String(raw.jawaban || ''), ''];
         return {
@@ -739,7 +740,6 @@
     async function muatKategori(kode) {
         if (statusKategori[kode] === 'ready') return cacheKategori[kode];
         if (statusKategori[kode] === 'loading') {
-            // tunggu sampai selesai
             return new Promise((resolve, reject) => {
                 const iv = setInterval(() => {
                     if (statusKategori[kode] === 'ready') { clearInterval(iv); resolve(cacheKategori[kode]); }
@@ -801,7 +801,6 @@
         try {
             const soalKategori = await muatKategori(kode);
 
-            // Bangun opsi mode
             let opts = '';
             opts += '<option value="">— Pilih Mode Ujian —</option>';
             opts += '<option value="random-5">5 Soal Random (Campuran)</option>';
@@ -815,7 +814,6 @@
             modeSelect.innerHTML = opts;
             modeSelect.disabled = false;
 
-            // Hitung ringkasan
             const jmlFile = filesKategori.length;
             const jmlSoal = soalKategori.length;
             const jmlTunggal = soalKategori.filter(q => q.kategoriSoal === 'tunggal').length;
@@ -1024,6 +1022,8 @@
         const maxMentah = (totalTunggal * 1) + (totalKombinasi * 2);
         const nilaiAkhir = maxMentah > 0 ? Math.round((skorMentah / maxMentah) * 100) : 0;
 
+        nilaiAkhirGlobal = nilaiAkhir;
+
         scoreBig.textContent = nilaiAkhir;
 
         const isLatihan = modeAktif === 'random-5';
@@ -1094,7 +1094,6 @@
                 item.appendChild(correctAns);
             }
 
-            // Penjelasan (tampil baik benar maupun salah)
             if (q.penjelasan && q.penjelasan.trim() !== '') {
                 const penj = document.createElement('div');
                 penj.className = 'rev-penjelasan';
@@ -1111,9 +1110,67 @@
             reviewContainer.appendChild(item);
         });
 
+        downloadBtn.classList.remove('hidden');
+
         examView.classList.add('hidden');
         resultView.classList.remove('hidden');
         window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+
+    // ================= DOWNLOAD HTML =================
+    function buatNamaFile() {
+        const kat = kategoriAktif;
+        const nilai = nilaiAkhirGlobal;
+        if (modeAktif === 'random-5') {
+            return kat + ' Random 5 Hesti ' + nilai + '.html';
+        }
+        if (modeAktif === 'penuh-random') {
+            return kat + ' Random 75 Hesti ' + nilai + '.html';
+        }
+        if (modePeriodeAktif) {
+            return kat + ' ' + modePeriodeAktif.label + ' Hesti ' + nilai + '.html';
+        }
+        return kat + ' Hesti ' + nilai + '.html';
+    }
+
+    function downloadHasilHtml() {
+        const namaFile = buatNamaFile();
+
+        const clone = resultView.cloneNode(true);
+        const btnClone = clone.querySelector('#download-btn');
+        if (btnClone) btnClone.remove();
+
+        // Ambil seluruh CSS dari <style> di halaman
+        let cssText = '';
+        document.querySelectorAll('style').forEach(function (s) {
+            cssText += s.textContent + '\n';
+        });
+
+        const htmlString =
+            '<!DOCTYPE html>\n' +
+            '<html lang="id">\n' +
+            '<head>\n' +
+            '<meta charset="UTF-8">\n' +
+            '<meta name="viewport" content="width=device-width, initial-scale=1.0">\n' +
+            '<title>' + escapeHtml(namaFile.replace(/\.html$/, '')) + '</title>\n' +
+            '<style>\n' + cssText + '\n</style>\n' +
+            '</head>\n' +
+            '<body>\n' +
+            '<div class="container">\n' +
+            clone.innerHTML + '\n' +
+            '</div>\n' +
+            '</body>\n' +
+            '</html>';
+
+        const blob = new Blob([htmlString], { type: 'text/html;charset=utf-8' });
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = namaFile;
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+        setTimeout(function () { URL.revokeObjectURL(url); }, 1000);
     }
 
     // ================= MULAI UJIAN =================
@@ -1137,12 +1194,14 @@
         jawabanUser = {};
         currentIndex = 0;
         ujianSelesai = false;
+        nilaiAkhirGlobal = 0;
         totalWaktu = currentQuestions.length * 60;
         waktuTersisa = totalWaktu;
 
         landingView.classList.add('hidden');
         resultView.classList.add('hidden');
         examView.classList.remove('hidden');
+        downloadBtn.classList.add('hidden');
 
         renderSoal();
         renderPanelGrid();
@@ -1157,9 +1216,11 @@
         jawabanUser = {};
         currentIndex = 0;
         currentQuestions = [];
+        nilaiAkhirGlobal = 0;
         examView.classList.add('hidden');
         resultView.classList.add('hidden');
         landingView.classList.remove('hidden');
+        downloadBtn.classList.add('hidden');
         closePanel();
         confirmOverlay.classList.remove('active');
         window.scrollTo({ top: 0, behavior: 'smooth' });
@@ -1179,12 +1240,11 @@
     confirmNo.addEventListener('click', function () { confirmOverlay.classList.remove('active'); });
     restartBtn.addEventListener('click', resetKeLanding);
     mulaiUjianBtn.addEventListener('click', mulaiUjian);
+    downloadBtn.addEventListener('click', downloadHasilHtml);
 
     // ================= INISIALISASI =================
-    // Landing langsung tampil. Tidak fetch apa pun sampai kategori dipilih.
     loadingView.classList.add('hidden');
     landingView.classList.remove('hidden');
 </script>
 </body>
 </html>
-
