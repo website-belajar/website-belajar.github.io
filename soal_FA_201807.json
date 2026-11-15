@@ -510,11 +510,11 @@
       "id": 47,
       "kategori": "kombinasi",
       "soal": "Definisi dari anggota keluarga (dependent) untuk polis asuransi biaya medis kumpulan bisa bervariasi di antara perusahaan asuransi. Namun yang lazim berlaku antara lain:\nI. Orang tua dan mertua\nII. Suami/istri yang sah\nIII. Anak yang belum menikah dan berumur tidak lebih dari 25 tahun\nJawaban yang benar adalah:",
-      "jawaban": ["II saja", "dari modul Page 144 (PDF) — definisi anggota keluarga: pasangan pegawai yang tidak berpisah secara legal (II); anak pegawai yang belum menikah di bawah 19 tahun atau di bawah 23 tahun (III salah karena soal bilang 25 tahun). Orang tua dan mertua (I) tidak termasuk definisi standar"],
+      "jawaban": ["II dan III", "dari modul Page 144 (PDF) — Anggota keluarga: anak pegawai yang belum menikah (termasuk anak angkat) yang bergantung kepada dukungan orang tua yaitu anak di bawah 19 tahun, atau lebih 19 tahun tetapi kurang dari 23 tahun (dalam beberapa kasus sampai umur 26) dan terdaftar sebagai mahasiswa"],
       "pengecoh": [
         "I dan II",
         "I dan III",
-        "II dan III"
+        "II saja"
       ]
     },
     {
